@@ -54,13 +54,35 @@ https://github.com/amorehead/awesome-molecular-generation
 
 ## Reviews
 
+* **Structure-based drug design with geometric deep learning**[2022]  
+[[Paper]](https://doi.org/10.1016/j.sbi.2023.102548)
+
 * **MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design**[2022]  
 [[Paper]](https://arxiv.org/abs/2203.14500)
 
 * **Structure-based drug discovery with deep learning**[2022]  
 [[Paper]](https://arxiv.org/abs/2212.13295)
 
+* **Generative models for molecular discovery: Recent advances and challenges**[2022]  
+[[Paper]](https://doi.org/10.1002/wcms.1608)
 
+* **Generative machine learning for de novo drug discovery: A systematic review**[2022]  
+[[Paper]](https://doi.org/10.1016/j.compbiomed.2022.105403)
+
+* **Docking-based generative approaches in the search for new drug candidates**[2022]  
+[[Paper]](https://doi.org/10.1016/j.drudis.2022.103439)
+
+* **Advances and Challenges in De Novo Drug Design Using Three-Dimensional Deep Generative Models**[2022]  
+[[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00042)
+
+* **Deep learning to catalyze inverse molecular design**[2022]  
+[[Paper]](https://doi.org/10.1016/j.cej.2022.136669)
+
+* **AI in 3D compound design**[2022]  
+[[Paper]](https://doi.org/10.1016/j.sbi.2021.102326)
+
+* **Deep learning approaches for de novo drug design: An overview**[2021]  
+[[Paper]](https://doi.org/10.1016/j.sbi.2021.10.001)
 
 ## Datasets and Benchmarks
 
