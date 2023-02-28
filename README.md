@@ -57,7 +57,9 @@ Grisoni, F., Schneider, G.
 Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
 [Paper](https://www.nature.com/articles/s42256-020-0174-5) |  [code](https://github.com/pcko1/Deep-Drug-Coder) 
 
-
+* **ChemTS: An Efficient Python Library for de novo Molecular Generation** [2017]  
+Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.  
+[Paper](https://arxiv.org/abs/1710.00616) |  [code](https://github.com/tsudalab/ChemTS) 
 
 
 
