@@ -118,17 +118,9 @@ Santana, M.V.S., Silva-Jr, F.P.
 ### Autoregressive-models
 
 
-
 * **GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation** [2020]  
   Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.   
   [Paper](https://arxiv.org/abs/2001.09382) |  [code](https://github.com/DeepGraphLearning/GraphAF) 
-
-
-
-
-
-
-
 
 
 
@@ -281,6 +273,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 ### GAN-based
 
 
+
+
+* **Cell morphology-guided de novo hit design by conditioning GANs on phenotypic image features** [2022]  
+Zapata, Paula A. Marin, Oscar Méndez-Lucio, Tuan Le, Carsten Jörn Beese, Jörg Wichard, David Rouquié, and Djork-Arné Clevert.  
+[Paper](https://doi.org/10.1039/D2DD00081D) |  [code](https://github.com/Bayer-Group/CPMolGAN) 
 
 * **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]  
 Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.  
