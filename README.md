@@ -126,7 +126,7 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 * **DrugEx v3: scaffold-constrained drug design with graph transformer-based reinforcement learning** [2023]  
-  Wang, Jianmin, et al.   
+  Liu, X., Ye, K., van Vlijmen, H.W.T. et al.   
   [Paper](https://doi.org/10.1186/s13321-023-00694-z) |  [code](https://github.com/CDDLeiden/DrugEx) 
 
 * **Explore drug-like space with deep generative models** [2023]  
@@ -177,7 +177,9 @@ Santana, M.V.S., Silva-Jr, F.P.
   Cofala, Tim, and Oliver Kramer.  
   [Paper](https://ieeexplore.ieee.org/abstract/document/9533439) |  [code](https://gitlab.uni-oldenburg.de/gies6280/molegent) 
 
-
+* **Generative Chemical Transformer: Neural Machine Learning of Molecular Geometric Structures from Chemical Language via Attention ** [2021]  
+  Hyunseung Kim, Jonggeol Na*, and Won Bo Lee*.  
+  [Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c01289) |  [code](https://github.com/Hyunseung-Kim/molGCT) 
 
 
 ### VAE-based
@@ -314,7 +316,7 @@ Morehead, Alex, and Jianlin Cheng.
 ### RL-based
 
 * **DrugEx v3: scaffold-constrained drug design with graph transformer-based reinforcement learning** [2023]  
-  Wang, Jianmin, et al.   
+  Liu, X., Ye, K., van Vlijmen, H.W.T. et al.   
   [Paper](https://doi.org/10.1186/s13321-023-00694-z) |  [code](https://github.com/CDDLeiden/DrugEx) 
 
 * **Augmented Hill-Climb increases reinforcement learning efficiency for language-based de novo molecule generation** [2022]  
@@ -427,7 +429,7 @@ ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil 
 
 
 * **DrugEx v3: scaffold-constrained drug design with graph transformer-based reinforcement learning** [2023]  
-  Wang, Jianmin, et al.   
+  Liu, X., Ye, K., van Vlijmen, H.W.T. et al.    
   [Paper](https://doi.org/10.1186/s13321-023-00694-z) |  [code](https://github.com/CDDLeiden/DrugEx) 
 
 * **Sc2Mol: a scaffold-based two-step molecule generator with variational autoencoder and transformer** [2023]  
