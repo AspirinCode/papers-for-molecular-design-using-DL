@@ -271,6 +271,12 @@ ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil 
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00982) |  [code](https://github.com/biomed-AI/DRlinker) 
 
 
+* **Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation** [2021]  
+  Yang, S., Hwang, D., Lee, S., Ryu, S., & Hwang, S. J.  
+  [Paper](https://arxiv.org/abs/2110.01219) |  [code](https://github.com/AITRICS/FREED) 
+
+
+
 
 ## Ligand-based deep molecular generative models
 
@@ -373,7 +379,9 @@ ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil 
 
 
 
-
+* **Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation** [2021]  
+  Yang, S., Hwang, D., Lee, S., Ryu, S., & Hwang, S. J.  
+  [Paper](https://arxiv.org/abs/2110.01219) |  [code](https://github.com/AITRICS/FREED) 
 
 
 
