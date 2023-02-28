@@ -266,7 +266,9 @@ ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil 
   [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00666-9) |  [code](https://github.com/HwanheeKim813/stack_CVAE) 
 
 
-
+* **DRlinker: Deep Reinforcement Learning for Optimization in Fragment Linking Design** [2022]
+  Tan, Y., Dai, L., Huang, W., Guo, Y., Zheng, S., Lei, J., ... & Yang, Y. 
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00982) |  [code](https://github.com/biomed-AI/DRlinker) 
 
 
 
@@ -384,6 +386,14 @@ ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil 
 
 
 ### Linkers-based DMGs
+
+
+
+* **DRlinker: Deep Reinforcement Learning for Optimization in Fragment Linking Design** [2022]
+  Tan, Y., Dai, L., Huang, W., Guo, Y., Zheng, S., Lei, J., ... & Yang, Y. 
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00982) |  [code](https://github.com/biomed-AI/DRlinker) 
+
+
 
 
 
