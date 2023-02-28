@@ -246,6 +246,10 @@ Santana, M.V.S., Silva-Jr, F.P.
   Dollar, O., Joshi, N., Beck, D.A. and Pfaendtner, J.,  
   [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc01050f) |  [code](https://github.com/oriondollar/TransVAE) 
 
+* **Compressed graph representation for scalable molecular graph generation** [2020]  
+  Kwon, Youngchun, Dongseon Lee, Youn-Suk Choi, Kyoham Shin, and Seokho Kang.  
+  [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00463-2) |  [code](https://github.com/seokhokang/graphvae_compress) 
+
 * **Molecular generative model based on conditional variational autoencoder for de novo molecular design** [2018]  
   Lim, J., Ryu, S., Kim, J. W., & Kim, W. Y.   
   [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0286-7) |  [code](https://github.com/jaechanglim/CVAE) 
