@@ -193,6 +193,16 @@ Santana, M.V.S., Silva-Jr, F.P.
   Grechishnikova, Daria.   
   [Paper](https://www.nature.com/articles/s41598-020-79682-4) |  [code](https://github.com/dariagrechishnikova/molecule_structure_generation) 
 
+* **Transmol: repurposing a language model for molecular generation ** [2021]  
+  Grechishnikova, Daria.   
+  [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/ra/d1ra03086h) |  [code](https://gitlab.com/cheml.io/public/transmol) 
+
+
+
+
+
+
+
 ### VAE-based
 
 
