@@ -171,7 +171,7 @@ Santana, M.V.S., Silva-Jr, F.P.
   Cofala, Tim, and Oliver Kramer.  
   [Paper](https://web.archive.org/web/20211019010336id_/https://www.esann.org/sites/default/files/proceedings/2021/ES2021-112.pdf) |  [code](https://gitlab.uni-oldenburg.de/gies6280/molegent) 
 
-* **Spatial Generation of Molecules with Transformers ** [2021]  
+* **Spatial Generation of Molecules with Transformers** [2021]  
   Cofala, Tim, and Oliver Kramer.  
   [Paper](https://ieeexplore.ieee.org/abstract/document/9533439) |  [code](https://gitlab.uni-oldenburg.de/gies6280/molegent) 
 
