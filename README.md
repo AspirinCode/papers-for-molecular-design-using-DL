@@ -181,6 +181,14 @@ Santana, M.V.S., Silva-Jr, F.P.
   Hyunseung Kim, Jonggeol Na*, and Won Bo Lee*.  
   [Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c01289) |  [code](https://github.com/Hyunseung-Kim/molGCT) 
 
+* **C5T5: Controllable Generation of Organic Molecules with Transformers ** [2021]  
+  Rothchild, D., Tamkin, A., Yu, J., Misra, U., & Gonzalez, J.  
+  [Paper](https://arxiv.org/abs/2108.10307) |  [code](https://github.com/dhroth/c5t5) 
+
+* **Molecular optimization by capturing chemist’s intuition using deep neural networks ** [2021]  
+  He, J., You, H., Sandström, E. et al.   
+  [Paper](https://doi.org/10.1186/s13321-021-00497-0) |  [code](https://github.com/MolecularAI/deep-molecular-optimization) 
+
 
 ### VAE-based
 
