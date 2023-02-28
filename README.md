@@ -295,7 +295,7 @@ Santos, B. P., Abbasi, M., Pereira, T., Ribeiro, B., & Arrais, J.
 Lee, Y.J., Kahng, H. and Kim, S.B.,  
 [Paper](https://doi.org/10.1002/minf.202100045) |  [code](https://github.com/dudwojae/SMILES-MaskGAN) 
 
-* **MolGAN: An implicit generative model for small molecular graphs ** [2018]  
+* **MolGAN: An implicit generative model for small molecular graph** [2018]  
 De Cao, N. and Kipf, T.,  
 [Paper](https://arxiv.org/abs/1805.11973) |  [code](https://github.com/yongqyu/MolGAN-pytorch) 
 
