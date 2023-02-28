@@ -159,6 +159,10 @@ Santana, M.V.S., Silva-Jr, F.P.
   Edwards, C., Lai, T., Ros, K., Honke, G., & Ji, H.  
   [Paper](https://arxiv.org/abs/2204.11817) |  [code](https://github.com/blender-nlp/MolT5) 
 
+* **Regression Transformer enables concurrent sequence regression and generation for molecular language modeling** [2022]  
+  Born, Jannis and Manica, Matteo  
+  [Paper](https://arxiv.org/abs/2202.01338) |  [code](https://github.com/IBM/regression-transformer) 
+
 * **Generative Pre-Training from Molecules** [2021]  
   Adilov, Sanjar.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) |  [code](https://github.com/sanjaradylov/smiles-gpt) 
