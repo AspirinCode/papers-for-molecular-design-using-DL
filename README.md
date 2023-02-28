@@ -287,7 +287,17 @@ Abbasi, M., Santos, B.P., Pereira, T.C. et al.
 Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.  
 [Paper](https://doi.org/10.1093/bib/bbac285) |  [code](https://github.com/AspirinCode/iPPIGAN) 
 
+* **Improvement on Generative Adversarial Network for Targeted Drug Design** [2021]  
+Santos, B. P., Abbasi, M., Pereira, T., Ribeiro, B., & Arrais, J.  
+[Paper](https://www.cisuc.uc.pt/download-file/16987/IR5glkL7JLe3EZrI59BI) 
 
+* **Generative Adversarial Networks for De Novo Molecular Design** [2021]  
+Lee, Y.J., Kahng, H. and Kim, S.B.,  
+[Paper](https://doi.org/10.1002/minf.202100045) |  [code](https://github.com/dudwojae/SMILES-MaskGAN) 
+
+* **MolGAN: An implicit generative model for small molecular graphs ** [2018]  
+De Cao, N. and Kipf, T.,  
+[Paper](https://arxiv.org/abs/1805.11973) |  [code](https://github.com/yongqyu/MolGAN-pytorch) 
 
 
 
