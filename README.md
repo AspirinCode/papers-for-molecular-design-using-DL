@@ -141,7 +141,7 @@ Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
 
 
 
-* **De novo molecular design with deep molecular generative models for PPI inhibitors ** [2022]
+* **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]
 Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.
 [Paper](https://doi.org/10.1093/bib/bbac285) |  [code](https://github.com/AspirinCode/iPPIGAN) 
 
@@ -162,7 +162,7 @@ Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil
 ### Flow-based
 
 
-* **Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery ** [2022]
+* **Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery** [2022]
 Chao Pang , Yu Wang , Yi Jiang , Ruheng Wang , Ran Su  , and Leyi Wei.
 [Paper](https://arxiv.org/abs/2212.01575) |  [code](https://github.com/Pang-chao/MEDICO) 
 
@@ -203,7 +203,7 @@ Gnaneshwar, Dwaraknath, et al.
 
 
 
-* **Energy-based Generative Models for Target-specific Drug Discovery ** [2022]
+* **Energy-based Generative Models for Target-specific Drug Discovery** [2022]
 Li, Junde, Collin Beaudoin, and Swaroop Ghosh.
 [Paper](https://arxiv.org/abs/2212.02404) |  [code](https://github.com/jundeli/TagMol) 
 
@@ -227,7 +227,7 @@ Li, Junde, Collin Beaudoin, and Swaroop Ghosh.
 
 
 
-* **Geometry-Complete Diffusion for 3D Molecule Generation ** [2023]
+* **Geometry-Complete Diffusion for 3D Molecule Generation** [2023]
 Morehead, Alex, and Jianlin Cheng. 
 [Paper](https://arxiv.org/abs/2302.04313) |  [code](https://github.com/BioinfoMachineLearning/bio-diffusion) 
 
@@ -253,7 +253,7 @@ Morehead, Alex, and Jianlin Cheng.
 
 
 
-* **De novo molecular design with deep molecular generative models for PPI inhibitors ** [2022]
+* **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]
 ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.
 [Paper](https://doi.org/10.1093/bib/bbac285) |  [code](https://github.com/AspirinCode/iPPIGAN) 
 
@@ -286,7 +286,7 @@ ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil 
 
 
 
-* **De novo molecular design with deep molecular generative models for PPI inhibitors ** [2022]
+* **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]
   ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.
   [Paper](https://doi.org/10.1093/bib/bbac285) |  [code](https://github.com/AspirinCode/iPPIGAN) 
 
