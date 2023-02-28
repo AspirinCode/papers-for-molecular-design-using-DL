@@ -1,9 +1,11 @@
-# List of molecular design using Generative AI and Deep Learning
+# List of molecular design using Generative AI and Deep Learning 
 ![contributing-image](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 related to  **Generative AI** and **Deep Learning** for  **molecular design**.
 
+**Updating ...**
 
+## Recommendations and References
 
 **List of papers about Proteins Design using Deep Learning**
 
