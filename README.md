@@ -28,7 +28,7 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
 Reviews
 ----------
 
-**Structure-based drug discovery with deep learning**[2022]  
+* **Structure-based drug discovery with deep learning**[2022]  
 [[Paper]](https://arxiv.org/abs/2212.13295)
 
 
