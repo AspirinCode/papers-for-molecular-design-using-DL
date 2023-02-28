@@ -26,7 +26,7 @@ https://github.com/amorehead/awesome-molecular-generation
   - [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics)
     - [QED](#QED)
     - [QEPPI](#QEPPI)
-
+    - [Evaluation metrics](#Evaluation-metrics)
   - [Deep Learning-based design](#Deep-Learning-based-design)
     - [RNN-based](#RNN-based)
     - [LSTM-based](#LSTM-based)
@@ -85,6 +85,14 @@ Bickerton, G., Paolini, G., Besnard, J. et al. Quantifying the chemical beauty o
 quantitative estimate of protein-protein interaction targeting drug-likeness
 
 https://github.com/ohuelab/QEPPI
+
+### Evaluation metrics
+
+**FCD : Fréchet ChemNet Distance**
+Fréchet ChemNet Distance: A Metric for Generative Models for Molecules in Drug Discovery
+https://github.com/bioinf-jku/FCD
+
+
 
 ## Deep Learning-based design
 
