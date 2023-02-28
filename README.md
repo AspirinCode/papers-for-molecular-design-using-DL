@@ -67,6 +67,7 @@ https://github.com/molecularsets/moses
 
 
 **GuacaMol: Benchmarking Models for de Novo Molecular Design**
+
 https://github.com/BenevolentAI/guacamol
 
 
@@ -90,6 +91,7 @@ https://github.com/ohuelab/QEPPI
 
 **FCD : Fréchet ChemNet Distance**
 Fréchet ChemNet Distance: A Metric for Generative Models for Molecules in Drug Discovery
+
 https://github.com/bioinf-jku/FCD
 
 
