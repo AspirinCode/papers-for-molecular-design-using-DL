@@ -157,10 +157,9 @@ Santana, M.V.S., Silva-Jr, F.P.
   Adilov, Sanjar.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) |  [code](https://github.com/sanjaradylov/smiles-gpt) 
 
-
-
-
-
+* **Transformers for Molecular Graph Generation ** [2021]  
+  Cofala, Tim, and Oliver Kramer.  
+  [Paper](https://web.archive.org/web/20211019010336id_/https://www.esann.org/sites/default/files/proceedings/2021/ES2021-112.pdf) |  [code](https://gitlab.uni-oldenburg.de/gies6280/molegent) 
 
 
 
@@ -369,7 +368,9 @@ ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil 
 
 
 
-
+* **Tailoring Molecules for Protein Pockets: a Transformer-based Generative Solution for Structured-based Drug Design** [2022]  
+  Wu, K., Xia, Y., Fan, Y., Deng, P., Liu, H., Wu, L., ... & Liu, T. Y.  
+  [Paper](https://arxiv.org/abs/2209.06158) |  [code](https://github.com/HankerWu/TamGent) 
 
 
 * **AlphaDrug: protein target specific de novo molecular generation** [2022]  
