@@ -98,7 +98,9 @@ Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
 
 
 
-
+* **Explore drug-like space with deep generative models** [2023]  
+  Wang, Jianmin, et al.  
+  [Paper](https://doi.org/10.1016/j.ymeth.2023.01.004) |  [code](https://github.com/AspirinCode/drug-likeness_space) 
 
 
 * **AlphaDrug: protein target specific de novo molecular generation** [2022]  
