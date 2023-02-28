@@ -61,6 +61,10 @@ https://github.com/amorehead/awesome-molecular-generation
 
 ### Datasets
 
+**DrugBank**
+
+https://go.drugbank.com/
+
 **ZINC**
 
 https://zinc15.docking.org/
@@ -77,6 +81,19 @@ https://www.ebi.ac.uk/chembl/
 **GDB Databases**
 
 https://gdb.unibe.ch/downloads/
+
+**QM Dataset**
+
+http://quantum-machine.org/datasets/
+
+**ChemSpider**
+
+http://www.chemspider.com/
+
+
+
+
+
 
 ### Benchmarks
 
