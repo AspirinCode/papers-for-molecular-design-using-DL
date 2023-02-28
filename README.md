@@ -60,6 +60,10 @@ Santos, B. P., Abbasi, M., Pereira, T., Ribeiro, B., & Arrais, J. P.
 * **A molecule generative model used interaction fingerprint (docking pose) as constraints** [2021]  
 [code](https://github.com/jeah-z/IFP-RNN) 
 
+* **Bidirectional Molecule Generation with Recurrent Neural Networks** [2020]  
+Grisoni, F., Moret, M., Lingwood, R., & Schneider, G.  
+[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00943) |  [code](https://github.com/robinlingwood/BIMODAL) 
+
 * **Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks** [2019]  
 Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
 [Paper](https://www.nature.com/articles/s42256-020-0174-5) |  [code](https://github.com/pcko1/Deep-Drug-Coder) 
@@ -95,7 +99,9 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 Santana, M.V.S., Silva-Jr, F.P.  
   [Paper](https://bmcchem.biomedcentral.com/articles/10.1186/s13065-021-00737-2) |  [code](https://github.com/marcossantanaioc/De_novo_design_SARSCOV2) 
 
-
+* **Generative Recurrent Networks for De Novo Drug Design** [2018]  
+  Gupta, A., Müller, A. T., Huisman, B. J., Fuchs, J. A., Schneider, P., & Schneider, G.   
+  [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836943/) |  [code](https://github.com/topazape/LSTM_Chem) 
 
 
 
