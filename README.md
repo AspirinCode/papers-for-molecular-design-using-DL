@@ -1,4 +1,4 @@
-# List of molecular design using Deep Learning
+# List of molecular design using Generative AI and Deep Learning
 ![contributing-image](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 related to deep molecular generative (DMGs) and design.
