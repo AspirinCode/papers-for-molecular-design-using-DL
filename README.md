@@ -205,7 +205,9 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
-
+* **Conditional β-VAE for De Novo Molecular Generation** [2022]  
+  Richards, Ryan J., and Austen M. Groener.   
+  [Paper](https://arxiv.org/abs/2205.01592) 
 
 * **MGCVAE: Multi-Objective Inverse Design via Molecular Graph Conditional Variational Autoencoder** [2022]  
   Lee, Myeonghun, and Kyoungmin Min.  
