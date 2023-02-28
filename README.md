@@ -21,6 +21,7 @@ https://github.com/amorehead/awesome-molecular-generation
   - [ Reviews](#reviews)
 
   - [ Datasets and Benchmarks](#Datasets-and-Benchmarks)
+    - [Datasets](#Datasets)
     - [Benchmarks](#Benchmarks)
 
   - [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics)
@@ -57,6 +58,18 @@ https://github.com/amorehead/awesome-molecular-generation
 
 
 ## Datasets and Benchmarks
+
+### Datasets
+
+**ZINC**
+https://zinc15.docking.org/
+https://zinc20.docking.org/
+
+**PubChem**
+https://pubchem.ncbi.nlm.nih.gov/
+
+**ChEMBL**
+https://www.ebi.ac.uk/chembl/
 
 
 ### Benchmarks
