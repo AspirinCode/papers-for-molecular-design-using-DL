@@ -20,6 +20,12 @@ https://github.com/amorehead/awesome-molecular-generation
 
   - [ Reviews](#reviews)
 
+  - [ Datasets and Benchmarks](#Datasets-and-Benchmarks)
+
+  - [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics)
+    - [QED](#QED)
+    - [QEPPI](#QEPPI)
+
   - [Deep Learning-based design](#Deep-Learning-based-design)
     - [RNN-based](#RNN-based)
     - [LSTM-based](#LSTM-based)
@@ -49,7 +55,7 @@ https://github.com/amorehead/awesome-molecular-generation
 
 
 
-## Datasets  and Benchmarks
+## Datasets and Benchmarks
 
 
 
@@ -57,7 +63,7 @@ https://github.com/amorehead/awesome-molecular-generation
 
 https://github.com/molecularsets/moses
 
-## Drug-likeness  and Evaluation metrics
+## Drug-likeness and Evaluation metrics
 
 **Drug-likeness** may be defined as a complex balance of various molecular properties and structure features which determine whether particular molecule is similar to the known drugs. These properties, mainly hydrophobicity, electronic distribution, hydrogen bonding characteristics, molecule size and flexibility and of course presence of various pharmacophoric features influence the behavior of molecule in a living organism, including bioavailability, transport properties, affinity to proteins, reactivity, toxicity, metabolic stability and many others.
 
