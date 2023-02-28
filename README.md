@@ -267,13 +267,7 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
-
-
-
 ### GAN-based
-
-
-
 
 * **Cell morphology-guided de novo hit design by conditioning GANs on phenotypic image features** [2022]  
 Zapata, Paula A. Marin, Oscar Méndez-Lucio, Tuan Le, Carsten Jörn Beese, Jörg Wichard, David Rouquié, and Djork-Arné Clevert.  
@@ -343,8 +337,6 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 ### Score-Based
 
 
-
-
 * **Score-Based Generative Models for Molecule Generation** [2022]  
 Gnaneshwar, Dwaraknath, et al.  
 [Paper](https://arxiv.org/abs/2203.04698) 
@@ -352,34 +344,15 @@ Gnaneshwar, Dwaraknath, et al.
 
 
 
-
-
-
-
-
-
-
-
-
 ### Energy-based
-
-
-
-
 
 * **Energy-based Generative Models for Target-specific Drug Discovery** [2022]  
 Li, Junde, Collin Beaudoin, and Swaroop Ghosh.  
 [Paper](https://arxiv.org/abs/2212.02404) |  [code](https://github.com/jundeli/TagMol) 
 
-
-
-
-
-
-
-
-
-
+* **MOG: Molecular Out-of-distribution Generation with Energy-based Models** [2021]  
+Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.  
+[Paper](https://openreview.net/forum?id=qkTEaJ9orc1) 
 
 
 ### Diffusion-based
