@@ -389,8 +389,8 @@ ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil 
 
 
 
-* **DRlinker: Deep Reinforcement Learning for Optimization in Fragment Linking Design** [2022] 
-  Tan, Y., Dai, L., Huang, W., Guo, Y., Zheng, S., Lei, J., ... & Yang, Y. 
+* **DRlinker: Deep Reinforcement Learning for Optimization in Fragment Linking Design** [2022]  
+  Tan, Y., Dai, L., Huang, W., Guo, Y., Zheng, S., Lei, J., ... & Yang, Y.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00982) |  [code](https://github.com/biomed-AI/DRlinker) 
 
 
