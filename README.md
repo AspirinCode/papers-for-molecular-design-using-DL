@@ -129,12 +129,25 @@ Santana, M.V.S., Silva-Jr, F.P.
   Wang, Jianmin, et al.  
   [Paper](https://doi.org/10.1016/j.ymeth.2023.01.004) |  [code](https://github.com/AspirinCode/drug-likeness_space) 
 
+* **Large-scale chemical language representations capture molecular structure and properties** [2022]  
+  Ross, J., Belgodere, B., Chenthamarakshan, V., Padhi, I., Mroueh, Y., & Das, P.   
+  [Paper](https://www.nature.com/articles/s42256-022-00580-7) |  [code](https://github.com/IBM/molformer) 
 
 * **AlphaDrug: protein target specific de novo molecular generation** [2022]  
   Qian, Hao, Cheng Lin, Dengwei Zhao, Shikui Tu, and Lei Xu.  
   [Paper](https://academic.oup.com/pnasnexus/article/1/4/pgac227/6751929) |  [code](https://github.com/CMACH508/AlphaDrug) 
 
+* **Can We Quickly Learn to “Translate” Bioactive Molecules with Transformer Models?** [2022]  
+  Bagal, V., Aggarwal, R., Vinod, P. K., & Priyakumar, U. D.  
+  [Paper](https://doi.org/10.26434/chemrxiv-2022-gln27)
 
+* **MolGPT: Molecular Generation Using a Transformer-Decoder Model** [2022]  
+  Bagal, V., Aggarwal, R., Vinod, P. K., & Priyakumar, U. D.  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) |  [code](https://github.com/devalab/molgpt) 
+
+* **Generative Pre-Training from Molecules** [2021]  
+  Adilov, Sanjar.  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) |  [code](https://github.com/sanjaradylov/smiles-gpt) 
 
 
 
