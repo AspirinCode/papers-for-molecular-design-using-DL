@@ -320,15 +320,25 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 Chao Pang , Yu Wang , Yi Jiang , Ruheng Wang , Ran Su  , and Leyi Wei.  
 [Paper](https://arxiv.org/abs/2212.01575) |  [code](https://github.com/Pang-chao/MEDICO) 
 
+* **Biological Sequence Design with GFlowNets** [2022]  
+Jain, M., Bengio, E., Hernandez-Garcia, A., Rector-Brooks, J., Dossou, B.F., Ekbote, C.A., Fu, J., Zhang, T., Kilgour, M., Zhang, D. and Simine, L.  
+[Paper](https://arxiv.org/abs/2203.04115) |  [code](https://github.com/MJ10/BioSeq-GFN-AL) 
 
+* **FastFlows: Flow-Based Models for Molecular Graph Generation** [2022]  
+Frey, N.C., Gadepally, V. and Ramsundar, B.  
+[Paper](https://arxiv.org/abs/2201.12419)
 
+* **Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation** [2021]  
+Bengio, E., Jain, M., Korablyov, M., Precup, D. and Bengio, Y.  
+[Paper](https://arxiv.org/abs/2106.04399) |  [code](https://github.com/GFNOrg/gflownet) 
 
+* **MoFlow: An Invertible Flow Model for Generating Molecular Graphs** [2020]  
+Zang, Chengxi, and Fei Wang.  
+[Paper](https://arxiv.org/abs/2006.10137) |  [code](https://github.com/calvin-zcx/moflow) 
 
-
-
-
-
-
+* **GraphNVP: an Invertible Flow-based Model for Generating Molecular Graphs** [2020]   
+Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.  
+[Paper](https://openreview.net/forum?id=ryxQ6T4YwB)
 
 ### Score-Based
 
