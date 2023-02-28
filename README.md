@@ -126,6 +126,11 @@ quantitative estimate of protein-protein interaction targeting drug-likeness
 
 https://github.com/ohuelab/QEPPI
 
+### SAscore
+**Estimation of synthetic accessibility score of drug-like molecules based on molecular complexity and fragment contributions**
+
+https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-1-8
+
 ### Evaluation metrics
 
 **FCD : Fréchet ChemNet Distance**
