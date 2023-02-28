@@ -27,6 +27,8 @@ https://github.com/amorehead/awesome-molecular-generation
   - [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics)
     - [QED](#QED)
     - [QEPPI](#QEPPI)
+    - [SAscore](#SAscore)
+    - [RAscore](#RAscore)
     - [Evaluation metrics](#Evaluation-metrics)
   - [Deep Learning-based design](#Deep-Learning-based-design)
     - [RNN-based](#RNN-based)
@@ -127,9 +129,12 @@ quantitative estimate of protein-protein interaction targeting drug-likeness
 https://github.com/ohuelab/QEPPI
 
 ### SAscore
-**Estimation of synthetic accessibility score of drug-like molecules based on molecular complexity and fragment contributions**
+**Estimation of synthetic accessibility score of drug-like molecules based on molecular complexity and fragment contributions**  
+[Paper](http://www.jcheminf.com/content/1/1/8) |  [code](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score) 
 
-https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-1-8
+### RAscore
+**Retrosynthetic accessibility score (RAscore) – rapid machine learned synthesizability classification from AI driven retrosynthetic planning**  
+[Paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc05401a) |  [code](https://github.com/reymond-group/RAscore) 
 
 ### Evaluation metrics
 
