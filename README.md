@@ -38,9 +38,9 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
   - [Structure-based deep molecular generative models](#Structure-based-deep-molecular-generative-models)
 
   - [Fragment-based deep molecular generative models](#Fragment-based-deep-molecular-generative-models)
-    - [Scaffold-based DMGs](#Scaffold-based DMGs)
-    - [Fragment-based DMGs](#Fragment-based DMGs)
-    - [Linkers-based DMGs](#Linkers-based DMGs)
+    - [Scaffold-based DMGs](#Scaffold-based-DMGs)
+    - [Fragment-based DMGs](#Fragment-based-DMGs)
+    - [Linkers-based DMGs](#Linkers-based-DMGs)
 
 ## Reviews
 
