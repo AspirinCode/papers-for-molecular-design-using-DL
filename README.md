@@ -1,3 +1,5 @@
+  [TOC]
+  
 # List of molecular design using Generative AI and Deep Learning 
 ![contributing-image](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
@@ -17,7 +19,7 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
 
 ## Menu
 
-  [TOC]
+
 
 
 
