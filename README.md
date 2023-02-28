@@ -43,8 +43,8 @@ Reviews
 
 
 
-* **Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks** [2019]
-Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
+* **Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks** [2019]  
+Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
 [Paper](https://www.nature.com/articles/s42256-020-0174-5) |  [code](https://github.com/pcko1/Deep-Drug-Coder) 
 
 
