@@ -76,7 +76,7 @@ Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
   [code](https://github.com/gmattedi/Smiles-LSTM) 
 
 * **DeLA-Drug: A Deep Learning Algorithm for Automated Design of Druglike Analogues** [2022]  
-  Santana, M.V.S., Silva-Jr, F.P.  
+  Creanza, T. M., Lamanna, G., Delre, P., Contino, M., Corriero, N., Saviano, M., ... & Ancona, N.   
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00205) |  [Web](http://www.ba.ic.cnr.it/softwareic/deladrugportal/) 
 
 * **De novo design and bioactivity prediction of SARS-CoV-2 main protease inhibitors using recurrent neural network-based transfer learning** [2021]  
