@@ -21,6 +21,7 @@ https://github.com/amorehead/awesome-molecular-generation
   - [ Reviews](#reviews)
 
   - [ Datasets and Benchmarks](#Datasets-and-Benchmarks)
+    - [Benchmarks](#Benchmarks)
 
   - [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics)
     - [QED](#QED)
@@ -58,10 +59,16 @@ https://github.com/amorehead/awesome-molecular-generation
 ## Datasets and Benchmarks
 
 
+### Benchmarks
 
 **Molecular Sets (MOSES): A benchmarking platform for molecular generation models**
 
 https://github.com/molecularsets/moses
+
+
+**GuacaMol: Benchmarking Models for de Novo Molecular Design**
+https://github.com/BenevolentAI/guacamol
+
 
 ## Drug-likeness and Evaluation metrics
 
