@@ -73,7 +73,9 @@ Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
 
   [code](https://github.com/gmattedi/Smiles-LSTM) 
 
-
+* **De novo design and bioactivity prediction of SARS-CoV-2 main protease inhibitors using recurrent neural network-based transfer learning** [2021]  
+Santana, M.V.S., Silva-Jr, F.P.  
+  [Paper](https://bmcchem.biomedcentral.com/articles/10.1186/s13065-021-00737-2) |  [code](https://github.com/marcossantanaioc/De_novo_design_SARSCOV2) 
 
 
 
