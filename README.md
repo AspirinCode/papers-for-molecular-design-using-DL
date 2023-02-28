@@ -54,7 +54,7 @@ https://github.com/amorehead/awesome-molecular-generation
 
 ## Reviews
 
-* **Structure-based drug design with geometric deep learning**[2022]  
+* **Structure-based drug design with geometric deep learning**[2023]  
 [[Paper]](https://doi.org/10.1016/j.sbi.2023.102548)
 
 * **MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design**[2022]  
