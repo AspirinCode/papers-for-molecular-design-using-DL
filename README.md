@@ -77,12 +77,6 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 
 ### LSTM-based
 
-
-
-
-
-
-
 * **Leveraging molecular structure and bioactivity with chemical language models for de novo drug design** [2023]  
   Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
   [Paper](https://www.nature.com/articles/s41467-022-35692-6) |  [code](https://github.com/ETHmodlab/hybridCLMs/tree/v1.0) 
@@ -103,6 +97,9 @@ Santana, M.V.S., Silva-Jr, F.P.
   Gupta, A., Müller, A. T., Huisman, B. J., Fuchs, J. A., Schneider, P., & Schneider, G.   
   [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836943/) |  [code](https://github.com/topazape/LSTM_Chem) 
 
+* **Generative Recurrent Neural Networks for De Novo Drug Design** [2017]  
+  Gupta, Anvita, et al.   
+  [Paper](https://onlinelibrary.wiley.com/doi/10.1002/minf.201700111) |  [code](https://github.com/SilviaAmAm/MolBot) 
 
 
 ### Autoregressive-models
