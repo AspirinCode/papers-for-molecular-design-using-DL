@@ -351,6 +351,9 @@ ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil 
 
 
 
+* **Sc2Mol: a scaffold-based two-step molecule generator with variational autoencoder and transformer** [2023]
+  Zhirui Liao, Lei Xie, Hiroshi Mamitsuka, Shanfeng Zhu. 
+  [Paper](https://doi.org/10.1093/bioinformatics/btac814) |  [code](https://github.com/zhiruiliao/Sc2Mol) 
 
 
 
