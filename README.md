@@ -51,7 +51,6 @@ Grisoni, F., Schneider, G.
 [Paper](https://doi.org/10.1007/978-1-0716-1787-8_9) |  [code](https://github.com/grisoniFr/de_novo_design_RNN) 
 
 * **A recurrent neural network (RNN) that generates drug-like molecules for drug discovery** [2021]  
-
 [code](https://github.com/shiwentao00/Molecule-RNN) 
 
 * **Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks** [2019]  
