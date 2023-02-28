@@ -244,7 +244,6 @@ Santana, M.V.S., Silva-Jr, F.P.
   Eckmann, Peter, Kunyang Sun, Bo Zhao, Mudong Feng, Michael K. Gilson, and Rose Yu.  
   [Paper](https://arxiv.org/abs/2206.09010) |  [code](https://github.com/rose-stl-lab/limo) 
 
-
 * **Predicting chemical structure using reinforcement learning with a stack-augmented conditional variational autoencoder** [2022]  
   Kim, H., Ko, S., Kim, B.J. *et al.*  
   [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00666-9) |  [code](https://github.com/HwanheeKim813/stack_CVAE) 
@@ -256,6 +255,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 * **Attention-based generative models for de novo molecular design** [2021]  
   Dollar, O., Joshi, N., Beck, D.A. and Pfaendtner, J.,  
   [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc01050f) |  [code](https://github.com/oriondollar/TransVAE) 
+
+* **Toward efficient generation, correction, and properties control of unique drug-like structures** [2021]  
+  Druchok, Maksym, Dzvenymyra Yarish, Oleksandr Gurbych, and Mykola Maksymenko.  
+  [Paper](https://onlinelibrary.wiley.com/doi/10.1002/jcc.26494) |  [code](https://github.com/SoftServeInc/novel-molecule-generation) 
 
 * **Compressed graph representation for scalable molecular graph generation** [2020]  
   Kwon, Youngchun, Dongseon Lee, Youn-Suk Choi, Kyoham Shin, and Seokho Kang.  
