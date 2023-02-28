@@ -238,6 +238,10 @@ Santana, M.V.S., Silva-Jr, F.P.
   Kim, H., Ko, S., Kim, B.J. *et al.*  
   [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00666-9) |  [code](https://github.com/HwanheeKim813/stack_CVAE) 
 
+* **Inverse design of nanoporous crystalline reticular materials with deep generative models.** [2021]  
+  Yao, Z., Sánchez-Lengeling, B., Bobbitt, N.S. et al.  
+  [Paper](https://doi.org/10.1038/s42256-020-00271-1) |  [code](https://github.com/zhenpengyao/Supramolecular_VAE) 
+
 * **Attention-based generative models for de novo molecular design** [2021]  
   Dollar, O., Joshi, N., Beck, D.A. and Pfaendtner, J.,  
   [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc01050f) |  [code](https://github.com/oriondollar/TransVAE) 
