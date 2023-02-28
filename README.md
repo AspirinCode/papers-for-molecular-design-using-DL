@@ -205,6 +205,9 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+* **Design of potent antimalarials with generative chemistry** [2022]   
+  Godinez, W.J., Ma, E.J., Chao, A.T. et al.  
+  [Paper](https://doi.org/10.1038/s42256-022-00448-w)  |  [code](https://github.com/Novartis/JAEGER) 
 
 * **Accelerating Bayesian Optimization for Biological Sequence Design with Denoising Autoencoders** [2022]  
   Stanton, S., Maddox, W., Gruver, N., Maffettone, P., Delaney, E., Greenside, P., & Wilson, A. G.   
