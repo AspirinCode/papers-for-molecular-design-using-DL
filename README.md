@@ -144,6 +144,14 @@ Santana, M.V.S., Silva-Jr, F.P.
 * **MolGPT: Molecular Generation Using a Transformer-Decoder Model** [2022]  
   Bagal, V., Aggarwal, R., Vinod, P. K., & Priyakumar, U. D.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) |  [code](https://github.com/devalab/molgpt) 
+  
+* **Tailoring Molecules for Protein Pockets: a Transformer-based Generative Solution for Structured-based Drug Design** [2022]  
+  Wu, K., Xia, Y., Fan, Y., Deng, P., Liu, H., Wu, L., ... & Liu, T. Y.  
+  [Paper](https://arxiv.org/abs/2209.06158) |  [code](https://github.com/HankerWu/TamGent) 
+  
+* **A Transformer-based Generative Model for De Novo Molecular Design** [2022]  
+  Wang, Wenlu, et al.  
+  [Paper](https://arxiv.org/abs/2210.08749) 
 
 * **Generative Pre-Training from Molecules** [2021]  
   Adilov, Sanjar.  
