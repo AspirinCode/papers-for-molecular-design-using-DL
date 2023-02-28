@@ -153,7 +153,11 @@ Santana, M.V.S., Silva-Jr, F.P.
   
 * **A Transformer-based Generative Model for De Novo Molecular Design** [2022]  
   Wang, Wenlu, et al.  
-  [Paper](https://arxiv.org/abs/2210.08749) 
+  [Paper](https://arxiv.org/abs/2210.08749)
+
+* **Translation between Molecules and Natural Language** [2022]  
+  Edwards, C., Lai, T., Ros, K., Honke, G., & Ji, H.  
+  [Paper](https://arxiv.org/abs/2204.11817) |  [code](https://github.com/blender-nlp/MolT5) 
 
 * **Generative Pre-Training from Molecules** [2021]  
   Adilov, Sanjar.  
