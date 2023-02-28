@@ -109,7 +109,9 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
-
+* **GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation** [2020]  
+  Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.   
+  [Paper](https://arxiv.org/abs/2001.09382) |  [code](https://github.com/DeepGraphLearning/GraphAF) 
 
 
 
