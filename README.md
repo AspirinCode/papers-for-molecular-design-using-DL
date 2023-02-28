@@ -208,7 +208,13 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
-
+* **Molecule Generation by Principal Subgraph Mining and Assembling** [2022]  
+  Kong, X., Huang, W., Tan, Z., & Liu, Y.  
+  [Paper](https://arxiv.org/abs/2106.15098) |  [code](https://github.com/THUNLP-MT/PS-VAE) 
+  
+* **LIMO: Latent Inceptionism for Targeted Molecule Generation** [2022]  
+  Eckmann, Peter, Kunyang Sun, Bo Zhao, Mudong Feng, Michael K. Gilson, and Rose Yu.  
+  [Paper](https://arxiv.org/abs/2206.09010) |  [code](https://github.com/rose-stl-lab/limo) 
 
 
 * **Predicting chemical structure using reinforcement learning with a stack-augmented conditional variational autoencoder** [2022]  
@@ -417,6 +423,10 @@ ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil 
 * **AlphaDrug: protein target specific de novo molecular generation** [2022]  
   Qian, Hao, Cheng Lin, Dengwei Zhao, Shikui Tu, and Lei Xu.  
   [Paper](https://academic.oup.com/pnasnexus/article/1/4/pgac227/6751929) |  [code](https://github.com/CMACH508/AlphaDrug) 
+
+* **LIMO: Latent Inceptionism for Targeted Molecule Generation** [2022]  
+  Eckmann, Peter, Kunyang Sun, Bo Zhao, Mudong Feng, Michael K. Gilson, and Rose Yu.  
+  [Paper](https://arxiv.org/abs/2206.09010) |  [code](https://github.com/rose-stl-lab/limo) 
 
 * **Transformer neural network for protein-specific de novo drug generation as a machine translation proble** [2021]  
   Grechishnikova, Daria.   
