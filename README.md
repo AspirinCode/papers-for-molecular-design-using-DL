@@ -84,6 +84,27 @@ https://github.com/amorehead/awesome-molecular-generation
 * **Deep learning approaches for de novo drug design: An overview**[2021]  
 [[Paper]](https://doi.org/10.1016/j.sbi.2021.10.001)
 
+* **Generative chemistry: drug discovery with deep learning generative models**[2021]  
+[[Paper]](https://link.springer.com/article/10.1007/s00894-021-04674-8)
+
+* **Generative Deep Learning for Targeted Compound Design**[2021]  
+[[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01496)
+
+* **Generative Models for De Novo Drug Design**[2021]  
+[[Paper]](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c00927)
+
+* **Molecular design in drug discovery: a comprehensive review of deep generative models**[2021]  
+[[Paper]](https://doi.org/10.1093/bib/bbab344)
+
+* **De novo molecular design and generative models**[2021]  
+[[Paper]](https://doi.org/10.1016/j.drudis.2021.05.019)
+
+* **Deep learning for molecular design—a review of the state of the art**[2019]  
+[[Paper]](https://pubs.rsc.org/en/content/articlelanding/2019/me/c9me00039a)
+
+* **Inverse molecular design using machine learning: Generative models for matter engineering**[2018]  
+[[Paper]](https://www.science.org/doi/10.1126/science.aat2663)
+
 ## Datasets and Benchmarks
 
 ### Datasets
