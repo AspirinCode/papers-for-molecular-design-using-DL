@@ -42,7 +42,9 @@ Reviews
 ### RNN-based
 
 
-
+* **Augmented Hill-Climb increases reinforcement learning efficiency for language-based de novo molecule generation** [2022]  
+Thomas, M., O’Boyle, N.M., Bender, A. et al.  
+[Paper](https://doi.org/10.1186/s13321-022-00646-z) |  [code](https://github.com/MorganCThomas/SMILES-RNN) 
 
 
 * **Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks** [2019]  
@@ -258,7 +260,9 @@ Morehead, Alex, and Jianlin Cheng.
 
 
 
-
+* **Augmented Hill-Climb increases reinforcement learning efficiency for language-based de novo molecule generation** [2022]  
+Thomas, M., O’Boyle, N.M., Bender, A. et al.  
+[Paper](https://doi.org/10.1186/s13321-022-00646-z) |  [code](https://github.com/MorganCThomas/SMILES-RNN) 
 
 
 * **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]  
