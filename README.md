@@ -22,17 +22,34 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
 
   - [Deep Learning-based design](#Deep-Learning-based-design)
     - [RNN-based](#RNN-based)
+    - [LSTM-based](#LSTM-based)
+    - [Autoregressive-models](#Autoregressive-models)
+    - [Transformer-based](#Transformer-based)
+    - [VAE-based](#VAE-based)
+    - [GAN-based](#GAN-based)
+    - [Flow-based](#Flow-based)
+    - [Score-Based](#Score-Based)
+    - [Energy-based](#Energy-based)
+    - [Diffusion-based](#Diffusion-based)
+    - [RL-based](#RL-based)
 
+  - [Ligand-based deep molecular generative models](#Ligand-based-deep-molecular-generative-models)
+
+  - [Structure-based deep molecular generative models](#Structure-based-deep-molecular-generative-models)
+
+  - [Fragment-based deep molecular generative models](#Fragment-based-deep-molecular-generative-models)
+    - [Scaffold-based DMGs](#Scaffold-based DMGs)
+    - [Fragment-based DMGs](#Fragment-based DMGs)
+    - [Linkers-based DMGs](#Linkers-based DMGs)
+
+## Reviews
 
 * **Structure-based drug discovery with deep learning**[2022]  
 [[Paper]](https://arxiv.org/abs/2212.13295)
 
 
 
-
-
 ## Deep Learning-based design
-
 
 
 ### RNN-based
