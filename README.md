@@ -50,8 +50,15 @@ Thomas, M., O’Boyle, N.M., Bender, A. et al.
 Grisoni, F., Schneider, G.  
 [Paper](https://doi.org/10.1007/978-1-0716-1787-8_9) |  [code](https://github.com/grisoniFr/de_novo_design_RNN) 
 
+* **Optimizing Recurrent Neural Network Architectures for De Novo Drug Design** [2021]  
+Santos, B. P., Abbasi, M., Pereira, T., Ribeiro, B., & Arrais, J. P.  
+[Paper](https://ieeexplore.ieee.org/document/9474742) |  [code](https://github.com/larngroup/RNN-Drug-Generation) 
+
 * **A recurrent neural network (RNN) that generates drug-like molecules for drug discovery** [2021]  
 [code](https://github.com/shiwentao00/Molecule-RNN) 
+
+* **A molecule generative model used interaction fingerprint (docking pose) as constraints** [2021]  
+[code](https://github.com/jeah-z/IFP-RNN) 
 
 * **Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks** [2019]  
 Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
@@ -60,9 +67,6 @@ Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
 * **ChemTS: An Efficient Python Library for de novo Molecular Generation** [2017]  
 Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.  
 [Paper](https://arxiv.org/abs/1710.00616) |  [code](https://github.com/tsudalab/ChemTS) 
-
-
-
 
 
 
