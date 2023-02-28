@@ -189,6 +189,9 @@ Santana, M.V.S., Silva-Jr, F.P.
   He, J., You, H., Sandström, E. et al.   
   [Paper](https://doi.org/10.1186/s13321-021-00497-0) |  [code](https://github.com/MolecularAI/deep-molecular-optimization) 
 
+* **Transformer neural network for protein-specific de novo drug generation as a machine translation problem** [2021]  
+  Grechishnikova, Daria.   
+  [Paper](https://www.nature.com/articles/s41598-020-79682-4) |  [code](https://github.com/dariagrechishnikova/molecule_structure_generation) 
 
 ### VAE-based
 
@@ -403,7 +406,9 @@ ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil 
   Qian, Hao, Cheng Lin, Dengwei Zhao, Shikui Tu, and Lei Xu.  
   [Paper](https://academic.oup.com/pnasnexus/article/1/4/pgac227/6751929) |  [code](https://github.com/CMACH508/AlphaDrug) 
 
-
+* **Transformer neural network for protein-specific de novo drug generation as a machine translation proble** [2021]  
+  Grechishnikova, Daria.   
+  [Paper](https://www.nature.com/articles/s41598-020-79682-4) |  [code](https://github.com/dariagrechishnikova/molecule_structure_generation) 
 
 
 
