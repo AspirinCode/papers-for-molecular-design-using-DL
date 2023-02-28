@@ -206,6 +206,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 ### VAE-based
 
 
+
+* **MGCVAE: Multi-Objective Inverse Design via Molecular Graph Conditional Variational Autoencoder** [2022]  
+  Lee, Myeonghun, and Kyoungmin Min.  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487) |  [code](https://github.com/mhlee216/MGCVAE) 
+
 * **RELATION: A Deep Generative Model for Structure-Based De Novo Drug Design** [2022]  
   Wang, M., Hsieh, C.Y., Wang, J., Wang, D., Weng, G., Shen, C., Yao, X., Bing, Z., Li, H., Cao, D. and Hou, T.,  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00732) |  [code](https://github.com/micahwang/RELATION) 
