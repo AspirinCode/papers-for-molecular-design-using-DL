@@ -279,6 +279,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 Zapata, Paula A. Marin, Oscar Méndez-Lucio, Tuan Le, Carsten Jörn Beese, Jörg Wichard, David Rouquié, and Djork-Arné Clevert.  
 [Paper](https://doi.org/10.1039/D2DD00081D) |  [code](https://github.com/Bayer-Group/CPMolGAN) 
 
+* **Generating 3D molecules conditional on receptor binding sites with deep generative models** [2022]  
+Ragoza, Matthew, Tomohide Masuda, and David Ryan Koes.  
+[Paper](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d1sc05976a) |  [code](https://github.com/mattragoza/liGAN) 
+
 * **Designing optimized drug candidates with Generative Adversarial Network** [2022]  
 Abbasi, M., Santos, B.P., Pereira, T.C. et al.  
 [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00623-6) |  [code](https://github.com/larngroup/GAN-Drug-Generator) 
@@ -295,19 +299,17 @@ Santos, B. P., Abbasi, M., Pereira, T., Ribeiro, B., & Arrais, J.
 Lee, Y.J., Kahng, H. and Kim, S.B.,  
 [Paper](https://doi.org/10.1002/minf.202100045) |  [code](https://github.com/dudwojae/SMILES-MaskGAN) 
 
+* **Mol-CycleGAN: a generative model for molecular optimization** [2020]  
+Maziarka, Łukasz, Agnieszka Pocha, Jan Kaczmarczyk, Krzysztof Rataj, Tomasz Danel, and Michał Warchoł  
+[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0404-1) |  [code](https://github.com/ardigen/mol-cycle-gan) 
+
 * **MolGAN: An implicit generative model for small molecular graph** [2018]  
 De Cao, N. and Kipf, T.,  
 [Paper](https://arxiv.org/abs/1805.11973) |  [code](https://github.com/yongqyu/MolGAN-pytorch) 
 
-
-
-
-
-
-
-
-
-
+* **Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models** [2017]  
+Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-Guzik, A.,  
+[Paper](https://arxiv.org/abs/1705.10843) |  [code](https://github.com/gablg1/ORGAN) 
 
 
 
