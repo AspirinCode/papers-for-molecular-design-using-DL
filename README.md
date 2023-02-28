@@ -206,7 +206,9 @@ Santana, M.V.S., Silva-Jr, F.P.
 ### VAE-based
 
 
-
+* **RELATION: A Deep Generative Model for Structure-Based De Novo Drug Design** [2022]  
+  Wang, M., Hsieh, C.Y., Wang, J., Wang, D., Weng, G., Shen, C., Yao, X., Bing, Z., Li, H., Cao, D. and Hou, T.,  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00732) |  [code](https://github.com/micahwang/RELATION) 
 
 * **Molecule Generation by Principal Subgraph Mining and Assembling** [2022]  
   Kong, X., Huang, W., Tan, Z., & Liu, Y.  
@@ -413,7 +415,9 @@ ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil 
 
 
 
-
+* **RELATION: A Deep Generative Model for Structure-Based De Novo Drug Design** [2022]  
+  Wang, M., Hsieh, C.Y., Wang, J., Wang, D., Weng, G., Shen, C., Yao, X., Bing, Z., Li, H., Cao, D. and Hou, T.,  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00732) |  [code](https://github.com/micahwang/RELATION) 
 
 * **Tailoring Molecules for Protein Pockets: a Transformer-based Generative Solution for Structured-based Drug Design** [2022]  
   Wu, K., Xia, Y., Fan, Y., Deng, P., Liu, H., Wu, L., ... & Liu, T. Y.  
