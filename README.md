@@ -157,7 +157,7 @@ Santana, M.V.S., Silva-Jr, F.P.
   Adilov, Sanjar.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) |  [code](https://github.com/sanjaradylov/smiles-gpt) 
 
-* **Transformers for Molecular Graph Generation ** [2021]  
+* **Transformers for Molecular Graph Generation** [2021]  
   Cofala, Tim, and Oliver Kramer.  
   [Paper](https://web.archive.org/web/20211019010336id_/https://www.esann.org/sites/default/files/proceedings/2021/ES2021-112.pdf) |  [code](https://gitlab.uni-oldenburg.de/gies6280/molegent) 
 
