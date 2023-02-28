@@ -52,6 +52,9 @@ https://github.com/amorehead/awesome-molecular-generation
 
 ## Reviews
 
+* **MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design**[2022]  
+[[Paper]](https://arxiv.org/abs/2203.14500)
+
 * **Structure-based drug discovery with deep learning**[2022]  
 [[Paper]](https://arxiv.org/abs/2212.13295)
 
