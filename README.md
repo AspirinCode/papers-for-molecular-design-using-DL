@@ -62,15 +62,21 @@ https://github.com/amorehead/awesome-molecular-generation
 ### Datasets
 
 **ZINC**
+
 https://zinc15.docking.org/
 https://zinc20.docking.org/
 
 **PubChem**
+
 https://pubchem.ncbi.nlm.nih.gov/
 
 **ChEMBL**
+
 https://www.ebi.ac.uk/chembl/
 
+**GDB Databases**
+
+https://gdb.unibe.ch/downloads/
 
 ### Benchmarks
 
