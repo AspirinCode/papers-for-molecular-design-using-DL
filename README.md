@@ -27,7 +27,9 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
 
 Reviews
 ----------
-* [Elsevier 2022] **Deep learning approaches for de novo drug design: An overview**  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0959440X21001433?via%3Dihub)
+
+Structure-based drug discovery with deep learning**  [2022]  
+[[Paper]](https://arxiv.org/abs/2212.13295)
 
 
 
