@@ -242,7 +242,13 @@ Santana, M.V.S., Silva-Jr, F.P.
   Dollar, O., Joshi, N., Beck, D.A. and Pfaendtner, J.,  
   [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc01050f) |  [code](https://github.com/oriondollar/TransVAE) 
 
+* **Molecular generative model based on conditional variational autoencoder for de novo molecular design** [2018]  
+  Lim, J., Ryu, S., Kim, J. W., & Kim, W. Y.   
+  [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0286-7) |  [code](https://github.com/jaechanglim/CVAE) 
 
+* **Automatic chemical design using a data-driven continuous representation of molecules** [2017]  
+  Gómez-Bombarelli, R., Wei, J. N., Duvenaud, D., Hernández-Lobato, J. M., Sánchez-Lengeling, B., Sheberla, D., ... & Aspuru-Guzik, A.   
+  [Paper](https://arxiv.org/abs/1610.02415) |  [code](https://github.com/tuantla80/VAE-Molecular-Generation) 
 
 
 
