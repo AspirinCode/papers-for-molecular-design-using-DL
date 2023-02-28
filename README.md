@@ -63,8 +63,8 @@ Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
 
 
 
-* **Leveraging molecular structure and bioactivity with chemical language models for de novo drug design** [2023]
-  Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
+* **Leveraging molecular structure and bioactivity with chemical language models for de novo drug design** [2023]  
+  Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
   [Paper](https://www.nature.com/articles/s41467-022-35692-6) |  [code](https://github.com/ETHmodlab/hybridCLMs/tree/v1.0) 
 
 
@@ -99,8 +99,8 @@ Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
 
 
 
-* **AlphaDrug: protein target specific de novo molecular generation** [2022]
-  Qian, Hao, Cheng Lin, Dengwei Zhao, Shikui Tu, and Lei Xu.
+* **AlphaDrug: protein target specific de novo molecular generation** [2022]  
+  Qian, Hao, Cheng Lin, Dengwei Zhao, Shikui Tu, and Lei Xu.  
   [Paper](https://academic.oup.com/pnasnexus/article/1/4/pgac227/6751929) |  [code](https://github.com/CMACH508/AlphaDrug) 
 
 
@@ -123,8 +123,8 @@ Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
 
 
 
-* **Predicting chemical structure using reinforcement learning with a stack-augmented conditional variational autoencoder** [2022]
-  Kim, H., Ko, S., Kim, B.J. *et al.*
+* **Predicting chemical structure using reinforcement learning with a stack-augmented conditional variational autoencoder** [2022]  
+  Kim, H., Ko, S., Kim, B.J. *et al.*  
   [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00666-9) |  [code](https://github.com/HwanheeKim813/stack_CVAE) 
 
 
@@ -141,8 +141,8 @@ Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
 
 
 
-* **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]
-Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.
+* **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]  
+Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.  
 [Paper](https://doi.org/10.1093/bib/bbac285) |  [code](https://github.com/AspirinCode/iPPIGAN) 
 
 
@@ -162,8 +162,8 @@ Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil
 ### Flow-based
 
 
-* **Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery** [2022]
-Chao Pang , Yu Wang , Yi Jiang , Ruheng Wang , Ran Su  , and Leyi Wei.
+* **Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery** [2022]  
+Chao Pang , Yu Wang , Yi Jiang , Ruheng Wang , Ran Su  , and Leyi Wei.  
 [Paper](https://arxiv.org/abs/2212.01575) |  [code](https://github.com/Pang-chao/MEDICO) 
 
 
@@ -181,8 +181,8 @@ Chao Pang , Yu Wang , Yi Jiang , Ruheng Wang , Ran Su  , and Leyi Wei.
 
 
 
-* **Score-Based Generative Models for Molecule Generation** [2022]
-Gnaneshwar, Dwaraknath, et al.
+* **Score-Based Generative Models for Molecule Generation** [2022]  
+Gnaneshwar, Dwaraknath, et al.  
 [Paper](https://arxiv.org/abs/2203.04698) 
 
 
@@ -203,8 +203,8 @@ Gnaneshwar, Dwaraknath, et al.
 
 
 
-* **Energy-based Generative Models for Target-specific Drug Discovery** [2022]
-Li, Junde, Collin Beaudoin, and Swaroop Ghosh.
+* **Energy-based Generative Models for Target-specific Drug Discovery** [2022]  
+Li, Junde, Collin Beaudoin, and Swaroop Ghosh.  
 [Paper](https://arxiv.org/abs/2212.02404) |  [code](https://github.com/jundeli/TagMol) 
 
 
@@ -227,8 +227,8 @@ Li, Junde, Collin Beaudoin, and Swaroop Ghosh.
 
 
 
-* **Geometry-Complete Diffusion for 3D Molecule Generation** [2023]
-Morehead, Alex, and Jianlin Cheng. 
+* **Geometry-Complete Diffusion for 3D Molecule Generation** [2023]  
+Morehead, Alex, and Jianlin Cheng.  
 [Paper](https://arxiv.org/abs/2302.04313) |  [code](https://github.com/BioinfoMachineLearning/bio-diffusion) 
 
 
@@ -253,16 +253,16 @@ Morehead, Alex, and Jianlin Cheng.
 
 
 
-* **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]
-ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.
+* **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]  
+ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.  
 [Paper](https://doi.org/10.1093/bib/bbac285) |  [code](https://github.com/AspirinCode/iPPIGAN) 
 
 
 
 
 
-* **Predicting chemical structure using reinforcement learning with a stack-augmented conditional variational autoencoder** [2022]
-  Kim, H., Ko, S., Kim, B.J. *et al.*
+* **Predicting chemical structure using reinforcement learning with a stack-augmented conditional variational autoencoder** [2022]  
+  Kim, H., Ko, S., Kim, B.J. *et al.*  
   [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00666-9) |  [code](https://github.com/HwanheeKim813/stack_CVAE) 
 
 
@@ -280,14 +280,14 @@ ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil 
 
 
 
-* **Leveraging molecular structure and bioactivity with chemical language models for de novo drug design** [2023]
-  Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
+* **Leveraging molecular structure and bioactivity with chemical language models for de novo drug design** [2023]  
+  Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
   [Paper](https://www.nature.com/articles/s41467-022-35692-6) |  [code](https://github.com/ETHmodlab/hybridCLMs/tree/v1.0) 
 
 
 
-* **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]
-  ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.
+* **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]  
+  ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.  
   [Paper](https://doi.org/10.1093/bib/bbac285) |  [code](https://github.com/AspirinCode/iPPIGAN) 
 
 
@@ -310,8 +310,8 @@ ianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil 
 
 
 
-* **AlphaDrug: protein target specific de novo molecular generation** [2022]
-  Qian, Hao, Cheng Lin, Dengwei Zhao, Shikui Tu, and Lei Xu.
+* **AlphaDrug: protein target specific de novo molecular generation** [2022]  
+  Qian, Hao, Cheng Lin, Dengwei Zhao, Shikui Tu, and Lei Xu.  
   [Paper](https://academic.oup.com/pnasnexus/article/1/4/pgac227/6751929) |  [code](https://github.com/CMACH508/AlphaDrug) 
 
 
