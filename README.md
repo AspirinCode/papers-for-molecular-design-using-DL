@@ -279,6 +279,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 Zapata, Paula A. Marin, Oscar Méndez-Lucio, Tuan Le, Carsten Jörn Beese, Jörg Wichard, David Rouquié, and Djork-Arné Clevert.  
 [Paper](https://doi.org/10.1039/D2DD00081D) |  [code](https://github.com/Bayer-Group/CPMolGAN) 
 
+* **Designing optimized drug candidates with Generative Adversarial Network** [2022]  
+Abbasi, M., Santos, B.P., Pereira, T.C. et al.  
+[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00623-6) |  [code](https://github.com/larngroup/GAN-Drug-Generator) 
+
 * **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]  
 Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.  
 [Paper](https://doi.org/10.1093/bib/bbac285) |  [code](https://github.com/AspirinCode/iPPIGAN) 
