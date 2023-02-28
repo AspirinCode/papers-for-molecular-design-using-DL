@@ -69,7 +69,9 @@ Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
   Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
   [Paper](https://www.nature.com/articles/s41467-022-35692-6) |  [code](https://github.com/ETHmodlab/hybridCLMs/tree/v1.0) 
 
+* **SMILES-based CharLSTM with finetuning and goal-directed generation via policy gradient** [2022]  
 
+  [code](https://github.com/gmattedi/Smiles-LSTM) 
 
 
 
