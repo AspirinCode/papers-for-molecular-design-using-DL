@@ -656,6 +656,10 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
   Eckmann, Peter, Kunyang Sun, Bo Zhao, Mudong Feng, Michael K. Gilson, and Rose Yu.  
   [Paper](https://arxiv.org/abs/2206.09010) |  [code](https://github.com/rose-stl-lab/limo) 
 
+* **Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets** [2022]  
+ Peng, Xingang, Shitong Luo, Jiaqi Guan, Qi Xie, Jian Peng, and Jianzhu Ma.  
+  [Paper](https://proceedings.mlr.press/v162/peng22b.html) |  [code](https://github.com/pengxingang/Pocket2Mol) 
+
 * **Autonomous molecule generation using reinforcement learning and docking to develop potential novel inhibitors** [2022]  
   Jeon, W., Kim, D.  
   [Paper](https://doi.org/10.1038/s41598-020-78537-2) |  [code](https://github.com/wsjeon92/morld) 
@@ -672,9 +676,13 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
   Drotár, P., Jamasb, A.R., Day, B., Cangea, C. and Liò, P.,   
   [Paper](https://arxiv.org/abs/2111.04107) 
 
+* **A 3D Generative Model for Structure-Based Drug Design** [2021]  
+  Luo, S., Guan, J., Ma, J., & Peng, J.   
+  [Paper](https://openreview.net/forum?id=yDwfVD_odRo) |  [code](https://github.com/luost26/3D-Generative-SBDD) 
 
-
-
+* **Structure-Based de Novo Molecular Generator Combined with Artificial Intelligence and Docking Simulations** [2021]  
+  Ma, B., Terayama, K., Matsumoto, S., Isaka, Y., Sasakura, Y., Iwata, H., Araki, M. and Okuno, Y.   
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00679) |  [code](https://github.com/clinfo/SBMolGen) 
 
 
 
