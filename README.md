@@ -42,6 +42,7 @@ https://github.com/amorehead/awesome-molecular-generation
     - [Energy-based](#Energy-based)
     - [Diffusion-based](#Diffusion-based)
     - [RL-based](#RL-based)
+    - [Multi-task DMGs](#Multi-task-DMGs)
 
   - [Ligand-based deep molecular generative models](#Ligand-based-deep-molecular-generative-models)
 
@@ -608,6 +609,13 @@ Simm, G., Pinsler, R. and Hernández-Lobato, J.M.,
 * **Molecular de-novo design through deep reinforcement learning** [2017]  
 Olivecrona, M., Blaschke, T., Engkvist, O. et al.  
   [Paper](https://doi.org/10.1186/s13321-017-0235-x) |  [code](https://github.com/tblaschke/reinvent) 
+
+
+### Multi-task DMGs
+
+* **Molecular Language Model as Multi-task Generator** [2023]  
+ Fang, Y., Zhang, N., Chen, Z., Fan, X. and Chen, H.    
+  [Paper](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
 
 
 ## Ligand-based deep molecular generative models
