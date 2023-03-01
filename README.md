@@ -549,6 +549,10 @@ Thomas, M., O’Boyle, N.M., Bender, A. et al.
   Kim, H., Ko, S., Kim, B.J. *et al.*  
   [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00666-9) |  [code](https://github.com/HwanheeKim813/stack_CVAE) 
 
+* **De Novo Drug Design Using Reinforcement Learning with Graph-Based Deep Generative Models** [2022]  
+Atance, S.R., Diez, J.V., Engkvist, O., Olsson, S. and Mercado, R.  
+[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00838) |  [code](https://github.com/olsson-group/RL-GraphINVENT) 
+
 
 * **DRlinker: Deep Reinforcement Learning for Optimization in Fragment Linking Design** [2022]
   Tan, Y., Dai, L., Huang, W., Guo, Y., Zheng, S., Lei, J., ... & Yang, Y. 
