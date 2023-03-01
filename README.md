@@ -693,27 +693,27 @@ Ross, J., Belgodere, B., Chenthamarakshan, V., Padhi, I., Mroueh, Y., & Das, P.
   Adilov, Sanjar.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) |  [code](https://github.com/sanjaradylov/smiles-gpt) 
 
-* **Transformers for Molecular Graph Generation ** [2021]  
+* **Transformers for Molecular Graph Generation** [2021]  
   Cofala, Tim, and Oliver Kramer.  
   [Paper](https://web.archive.org/web/20211019010336id_/https://www.esann.org/sites/default/files/proceedings/2021/ES2021-112.pdf) |  [code](https://gitlab.uni-oldenburg.de/gies6280/molegent) 
 
-* **Spatial Generation of Molecules with Transformers ** [2021]  
+* **Spatial Generation of Molecules with Transformers** [2021]  
   Cofala, Tim, and Oliver Kramer.  
   [Paper](https://ieeexplore.ieee.org/abstract/document/9533439) |  [code](https://gitlab.uni-oldenburg.de/gies6280/molegent) 
 
-* **Generative Chemical Transformer: Neural Machine Learning of Molecular Geometric Structures from Chemical Language via Attention ** [2021]  
+* **Generative Chemical Transformer: Neural Machine Learning of Molecular Geometric Structures from Chemical Language via Attention** [2021]  
   Hyunseung Kim, Jonggeol Na*, and Won Bo Lee*.  
   [Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c01289) |  [code](https://github.com/Hyunseung-Kim/molGCT) 
 
-* **C5T5: Controllable Generation of Organic Molecules with Transformers ** [2021]  
+* **C5T5: Controllable Generation of Organic Molecules with Transformers** [2021]  
   Rothchild, D., Tamkin, A., Yu, J., Misra, U., & Gonzalez, J.  
   [Paper](https://arxiv.org/abs/2108.10307) |  [code](https://github.com/dhroth/c5t5) 
 
-* **Molecular optimization by capturing chemist’s intuition using deep neural networks ** [2021]  
+* **Molecular optimization by capturing chemist’s intuition using deep neural networks** [2021]  
   He, J., You, H., Sandström, E. et al.   
   [Paper](https://doi.org/10.1186/s13321-021-00497-0) |  [code](https://github.com/MolecularAI/deep-molecular-optimization) 
 
-* **Transmol: repurposing a language model for molecular generation ** [2021]  
+* **Transmol: repurposing a language model for molecular generation** [2021]  
   Grechishnikova, Daria.   
   [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/ra/d1ra03086h) |  [code](https://gitlab.com/cheml.io/public/transmol) 
 
