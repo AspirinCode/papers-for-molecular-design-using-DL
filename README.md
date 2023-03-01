@@ -623,18 +623,9 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 ## Ligand-based deep molecular generative models
 
 
-
-
-
-
-
-
-
 * **Leveraging molecular structure and bioactivity with chemical language models for de novo drug design** [2023]  
   Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
   [Paper](https://www.nature.com/articles/s41467-022-35692-6) |  [code](https://github.com/ETHmodlab/hybridCLMs/tree/v1.0) 
-
-
 
 * **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]  
   Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.  
@@ -642,17 +633,7 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
-
-
-
-
-
-
-
-
 ## Structure-based deep molecular generative models
-
-
 
 
 * **RELATION: A Deep Generative Model for Structure-Based De Novo Drug Design** [2022]  
@@ -679,11 +660,17 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
   Jeon, W., Kim, D.  
   [Paper](https://doi.org/10.1038/s41598-020-78537-2) |  [code](https://github.com/wsjeon92/morld) 
 
+* **Zero-Shot 3D Drug Design by Sketching and Generating** [2022]  
+  Long, Siyu, Yi Zhou, Xinyu Dai, and Hao Zhou.   
+  [Paper](https://nips.cc/media/neurips-2022/Slides/54457.pdf) |  [code](https://github.com/longlongman/DESERT) 
+
 * **Transformer neural network for protein-specific de novo drug generation as a machine translation proble** [2021]  
   Grechishnikova, Daria.   
   [Paper](https://www.nature.com/articles/s41598-020-79682-4) |  [code](https://github.com/dariagrechishnikova/molecule_structure_generation) 
 
-
+* **Structure-aware generation of drug-like molecules** [2021]  
+  Drotár, P., Jamasb, A.R., Day, B., Cangea, C. and Liò, P.,   
+  [Paper](https://arxiv.org/abs/2111.04107) 
 
 
 
