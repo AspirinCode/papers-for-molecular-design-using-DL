@@ -51,6 +51,7 @@ https://github.com/amorehead/awesome-molecular-generation
   - [Fragment-based deep molecular generative models](#Fragment-based-deep-molecular-generative-models)
     - [Scaffold-based DMGs](#Scaffold-based-DMGs)
     - [Fragment-based DMGs](#Fragment-based-DMGs)
+    - [Motifs-based DMGs](#Motifs-based-DMGs)
     - [Linkers-based DMGs](#Linkers-based-DMGs)
 
 ## Reviews
@@ -834,6 +835,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
   Fialková, V., Zhao, J., Papadopoulos, K., Engkvist, O., Bjerrum, E.J., Kogej, T. and Patronov, A   
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00469) |  [code](https://github.com/MolecularAI/Lib-INVENT) 
 
+* **Learning to Extend Molecular Scaffolds with Structural Motifs** [2022]  
+  Maziarz, Krzysztof, Henry Jackson-Flux, Pashmina Cameron, Finton Sirockin, Nadine Schneider, Nikolaus Stiefl, Marwin Segler, and Marc Brockschmidt.   
+  [Paper](https://openreview.net/forum?id=ZTsoE8G3GG)
+
 **Deep scaffold hopping with multimodal transformer neural networks** [2021]  
 Zheng, Shuangjia, Zengrong Lei, Haitao Ai, Hongming Chen, Daiguo Deng, and Yuedong Yang.  
   [Paper](https://doi.org/10.1186/s13321-021-00565-5) |  [code](https://github.com/prokia/deepHops) 
@@ -853,6 +858,14 @@ Arús-Pous, Josep, Atanas Patronov, Esben Jannik Bjerrum, Christian Tyrchan, Jea
 **Scaffold-based molecular design with a graph generative model** [2019]  
 Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.  
   [Paper](https://pubs.rsc.org/en/content/articlelanding/2020/SC/C9SC04503A) |  [code](https://github.com/jaechanglim/GGM) 
+
+
+### Motifs-based DMGs
+
+
+* **Learning to Extend Molecular Scaffolds with Structural Motifs** [2022]  
+  Maziarz, Krzysztof, Henry Jackson-Flux, Pashmina Cameron, Finton Sirockin, Nadine Schneider, Nikolaus Stiefl, Marwin Segler, and Marc Brockschmidt.   
+  [Paper](https://openreview.net/forum?id=ZTsoE8G3GG)
 
 
 
