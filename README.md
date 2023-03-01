@@ -347,6 +347,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+* **COMA: efficient structure-constrained molecular generation using contractive and margin losses** [2023]  
+ Choi, J., Seo, S. & Park, S.     
+  [Paper](https://doi.org/10.1186/s13321-023-00679-y) |  [code](https://github.com/mathcom/COMA) 
+
 * **Design of potent antimalarials with generative chemistry** [2022]   
   Godinez, W.J., Ma, E.J., Chao, A.T. et al.  
   [Paper](https://doi.org/10.1038/s42256-022-00448-w)  |  [code](https://github.com/Novartis/JAEGER) 
@@ -526,18 +530,15 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
-
-
-
-
-
-
-
 ### RL-based
 
 * **DrugEx v3: scaffold-constrained drug design with graph transformer-based reinforcement learning** [2023]  
   Liu, X., Ye, K., van Vlijmen, H.W.T. et al.   
   [Paper](https://doi.org/10.1186/s13321-023-00694-z) |  [code](https://github.com/CDDLeiden/DrugEx) 
+
+* **COMA: efficient structure-constrained molecular generation using contractive and margin losses** [2023]  
+ Choi, J., Seo, S. & Park, S.     
+  [Paper](https://doi.org/10.1186/s13321-023-00679-y) |  [code](https://github.com/mathcom/COMA) 
 
 * **Augmented Hill-Climb increases reinforcement learning efficiency for language-based de novo molecule generation** [2022]  
 Thomas, M., O’Boyle, N.M., Bender, A. et al.  
