@@ -46,7 +46,7 @@ https://github.com/amorehead/awesome-molecular-generation
     - [Multi-task DMGs](#Multi-task-DMGs)
 
   - [Ligand-based deep molecular generative models](#Ligand-based-deep-molecular-generative-models)
-
+  - [Pharmacophore-based deep molecular generative models](#Pharmacophore-based-deep-molecular-generative-models)
   - [Structure-based deep molecular generative models](#Structure-based-deep-molecular-generative-models)
 
   - [Fragment-based deep molecular generative models](#Fragment-based-deep-molecular-generative-models)
@@ -758,6 +758,15 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 * **ChemTS: An Efficient Python Library for de novo Molecular Generation** [2017]  
   Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.  
   [Paper](https://arxiv.org/abs/1710.00616) |  [code](https://github.com/tsudalab/ChemTS) 
+
+
+## Pharmacophore-based deep molecular generative models
+
+
+* **Deep generative design with 3D pharmacophoric constraints** [2021]  
+  mrie, Fergus and Hadfield, Thomas E and Bradley, Anthony R and Deane, Charlotte M.  
+  [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/SC/D1SC02436A) |  [code](https://github.com/XiaotanYu/DEVELOP-ZYH) 
+
 
 
 ## Structure-based deep molecular generative models
