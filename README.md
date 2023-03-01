@@ -540,6 +540,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
  Choi, J., Seo, S. & Park, S.     
   [Paper](https://doi.org/10.1186/s13321-023-00679-y) |  [code](https://github.com/mathcom/COMA) 
 
+* **Generative and reinforcement learning approaches for the automated de novo design of bioactive compounds** [2022]  
+Korshunova, M., Huang, N., Capuzzi, S. et al.  
+[Paper](https://doi.org/10.1038/s42004-022-00733-0) |  [code](https://github.com/isayevlab/rl_experiments) 
+
 * **Augmented Hill-Climb increases reinforcement learning efficiency for language-based de novo molecule generation** [2022]  
 Thomas, M., O’Boyle, N.M., Bender, A. et al.  
 [Paper](https://doi.org/10.1186/s13321-022-00646-z) |  [code](https://github.com/MorganCThomas/SMILES-RNN) 
@@ -563,8 +567,23 @@ Atance, S.R., Diez, J.V., Engkvist, O., Olsson, S. and Mercado, R.
   Yang, S., Hwang, D., Lee, S., Ryu, S., & Hwang, S. J.  
   [Paper](https://arxiv.org/abs/2110.01219) |  [code](https://github.com/AITRICS/FREED) 
 
+* **Widely Used and Fast De Novo Drug Design by a Protein Sequence-Based Reinforcement Learning Model** [2022]  
+Li, Yaqin, Lingli Li, Yongjin Xu, and Yi Yu.
+[Paper](https://arxiv.org/abs/2209.07405) 
+
+* **Molecular Design Method Using a Reversible Tree Representation of Chemical Compounds and Deep Reinforcement Learning** [2022]  
+  Ishitani, R., Kataoka, T. and Rikimaru, K.  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00366) |  [code](https://github.com/pfnet-research/RJT-RL) 
 
 
+* **Accelerated rational PROTAC design via deep learning and molecular simulations** [2022]  
+  Zheng, S., Tan, Y., Wang, Z. et al.  
+  [Paper](https://www.nature.com/articles/s42256-022-00527-y) |  [code](https://github.com/biomed-AI/PROTAC-RL) 
+  
+ 
+ 
+ 
+ 
 
 ## Ligand-based deep molecular generative models
 
