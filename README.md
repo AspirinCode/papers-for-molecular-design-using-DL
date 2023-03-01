@@ -702,7 +702,7 @@ Ross, J., Belgodere, B., Chenthamarakshan, V., Padhi, I., Mroueh, Y., & Das, P.
   Santos, B. P., Abbasi, M., Pereira, T., Ribeiro, B., & Arrais, J. P.  
   [Paper](https://ieeexplore.ieee.org/document/9474742) |  [code](https://github.com/larngroup/RNN-Drug-Generation) 
 
-* **A recurrent neural network (RNN) that generates drug-like molecules for drug discovery** [2021]
+* **A recurrent neural network (RNN) that generates drug-like molecules for drug discovery** [2021]  
 
 [code](https://github.com/shiwentao00/Molecule-RNN) 
 
