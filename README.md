@@ -375,6 +375,10 @@ Santana, M.V.S., Silva-Jr, F.P.
   Wang, M., Hsieh, C.Y., Wang, J., Wang, D., Weng, G., Shen, C., Yao, X., Bing, Z., Li, H., Cao, D. and Hou, T.,  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00732) |  [code](https://github.com/micahwang/RELATION) 
 
+* **3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design** [2022]  
+  Huang, Yinan, Xingang Peng, Jianzhu Ma, and Muhan Zhang.   
+  [Paper]https://arxiv.org/abs/2205.07309) |  [code](https://github.com/GraphPKU/3DLinker) 
+
 * **Molecule Generation by Principal Subgraph Mining and Assembling** [2022]  
   Kong, X., Huang, W., Tan, Z., & Liu, Y.  
   [Paper](https://arxiv.org/abs/2106.15098) |  [code](https://github.com/THUNLP-MT/PS-VAE) 
@@ -778,6 +782,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
   Jeon, W., Kim, D.  
   [Paper](https://doi.org/10.1038/s41598-020-78537-2) |  [code](https://github.com/wsjeon92/morld) 
 
+* **Target-Focused Library Design by Pocket-Applied Computer Vision and Fragment Deep Generative Linking** [2022]  
+  Eguida, Merveille, Christel Schmitt-Valencia, Marcel Hibert, Pascal Villa, and Didier Rognan.  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00931) |  [code](https://github.com/kimeguida/POEM) 
+
 * **Zero-Shot 3D Drug Design by Sketching and Generating** [2022]  
   Long, Siyu, Yi Zhou, Xinyu Dai, and Hao Zhou.   
   [Paper](https://nips.cc/media/neurips-2022/Slides/54457.pdf) |  [code](https://github.com/longlongman/DESERT) 
@@ -873,9 +881,21 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 ### Fragment-based DMGs
 
+* **MacFrag: segmenting large-scale molecules to obtain diverse fragments with high qualities** [2023]  
+  Yanyan Diao, Feng Hu, Zihao Shen, Honglin Li*.  
+  [Paper](https://doi.org/10.1093/bioinformatics/btad012) |  [code](https://github.com/yydiao1025/MacFrag) 
 
+* **Fragment-based Deep Molecular Generation using Hierarchical Chemical Graph Representation and Multi-Resolution Graph Variational Autoencoder** [2023]  
+  Gao, Zhenxiang, Xinyu Wang, Blake Blumenfeld Gaines, Xuetao Shi, Jinbo Bi, and Minghu Song.  
+  [Paper](https://doi.org/10.1002/minf.202200215)
 
+* **Fragment-based t-SMILES for de novo molecular generation** [2023]  
+  Wu, Juan-Ni, Tong Wang, Yue Chen, Li-Juan Tang, Hai-Long Wu, and Ru-Qin Yu.  
+  [Paper](https://arxiv.org/abs/2301.01829) |  [code](https://github.com/juanniwu/t-SMILES) 
 
+* **Target-Focused Library Design by Pocket-Applied Computer Vision and Fragment Deep Generative Linking** [2022]  
+  Eguida, Merveille, Christel Schmitt-Valencia, Marcel Hibert, Pascal Villa, and Didier Rognan.  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00931) |  [code](https://github.com/kimeguida/POEM) 
 
 * **Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation** [2021]  
   Yang, S., Hwang, D., Lee, S., Ryu, S., & Hwang, S. J.  
@@ -904,6 +924,9 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
   Tan, Y., Dai, L., Huang, W., Guo, Y., Zheng, S., Lei, J., ... & Yang, Y.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00982) |  [code](https://github.com/biomed-AI/DRlinker) 
 
+* **3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design** [2022]  
+  Huang, Yinan, Xingang Peng, Jianzhu Ma, and Muhan Zhang.   
+  [Paper]https://arxiv.org/abs/2205.07309) |  [code](https://github.com/GraphPKU/3DLinker) 
 
 
 
