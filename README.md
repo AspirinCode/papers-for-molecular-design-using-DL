@@ -16,7 +16,8 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
 
 https://github.com/amorehead/awesome-molecular-generation
 
-**A Survey of Artificial Intelligence in Drug Discovery**
+**A Survey of Artificial Intelligence in Drug Discovery**  
+
 https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 
 ## Menu
