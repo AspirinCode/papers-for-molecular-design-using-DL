@@ -786,6 +786,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
   Eguida, Merveille, Christel Schmitt-Valencia, Marcel Hibert, Pascal Villa, and Didier Rognan.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00931) |  [code](https://github.com/kimeguida/POEM) 
 
+* **Incorporating Target-Specific Pharmacophoric Information into Deep Generative Models for Fragment Elaboration** [2022]  
+  Hadfield, Thomas E., Fergus Imrie, Andy Merritt, Kristian Birchall, and Charlotte M. Deane.  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01311) |  [code](https://github.com/tomhadfield95/STRIFE) 
+
 * **Zero-Shot 3D Drug Design by Sketching and Generating** [2022]  
   Long, Siyu, Yi Zhou, Xinyu Dai, and Hao Zhou.   
   [Paper](https://nips.cc/media/neurips-2022/Slides/54457.pdf) |  [code](https://github.com/longlongman/DESERT) 
@@ -813,15 +817,6 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 ## Fragment-based deep molecular generative models
-
-
-
-
-
-
-
-
-
 
 
 ### Scaffold-based DMGs
@@ -897,6 +892,10 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
   Eguida, Merveille, Christel Schmitt-Valencia, Marcel Hibert, Pascal Villa, and Didier Rognan.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00931) |  [code](https://github.com/kimeguida/POEM) 
 
+* **Incorporating Target-Specific Pharmacophoric Information into Deep Generative Models for Fragment Elaboration** [2022]  
+  Hadfield, Thomas E., Fergus Imrie, Andy Merritt, Kristian Birchall, and Charlotte M. Deane.  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01311) |  [code](https://github.com/tomhadfield95/STRIFE) 
+
 * **Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation** [2021]  
   Yang, S., Hwang, D., Lee, S., Ryu, S., & Hwang, S. J.  
   [Paper](https://arxiv.org/abs/2110.01219) |  [code](https://github.com/AITRICS/FREED) 
@@ -926,8 +925,10 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
 
 * **3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design** [2022]  
   Huang, Yinan, Xingang Peng, Jianzhu Ma, and Muhan Zhang.   
-  [Paper]https://arxiv.org/abs/2205.07309) |  [code](https://github.com/GraphPKU/3DLinker) 
+  [Paper](https://arxiv.org/abs/2205.07309) |  [code](https://github.com/GraphPKU/3DLinker) 
 
-
+* **SyntaLinker-Hybrid: A deep learning approach for target specific drug design** [2022]  
+  Feng, Yu, Yuyao Yang, Wenbin Deng, Hongming Chen, and Ting Ran.    
+  [Paper](https://doi.org/10.1016/j.ailsci.2022.100035) 
 
 
