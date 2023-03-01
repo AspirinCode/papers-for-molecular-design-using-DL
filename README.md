@@ -64,6 +64,9 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 
 ## Reviews
 
+* **Open data and algorithms for open science in AI-driven molecular informatics**[2023]  
+[[Paper]](https://doi.org/10.1016/j.sbi.2023.102542)
+
 * **Structure-based drug design with geometric deep learning**[2023]  
 [[Paper]](https://doi.org/10.1016/j.sbi.2023.102548)
 
