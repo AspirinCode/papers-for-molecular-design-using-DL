@@ -12,7 +12,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular design**.
 
 https://github.com/Peldom/papers_for_protein_design_using_DL
 
-
+**awesome-molecular-generation**
 https://github.com/amorehead/awesome-molecular-generation
 
 
