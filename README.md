@@ -557,15 +557,9 @@ Thomas, M., O’Boyle, N.M., Bender, A. et al.
 Atance, S.R., Diez, J.V., Engkvist, O., Olsson, S. and Mercado, R.  
 [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00838) |  [code](https://github.com/olsson-group/RL-GraphINVENT) 
 
-
 * **DRlinker: Deep Reinforcement Learning for Optimization in Fragment Linking Design** [2022]
   Tan, Y., Dai, L., Huang, W., Guo, Y., Zheng, S., Lei, J., ... & Yang, Y. 
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00982) |  [code](https://github.com/biomed-AI/DRlinker) 
-
-
-* **Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation** [2021]  
-  Yang, S., Hwang, D., Lee, S., Ryu, S., & Hwang, S. J.  
-  [Paper](https://arxiv.org/abs/2110.01219) |  [code](https://github.com/AITRICS/FREED) 
 
 * **Widely Used and Fast De Novo Drug Design by a Protein Sequence-Based Reinforcement Learning Model** [2022]  
 Li, Yaqin, Lingli Li, Yongjin Xu, and Yi Yu.
@@ -586,7 +580,35 @@ Li, Yaqin, Lingli Li, Yongjin Xu, and Yi Yu.
 * **De novo design of protein target specific scaffold-based Inhibitors via Reinforcement Learning** [2022]  
   Bontha M, McNaughton A, Knutson C, Pope J, Kumar N.  
   [Paper](https://openreview.net/forum?id=k-ES3OH7eqp)
+
+* **Autonomous molecule generation using reinforcement learning and docking to develop potential novel inhibitors** [2022]  
+  Jeon, W., Kim, D.  
+  [Paper](https://doi.org/10.1038/s41598-020-78537-2) |  [code](https://github.com/wsjeon92/morld) 
+
+* **Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation** [2021]  
+  Yang, S., Hwang, D., Lee, S., Ryu, S., & Hwang, S. J.  
+  [Paper](https://arxiv.org/abs/2110.01219) |  [code](https://github.com/AITRICS/FREED) 
+
+* **Unlocking reinforcement learning for drug design** [2021]  
  
+  [code](https://github.com/DarkMatterAI/mrl) 
+
+* **MoleGuLAR: Molecule Generation Using Reinforcement Learning with Alternating Rewards** [2021]  
+Goel, Manan, Shampa Raghunathan, Siddhartha Laghuvarapu, and U. Deva Priyakumar.  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01341) |  [code](https://github.com/devalab/MoleGuLAR) 
+
+* **Memory-Assisted Reinforcement Learning for Diverse Molecular De Novo Design** [2020]  
+Blaschke T, Engkvist O, Bajorath J, Chen H.  
+  [Paper](https://doi.org/10.26434/chemrxiv.12693152.v1) |  [code](https://github.com/tblaschke/reinvent-memory) 
+
+* **Reinforcement Learning for Molecular Design Guided by Quantum Mechanics** [2020]  
+Simm, G., Pinsler, R. and Hernández-Lobato, J.M.,  
+  [Paper](http://proceedings.mlr.press/v119/simm20b/simm20b.pdf) |  [code](https://github.com/gncs/molgym) 
+
+* **Molecular de-novo design through deep reinforcement learning** [2017]  
+Olivecrona, M., Blaschke, T., Engkvist, O. et al.  
+  [Paper](https://doi.org/10.1186/s13321-017-0235-x) |  [code](https://github.com/tblaschke/reinvent) 
+
 
 ## Ligand-based deep molecular generative models
 
@@ -642,6 +664,10 @@ Li, Yaqin, Lingli Li, Yongjin Xu, and Yi Yu.
 * **LIMO: Latent Inceptionism for Targeted Molecule Generation** [2022]  
   Eckmann, Peter, Kunyang Sun, Bo Zhao, Mudong Feng, Michael K. Gilson, and Rose Yu.  
   [Paper](https://arxiv.org/abs/2206.09010) |  [code](https://github.com/rose-stl-lab/limo) 
+
+* **Autonomous molecule generation using reinforcement learning and docking to develop potential novel inhibitors** [2022]  
+  Jeon, W., Kim, D.  
+  [Paper](https://doi.org/10.1038/s41598-020-78537-2) |  [code](https://github.com/wsjeon92/morld) 
 
 * **Transformer neural network for protein-specific de novo drug generation as a machine translation proble** [2021]  
   Grechishnikova, Daria.   
