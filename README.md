@@ -516,9 +516,13 @@ Morehead, Alex, and Jianlin Cheng.
 Huang, Lei, Hengtong Zhang, Tingyang Xu, and Ka-Chun Wong.  
 [Paper](https://arxiv.org/abs/2209.05710)
 
+* **Diffusion-based Molecule Generation with Informative Prior Bridges** [2022]  
+Lemeng Wu, Chengyue Gong, Xingchao Liu, Mao Ye, Qiang Liu  
+[Paper](https://arxiv.org/abs/2209.00865)
 
-
-
+* **Equivariant Diffusion for Molecule Generation in 3D** [2022]  
+Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.  
+[Paper](https://arxiv.org/abs/2203.17003) |  [code](https://github.com/ehoogeboom/e3_diffusion_for_molecules) 
 
 
 
