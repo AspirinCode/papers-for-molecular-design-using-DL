@@ -500,6 +500,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correia, B.   
 [Paper](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD) 
 
+* **Equivariant 3D-Conditional Diffusion Models for Molecular Linker Desig** [2023]  
+Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., Bronstein, M. and Correia, B.,   
+[Paper](https://openreview.net/forum?id=cnsHSSLnHVV) |  [code](https://github.com/igashov/DiffLinker) 
+
 * **MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation** [2023]  
 Vignac, Clement, Nagham Osman, Laura Toni, and Pascal Frossard.  
 [Paper](https://arxiv.org/abs/2302.09048) |  [code](https://github.com/cvignac/MiDi) 
@@ -685,7 +689,9 @@ Thomas, M., O’Boyle, N.M., Bender, A. et al.
 
 ### Linkers-based DMGs
 
-
+* **Equivariant 3D-Conditional Diffusion Models for Molecular Linker Desig** [2023]  
+Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., Bronstein, M. and Correia, B.,   
+[Paper](https://openreview.net/forum?id=cnsHSSLnHVV) |  [code](https://github.com/igashov/DiffLinker) 
 
 * **DRlinker: Deep Reinforcement Learning for Optimization in Fragment Linking Design** [2022]  
   Tan, Y., Dai, L., Huang, W., Guo, Y., Zheng, S., Lei, J., ... & Yang, Y.  
