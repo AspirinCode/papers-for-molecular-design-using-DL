@@ -830,13 +830,25 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
   Bontha M, McNaughton A, Knutson C, Pope J, Kumar N.  
   [Paper](https://openreview.net/forum?id=k-ES3OH7eqp)
 
+* **LibINVENT: Reaction-based Generative Scaffold Decoration for in Silico Library Design** [2022]  
+  Fialková, V., Zhao, J., Papadopoulos, K., Engkvist, O., Bjerrum, E.J., Kogej, T. and Patronov, A   
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00469) |  [code](https://github.com/MolecularAI/Lib-INVENT) 
 
+**Deep scaffold hopping with multimodal transformer neural networks** [2021]  
+Zheng, Shuangjia, Zengrong Lei, Haitao Ai, Hongming Chen, Daiguo Deng, and Yuedong Yang.  
+  [Paper](https://doi.org/10.1186/s13321-021-00565-5) |  [code](https://github.com/prokia/deepHops) 
 
+**Kinase Inhibitor Scaffold Hopping with Deep Learning Approaches** [2021]  
+Hu, Lizhao, Yuyao Yang, Shuangjia Zheng, Jun Xu, Ting Ran, and Hongming Chen.  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00608) |  [code](https://github.com/YuYaoYang2333/SyntaLinker) 
 
+**3D-Scaffold: A Deep Learning Framework to Generate 3D Coordinates of Drug-like Molecules with Desired Scaffolds** [2021]  
+Joshi, Rajendra P., Niklas WA Gebauer, Mridula Bontha, Mercedeh Khazaieli, Rhema M. James, James B. Brown, and Neeraj Kumar.  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c06437) |  [code](https://github.com/PNNL-CompBio/3D_Scaffold) 
 
-
-
-
+**Scaffold-based molecular design with a graph generative model** [2019]  
+Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.  
+  [Paper](https://pubs.rsc.org/en/content/articlelanding/2020/SC/C9SC04503A) |  [code](https://github.com/jaechanglim/GGM) 
 
 
 
