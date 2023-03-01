@@ -846,6 +846,10 @@ Hu, Lizhao, Yuyao Yang, Shuangjia Zheng, Jun Xu, Ting Ran, and Hongming Chen.
 Joshi, Rajendra P., Niklas WA Gebauer, Mridula Bontha, Mercedeh Khazaieli, Rhema M. James, James B. Brown, and Neeraj Kumar.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c06437) |  [code](https://github.com/PNNL-CompBio/3D_Scaffold) 
 
+**SMILES-Based Deep Generative Scaffold Decorator for De-Novo Drug Design** [2020]  
+Arús-Pous, Josep, Atanas Patronov, Esben Jannik Bjerrum, Christian Tyrchan, Jean-Louis Reymond, Hongming Chen, and Ola Engkvist.  
+  [Paper](https://doi.org/10.26434/chemrxiv.11638383.v1) |  [code](https://github.com/undeadpixel/reinvent-scaffold-decorator) 
+
 **Scaffold-based molecular design with a graph generative model** [2019]  
 Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.  
   [Paper](https://pubs.rsc.org/en/content/articlelanding/2020/SC/C9SC04503A) |  [code](https://github.com/jaechanglim/GGM) 
