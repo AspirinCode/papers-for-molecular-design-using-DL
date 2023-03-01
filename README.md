@@ -496,18 +496,21 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+* **Structure-based Drug Design with Equivariant Diffusion Models** [2023]  
+Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correia, B.   
+[Paper](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD) 
 
-
-
-
-
-
+* **MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation** [2023]  
+Vignac, Clement, Nagham Osman, Laura Toni, and Pascal Frossard.  
+[Paper](https://arxiv.org/abs/2302.09048) |  [code](https://github.com/cvignac/MiDi) 
 
 * **Geometry-Complete Diffusion for 3D Molecule Generation** [2023]  
 Morehead, Alex, and Jianlin Cheng.  
 [Paper](https://arxiv.org/abs/2302.04313) |  [code](https://github.com/BioinfoMachineLearning/bio-diffusion) 
 
-
+* **MDM: Molecular Diffusion Model for 3D Molecule Generation** [2022]  
+Huang, Lei, Hengtong Zhang, Tingyang Xu, and Ka-Chun Wong.  
+[Paper](https://arxiv.org/abs/2209.05710)
 
 
 
