@@ -12,6 +12,10 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 
 https://github.com/Peldom/papers_for_protein_design_using_DL
 
+**Awesome Generative AI**
+
+https://github.com/steven2358/awesome-generative-ai
+
 **awesome-molecular-generation**
 
 https://github.com/amorehead/awesome-molecular-generation
