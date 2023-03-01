@@ -839,23 +839,23 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
   Maziarz, Krzysztof, Henry Jackson-Flux, Pashmina Cameron, Finton Sirockin, Nadine Schneider, Nikolaus Stiefl, Marwin Segler, and Marc Brockschmidt.   
   [Paper](https://openreview.net/forum?id=ZTsoE8G3GG)
 
-**Deep scaffold hopping with multimodal transformer neural networks** [2021]  
+* **Deep scaffold hopping with multimodal transformer neural networks** [2021]  
 Zheng, Shuangjia, Zengrong Lei, Haitao Ai, Hongming Chen, Daiguo Deng, and Yuedong Yang.  
   [Paper](https://doi.org/10.1186/s13321-021-00565-5) |  [code](https://github.com/prokia/deepHops) 
 
-**Kinase Inhibitor Scaffold Hopping with Deep Learning Approaches** [2021]  
+* **Kinase Inhibitor Scaffold Hopping with Deep Learning Approaches** [2021]  
 Hu, Lizhao, Yuyao Yang, Shuangjia Zheng, Jun Xu, Ting Ran, and Hongming Chen.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00608) |  [code](https://github.com/YuYaoYang2333/SyntaLinker) 
 
-**3D-Scaffold: A Deep Learning Framework to Generate 3D Coordinates of Drug-like Molecules with Desired Scaffolds** [2021]  
+* **3D-Scaffold: A Deep Learning Framework to Generate 3D Coordinates of Drug-like Molecules with Desired Scaffolds** [2021]  
 Joshi, Rajendra P., Niklas WA Gebauer, Mridula Bontha, Mercedeh Khazaieli, Rhema M. James, James B. Brown, and Neeraj Kumar.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c06437) |  [code](https://github.com/PNNL-CompBio/3D_Scaffold) 
 
-**SMILES-Based Deep Generative Scaffold Decorator for De-Novo Drug Design** [2020]  
+* **SMILES-Based Deep Generative Scaffold Decorator for De-Novo Drug Design** [2020]  
 Arús-Pous, Josep, Atanas Patronov, Esben Jannik Bjerrum, Christian Tyrchan, Jean-Louis Reymond, Hongming Chen, and Ola Engkvist.  
   [Paper](https://doi.org/10.26434/chemrxiv.11638383.v1) |  [code](https://github.com/undeadpixel/reinvent-scaffold-decorator) 
 
-**Scaffold-based molecular design with a graph generative model** [2019]  
+* **Scaffold-based molecular design with a graph generative model** [2019]  
 Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.  
   [Paper](https://pubs.rsc.org/en/content/articlelanding/2020/SC/C9SC04503A) |  [code](https://github.com/jaechanglim/GGM) 
 
@@ -867,7 +867,9 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
   Maziarz, Krzysztof, Henry Jackson-Flux, Pashmina Cameron, Finton Sirockin, Nadine Schneider, Nikolaus Stiefl, Marwin Segler, and Marc Brockschmidt.   
   [Paper](https://openreview.net/forum?id=ZTsoE8G3GG)
 
-
+* **Hierarchical generation of molecular graphs using structural motifs** [2020]  
+  Jin, Wengong, Regina Barzilay, and Tommi Jaakkola.   
+  [Paper](https://dl.acm.org/doi/abs/10.5555/3524938.3525387) |  [code](https://github.com/wengong-jin/hgraph2graph) 
 
 ### Fragment-based DMGs
 
