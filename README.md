@@ -187,7 +187,9 @@ Fréchet ChemNet Distance: A Metric for Generative Models for Molecules in Drug 
 
 https://github.com/bioinf-jku/FCD
 
-
+* **Perplexity-Based Molecule Ranking and Bias Estimation of Chemical Language Models** [2022]  
+Moret, M., Grisoni, F., Katzberger, P. and Schneider, G.  
+[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00079) |  [code](https://github.com/ETHmodlab/CLM_perplexity) 
 
 ## Deep Learning-based design
 
