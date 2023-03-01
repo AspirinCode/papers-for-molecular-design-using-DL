@@ -407,6 +407,10 @@ Santana, M.V.S., Silva-Jr, F.P.
   Kwon, Youngchun, Dongseon Lee, Youn-Suk Choi, Kyoham Shin, and Seokho Kang.  
   [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00463-2) |  [code](https://github.com/seokhokang/graphvae_compress) 
 
+* **Fragment Graphical Variational AutoEncoding for Screening Molecules with Small Data** [2019]  
+  Armitage, John, Leszek J. Spalek, Malgorzata Nguyen, Mark Nikolka, Ian E. Jacobs, Lorena Marañón, Iyad Nasrallah et al.  
+  [Paper](https://arxiv.org/abs/1910.13325) |  [code](https://github.com/OE-FET/FraGVAE) 
+
 * **Molecular generative model based on conditional variational autoencoder for de novo molecular design** [2018]  
   Lim, J., Ryu, S., Kim, J. W., & Kim, W. Y.   
   [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0286-7) |  [code](https://github.com/jaechanglim/CVAE) 
@@ -592,6 +596,10 @@ Li, Yaqin, Lingli Li, Yongjin Xu, and Yi Yu.
 * **Autonomous molecule generation using reinforcement learning and docking to develop potential novel inhibitors** [2022]  
   Jeon, W., Kim, D.  
   [Paper](https://doi.org/10.1038/s41598-020-78537-2) |  [code](https://github.com/wsjeon92/morld) 
+
+* **Scalable Fragment-Based 3D Molecular Design with Reinforcement Learning** [2022]  
+  Flam-Shepherd, Daniel, Alexander Zhigalin, and Alán Aspuru-Guzik.  
+  [Paper](https://arxiv.org/abs/2202.00658) 
 
 * **Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation** [2021]  
   Yang, S., Hwang, D., Lee, S., Ryu, S., & Hwang, S. J.  
@@ -790,6 +798,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
   Hadfield, Thomas E., Fergus Imrie, Andy Merritt, Kristian Birchall, and Charlotte M. Deane.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01311) |  [code](https://github.com/tomhadfield95/STRIFE) 
 
+* **Fragment-Based Ligand Generation Guided By Geometric Deep Learning On Protein-Ligand Structure** [2022]  
+  Powers, Alexander S., Helen H. Yu, Patricia Suriana, and Ron O. Dror.  
+  [Paper](https://www.biorxiv.org/content/10.1101/2022.03.17.484653v2) 
+
 * **Zero-Shot 3D Drug Design by Sketching and Generating** [2022]  
   Long, Siyu, Yi Zhou, Xinyu Dai, and Hao Zhou.   
   [Paper](https://nips.cc/media/neurips-2022/Slides/54457.pdf) |  [code](https://github.com/longlongman/DESERT) 
@@ -874,6 +886,8 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
   Jin, Wengong, Regina Barzilay, and Tommi Jaakkola.   
   [Paper](https://dl.acm.org/doi/abs/10.5555/3524938.3525387) |  [code](https://github.com/wengong-jin/hgraph2graph) 
 
+
+
 ### Fragment-based DMGs
 
 * **MacFrag: segmenting large-scale molecules to obtain diverse fragments with high qualities** [2023]  
@@ -896,15 +910,33 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
   Hadfield, Thomas E., Fergus Imrie, Andy Merritt, Kristian Birchall, and Charlotte M. Deane.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01311) |  [code](https://github.com/tomhadfield95/STRIFE) 
 
+* **Fragment-Based Ligand Generation Guided By Geometric Deep Learning On Protein-Ligand Structure** [2022]  
+  Powers, Alexander S., Helen H. Yu, Patricia Suriana, and Ron O. Dror.  
+  [Paper](https://www.biorxiv.org/content/10.1101/2022.03.17.484653v2) 
+
+* **FAME: Fragment-based Conditional Molecular Generation for Phenotypic Drug Discovery** [2022]  
+  Pham, Thai-Hoang, Lei Xie, and Ping Zhang.  
+  [Paper](https://www.biorxiv.org/content/10.1101/2022.01.21.477292v1) 
+
+* **Scalable Fragment-Based 3D Molecular Design with Reinforcement Learning** [2022]  
+  Flam-Shepherd, Daniel, Alexander Zhigalin, and Alán Aspuru-Guzik.  
+  [Paper](https://arxiv.org/abs/2202.00658) 
+
 * **Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation** [2021]  
   Yang, S., Hwang, D., Lee, S., Ryu, S., & Hwang, S. J.  
   [Paper](https://arxiv.org/abs/2110.01219) |  [code](https://github.com/AITRICS/FREED) 
 
+* **Automated Generation of Novel Fragments Using Screening Data, a Dual SMILES Autoencoder, Transfer Learning and Syntax Correction** [2021]  
+  Bilsland, Alan E., Kirsten McAulay, Ryan West, Angelo Pugliese, and Justin Bower.  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01226) |  [code](https://github.com/abilsland/fragmentEncoder) 
 
+* **A Deep Generative Model for Fragment-Based Molecule Generation** [2020]  
+  Podda, Marco, Davide Bacciu, and Alessio Micheli.  
+  [Paper](http://proceedings.mlr.press/v108/) |  [code](https://github.com/hengwei-chan/fragment-based-de-novo) 
 
-
-
-
+* **Fragment Graphical Variational AutoEncoding for Screening Molecules with Small Data** [2019]  
+  Armitage, John, Leszek J. Spalek, Malgorzata Nguyen, Mark Nikolka, Ian E. Jacobs, Lorena Marañón, Iyad Nasrallah et al.  
+  [Paper](https://arxiv.org/abs/1910.13325) |  [code](https://github.com/OE-FET/FraGVAE) 
 
 
 
@@ -931,4 +963,10 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
   Feng, Yu, Yuyao Yang, Wenbin Deng, Hongming Chen, and Ting Ran.    
   [Paper](https://doi.org/10.1016/j.ailsci.2022.100035) 
 
+* **Deep Generative Models for 3D Linker Design** [2020]  
+  Imrie, Fergus, Anthony R. Bradley, Mihaela van der Schaar, and Charlotte M. Deane.  
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01120) |  [code](https://github.com/fimrie/DeLinker) 
 
+* **SyntaLinker: automatic fragment linking with deep conditional transformer neural networks** [2020]  
+  Yang, Yuyao, Shuangjia Zheng, Shimin Su, Chao Zhao, Jun Xu, and Hongming Chen.  
+  [Paper](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc03126g) |  [code](https://github.com/YuYaoYang2333/SyntaLinker) 
