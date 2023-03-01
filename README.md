@@ -2,7 +2,7 @@
 # List of molecular design using Generative AI and Deep Learning 
 ![contributing-image](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
-related to  **Generative AI** and **Deep Learning** for  **molecular design**.
+related to  **Generative AI** and **Deep Learning** for  **molecular/drug design**.
 
 **Updating ...**
 
