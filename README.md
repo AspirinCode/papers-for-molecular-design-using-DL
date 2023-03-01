@@ -575,14 +575,17 @@ Li, Yaqin, Lingli Li, Yongjin Xu, and Yi Yu.
   Ishitani, R., Kataoka, T. and Rikimaru, K.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00366) |  [code](https://github.com/pfnet-research/RJT-RL) 
 
-
 * **Accelerated rational PROTAC design via deep learning and molecular simulations** [2022]  
   Zheng, S., Tan, Y., Wang, Z. et al.  
   [Paper](https://www.nature.com/articles/s42256-022-00527-y) |  [code](https://github.com/biomed-AI/PROTAC-RL) 
   
+* **Improving de novo molecular design with curriculum learning** [2022]  
+  Guo, J., Fialková, V., Arango, J.D. et al.  
+  [Paper](https://doi.org/10.1038/s42256-022-00494-4) |  [code](https://github.com/MolecularAI/ReinventCommunity/blob/master/notebooks/Automated_Curriculum_Learning_Demo.ipynb)  
  
- 
- 
+* **De novo design of protein target specific scaffold-based Inhibitors via Reinforcement Learning** [2022]  
+  Bontha M, McNaughton A, Knutson C, Pope J, Kumar N.  
+  [Paper](https://openreview.net/forum?id=k-ES3OH7eqp)
  
 
 ## Ligand-based deep molecular generative models
@@ -628,6 +631,9 @@ Li, Yaqin, Lingli Li, Yongjin Xu, and Yi Yu.
   Wu, K., Xia, Y., Fan, Y., Deng, P., Liu, H., Wu, L., ... & Liu, T. Y.  
   [Paper](https://arxiv.org/abs/2209.06158) |  [code](https://github.com/HankerWu/TamGent) 
 
+* **De novo design of protein target specific scaffold-based Inhibitors via Reinforcement Learning** [2022]  
+  Bontha M, McNaughton A, Knutson C, Pope J, Kumar N.  
+  [Paper](https://openreview.net/forum?id=k-ES3OH7eqp)
 
 * **AlphaDrug: protein target specific de novo molecular generation** [2022]  
   Qian, Hao, Cheng Lin, Dengwei Zhao, Shikui Tu, and Lei Xu.  
@@ -668,10 +674,6 @@ Li, Yaqin, Lingli Li, Yongjin Xu, and Yi Yu.
 ### Scaffold-based DMGs
 
 
-
-
-
-
 * **DrugEx v3: scaffold-constrained drug design with graph transformer-based reinforcement learning** [2023]  
   Liu, X., Ye, K., van Vlijmen, H.W.T. et al.    
   [Paper](https://doi.org/10.1186/s13321-023-00694-z) |  [code](https://github.com/CDDLeiden/DrugEx) 
@@ -680,7 +682,9 @@ Li, Yaqin, Lingli Li, Yongjin Xu, and Yi Yu.
   Zhirui Liao, Lei Xie, Hiroshi Mamitsuka, Shanfeng Zhu.  
   [Paper](https://doi.org/10.1093/bioinformatics/btac814) |  [code](https://github.com/zhiruiliao/Sc2Mol) 
 
-
+* **De novo design of protein target specific scaffold-based Inhibitors via Reinforcement Learning** [2022]  
+  Bontha M, McNaughton A, Knutson C, Pope J, Kumar N.  
+  [Paper](https://openreview.net/forum?id=k-ES3OH7eqp)
 
 
 
