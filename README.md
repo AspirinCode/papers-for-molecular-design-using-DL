@@ -704,7 +704,7 @@ Ross, J., Belgodere, B., Chenthamarakshan, V., Padhi, I., Mroueh, Y., & Das, P.
 
 * **A recurrent neural network (RNN) that generates drug-like molecules for drug discovery** [2021]  
 
-[code](https://github.com/shiwentao00/Molecule-RNN) 
+  [code](https://github.com/shiwentao00/Molecule-RNN) 
 
 * **A molecule generative model used interaction fingerprint (docking pose) as constraints** [2021]  
   [code](https://github.com/jeah-z/IFP-RNN) 
