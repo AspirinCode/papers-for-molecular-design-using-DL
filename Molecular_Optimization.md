@@ -1,10 +1,17 @@
 # Molecular-Optimization via **Generative AI** and Deep Learning
 ![contributing-image](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
-papers related to  **Generative AI** and **Deep Learning** for **Molecular Optimization**.
+papers related to  **Generative AI** and **Deep Learning** for **Molecular Optimization**.  
 
 
+
+**A visual presentation of the process of molecular optimization**
 ![Molecular Optimization](https://github.com/AspirinCode/papers-for-molecular-design-using-DL/blob/main/figures/IPF_BAY-6672.png)
+
+**Refs**  
+Beck, Hartmut, Tobias Thaler, Daniel Meibom, Mark Meininghaus, Hannah Jörißen, Lisa Dietz, Carsten Terjung et al. "Potent and selective human prostaglandin F (FP) receptor antagonist (BAY-6672) for the treatment of idiopathic pulmonary fibrosis (IPF)." Journal of medicinal chemistry 63, no. 20 (2020): 11639-11662.
+
+
 
 
 ## Menu
