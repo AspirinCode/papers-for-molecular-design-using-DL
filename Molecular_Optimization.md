@@ -4,7 +4,7 @@
 papers related to  **Generative AI** and **Deep Learning** for **Molecular Optimization**.
 
 
-![Molecular Optimization]([https://github.com/AspirinCode/iPPIGAN/blob/main/Image/iPPIGAN.png](https://github.com/AspirinCode/papers-for-molecular-design-using-DL/blob/main/figures/IPF_BAY-6672.png)
+![Molecular Optimization]([https://github.com/AspirinCode/iPPIGAN/blob/main/Image/iPPIGAN.png](https://github.com/AspirinCode/papers-for-molecular-design-using-DL/blob/main/figures/IPF_BAY-6672.png))
 
 
 ## Menu
