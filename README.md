@@ -655,7 +655,7 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 * **De novo generation of dual-target ligands using adversarial training and reinforcement learning** [2021]  
  Lu, Fengqing, Mufei Li, Xiaoping Min, Chunyan Li, and Xiangxiang Zeng.    
-  [Paper](https://doi.org/10.1093/bib/bbab333) | [code](hhttps://github.com/lllfq/DLGN) 
+  [Paper](https://doi.org/10.1093/bib/bbab333) | [code](https://github.com/lllfq/DLGN) 
 
 
 
