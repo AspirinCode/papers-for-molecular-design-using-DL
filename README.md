@@ -4,7 +4,11 @@
 
 related to  **Generative AI** and **Deep Learning** for  **molecular/drug design**.
 
-**Updating ...**
+**Updating ...**  
+
+## Molecular Optimization
+[Molecular Optimization](https://github.com/AspirinCode/papers-for-molecular-design-using-DL/blob/main/Molecular_Optimization.md) will welcome ！！！
+
 
 ## Recommendations and References
 
