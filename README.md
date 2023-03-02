@@ -55,7 +55,8 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
     - [Diffusion-based](#Diffusion-based)
     - [RL-based](#RL-based)
     - [Multi-task DMGs](#Multi-task-DMGs)
-
+ 
+  - [Multi-Target-based deep molecular generative models](#Multi-Target-based-deep molecular-generative-models)
   - [Ligand-based deep molecular generative models](#Ligand-based-deep-molecular-generative-models)
   - [Pharmacophore-based deep molecular generative models](#Pharmacophore-based-deep-molecular-generative-models)
   - [Structure-based deep molecular generative models](#Structure-based-deep-molecular-generative-models)
@@ -646,6 +647,16 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 * **Molecular Language Model as Multi-task Generator** [2023]  
  Fang, Y., Zhang, N., Chen, Z., Fan, X. and Chen, H.    
   [Paper](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
+
+
+## Multi-Target-based deep molecular generative models
+
+
+* **De novo generation of dual-target ligands using adversarial training and reinforcement learning** [2021]  
+ Lu, Fengqing, Mufei Li, Xiaoping Min, Chunyan Li, and Xiangxiang Zeng.    
+  [Paper](https://doi.org/10.1093/bib/bbab333) |  [code](hhttps://github.com/lllfq/DLGN) 
+
+
 
 
 ## Ligand-based deep molecular generative models
