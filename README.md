@@ -408,6 +408,10 @@ Santana, M.V.S., Silva-Jr, F.P.
   Kim, H., Ko, S., Kim, B.J. *et al.*  
   [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00666-9) |  [code](https://github.com/HwanheeKim813/stack_CVAE) 
 
+* **Geometry-Based Molecular Generation With Deep Constrained Variational Autoencoder** [2022]   
+  Li, Chunyan, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, and Jianmin Wang.   
+  [Paper](https://ieeexplore.ieee.org/abstract/document/9714718) |  [code](https://github.com/anny0316/GEOM-CVAE) 
+
 * **Inverse design of nanoporous crystalline reticular materials with deep generative models.** [2021]  
   Yao, Z., Sánchez-Lengeling, B., Bobbitt, N.S. et al.  
   [Paper](https://doi.org/10.1038/s42256-020-00271-1) |  [code](https://github.com/zhenpengyao/Supramolecular_VAE) 
