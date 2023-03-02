@@ -56,7 +56,7 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
     - [RL-based](#RL-based)
     - [Multi-task DMGs](#Multi-task-DMGs)
  
-  - [Multi-Target-based deep molecular generative models](#Multi-Target-based-deep molecular-generative-models)
+  - [Multi-Target based deep molecular generative models](#Multi-Target-based-deep molecular-generative-models)
   - [Ligand-based deep molecular generative models](#Ligand-based-deep-molecular-generative-models)
   - [Pharmacophore-based deep molecular generative models](#Pharmacophore-based-deep-molecular-generative-models)
   - [Structure-based deep molecular generative models](#Structure-based-deep-molecular-generative-models)
