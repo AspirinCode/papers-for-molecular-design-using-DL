@@ -674,11 +674,11 @@ Wang, Jianmin, et al.
   Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.  
   [Paper](https://doi.org/10.1093/bib/bbac285) |  [code](https://github.com/AspirinCode/iPPIGAN) 
 
-* **DeLA-Drug: A Deep Learning Algorithm for Automated Design of Druglike Analogues** [2022]
-  Creanza, T. M., Lamanna, G., Delre, P., Contino, M., Corriero, N., Saviano, M., ... & Ancona, N. 
+* **DeLA-Drug: A Deep Learning Algorithm for Automated Design of Druglike Analogues** [2022]  
+  Creanza, T. M., Lamanna, G., Delre, P., Contino, M., Corriero, N., Saviano, M., ... & Ancona, N.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00205) |  [Web](http://www.ba.ic.cnr.it/softwareic/deladrugportal/) 
 
-* **SMILES-based CharLSTM with finetuning and goal-directed generation via policy gradient** [2022]
+* **SMILES-based CharLSTM with finetuning and goal-directed generation via policy gradient** [2022]  
 
   [code](https://github.com/gmattedi/Smiles-LSTM) 
 
@@ -686,19 +686,19 @@ Wang, Jianmin, et al.
 Ross, J., Belgodere, B., Chenthamarakshan, V., Padhi, I., Mroueh, Y., & Das, P.   
 [Paper](https://www.nature.com/articles/s42256-022-00580-7) |  [code](https://github.com/IBM/molformer) 
 
-* **Augmented Hill-Climb increases reinforcement learning efficiency for language-based de novo molecule generation** [2022]
-  Thomas, M., O’Boyle, N.M., Bender, A. et al.
+* **Augmented Hill-Climb increases reinforcement learning efficiency for language-based de novo molecule generation** [2022]  
+  Thomas, M., O’Boyle, N.M., Bender, A. et al.  
   [Paper](https://doi.org/10.1186/s13321-022-00646-z) |  [code](https://github.com/MorganCThomas/SMILES-RNN) 
 
-* **De novo molecule design with chemical language models** [2022]
-  Grisoni, F., Schneider, G.
+* **De novo molecule design with chemical language models** [2022]  
+  Grisoni, F., Schneider, G.  
   [Paper](https://doi.org/10.1007/978-1-0716-1787-8_9) |  [code](https://github.com/grisoniFr/de_novo_design_RNN) 
 
 * **Can We Quickly Learn to “Translate” Bioactive Molecules with Transformer Models?** [2022]  
   Bagal, V., Aggarwal, R., Vinod, P. K., & Priyakumar, U. D.  
   [Paper](https://doi.org/10.26434/chemrxiv-2022-gln27)
 
-* **MolGPT: Molecular Generation Using a Transformer-Decoder Model** [2022]  
+* **MolGPT: Molecular Generation Using a Transformer-Decoder Model** [2022]   
   Bagal, V., Aggarwal, R., Vinod, P. K., & Priyakumar, U. D.  
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) |  [code](https://github.com/devalab/molgpt) 
 
