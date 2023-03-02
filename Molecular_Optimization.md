@@ -57,14 +57,18 @@ papers related to  **Generative AI** and **Deep Learning** for **Molecular Optim
   He, Jiazhen, Eva Nittinger, Christian Tyrchan, Werngard Czechtizky, Atanas Patronov, Esben Jannik Bjerrum, and Ola Engkvist.  
   [Paper](https://doi.org/10.1186/s13321-022-00599-3) |  [code](https://github.com/MolecularAI/deep-molecular-optimization/tree/general_transformation) 
 
-  
+* **Transformer Neural Network-Based Molecular Optimization Using General Transformations** [2021]  
+  He, Jiazhen, Eva Nittinger, Christian Tyrchan, Werngard Czechtizky, Atanas Patronov, Esben Jannik Bjerrum, and Ola Engkvist.  
+  [Paper](https://doi.org/10.26434/chemrxiv-2021-z8rk6) |  [code](https://github.com/MolecularAI/deep-molecular-optimization/tree/general_transformation)  
 
 
 
 ### VAE-based
 
 
-
+* **Constrained Bayesian optimization for automatic chemical design using variational autoencoders** [2019]  
+  Griffiths, Ryan-Rhys, and José Miguel Hernández-Lobato.  
+  [Paper](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc04026a) |  [code](https://github.com/Ryan-Rhys/Constrained-Bayesian-Optimisation-for-Automatic-Chemical-Design) 
 
 
 
@@ -93,6 +97,9 @@ Huang, Lei.
 
 ### RL-based
 
+* **Gargoyles: An Open Source Graph-based molecular optimization method based on Deep Reinforcement Learning** [2023]  
+Erikawa, D., Yasuo, N., & Sekijima, M.   
+  [Paper](https://doi.org/10.26434/chemrxiv-2023-qrf85) |  [code](https://github.com/sekijima-lab/GARGOYLES) 
 
 
 * **Deep Reinforcement Learning for Multiparameter Optimization in de novo Drug Design** [2019]  
@@ -132,10 +139,6 @@ Huang, Lei.
 * **Fragment-Based Sequential Translation for Molecular Optimization** [2021]  
   Chen, Benson, Xiang Fu, Regina Barzilay, and Tommi Jaakkola.  
   [Paper](https://openreview.net/forum?id=E_Slr0JVvuC) 
-
-
-
-### Linkers-based Molecular Optimization
 
 
 
