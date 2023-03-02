@@ -133,6 +133,11 @@ Huang, Lei.
 
 ### RL-based
 
+
+* **ReBADD-SE: Multi-objective molecular optimisation using SELFIES fragment and off-policy self-critical sequence training** [2023]  
+Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
+  [Paper]([https://doi.org/10.26434/chemrxiv-2023-qrf85](https://doi.org/10.1016/j.compbiomed.2023.106721)) |  [code](https://github.com/mathcom/ReBADD-SE) 
+
 * **Gargoyles: An Open Source Graph-based molecular optimization method based on Deep Reinforcement Learning** [2023]  
 Erikawa, D., Yasuo, N., & Sekijima, M.   
   [Paper](https://doi.org/10.26434/chemrxiv-2023-qrf85) |  [code](https://github.com/sekijima-lab/GARGOYLES) 
@@ -167,6 +172,10 @@ Erikawa, D., Yasuo, N., & Sekijima, M.
 
 
 ### Fragment-based Molecular Optimization
+
+* **ReBADD-SE: Multi-objective molecular optimisation using SELFIES fragment and off-policy self-critical sequence training** [2023]  
+Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
+  [Paper]([https://doi.org/10.26434/chemrxiv-2023-qrf85](https://doi.org/10.1016/j.compbiomed.2023.106721)) |  [code](https://github.com/mathcom/ReBADD-SE) 
 
 * **A deep generative model for molecule optimization via one fragment modification** [2021]  
   Chen, Ziqi, Martin Renqiang Min, Srinivasan Parthasarathy, and Xia Ning.  
