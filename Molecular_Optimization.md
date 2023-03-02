@@ -14,6 +14,32 @@ papers related to  **Generative AI** and **Deep Learning** for **Molecular Optim
 
 
 
+## Datasets and Benchmarks
+
+### Datasets
+
+**DrugBank**
+
+https://go.drugbank.com/
+
+
+**ChEMBL**
+
+https://www.ebi.ac.uk/chembl/
+
+
+**PubChem**
+
+https://pubchem.ncbi.nlm.nih.gov/
+
+
+
+### Benchmarks
+
+
+* **Sample Efficiency Matters: A Benchmark for Practical Molecular Optimization** [2022]  
+  Gao, Wenhao, Tianfan Fu, Jimeng Sun, and Connor W. Coley.  
+  [Paper](https://arxiv.org/abs/2206.12411) |  [code](https://github.com/wenhao-gao/mol_opt) 
 
 
 
