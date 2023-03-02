@@ -662,8 +662,8 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 ## Ligand-based deep molecular generative models
 
-* **Leveraging molecular structure and bioactivity with chemical language models for de novo drug design** [2023]
-  Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
+* **Leveraging molecular structure and bioactivity with chemical language models for de novo drug design** [2023]  
+  Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
   [Paper](https://www.nature.com/articles/s41467-022-35692-6) |  [code](https://github.com/ETHmodlab/hybridCLMs/tree/v1.0) 
 
 * **Explore drug-like space with deep generative models** [2023]  
