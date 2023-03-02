@@ -649,7 +649,7 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
   [Paper](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
 
 
-## Multi-Target-based deep molecular generative models
+## Multi-Target based deep molecular generative models
 
 
 * **De novo generation of dual-target ligands using adversarial training and reinforcement learning** [2021]  
