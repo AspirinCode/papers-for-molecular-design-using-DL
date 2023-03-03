@@ -1026,6 +1026,8 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
   Born, Jannis, Matteo Manica, Ali Oskooei, Joris Cadow, Greta Markert, and María Rodríguez Martínez.   
   [Paper](https://doi.org/10.1016/j.isci.2021.102269) |  [code](https://github.com/PaccMann/paccmann_omics) 
 
-
+* **Molecular Generation for Desired Transcriptome Changes With Adversarial Autoencoders** [2020]  
+  Shayakhmetov, Rim, Maksim Kuznetsov, Alexander Zhebrak, Artur Kadurin, Sergey Nikolenko, Alexander Aliper, and Daniil Polykovskiy.   
+  [Paper](https://doi.org/10.3389/fphar.2020.00269) |  [code](https://github.com/insilicomedicine/BiAAE) 
 
 
