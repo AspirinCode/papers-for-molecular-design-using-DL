@@ -1033,7 +1033,17 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
   Wang, Jike, Xiaorui Wang, Huiyong Sun, Mingyang Wang, Yundian Zeng, Dejun Jiang, Zhenxing Wu et al.   
 [Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c01179) |  [code](https://github.com/jkwang93/ChemistGA) 
 
+* **Generating reaction trees with cascaded variational autoencoders** [2022]   
+  Nguyen, Dai Hai, and Koji Tsuda.   
+  [Paper](https://doi.org/10.1063/5.0076749) |  [code](https://github.com/haidnguyen0909/rxngenerator) 
 
+* **SynthI: A New Open-Source Tool for Synthon-Based Library Design** [2022]   
+  Zabolotna, Yuliana, Dmitriy M. Volochnyuk, Sergey V. Ryabukhin, Kostiantyn Gavrylenko, Dragos Horvath, Olga Klimchuk, Oleksandr Oksiuta, Gilles Marcou, and Alexandre Varnek.   
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00754) |  [code](https://github.com/Laboratoire-de-Chemoinformatique/Synt-On) 
+
+* **Integrating Synthetic Accessibility with AI-based Generative Drug Design** [2021]   
+  Parrot, Maud, Hamza Tajmouati, Vinicius Barros Ribeiro da Silva, Brian Atwood, Robin Fourcade, Yann Gaston-Mathé, Nicolas Do Huu, and Quentin Perron.   
+  [Paper](https://doi.org/10.26434/chemrxiv-2021-jkhzw-v2) |  [code](https://github.com/iktos/generation-under-synthetic-constraint) 
 
 ## Omics-based deep molecular generative models
 
