@@ -1030,4 +1030,9 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
   Shayakhmetov, Rim, Maksim Kuznetsov, Alexander Zhebrak, Artur Kadurin, Sergey Nikolenko, Alexander Aliper, and Daniil Polykovskiy.   
   [Paper](https://doi.org/10.3389/fphar.2020.00269) |  [code](https://github.com/insilicomedicine/BiAAE) 
 
+* **De novo generation of hit-like molecules from gene expression signatures using artificial intelligence** [2020]  
+  Méndez-Lucio, Oscar, Benoit Baillif, Djork-Arné Clevert, David Rouquié, and Joerg Wichard.   
+  [Paper](https://doi.org/10.1038/s41467-019-13807-w) 
+
+
 
