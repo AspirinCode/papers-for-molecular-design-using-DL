@@ -661,7 +661,9 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
  Lu, Fengqing, Mufei Li, Xiaoping Min, Chunyan Li, and Xiangxiang Zeng.    
   [Paper](https://doi.org/10.1093/bib/bbab333) | [code](https://github.com/lllfq/DLGN) 
 
-
+* **Compound dataset and custom code for deep generative multi-target compound design** [2021]  
+ Blaschke, Thomas, and Jürgen Bajorath.    
+  [Paper](https://doi.org/10.2144/fsoa-2021-0033) |  [code](https://github.com/tblaschke/reinvent-multi-target) 
 
 
 ## Ligand-based deep molecular generative models
