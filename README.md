@@ -76,6 +76,9 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 
 ## Reviews
 
+* **Integrating structure-based approaches in generative molecular design**[2023]   
+[[Paper]](https://doi.org/10.1016/j.sbi.2023.102559)
+
 * **Open data and algorithms for open science in AI-driven molecular informatics**[2023]  
 [[Paper]](https://doi.org/10.1016/j.sbi.2023.102542)
 
