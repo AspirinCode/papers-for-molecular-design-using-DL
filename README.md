@@ -68,6 +68,8 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
     - [Motifs-based DMGs](#Motifs-based-DMGs)
     - [Linkers-based DMGs](#Linkers-based-DMGs)
 
+  - [Omics-based deep molecular generative models](#Omics-based-deep-molecular-generative-models)
+
 ## Reviews
 
 * **Open data and algorithms for open science in AI-driven molecular informatics**[2023]  
