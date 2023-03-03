@@ -207,18 +207,18 @@ https://github.com/ohuelab/QEPPI
 ### Evaluation metrics
 
 * **FCD : Fréchet ChemNet Distance**
-Fréchet ChemNet Distance: A Metric for Generative Models for Molecules in Drug Discovery
+  Fréchet ChemNet Distance: A Metric for Generative Models for Molecules in Drug Discovery
 
-https://github.com/bioinf-jku/FCD
+  https://github.com/bioinf-jku/FCD
 
 * **Perplexity-Based Molecule Ranking and Bias Estimation of Chemical Language Models** [2022]  
-Moret, M., Grisoni, F., Katzberger, P. and Schneider, G.  
+  Moret, M., Grisoni, F., Katzberger, P. and Schneider, G.  
 [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00079) |  [code](https://github.com/ETHmodlab/CLM_perplexity) 
 
 * **MolScore**
 An automated scoring function to facilitate and standardize evaluation of goal-directed generative models for de novo molecular design
 
-https://github.com/MorganCThomas/MolScore
+  https://github.com/MorganCThomas/MolScore
 
 
 
