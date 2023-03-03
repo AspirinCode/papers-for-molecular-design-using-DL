@@ -68,6 +68,8 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
     - [Motifs-based DMGs](#Motifs-based-DMGs)
     - [Linkers-based DMGs](#Linkers-based-DMGs)
 
+  - [Chemical Reaction-based deep molecular generative models](#Chemical-Reaction-based-deep-molecular-generative-models)
+
   - [Omics-based deep molecular generative models](#Omics-based-deep-molecular-generative-models)
 
 ## Reviews
@@ -1017,6 +1019,20 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
 * **SyntaLinker: automatic fragment linking with deep conditional transformer neural networks** [2020]  
   Yang, Yuyao, Shuangjia Zheng, Shimin Su, Chao Zhao, Jun Xu, and Hongming Chen.  
   [Paper](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc03126g) |  [code](https://github.com/YuYaoYang2333/SyntaLinker) 
+
+
+## Chemical Reaction-based deep molecular generative models
+
+
+* **Molecular Generative Model via Retrosynthetically Prepared Chemical Building Block Assembly** [2023]   
+Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.   
+[Paper](https://doi.org/10.1002/advs.202206674) |  [code](https://github.com/SeonghwanSeo/BBAR) 
+
+
+* **ChemistGA: A Chemical Synthesizable Accessible Molecular Generation Algorithm for Real-World Drug Discovery** [2022]   
+  Wang, Jike, Xiaorui Wang, Huiyong Sun, Mingyang Wang, Yundian Zeng, Dejun Jiang, Zhenxing Wu et al.   
+[Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c01179) |  [code](https://github.com/jkwang93/ChemistGA) 
+
 
 
 ## Omics-based deep molecular generative models
