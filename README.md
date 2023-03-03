@@ -794,6 +794,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Pharmacophore-based deep molecular generative models
 
+* **PGMG: A Pharmacophore-Guided Deep Learning Approach for Bioactive Molecular Generation** [2022]  
+  Zhu, Huimin, Renyi Zhou, Jing Tang, and Min Li.  
+  [Paper](https://arxiv.org/abs/2207.00821) |  [code](https://github.com/CSUBioGroup/PGMG) 
 
 * **Deep generative design with 3D pharmacophoric constraints** [2021]  
   mrie, Fergus and Hadfield, Thomas E and Bradley, Anthony R and Deane, Charlotte M.  
