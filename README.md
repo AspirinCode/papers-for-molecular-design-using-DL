@@ -72,6 +72,8 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 
   - [Omics-based deep molecular generative models](#Omics-based-deep-molecular-generative-models)
 
+  - [Quantum deep molecular generative models](#Quantum-deep-molecular-generative-models)
+
 ## Reviews
 
 * **Open data and algorithms for open science in AI-driven molecular informatics**[2023]  
@@ -1059,6 +1061,14 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 * **De novo generation of hit-like molecules from gene expression signatures using artificial intelligence** [2020]  
   Méndez-Lucio, Oscar, Benoit Baillif, Djork-Arné Clevert, David Rouquié, and Joerg Wichard.   
   [Paper](https://doi.org/10.1038/s41467-019-13807-w) 
+
+## Quantum deep molecular generative models
+
+
+* **Quantum Generative Models for Small Molecule Drug Discovery** [2021]  
+  Li, Junde, Rasit O. Topaloglu, and Swaroop Ghosh.   
+  [Paper](https://ieeexplore.ieee.org/document/9520764) |  [code](https://github.com/jundeli/quantum-gan) 
+
 
 
 
