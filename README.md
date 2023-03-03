@@ -1015,3 +1015,15 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
 * **SyntaLinker: automatic fragment linking with deep conditional transformer neural networks** [2020]  
   Yang, Yuyao, Shuangjia Zheng, Shimin Su, Chao Zhao, Jun Xu, and Hongming Chen.  
   [Paper](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc03126g) |  [code](https://github.com/YuYaoYang2333/SyntaLinker) 
+
+
+## Omics-based deep molecular generative models
+
+
+* **PaccMannRL: De novo generation of hit-like anticancer molecules from transcriptomic data via reinforcement learning** [2021]  
+  Born, Jannis, Matteo Manica, Ali Oskooei, Joris Cadow, Greta Markert, and María Rodríguez Martínez.   
+  [Paper](https://doi.org/10.1016/j.isci.2021.102269) |  [code](https://github.com/PaccMann/paccmann_omics) 
+
+
+
+
