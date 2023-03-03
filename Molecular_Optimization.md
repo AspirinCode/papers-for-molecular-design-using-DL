@@ -23,6 +23,11 @@ Beck, Hartmut, Tobias Thaler, Daniel Meibom, Mark Meininghaus, Hannah Jörißen
 ## Reviews
 
 
+* **Computer-aided multi-objective optimization in small molecule discovery** [2023]  
+  Fromer, J. C., & Coley, C. W.   
+[[Paper]](https://doi.org/10.1016/j.patter.2023.100678)
+
+
 
 ## Datasets and Benchmarks
 
