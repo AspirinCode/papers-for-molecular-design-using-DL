@@ -333,7 +333,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 * **Tailoring Molecules for Protein Pockets: a Transformer-based Generative Solution for Structured-based Drug Design** [2022]  
   Wu, K., Xia, Y., Fan, Y., Deng, P., Liu, H., Wu, L., ... & Liu, T. Y.  
   [Paper](https://arxiv.org/abs/2209.06158) |  [code](https://github.com/HankerWu/TamGent) 
-  
+ 
+ * **Exploiting pretrained biochemical language models for targeted drug design** [2022]  
+  Uludoğan, Gökçe, Elif Ozkirimli, Kutlu O. Ulgen, Nilgün Karalı, and Arzucan Özgür.  
+  [Paper](https://doi.org/10.1093/bioinformatics/btac482) |  [code](https://github.com/boun-tabi/biochemical-lms-for-drug-design) 
+ 
 * **A Transformer-based Generative Model for De Novo Molecular Design** [2022]  
   Wang, Wenlu, et al.  
   [Paper](https://arxiv.org/abs/2210.08749)
@@ -824,6 +828,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+* **Exploiting pretrained biochemical language models for targeted drug design** [2022]  
+  Uludoğan, Gökçe, Elif Ozkirimli, Kutlu O. Ulgen, Nilgün Karalı, and Arzucan Özgür.  
+  [Paper](https://doi.org/10.1093/bioinformatics/btac482) |  [code](https://github.com/boun-tabi/biochemical-lms-for-drug-design) 
 
 * **RELATION: A Deep Generative Model for Structure-Based De Novo Drug Design** [2022]  
   Wang, M., Hsieh, C.Y., Wang, J., Wang, D., Weng, G., Shen, C., Yao, X., Bing, Z., Li, H., Cao, D. and Hou, T.,  
