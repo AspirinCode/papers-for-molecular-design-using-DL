@@ -154,6 +154,14 @@ Erikawa, D., Yasuo, N., & Sekijima, M.
 
 
 
+### Active Learning-based
+
+* **Active Learning Guided Drug Design Lead Optimization Based on Relative Binding Free Energy Modeling** [2023]   
+Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.   
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01052)
+
+
+
 
 ## Fragment-based Molecular Optimization
 
