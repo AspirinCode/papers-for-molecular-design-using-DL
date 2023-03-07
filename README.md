@@ -131,27 +131,35 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 [[Paper]](https://doi.org/10.1016/j.sbi.2021.102326)
 
 * **Deep learning approaches for de novo drug design: An overview**[2021]  
+ Wang, Mingyang, Zhe Wang, Huiyong Sun, Jike Wang, Chao Shen, Gaoqi Weng, Xin Chai, Honglin Li, Dongsheng Cao, and Tingjun Hou.  
 [[Paper]](https://doi.org/10.1016/j.sbi.2021.10.001)
 
 * **Generative chemistry: drug discovery with deep learning generative models**[2021]  
+ Bian, Yuemin, and Xiang-Qun Xie.  
 [[Paper]](https://link.springer.com/article/10.1007/s00894-021-04674-8)
 
 * **Generative Deep Learning for Targeted Compound Design**[2021]  
+ Sousa, Tiago, João Correia, Vítor Pereira, and Miguel Rocha.  
 [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01496)
 
 * **Generative Models for De Novo Drug Design**[2021]  
+ Tong, Xiaochu, Xiaohong Liu, Xiaoqin Tan, Xutong Li, Jiaxin Jiang, Zhaoping Xiong, Tingyang Xu, Hualiang Jiang, Nan Qiao, and Mingyue Zheng.  
 [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c00927)
 
 * **Molecular design in drug discovery: a comprehensive review of deep generative models**[2021]  
+ Cheng, Yu, Yongshun Gong, Yuansheng Liu, Bosheng Song, and Quan Zou.   
 [[Paper]](https://doi.org/10.1093/bib/bbab344)
 
 * **De novo molecular design and generative models**[2021]  
+ Meyers, Joshua, Benedek Fabian, and Nathan Brown.  
 [[Paper]](https://doi.org/10.1016/j.drudis.2021.05.019)
 
 * **Deep learning for molecular design—a review of the state of the art**[2019]  
+ Elton, Daniel C., Zois Boukouvalas, Mark D. Fuge, and Peter W. Chung.  
 [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2019/me/c9me00039a)
 
 * **Inverse molecular design using machine learning: Generative models for matter engineering**[2018]  
+ Sanchez-Lengeling, Benjamin, and Alán Aspuru-Guzik.  
 [[Paper]](https://www.science.org/doi/10.1126/science.aat2663)
 
 ## Datasets and Benchmarks
