@@ -199,5 +199,11 @@ Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung J
   [Paper](https://openreview.net/forum?id=E_Slr0JVvuC) 
 
 
+## Multi-Objective Molecular Optimization
+
+* **Efficient multi-objective molecular optimization in a continuous latent spac** [2019]   
+  Winter, Robin, Floriane Montanari, Andreas Steffen, Hans Briem, Frank Noé, and Djork-Arné Clevert.   
+  [Paper](https://pubs.rsc.org/en/content/articlehtml/2019/sc/c9sc01928f) |  [code](https://github.com/jrwnter/mso) 
+
 
 
