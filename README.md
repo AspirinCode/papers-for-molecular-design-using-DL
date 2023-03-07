@@ -83,15 +83,19 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 [[Paper]](https://doi.org/10.1016/j.sbi.2023.102537)
 
 * **Integrating structure-based approaches in generative molecular design**[2023]   
+ Thomas, Morgan, Andreas Bender, and Chris de Graaf.  
 [[Paper]](https://doi.org/10.1016/j.sbi.2023.102559)
 
 * **Open data and algorithms for open science in AI-driven molecular informatics**[2023]  
+ Brinkhaus, Henning Otto, Kohulan Rajan, Jonas Schaub, Achim Zielesny, and Christoph Steinbeck.  
 [[Paper]](https://doi.org/10.1016/j.sbi.2023.102542)
 
 * **Structure-based drug design with geometric deep learning**[2023]  
+  Isert, Clemens, Kenneth Atz, and Gisbert Schneider.  
 [[Paper]](https://doi.org/10.1016/j.sbi.2023.102548)
 
 * **MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design**[2022]  
+  Du, Yuanqi, Tianfan Fu, Jimeng Sun, and Shengchao Liu.  
 [[Paper]](https://arxiv.org/abs/2203.14500)
 
 * **Deep generative molecular design reshapes drug discovery**[2022]  
@@ -99,24 +103,31 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 [[Paper]](https://doi.org/10.1016/j.xcrm.2022.100794)
 
 * **Structure-based drug discovery with deep learning**[2022]  
+  Özçelik, Rıza, Derek van Tilborg, José Jiménez-Luna, and Francesca Grisoni.  
 [[Paper]](https://arxiv.org/abs/2212.13295)
 
 * **Generative models for molecular discovery: Recent advances and challenges**[2022]  
+ Bilodeau, Camille, Wengong Jin, Tommi Jaakkola, Regina Barzilay, and Klavs F. Jensen.  
 [[Paper]](https://doi.org/10.1002/wcms.1608)
 
 * **Generative machine learning for de novo drug discovery: A systematic review**[2022]  
+ Martinelli, Dominic.   
 [[Paper]](https://doi.org/10.1016/j.compbiomed.2022.105403)
 
 * **Docking-based generative approaches in the search for new drug candidates**[2022]  
+ Danel, Tomasz, Jan Łęski, Sabina Podlewska, and Igor T. Podolak.   
 [[Paper]](https://doi.org/10.1016/j.drudis.2022.103439)
 
 * **Advances and Challenges in De Novo Drug Design Using Three-Dimensional Deep Generative Models**[2022]  
+  Xie, Weixin, Fanhao Wang, Yibo Li, Luhua Lai, and Jianfeng Pei.   
 [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00042)
 
 * **Deep learning to catalyze inverse molecular design**[2022]  
+  Alshehri, Abdulelah S., and Fengqi You.   
 [[Paper]](https://doi.org/10.1016/j.cej.2022.136669)
 
 * **AI in 3D compound design**[2022]  
+  Hadfield, Thomas E., and Charlotte M. Deane.   
 [[Paper]](https://doi.org/10.1016/j.sbi.2021.102326)
 
 * **Deep learning approaches for de novo drug design: An overview**[2021]  
