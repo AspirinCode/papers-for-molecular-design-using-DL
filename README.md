@@ -93,6 +93,10 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 * **MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design**[2022]  
 [[Paper]](https://arxiv.org/abs/2203.14500)
 
+* **Deep generative molecular design reshapes drug discovery**[2022]  
+  Zeng, Xiangxiang, Fei Wang, Yuan Luo, Seung-gu Kang, Jian Tang, Felice C. Lightstone, Evandro F. Fang, Wendy Cornell, Ruth Nussinov, and Feixiong Cheng.  
+[[Paper]](https://doi.org/10.1016/j.xcrm.2022.100794)
+
 * **Structure-based drug discovery with deep learning**[2022]  
 [[Paper]](https://arxiv.org/abs/2212.13295)
 
