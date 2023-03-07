@@ -665,6 +665,10 @@ Goel, Manan, Shampa Raghunathan, Siddhartha Laghuvarapu, and U. Deva Priyakumar.
 Blaschke T, Engkvist O, Bajorath J, Chen H.  
   [Paper](https://doi.org/10.26434/chemrxiv.12693152.v1) |  [code](https://github.com/tblaschke/reinvent-memory) 
 
+* **DeepGraphMolGen, a multi-objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach** [2020]  
+  Khemchandani, Yash, Stephen O’Hagan, Soumitra Samanta, Neil Swainston, Timothy J. Roberts, Danushka Bollegala, and Douglas B. Kell.   
+  [Paper](https://doi.org/10.1186/s13321-020-00454-3) |  [code](https://github.com/dbkgroup/prop_gen) 
+
 * **Reinforcement Learning for Molecular Design Guided by Quantum Mechanics** [2020]  
 Simm, G., Pinsler, R. and Hernández-Lobato, J.M.,  
   [Paper](http://proceedings.mlr.press/v119/simm20b/simm20b.pdf) |  [code](https://github.com/gncs/molgym) 
@@ -1100,6 +1104,10 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 * **Multi-Objective Molecule Generation using Interpretable Substructures** [2020]  
   Jin, Wengong, Regina Barzilay, and Tommi Jaakkola.   
   [Paper](http://proceedings.mlr.press/v119/jin20b.html) |  [code](https://github.com/wengong-jin/multiobj-rationale) 
+
+* **DeepGraphMolGen, a multi-objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach** [2020]  
+  Khemchandani, Yash, Stephen O’Hagan, Soumitra Samanta, Neil Swainston, Timothy J. Roberts, Danushka Bollegala, and Douglas B. Kell.   
+  [Paper](https://doi.org/10.1186/s13321-020-00454-3) |  [code](https://github.com/dbkgroup/prop_gen) 
 
 * **Multi-objective de novo drug design with conditional graph generative model** [2018]  
   Li, Yibo, Liangren Zhang, and Zhenming Liu.   
