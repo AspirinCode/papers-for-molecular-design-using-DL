@@ -1101,6 +1101,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
   Jin, Wengong, Regina Barzilay, and Tommi Jaakkola.   
   [Paper](http://proceedings.mlr.press/v119/jin20b.html) |  [code](https://github.com/wengong-jin/multiobj-rationale) 
 
+* **Multi-objective de novo drug design with conditional graph generative model** [2018]  
+  Li, Yibo, Liangren Zhang, and Zhenming Liu.   
+  [Paper](https://doi.org/10.1186/s13321-018-0287-6) |  [code](https://github.com/kevinid/molecule_generator) 
 
 
 ## Quantum deep molecular generative models
