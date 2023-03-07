@@ -1101,6 +1101,10 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
   Sun, Mengying, Jing Xing, Han Meng, Huijun Wang, Bin Chen, and Jiayu Zhou.   
   [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3542676) |  [code](https://github.com/illidanlab/MolSearch) 
 
+* **MGCVAE: Multi-Objective Inverse Design via Molecular Graph Conditional Variational Autoencoder** [2022]   
+  Lee, Myeonghun, and Kyoungmin Min.   
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487) |  [code](https://github.com/mhlee216/MGCVAE) 
+
 * **Multi-Objective Molecule Generation using Interpretable Substructures** [2020]  
   Jin, Wengong, Regina Barzilay, and Tommi Jaakkola.   
   [Paper](http://proceedings.mlr.press/v119/jin20b.html) |  [code](https://github.com/wengong-jin/multiobj-rationale) 
