@@ -72,6 +72,8 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 
   - [Omics-based deep molecular generative models](#Omics-based-deep-molecular-generative-models)
 
+  - [Multi-Objective deep molecular generative models](#Multi-Objective-deep-molecular-generative-models)
+
   - [Quantum deep molecular generative models](#Quantum-deep-molecular-generative-models)
 
 ## Reviews
@@ -1004,6 +1006,10 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
   Podda, Marco, Davide Bacciu, and Alessio Micheli.  
   [Paper](http://proceedings.mlr.press/v108/) |  [code](https://github.com/hengwei-chan/fragment-based-de-novo) 
 
+* **Multi-Objective Molecule Generation using Interpretable Substructures** [2020]  
+  Jin, Wengong, Regina Barzilay, and Tommi Jaakkola.   
+  [Paper](http://proceedings.mlr.press/v119/jin20b.html) |  [code](https://github.com/wengong-jin/multiobj-rationale) 
+
 * **Fragment Graphical Variational AutoEncoding for Screening Molecules with Small Data** [2019]  
   Armitage, John, Leszek J. Spalek, Malgorzata Nguyen, Mark Nikolka, Ian E. Jacobs, Lorena Marañón, Iyad Nasrallah et al.  
   [Paper](https://arxiv.org/abs/1910.13325) |  [code](https://github.com/OE-FET/FraGVAE) 
@@ -1080,6 +1086,16 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 * **De novo generation of hit-like molecules from gene expression signatures using artificial intelligence** [2020]  
   Méndez-Lucio, Oscar, Benoit Baillif, Djork-Arné Clevert, David Rouquié, and Joerg Wichard.   
   [Paper](https://doi.org/10.1038/s41467-019-13807-w) 
+
+
+## Multi-Objective deep molecular generative models
+
+
+* **Multi-Objective Molecule Generation using Interpretable Substructures** [2020]  
+  Jin, Wengong, Regina Barzilay, and Tommi Jaakkola.   
+  [Paper](http://proceedings.mlr.press/v119/jin20b.html) |  [code](https://github.com/wengong-jin/multiobj-rationale) 
+
+
 
 ## Quantum deep molecular generative models
 
