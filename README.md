@@ -78,6 +78,9 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 
 ## Reviews
 
+* **Artificial intelligence in multi-objective drug design**[2023]   
+[[Paper]](https://doi.org/10.1016/j.sbi.2023.102537)
+
 * **Integrating structure-based approaches in generative molecular design**[2023]   
 [[Paper]](https://doi.org/10.1016/j.sbi.2023.102559)
 
@@ -1090,6 +1093,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 ## Multi-Objective deep molecular generative models
 
+* **MolSearch: Search-based Multi-objective Molecular Generation and Property Optimization** [2022]   
+  Sun, Mengying, Jing Xing, Han Meng, Huijun Wang, Bin Chen, and Jiayu Zhou.   
+  [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3542676) |  [code](https://github.com/illidanlab/MolSearch) 
 
 * **Multi-Objective Molecule Generation using Interpretable Substructures** [2020]  
   Jin, Wengong, Regina Barzilay, and Tommi Jaakkola.   
