@@ -79,6 +79,7 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 ## Reviews
 
 * **Artificial intelligence in multi-objective drug design**[2023]   
+ Luukkonen, Sohvi, Helle W. van den Maagdenberg, Michael TM Emmerich, and Gerard JP van Westen.  
 [[Paper]](https://doi.org/10.1016/j.sbi.2023.102537)
 
 * **Integrating structure-based approaches in generative molecular design**[2023]   
