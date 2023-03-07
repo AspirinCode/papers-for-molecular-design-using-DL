@@ -201,6 +201,10 @@ Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung J
 
 ## Multi-Objective Molecular Optimization
 
+* **Molecule optimization via multi-objective evolutionary in implicit chemical space** [2022]   
+  Xia, Xin, Yansen Su, Chunhou Zheng, and Xiangxiang Zeng.   
+  [Paper](https://arxiv.org/abs/2212.08826) 
+
 * **Efficient multi-objective molecular optimization in a continuous latent spac** [2019]   
   Winter, Robin, Floriane Montanari, Andreas Steffen, Hans Briem, Frank Noé, and Djork-Arné Clevert.   
   [Paper](https://pubs.rsc.org/en/content/articlehtml/2019/sc/c9sc01928f) |  [code](https://github.com/jrwnter/mso) 
