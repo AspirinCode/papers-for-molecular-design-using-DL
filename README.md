@@ -1099,6 +1099,10 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
   Nguyen, Dai Hai, and Koji Tsuda.   
   [Paper](https://doi.org/10.1063/5.0076749) |  [code](https://github.com/haidnguyen0909/rxngenerator) 
 
+* **Synthesis-Aware Generation of Structural Analogues** [2022]   
+  Dolfus, Uschi, Hans Briem, and Matthias Rarey.   
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00246)
+
 * **SynthI: A New Open-Source Tool for Synthon-Based Library Design** [2022]   
   Zabolotna, Yuliana, Dmitriy M. Volochnyuk, Sergey V. Ryabukhin, Kostiantyn Gavrylenko, Dragos Horvath, Olga Klimchuk, Oleksandr Oksiuta, Gilles Marcou, and Alexandre Varnek.   
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00754) |  [code](https://github.com/Laboratoire-de-Chemoinformatique/Synt-On) 
