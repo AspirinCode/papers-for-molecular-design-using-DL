@@ -78,6 +78,10 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 
 ## Reviews
 
+* **Chemical language models for de novo drug design: Challenges and opportunities**[2023]  
+Grisoni, Francesca.  
+[[Paper]](https://doi.org/10.1016/j.sbi.2023.102527)
+
 * **Artificial intelligence in multi-objective drug design**[2023]   
  Luukkonen, Sohvi, Helle W. van den Maagdenberg, Michael TM Emmerich, and Gerard JP van Westen.  
 [[Paper]](https://doi.org/10.1016/j.sbi.2023.102537)
