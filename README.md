@@ -338,6 +338,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ###  Transformer-based
 
+* **Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks
+** [2023]   
+  Ünlü, Atabey, Elif Çevrim, Ahmet Sarıgün, Hayriye Çelikbilek, Heval Ataş Güvenilir, Altay Koyaş, Deniz Cansen Kahraman, Ahmet Rifaioğlu, and Abdurrahman Olğaç.   
+  [Paper](https://arxiv.org/abs/2302.07868)
 
 * **DrugEx v3: scaffold-constrained drug design with graph transformer-based reinforcement learning** [2023]  
   Liu, X., Ye, K., van Vlijmen, H.W.T. et al.   
@@ -864,6 +868,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 ## Structure-based deep molecular generative models
+
+* **Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks
+** [2023]   
+  Ünlü, Atabey, Elif Çevrim, Ahmet Sarıgün, Hayriye Çelikbilek, Heval Ataş Güvenilir, Altay Koyaş, Deniz Cansen Kahraman, Ahmet Rifaioğlu, and Abdurrahman Olğaç.   
+  [Paper](https://arxiv.org/abs/2302.07868)
 
 * **Exploiting pretrained biochemical language models for targeted drug design** [2022]  
   Uludoğan, Gökçe, Elif Ozkirimli, Kutlu O. Ulgen, Nilgün Karalı, and Arzucan Özgür.  
