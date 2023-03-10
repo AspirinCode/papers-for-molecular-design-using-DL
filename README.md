@@ -934,6 +934,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
   Long, Siyu, Yi Zhou, Xinyu Dai, and Hao Zhou.   
   [Paper](https://nips.cc/media/neurips-2022/Slides/54457.pdf) |  [code](https://github.com/longlongman/DESERT) 
 
+* **Structure-based de novo drug design using 3D deep generative models** [2021]  
+  Li, Yibo, Jianfeng Pei, and Luhua Lai.    
+  [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc04444c)
+
 * **Transformer neural network for protein-specific de novo drug generation as a machine translation proble** [2021]  
   Grechishnikova, Daria.   
   [Paper](https://www.nature.com/articles/s41598-020-79682-4) |  [code](https://github.com/dariagrechishnikova/molecule_structure_generation) 
