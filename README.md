@@ -877,8 +877,7 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
   Guan, Jiaqi, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, and Jianzhu Ma.   
   [Paper](https://openreview.net/forum?id=kJqXEPXMsE0) |  [code](https://github.com/guanjq/targetdiff) 
 
-* **Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks  
-** [2023]   
+* **Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks** [2023]     
   Ünlü, Atabey, Elif Çevrim, Ahmet Sarıgün, Hayriye Çelikbilek, Heval Ataş Güvenilir, Altay Koyaş, Deniz Cansen Kahraman, Ahmet Rifaioğlu, and Abdurrahman Olğaç.   
   [Paper](https://arxiv.org/abs/2302.07868)
 
