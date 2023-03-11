@@ -881,6 +881,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
   Ünlü, Atabey, Elif Çevrim, Ahmet Sarıgün, Hayriye Çelikbilek, Heval Ataş Güvenilir, Altay Koyaş, Deniz Cansen Kahraman, Ahmet Rifaioğlu, and Abdurrahman Olğaç.   
   [Paper](https://arxiv.org/abs/2302.07868)
 
+* **Structure-based Drug Design with Equivariant Diffusion Models** [2023]  
+Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correia, B.   
+[Paper](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD) 
+
 * **A multilevel generative framework with hierarchical self-contrasting for bias control and transparency in structure-based ligand design** [2022]   
   Chan, Lucian, Rajendra Kumar, Marcel Verdonk, and Carl Poelking.   
   [Paper](https://doi.org/10.1038/s42256-022-00564-7) |  [code](https://github.com/capoe/libpqr) 
