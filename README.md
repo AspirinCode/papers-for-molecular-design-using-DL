@@ -82,7 +82,7 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 ## Generative AI for Scientific Discovery
 
 
-**Accelerating Material Design with the Generative Toolkit for Scientific Discovery**  
+* **Accelerating Material Design with the Generative Toolkit for Scientific Discovery**  
 Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish and Born, Jannis and Clarke, Dean and Teukam, Yves Gaetan Nana and Hoffman, Samuel C and Buchan, Matthew and Chenthamarakshan, Vijil and others  
 [Paper](https://arxiv.org/abs/2207.03928) |  [code](https://github.com/GT4SD/gt4sd-core) 
 
