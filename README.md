@@ -28,6 +28,11 @@ https://github.com/amorehead/awesome-molecular-generation
 
 https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 
+**Geometry Deep Learning for Drug Discovery and Life Science**  
+
+https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life-Science
+
+
 ## Menu
 
   - [ Generative AI for Scientific Discovery](#Generative-AI-for-Scientific-Discovery)
