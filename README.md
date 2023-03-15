@@ -1131,6 +1131,9 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
 
 ## Chemical Reaction-based deep molecular generative models
 
+* **Uni-RXN: A Unified Framework Bridging the Gap between Chemical Reaction Pretraining and Conditional Molecule Generation** [2023]   
+Bo Qiang, Yiran Zhou, Yuheng Ding, Ningfeng Liu, Song Song, Liangren Zhang, Bo Huang, Zhenming Liu   
+[Paper](https://arxiv.org/abs/2303.06965) |  [code](https://github.com/qiangbo1222/Uni-RXN-official) 
 
 * **Molecular Generative Model via Retrosynthetically Prepared Chemical Building Block Assembly** [2023]   
 Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.   
