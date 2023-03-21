@@ -1030,6 +1030,9 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 ### Motifs-based DMGs
 
+* **De Novo Molecular Generation via Connection-aware Motif Mining** [2023]   
+  Zijie Geng, Shufang Xie, Yingce Xia, Lijun Wu, Tao Qin, Jie Wang, Yongdong Zhang, Feng Wu, Tie-Yan Liu   
+  [Paper](https://openreview.net/pdf?id=Q_Jexl8-qDihttps://openreview.net/pdf?id=Q_Jexl8-qDi) |  [code](https://github.com/MIRALab-USTC/AI4Sci-MiCaM) 
 
 * **Learning to Extend Molecular Scaffolds with Structural Motifs** [2022]  
   Maziarz, Krzysztof, Henry Jackson-Flux, Pashmina Cameron, Finton Sirockin, Nadine Schneider, Nikolaus Stiefl, Marwin Segler, and Marc Brockschmidt.   
