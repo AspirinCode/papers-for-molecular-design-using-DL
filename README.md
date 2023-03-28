@@ -522,6 +522,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### GAN-based
 
+* **Deep generative model for drug design from protein target sequence** [2023]   
+Yangyang Chen, Zixu Wang, Lei Wang, Jianmin Wang, Pengyong Li, Dongsheng Cao, Xiangxiang Zeng, Xiucai Ye & Tetsuya Sakurai.   
+[Paper](https://doi.org/10.1186/s13321-023-00702-2) |  [code](https://github.com/viko-3/TargetGAN) 
+
 * **Cell morphology-guided de novo hit design by conditioning GANs on phenotypic image features** [2022]  
 Zapata, Paula A. Marin, Oscar Méndez-Lucio, Tuan Le, Carsten Jörn Beese, Jörg Wichard, David Rouquié, and Djork-Arné Clevert.  
 [Paper](https://doi.org/10.1039/D2DD00081D) |  [code](https://github.com/Bayer-Group/CPMolGAN) 
@@ -890,6 +894,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 ## Structure-based deep molecular generative models
+
+
+* **Deep generative model for drug design from protein target sequence** [2023]   
+Yangyang Chen, Zixu Wang, Lei Wang, Jianmin Wang, Pengyong Li, Dongsheng Cao, Xiangxiang Zeng, Xiucai Ye & Tetsuya Sakurai.   
+[Paper](https://doi.org/10.1186/s13321-023-00702-2) |  [code](https://github.com/viko-3/TargetGAN) 
 
 * **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction** [2023]   
   Guan, Jiaqi, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, and Jianzhu Ma.   
