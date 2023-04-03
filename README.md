@@ -650,6 +650,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 ### RL-based
 
+* **De Novo Drug Design by Iterative Multi-Objective Deep Reinforcement Learning with Graph-based Molecular Quality Assessment** [2023]   
+ Yi Fang, Xiaoyong Pan, Hong-Bin Shen.    
+  [Paper](https://doi.org/10.1093/bioinformatics/btad157) |  [code](https://github.com/yifang000/QADD) 
+
 * **DrugEx v3: scaffold-constrained drug design with graph transformer-based reinforcement learning** [2023]  
   Liu, X., Ye, K., van Vlijmen, H.W.T. et al.   
   [Paper](https://doi.org/10.1186/s13321-023-00694-z) |  [code](https://github.com/CDDLeiden/DrugEx) 
