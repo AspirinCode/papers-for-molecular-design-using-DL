@@ -445,6 +445,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+* **Gex2SGen: Designing Drug-like Molecules from Desired Gene Expression Signatures** [2023]   
+ Das, Dibyajyoti, Broto Chakrabarty, Rajgopal Srinivasan, and Arijit Roy.   
+  [Paper](https://doi.org/10.1021/acs.jcim.2c01301)
+
 * **COMA: efficient structure-constrained molecular generation using contractive and margin losses** [2023]  
  Choi, J., Seo, S. & Park, S.     
   [Paper](https://doi.org/10.1186/s13321-023-00679-y) |  [code](https://github.com/mathcom/COMA) 
@@ -1178,6 +1182,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 ## Omics-based deep molecular generative models
 
+* **Gex2SGen: Designing Drug-like Molecules from Desired Gene Expression Signatures** [2023]   
+ Das, Dibyajyoti, Broto Chakrabarty, Rajgopal Srinivasan, and Arijit Roy.   
+  [Paper](https://doi.org/10.1021/acs.jcim.2c01301)
 
 * **PaccMannRL: De novo generation of hit-like anticancer molecules from transcriptomic data via reinforcement learning** [2021]  
   Born, Jannis, Matteo Manica, Ali Oskooei, Joris Cadow, Greta Markert, and María Rodríguez Martínez.   
