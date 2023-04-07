@@ -903,6 +903,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+* **Molecule Generation For Target Protein Binding with Structural Motifs** [2023]   
+  Zhang, Zaixi, Yaosen Min, Shuxin Zheng, and Qi Liu.   
+  [Paper](https://openreview.net/forum?id=Rq13idF0F73) |  [code](https://github.com/zaixizhang/FLAG) 
 
 * **Deep generative model for drug design from protein target sequence** [2023]   
 Yangyang Chen, Zixu Wang, Lei Wang, Jianmin Wang, Pengyong Li, Dongsheng Cao, Xiangxiang Zeng, Xiucai Ye & Tetsuya Sakurai.   
@@ -1046,6 +1049,10 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 
 ### Motifs-based DMGs
+
+* **Molecule Generation For Target Protein Binding with Structural Motifs** [2023]   
+  Zhang, Zaixi, Yaosen Min, Shuxin Zheng, and Qi Liu.   
+  [Paper](https://openreview.net/forum?id=Rq13idF0F73) |  [code](https://github.com/zaixizhang/FLAG) 
 
 * **De Novo Molecular Generation via Connection-aware Motif Mining** [2023]   
   Zijie Geng, Shufang Xie, Yingce Xia, Lijun Wu, Tao Qin, Jie Wang, Yongdong Zhang, Feng Wu, Tie-Yan Liu   
