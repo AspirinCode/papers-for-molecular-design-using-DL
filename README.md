@@ -356,6 +356,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ###  Transformer-based
 
+* **Transformer-based molecular generative model for antiviral drug design** [2023]  
+ mao, jiashun; wang, jianming; zeb, amir; Cho, Kwang-Hwi; jin, haiyan; Kim, Jongwan; Lee, Onju; Wang, Yunyun; No, Kyoung Tai.    
+  [Paper]https://dx.doi.org/10.2139/ssrn.4345811) |  [code](https://github.com/AspirinCode/TransAntivirus) 
+
 * **Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks
 ** [2023]   
   Ünlü, Atabey, Elif Çevrim, Ahmet Sarıgün, Hayriye Çelikbilek, Heval Ataş Güvenilir, Altay Koyaş, Deniz Cansen Kahraman, Ahmet Rifaioğlu, and Abdurrahman Olğaç.   
@@ -768,6 +772,10 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 ## Ligand-based deep molecular generative models
+
+* **Transformer-based molecular generative model for antiviral drug design** [2023]  
+ mao, jiashun; wang, jianming; zeb, amir; Cho, Kwang-Hwi; jin, haiyan; Kim, Jongwan; Lee, Onju; Wang, Yunyun; No, Kyoung Tai.    
+  [Paper]https://dx.doi.org/10.2139/ssrn.4345811) |  [code](https://github.com/AspirinCode/TransAntivirus) 
 
 * **Leveraging molecular structure and bioactivity with chemical language models for de novo drug design** [2023]  
   Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
