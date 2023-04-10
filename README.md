@@ -654,6 +654,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 ### RL-based
 
+* **Tree-Invent: A novel molecular generative model constrained with topological tree** [2023]   
+ Mingyuan Xu, HongMing Chen.   
+  [Paper](https://doi.org/10.26434/chemrxiv-2023-m77vk) |  [code](https://github.com/MingyuanXu/Tree-Invent) 
+
 * **De Novo Drug Design by Iterative Multi-Objective Deep Reinforcement Learning with Graph-based Molecular Quality Assessment** [2023]   
  Yi Fang, Xiaoyong Pan, Hong-Bin Shen.    
   [Paper](https://doi.org/10.1093/bioinformatics/btad157) |  [code](https://github.com/yifang000/QADD) 
@@ -1069,6 +1073,10 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 
 ### Fragment-based DMGs
+
+* **Tree-Invent: A novel molecular generative model constrained with topological tree** [2023]   
+ Mingyuan Xu, HongMing Chen.   
+  [Paper](https://doi.org/10.26434/chemrxiv-2023-m77vk) |  [code](https://github.com/MingyuanXu/Tree-Invent) 
 
 * **MacFrag: segmenting large-scale molecules to obtain diverse fragments with high qualities** [2023]  
   Yanyan Diao, Feng Hu, Zihao Shen, Honglin Li*.  
