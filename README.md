@@ -530,6 +530,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### GAN-based
 
+* **MolFilterGAN: a progressively augmented generative adversarial network for triaging AI-designed molecules** [2023]   
+Liu, X., Zhang, W., Tong, X. et al.   
+[Paper](https://doi.org/10.1186/s13321-023-00711-1) |  [code](https://github.com/MolFilterGAN/MolFilterGAN) 
+
 * **Deep generative model for drug design from protein target sequence** [2023]   
 Yangyang Chen, Zixu Wang, Lei Wang, Jianmin Wang, Pengyong Li, Dongsheng Cao, Xiangxiang Zeng, Xiucai Ye & Tetsuya Sakurai.   
 [Paper](https://doi.org/10.1186/s13321-023-00702-2) |  [code](https://github.com/viko-3/TargetGAN) 
