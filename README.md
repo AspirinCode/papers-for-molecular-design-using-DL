@@ -452,6 +452,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+
+* **MoVAE: A Variational AutoEncoder for Molecular Graph Generation** [2023]   
+ Lin, Zerun, Yuhan Zhang, Lixin Duan, Le Ou-Yang, and Peilin Zhao.   
+  [Paper](https://doi.org/10.1137/1.9781611977653.ch58) 
+
 * **Gex2SGen: Designing Drug-like Molecules from Desired Gene Expression Signatures** [2023]   
  Das, Dibyajyoti, Broto Chakrabarty, Rajgopal Srinivasan, and Arijit Roy.   
   [Paper](https://doi.org/10.1021/acs.jcim.2c01301)
@@ -532,6 +537,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 ### GAN-based
+
+* **De Novo Design of Molecules Towards Biased Properties via a Deep Generative Framework and Iterative Transfer Learning** [2023]   
+Sattari, Kianoosh, Dawei Li, Yunchao Xie, Olexandr Isayev, and Jian Lin.   
+[Paper](https://doi.org/10.26434/chemrxiv-2023-0zv2f-v2) |  [code](https://github.com/linresearchgroup/RRCGAN_Molecules) 
 
 * **MolFilterGAN: a progressively augmented generative adversarial network for triaging AI-designed molecules** [2023]   
 Liu, X., Zhang, W., Tong, X. et al.   
