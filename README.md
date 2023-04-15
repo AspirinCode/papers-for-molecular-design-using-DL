@@ -229,12 +229,12 @@ Nigam, AkshatKumar, Robert Pollice, Gary Tom, Kjell Jorner, Luca A.
 [Paper](https://arxiv.org/abs/2209.12487) |  [code](https://github.com/aspuru-guzik-group/Tartarus) 
 
 
-**Molecular Sets (MOSES): A benchmarking platform for molecular generation models**  
+* **Molecular Sets (MOSES): A benchmarking platform for molecular generation models**  
 
 [Paper](https://doi.org/10.3389/fphar.2020.565644) |  [code](https://github.com/molecularsets/moses) 
 
 
-**GuacaMol: Benchmarking Models for de Novo Molecular Design**
+* **GuacaMol: Benchmarking Models for de Novo Molecular Design**
 
 https://github.com/BenevolentAI/guacamol
 
