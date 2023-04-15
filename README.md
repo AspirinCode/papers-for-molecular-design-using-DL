@@ -231,7 +231,7 @@ Nigam, AkshatKumar, Robert Pollice, Gary Tom, Kjell Jorner, Luca A.
 
 * **Molecular Sets (MOSES): A benchmarking platform for molecular generation models**  
 
-[Paper](https://doi.org/10.3389/fphar.2020.565644) |  [code](https://github.com/molecularsets/moses) 
+  [Paper](https://doi.org/10.3389/fphar.2020.565644) |  [code](https://github.com/molecularsets/moses) 
 
 
 * **GuacaMol: Benchmarking Models for de Novo Molecular Design**
