@@ -224,9 +224,14 @@ https://coconut.naturalproducts.net/
 
 ### Benchmarks
 
-**Molecular Sets (MOSES): A benchmarking platform for molecular generation models**
+* **Tartarus: A Benchmarking Platform for Realistic And Practical Inverse Molecular Design** [2022]  
+Nigam, AkshatKumar, Robert Pollice, Gary Tom, Kjell Jorner, Luca A.  
+[Paper](https://arxiv.org/abs/2209.12487) |  [code](https://github.com/aspuru-guzik-group/Tartarus) 
 
-https://github.com/molecularsets/moses
+
+**Molecular Sets (MOSES): A benchmarking platform for molecular generation models**  
+
+[Paper](https://doi.org/10.3389/fphar.2020.565644) |  [code](https://github.com/molecularsets/moses) 
 
 
 **GuacaMol: Benchmarking Models for de Novo Molecular Design**
