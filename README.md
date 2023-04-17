@@ -1203,6 +1203,9 @@ Bo Qiang, Yiran Zhou, Yuheng Ding, Ningfeng Liu, Song Song, Liangren Zhang, Bo H
 Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.   
 [Paper](https://doi.org/10.1002/advs.202206674) |  [code](https://github.com/SeonghwanSeo/BBAR) 
 
+* **Synthesis-Aware Generation of Structural Analogues** [2022]   
+  Dolfus, Uschi, Hans Briem, and Matthias Rarey.   
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00246) |  [code](https://github.com/whitead/synspace) 
 
 * **ChemistGA: A Chemical Synthesizable Accessible Molecular Generation Algorithm for Real-World Drug Discovery** [2022]   
   Wang, Jike, Xiaorui Wang, Huiyong Sun, Mingyang Wang, Yundian Zeng, Dejun Jiang, Zhenxing Wu et al.   
