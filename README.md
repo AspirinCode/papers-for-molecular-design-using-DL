@@ -96,6 +96,10 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 ## Reviews
 
+* **Generative Models as an Emerging Paradigm in the Chemical Sciences**[2023]   
+ Anstine, Dylan M., and Olexandr Isayev.  
+[[Paper]](https://pubs.acs.org/doi/10.1021/jacs.2c13467)
+
 * **Chemical language models for de novo drug design: Challenges and opportunities**[2023]  
 Grisoni, Francesca.  
 [[Paper]](https://doi.org/10.1016/j.sbi.2023.102527)
