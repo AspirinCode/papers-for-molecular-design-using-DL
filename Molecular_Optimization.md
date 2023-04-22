@@ -201,6 +201,10 @@ Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung J
 
 ## Multi-Objective Molecular Optimization
 
+* **Human-in-the-loop assisted de novo molecular design** [2022]   
+  Sundin, Iiris, Alexey Voronov, Haoping Xiao, Kostas Papadopoulos, Esben Jannik Bjerrum, Markus Heinonen, Atanas Patronov, Samuel Kaski, and Ola Engkvist.   
+  [Paper](https://doi.org/10.1186/s13321-022-00667-8) |  [code](https://github.com/MolecularAI/reinvent-hitl) 
+
 * **Molecule optimization via multi-objective evolutionary in implicit chemical space** [2022]   
   Xia, Xin, Yansen Su, Chunhou Zheng, and Xiangxiang Zeng.   
   [Paper](https://arxiv.org/abs/2212.08826) 
