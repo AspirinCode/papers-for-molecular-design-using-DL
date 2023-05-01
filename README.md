@@ -967,6 +967,10 @@ Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correi
   Chan, Lucian, Rajendra Kumar, Marcel Verdonk, and Carl Poelking.   
   [Paper](https://doi.org/10.1038/s42256-022-00564-7) |  [code](https://github.com/capoe/libpqr) 
 
+* **Reinforced Genetic Algorithm for Structure-based Drug Design** [2022]   
+  Fu, Tianfan, Wenhao Gao, Connor Coley, and Jimeng Sun.  
+  [Paper](https://openreview.net/forum?id=Qx6UPW0r9Lf) |  [code](https://github.com/futianfan/reinforced-genetic-algorithm) 
+
 * **Exploiting pretrained biochemical language models for targeted drug design** [2022]  
   Uludoğan, Gökçe, Elif Ozkirimli, Kutlu O. Ulgen, Nilgün Karalı, and Arzucan Özgür.  
   [Paper](https://doi.org/10.1093/bioinformatics/btac482) |  [code](https://github.com/boun-tabi/biochemical-lms-for-drug-design) 
