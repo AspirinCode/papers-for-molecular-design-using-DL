@@ -368,6 +368,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ###  Transformer-based
 
+* **Generative Discovery of Novel Chemical Designs using Diffusion Modeling and Transformer Deep Neural Networks with Application to Deep Eutectic Solvents** [2023]   
+ Luu, Rachel K., Marcin Wysokowski, and Markus J. Buehler.    
+  [Paper](https://arxiv.org/abs/2304.12400) |  [code](https://github.com/lamm-mit/MoleculeDiffusionTransformer) 
+
 * **Regression Transformer enables concurrent sequence regression and generation for molecular language modelling** [2023]   
  Born, J., Manica, M.    
   [Paper](https://doi.org/10.1038/s42256-023-00639-z) |  [code](https://github.com/GT4SD/gt4sd-core/tree/main/examples/regression_transformer) 
@@ -653,6 +657,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 ### Diffusion-based
+
+* **Generative Discovery of Novel Chemical Designs using Diffusion Modeling and Transformer Deep Neural Networks with Application to Deep Eutectic Solvents** [2023]   
+ Luu, Rachel K., Marcin Wysokowski, and Markus J. Buehler.    
+  [Paper](https://arxiv.org/abs/2304.12400) |  [code](https://github.com/lamm-mit/MoleculeDiffusionTransformer) 
 
 * **Geometric Latent Diffusion Models for 3D Molecule Generation** [2023]   
   Minkai Xu, Alexander Powers, Ron Dror, Stefano Ermon, Jure Leskovec   
