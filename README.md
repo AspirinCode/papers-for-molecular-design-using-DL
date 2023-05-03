@@ -656,7 +656,7 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 * **Geometric Latent Diffusion Models for 3D Molecule Generation** [2023]   
   Minkai Xu, Alexander Powers, Ron Dror, Stefano Ermon, Jure Leskovec   
-  [Paper](https://arxiv.org/abs/2305.01140) |  [code][https://github.com/MinkaiXu/GeoLDMf) 
+  [Paper](https://arxiv.org/abs/2305.01140) |  [code](https://github.com/MinkaiXu/GeoLDMf) 
 
 * **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction** [2023]   
   Guan, Jiaqi, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, and Jianzhu Ma.   
