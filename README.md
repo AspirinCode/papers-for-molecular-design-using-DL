@@ -550,6 +550,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### GAN-based
 
+* **Mol-Zero-GAN: Zero-Shot Adaptation of Molecular Generative Adversarial Network for Specific Protein Targets** [2023]   
+Ravipas Aphikulvanich*， Natapol Pornputtapong， Duangdao Wichadakul   
+[Paper](https://doi.org/10.26434/chemrxiv-2023-lv2m1) |  [code](https://github.com/cucpbioinfo/Mol-Zero-GAN) 
+
 * **De Novo Design of Molecules Towards Biased Properties via a Deep Generative Framework and Iterative Transfer Learning** [2023]   
 Sattari, Kianoosh, Dawei Li, Yunchao Xie, Olexandr Isayev, and Jian Lin.   
 [Paper](https://doi.org/10.26434/chemrxiv-2023-0zv2f-v2) |  [code](https://github.com/linresearchgroup/RRCGAN_Molecules) 
@@ -942,6 +946,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 ## Structure-based deep molecular generative models
+
+* **Mol-Zero-GAN: Zero-Shot Adaptation of Molecular Generative Adversarial Network for Specific Protein Targets** [2023]   
+Ravipas Aphikulvanich*， Natapol Pornputtapong， Duangdao Wichadakul   
+[Paper](https://doi.org/10.26434/chemrxiv-2023-lv2m1) |  [code](https://github.com/cucpbioinfo/Mol-Zero-GAN) 
 
 * **Molecule Generation For Target Protein Binding with Structural Motifs** [2023]   
   Zhang, Zaixi, Yaosen Min, Shuxin Zheng, and Qi Liu.   
