@@ -1199,6 +1199,10 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 ### Linkers-based DMGs
 
+* **Fragment Linker Prediction Using the Deep Encoder-Decoder Network for PROTACs Drug Design** [2023]  
+Kao, Chien-Ting, Chieh-Te Lin, Cheng-Li Chou, and Chu-Chung Lin.   
+[Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01287) |  [code](https://github.com/AnHorn/AIMLinker) 
+
 * **Equivariant 3D-Conditional Diffusion Models for Molecular Linker Desig** [2023]  
 Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., Bronstein, M. and Correia, B.,   
 [Paper](https://openreview.net/forum?id=cnsHSSLnHVV) |  [code](https://github.com/igashov/DiffLinker) 
