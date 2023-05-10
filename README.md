@@ -468,6 +468,9 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+* **Direct De Novo Molecule Generation Using Probabilistic Diverse Variational Autoencoder** [2023]  
+ Singh Bhadwal, Arun, and Kamal Kumar.     
+  [Paper](https://link.springer.com/chapter/10.1007/978-981-19-7867-8_2) 
 
 * **MoVAE: A Variational AutoEncoder for Molecular Graph Generation** [2023]   
  Lin, Zerun, Yuhan Zhang, Lixin Duan, Le Ou-Yang, and Peilin Zhao.   
