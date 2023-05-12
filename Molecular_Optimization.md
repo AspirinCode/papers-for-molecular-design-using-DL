@@ -156,6 +156,11 @@ Erikawa, D., Yasuo, N., & Sekijima, M.
 
 ### Active Learning-based
 
+
+* **Optimizing Drug Design by Merging Generative AI With Active Learning Frameworks** [2023]   
+  Isaac Filella-Merce, Alexis Molina, Marek Orzechowski, Lucía Díaz, Yang Ming Zhu, Julia Vilalta Mor, Laura Malo, Ajay S Yekkirala, Soumya Ray, Victor Guallar   
+  [Paper](https://arxiv.org/abs/2305.06334)  |  [code](https://github.com/IFilella/MolecularAnalysis) 
+
 * **Active Learning Guided Drug Design Lead Optimization Based on Relative Binding Free Energy Modeling** [2023]   
 Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.   
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01052)
