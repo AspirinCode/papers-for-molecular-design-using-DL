@@ -92,7 +92,9 @@ https://pubchem.ncbi.nlm.nih.gov/
 ###  Transformer-based
 
 
-
+* **Molecular optimization by capturing chemist’s intuition using deep neural networks** [2021]  
+  He, Jiazhen, Huifang You, Emil Sandström, Eva Nittinger, Esben Jannik Bjerrum, Christian Tyrchan, Werngard Czechtizky, and Ola Engkvist.  
+  [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00497-0) |  [code](https://github.com/MolecularAI/deep-molecular-optimization) 
 
 * **Transformer-based molecular optimization beyond matched molecular pairs** [2022]  
   He, Jiazhen, Eva Nittinger, Christian Tyrchan, Werngard Czechtizky, Atanas Patronov, Esben Jannik Bjerrum, and Ola Engkvist.  
