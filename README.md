@@ -709,6 +709,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 ### RL-based
 
+* **Generating Potential Protein-Protein Interaction Inhibitor Molecules Based on Physicochemical Properties** [2023]   
+ Ohue, Masahito, Yuki Kojima, and Takatsugu Kosugi.   
+  [Paper](https://www.preprints.org/manuscript/202305.0704/v1) |  [code](https://github.com/ohuelab/iPPI-REINVENT) 
+
 * **Tree-Invent: A novel molecular generative model constrained with topological tree** [2023]   
  Mingyuan Xu, HongMing Chen.   
   [Paper](https://doi.org/10.26434/chemrxiv-2023-m77vk) |  [code](https://github.com/MingyuanXu/Tree-Invent) 
