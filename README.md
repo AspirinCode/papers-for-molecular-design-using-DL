@@ -468,6 +468,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+* **Deep Generation Model Guided by the Docking Score for Active Molecular Design** [2023]  
+ Yang, Yuwei, Chang-Yu Hsieh, Yu Kang, Tingjun Hou, Huanxiang Liu, and Xiaojun Yao.   
+  [Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00572) |  [code](https://github.com/jaechanglim/CVAE) 
+
 * **Direct De Novo Molecule Generation Using Probabilistic Diverse Variational Autoencoder** [2023]  
  Singh Bhadwal, Arun, and Kamal Kumar.     
   [Paper](https://link.springer.com/chapter/10.1007/978-981-19-7867-8_2) 
