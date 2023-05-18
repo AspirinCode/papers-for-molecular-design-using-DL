@@ -368,6 +368,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ###  Transformer-based
 
+* **Molecular Generation with Reduced Labeling through Constraint Architecture** [2023]   
+ Wang, Jike, Yundian Zeng, Huiyong Sun, Junmei Wang, Xiaorui Wang, Ruofan Jin, Mingyang Wang et al.    
+  [Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00579) |  [code](https://github.com/jkwang93/Frag-G_M) 
+
 * **Generative Discovery of Novel Chemical Designs using Diffusion Modeling and Transformer Deep Neural Networks with Application to Deep Eutectic Solvents** [2023]   
  Luu, Rachel K., Marcin Wysokowski, and Markus J. Buehler.    
   [Paper](https://arxiv.org/abs/2304.12400) |  [code](https://github.com/lamm-mit/MoleculeDiffusionTransformer) 
@@ -1144,6 +1148,10 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 
 ### Fragment-based DMGs
+
+* **Molecular Generation with Reduced Labeling through Constraint Architecture** [2023]   
+ Wang, Jike, Yundian Zeng, Huiyong Sun, Junmei Wang, Xiaorui Wang, Ruofan Jin, Mingyang Wang et al.    
+  [Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00579) |  [code](https://github.com/jkwang93/Frag-G_M) 
 
 * **Tree-Invent: A novel molecular generative model constrained with topological tree** [2023]   
  Mingyuan Xu, HongMing Chen.   
