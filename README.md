@@ -368,6 +368,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ###  Transformer-based
 
+* **iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation** [2023]   
+ Jiashun Mao,, Jianmin  Wang, Kwang-Hwi Cho, Kyoung Tai No    
+  [Paper](https://doi.org/10.26434/chemrxiv-2023-5kjvh) |  [code](https://github.com/AspirinCode/iupacGPT) 
+
 * **Molecular Generation with Reduced Labeling through Constraint Architecture** [2023]   
  Wang, Jike, Yundian Zeng, Huiyong Sun, Junmei Wang, Xiaorui Wang, Ruofan Jin, Mingyang Wang et al.    
   [Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00579) |  [code](https://github.com/jkwang93/Frag-G_M) 
@@ -717,6 +721,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 ### RL-based
+
+* **Augmented Memory: Capitalizing on Experience Replay to Accelerate De Novo Molecular Design** [2023]   
+ Guo, Jeff, and Philippe Schwaller.    
+  [Paper](https://doi.org/10.26434/chemrxiv-2023-qmqmq-v2) |  [code](https://github.com/schwallergroup/augmented_memory) 
 
 * **Generating Potential Protein-Protein Interaction Inhibitor Molecules Based on Physicochemical Properties** [2023]   
  Ohue, Masahito, Yuki Kojima, and Takatsugu Kosugi.   
