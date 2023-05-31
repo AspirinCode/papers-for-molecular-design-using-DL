@@ -63,6 +63,7 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
     - [Score-Based](#Score-Based)
     - [Energy-based](#Energy-based)
     - [Diffusion-based](#Diffusion-based)
+    - [Score-based](#Score-based)
     - [RL-based](#RL-based)
     - [Multi-task DMGs](#Multi-task-DMGs)
 
