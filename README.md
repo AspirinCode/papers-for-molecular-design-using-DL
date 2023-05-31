@@ -719,6 +719,14 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 [Paper](https://arxiv.org/abs/2203.17003) |  [code](https://github.com/ehoogeboom/e3_diffusion_for_molecules) 
 
 
+### Score-based
+
+
+* **Exploring Chemical Space with Score-based Out-of-distribution Generation** [2023]   
+ Lee, Seul, Jaehyeong Jo, and Sung Ju Hwang.    
+  [Paper](https://arxiv.org/abs/2206.07632) |  [code](https://github.com/SeulLee05/MOOD) 
+
+
 
 ### RL-based
 
