@@ -63,7 +63,6 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
     - [Score-Based](#Score-Based)
     - [Energy-based](#Energy-based)
     - [Diffusion-based](#Diffusion-based)
-    - [Score-based](#Score-based)
     - [RL-based](#RL-based)
     - [Multi-task DMGs](#Multi-task-DMGs)
 
@@ -654,6 +653,10 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 ### Score-Based
 
 
+* **Exploring Chemical Space with Score-based Out-of-distribution Generation** [2023]   
+ Lee, Seul, Jaehyeong Jo, and Sung Ju Hwang.    
+  [Paper](https://arxiv.org/abs/2206.07632) | [code](https://github.com/SeulLee05/MOOD) 
+
 * **Score-Based Generative Models for Molecule Generation** [2022]  
 Gnaneshwar, Dwaraknath, et al.  
 [Paper](https://arxiv.org/abs/2203.04698) 
@@ -719,13 +722,6 @@ Lemeng Wu, Chengyue Gong, Xingchao Liu, Mao Ye, Qiang Liu
 Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.  
 [Paper](https://arxiv.org/abs/2203.17003) |  [code](https://github.com/ehoogeboom/e3_diffusion_for_molecules) 
 
-
-### Score-based
-
-
-* **Exploring Chemical Space with Score-based Out-of-distribution Generation** [2023]   
- Lee, Seul, Jaehyeong Jo, and Sung Ju Hwang.    
-  [Paper](https://arxiv.org/abs/2206.07632) | [code](https://github.com/SeulLee05/MOOD) 
 
 
 
