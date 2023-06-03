@@ -368,7 +368,7 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ###  Transformer-based
 
-* ** Molecule generation using transformers and policy gradient reinforcement learning** [2023]   
+* **Molecule generation using transformers and policy gradient reinforcement learning** [2023]   
  Mazuz, E., Shtar, G., Shapira, B. et al.    
   [Paper](https://doi.org/10.1038/s41598-023-35648-w) |  [code](https://github.com/eyalmazuz/MolGen) 
 
@@ -731,7 +731,7 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 ### RL-based
 
-* ** Molecule generation using transformers and policy gradient reinforcement learning** [2023]   
+* **Molecule generation using transformers and policy gradient reinforcement learning** [2023]   
  Mazuz, E., Shtar, G., Shapira, B. et al.    
   [Paper](https://doi.org/10.1038/s41598-023-35648-w) |  [code](https://github.com/eyalmazuz/MolGen) 
 
