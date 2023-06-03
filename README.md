@@ -1160,6 +1160,10 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 ### Motifs-based DMGs
 
+* **MAGNet: Motif-Agnostic Generation of Molecules from Shapes** [2023]   
+  Hetzel, Leon, Johanna Sommer, Bastian Rieck, Fabian Theis, and Stephan Günnemann.   
+  [Paper](https://arxiv.org/abs/2305.19303) 
+
 * **Molecule Generation For Target Protein Binding with Structural Motifs** [2023]   
   Zhang, Zaixi, Yaosen Min, Shuxin Zheng, and Qi Liu.   
   [Paper](https://openreview.net/forum?id=Rq13idF0F73) |  [code](https://github.com/zaixizhang/FLAG) 
