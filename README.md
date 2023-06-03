@@ -368,7 +368,7 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ###  Transformer-based
 
-* ** cMolGPT: A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation** [2023]   
+* **cMolGPT: A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation** [2023]   
  Wang, Ye, Honggang Zhao, Simone Sciabola, and Wenlu Wang.    
   [Paper](https://doi.org/10.3390/molecules28114430) |  [code](https://github.com/VV123/cMolGPT) 
 
