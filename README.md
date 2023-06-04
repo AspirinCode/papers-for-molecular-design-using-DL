@@ -368,10 +368,13 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ###  Transformer-based
 
+* **CMGN: a conditional molecular generation net to design target-specific molecules with desired properties** [2023]   
+ Yang, Minjian, Hanyu Sun, Xue Liu, Xi Xue, Yafeng Deng, and Xiaojian Wang.    
+  [Paper](https://doi.org/10.1093/bib/bbad185) |  [code](https://github.com/WJmodels/CMGN) 
+
 * **cMolGPT: A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation** [2023]   
  Wang, Ye, Honggang Zhao, Simone Sciabola, and Wenlu Wang.    
   [Paper](https://doi.org/10.3390/molecules28114430) |  [code](https://github.com/VV123/cMolGPT) 
-
 
 * **Molecule generation using transformers and policy gradient reinforcement learning** [2023]   
  Mazuz, E., Shtar, G., Shapira, B. et al.    
