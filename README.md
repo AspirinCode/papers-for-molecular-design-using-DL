@@ -47,7 +47,7 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
     - [Benchmarks](#Benchmarks)
 
   - [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics)
-    - [QED](#QED)  |      - [QED](#QED)
+    - [QED](#QED)  |      [QED](#QED)
     - [QEPPI](#QEPPI)
     - [SAscore](#SAscore)
     - [RAscore](#RAscore)
