@@ -65,6 +65,7 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
     - [Diffusion-based](#Diffusion-based)
     - [RL-based](#RL-based)
     - [Multi-task DMGs](#Multi-task-DMGs)
+    - [Monte Carlo Tree Search](#Monte-Carlo-Tree-Search)
 
 
   - [Multi-Target based deep molecular generative models](#Multi-Target-based-deep-molecular-generative-models)
@@ -488,6 +489,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+* **VGAE-MCTS: a New Molecular Generative Model combining Variational Graph Auto-Encoder and Monte Carlo Tree Search** [2023]  
+ Iwata, Hiroaki, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, Ryosuke Kojima, and Yasushi Okuno.   
+  [Paper](https://doi.org/10.26434/chemrxiv-2023-q8419-v2) 
+
 * **Deep Generation Model Guided by the Docking Score for Active Molecular Design** [2023]  
  Yang, Yuwei, Chang-Yu Hsieh, Yu Kang, Tingjun Hou, Huanxiang Liu, and Xiaojun Yao.   
   [Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00572) |  [code](https://github.com/jaechanglim/CVAE) 
@@ -853,6 +858,18 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 * **Molecular Language Model as Multi-task Generator** [2023]  
  Fang, Y., Zhang, N., Chen, Z., Fan, X. and Chen, H.    
   [Paper](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
+
+
+
+
+### Monte Carlo Tree Search
+
+
+* **VGAE-MCTS: a New Molecular Generative Model combining Variational Graph Auto-Encoder and Monte Carlo Tree Search** [2023]  
+ Iwata, Hiroaki, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, Ryosuke Kojima, and Yasushi Okuno.   
+  [Paper](https://doi.org/10.26434/chemrxiv-2023-q8419-v2) 
+
+
 
 
 ## Multi-Target based deep molecular generative models
