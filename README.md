@@ -296,6 +296,9 @@ https://github.com/ohuelab/QEPPI
 
 ### RNN-based
 
+* **Magicmol: a light-weighted pipeline for drug-like molecule evolution and quick chemical space exploration** [2023]  
+Chen, Lin, Qing Shen, and Jungang Lou.  
+[Paper](https://doi.org/10.1186/s12859-023-05286-0) |  [code](https://github.com/Josefjosda/Magicmol) 
 
 * **Augmented Hill-Climb increases reinforcement learning efficiency for language-based de novo molecule generation** [2022]  
 Thomas, M., O’Boyle, N.M., Bender, A. et al.  
