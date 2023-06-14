@@ -496,6 +496,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+* **A Protein-Ligand Interaction-focused 3D Molecular Generative Framework for Generalizable Structure-based Drug Design** [2023]  
+ Zhung W, Kim H, Kim WY.   
+  [Paper](https://doi.org/10.26434/chemrxiv-2023-jsjwx) |  [code](https://github.com/ACE-KAIST/DeepICL) 
+
 * **VGAE-MCTS: a New Molecular Generative Model combining Variational Graph Auto-Encoder and Monte Carlo Tree Search** [2023]  
  Iwata, Hiroaki, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, Ryosuke Kojima, and Yasushi Okuno.   
   [Paper](https://doi.org/10.26434/chemrxiv-2023-q8419-v2) 
@@ -1034,6 +1038,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 ## Structure-based deep molecular generative models
+
+* **A Protein-Ligand Interaction-focused 3D Molecular Generative Framework for Generalizable Structure-based Drug Design** [2023]  
+ Zhung W, Kim H, Kim WY.   
+  [Paper](https://doi.org/10.26434/chemrxiv-2023-jsjwx) |  [code](https://github.com/ACE-KAIST/DeepICL) 
 
 * **Mol-Zero-GAN: Zero-Shot Adaptation of Molecular Generative Adversarial Network for Specific Protein Targets** [2023]   
 Ravipas Aphikulvanich*， Natapol Pornputtapong， Duangdao Wichadakul   
