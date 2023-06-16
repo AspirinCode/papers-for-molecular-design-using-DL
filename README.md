@@ -366,11 +366,13 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### Autoregressive-models
 
+* **Domain-Agnostic Molecular Generation with Self-feedback** [2023]  
+ Yin Fang, Ningyu Zhang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
+  [Paper](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
 
 * **GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation** [2020]  
   Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.   
   [Paper](https://arxiv.org/abs/2001.09382) |  [code](https://github.com/DeepGraphLearning/GraphAF) 
-
 
 
 
@@ -896,6 +898,10 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 ## Ligand-based deep molecular generative models
+
+* **Domain-Agnostic Molecular Generation with Self-feedback** [2023]  
+ Yin Fang, Ningyu Zhang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
+  [Paper](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
 
 * **Transformer-based molecular generative model for antiviral drug design** [2023]  
  mao, jiashun; wang, jianming; zeb, amir; Cho, Kwang-Hwi; jin, haiyan; Kim, Jongwan; Lee, Onju; Wang, Yunyun; No, Kyoung Tai.    
