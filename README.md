@@ -68,6 +68,7 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
     - [Monte Carlo Tree Search](#Monte-Carlo-Tree-Search)
 
 
+  - [Text-driven molecular generation models](#Text-driven-molecular-generation-models)
   - [Multi-Target based deep molecular generative models](#Multi-Target-based-deep-molecular-generative-models)
   - [Ligand-based deep molecular generative models](#Ligand-based-deep-molecular-generative-models)
   - [Pharmacophore-based deep molecular generative models](#Pharmacophore-based-deep-molecular-generative-models)
@@ -881,6 +882,17 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 * **VGAE-MCTS: a New Molecular Generative Model combining Variational Graph Auto-Encoder and Monte Carlo Tree Search** [2023]  
  Iwata, Hiroaki, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, Ryosuke Kojima, and Yasushi Okuno.   
   [Paper](https://doi.org/10.26434/chemrxiv-2023-q8419-v2) 
+
+
+
+## Text-driven molecular generation models
+
+
+
+
+* **Domain-Agnostic Molecular Generation with Self-feedback** [2023]  
+ Yin Fang, Ningyu Zhang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
+  [Paper](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
 
 
 
