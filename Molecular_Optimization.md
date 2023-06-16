@@ -62,6 +62,14 @@ https://pubchem.ncbi.nlm.nih.gov/
 ## Deep Learning-Molecular Optimization
 
 
+### Autoregressive-models
+
+
+* **Domain-Agnostic Molecular Generation with Self-feedback** [2023]  
+ Yin Fang, Ningyu Zhang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
+  [Paper](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
+
+
 
 ### RNN-based
 
