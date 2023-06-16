@@ -184,6 +184,14 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 
 
+## Text-driven Molecular Optimization
+
+* **Domain-Agnostic Molecular Generation with Self-feedback** [2023]  
+ Yin Fang, Ningyu Zhang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
+  [Paper](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
+
+
+
 ## Fragment-based Molecular Optimization
 
 
