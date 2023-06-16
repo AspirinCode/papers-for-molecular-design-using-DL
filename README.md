@@ -888,7 +888,9 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 ## Text-driven molecular generation models
 
 
-
+* **Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models** [2023]  
+ Yin Fang, Xiaozhuan Liang, Ningyu Zhang, Kangwei Liu, Rui Huang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
+  [Paper](https://arxiv.org/abs/2306.08018) |  [code](https://github.com/zjunlp/Mol-Instructions) 
 
 * **Domain-Agnostic Molecular Generation with Self-feedback** [2023]  
  Yin Fang, Ningyu Zhang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
