@@ -1059,6 +1059,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+* **A Simple Way to Incorporate Target Structural Information in Molecular Generative Models** [2023]  
+ Zhang, Wenyi, Kaiyue Zhang, and Jing Huang.   
+  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00293) |  [code](https://github.com/JingHuangLab/SWIT) 
+
 * **A Protein-Ligand Interaction-focused 3D Molecular Generative Framework for Generalizable Structure-based Drug Design** [2023]  
  Zhung W, Kim H, Kim WY.   
   [Paper](https://doi.org/10.26434/chemrxiv-2023-jsjwx) |  [code](https://github.com/ACE-KAIST/DeepICL) 
