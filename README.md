@@ -627,27 +627,27 @@ Sattari, Kianoosh, Dawei Li, Yunchao Xie, Olexandr Isayev, and Jian Lin.
 
 * **MolFilterGAN: a progressively augmented generative adversarial network for triaging AI-designed molecules** [2023]   
 Liu, X., Zhang, W., Tong, X. et al.   
-[Paper](https://doi.org/10.1186/s13321-023-00711-1) |  [code](https://github.com/MolFilterGAN/MolFilterGAN) 
+[J Cheminform 15, 42 (2023)](https://doi.org/10.1186/s13321-023-00711-1) |  [code](https://github.com/MolFilterGAN/MolFilterGAN) 
 
 * **Deep generative model for drug design from protein target sequence** [2023]   
 Yangyang Chen, Zixu Wang, Lei Wang, Jianmin Wang, Pengyong Li, Dongsheng Cao, Xiangxiang Zeng, Xiucai Ye & Tetsuya Sakurai.   
-[Paper](https://doi.org/10.1186/s13321-023-00702-2) |  [code](https://github.com/viko-3/TargetGAN) 
+[J Cheminform 15, 38 (2023)](https://doi.org/10.1186/s13321-023-00702-2) |  [code](https://github.com/viko-3/TargetGAN) 
 
 * **Cell morphology-guided de novo hit design by conditioning GANs on phenotypic image features** [2022]  
 Zapata, Paula A. Marin, Oscar Méndez-Lucio, Tuan Le, Carsten Jörn Beese, Jörg Wichard, David Rouquié, and Djork-Arné Clevert.  
-[Paper](https://doi.org/10.1039/D2DD00081D) |  [code](https://github.com/Bayer-Group/CPMolGAN) 
+[Digital Discovery (2023)](https://doi.org/10.1039/D2DD00081D) |  [code](https://github.com/Bayer-Group/CPMolGAN) 
 
 * **Generating 3D molecules conditional on receptor binding sites with deep generative models** [2022]  
 Ragoza, Matthew, Tomohide Masuda, and David Ryan Koes.  
-[Paper](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d1sc05976a) |  [code](https://github.com/mattragoza/liGAN) 
+[Chemical science. 2022;13(9):2701-13.](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d1sc05976a) |  [code](https://github.com/mattragoza/liGAN) 
 
 * **Designing optimized drug candidates with Generative Adversarial Network** [2022]  
 Abbasi, M., Santos, B.P., Pereira, T.C. et al.  
-[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00623-6) |  [code](https://github.com/larngroup/GAN-Drug-Generator) 
+[ J Cheminform 14, 40 (2022)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00623-6) |  [code](https://github.com/larngroup/GAN-Drug-Generator) 
 
 * **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]  
 Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.  
-[Paper](https://doi.org/10.1093/bib/bbac285) |  [code](https://github.com/AspirinCode/iPPIGAN) 
+[Briefings in Bioinformatics,July 2022, bbac285,](https://doi.org/10.1093/bib/bbac285) |  [code](https://github.com/AspirinCode/iPPIGAN) 
 
 * **Improvement on Generative Adversarial Network for Targeted Drug Design** [2021]  
 Santos, B. P., Abbasi, M., Pereira, T., Ribeiro, B., & Arrais, J.  
