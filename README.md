@@ -570,11 +570,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **Molecule Generation by Principal Subgraph Mining and Assembling** [2022]  
   Kong, X., Huang, W., Tan, Z., & Liu, Y.  
-  [Paper](https://arxiv.org/abs/2106.15098) |  [code](https://github.com/THUNLP-MT/PS-VAE) 
+  [NeurIPS 2022](https://openreview.net/forum?id=ATfARCRmM-a) |[arXiv:2106.15098v4](https://arxiv.org/abs/2106.15098) |  [code](https://github.com/THUNLP-MT/PS-VAE) 
   
 * **LIMO: Latent Inceptionism for Targeted Molecule Generation** [2022]  
   Eckmann, Peter, Kunyang Sun, Bo Zhao, Mudong Feng, Michael K. Gilson, and Rose Yu.  
-  [Paper](https://arxiv.org/abs/2206.09010) |  [code](https://github.com/rose-stl-lab/limo) 
+  [ICML (2022)](https://proceedings.mlr.press/v162/eckmann22a/eckmann22a.pdf) | [arXiv:2206.09010v1](https://arxiv.org/abs/2206.09010) |  [code](https://github.com/rose-stl-lab/limo) 
 
 * **Predicting chemical structure using reinforcement learning with a stack-augmented conditional variational autoencoder** [2022]  
   Kim, H., Ko, S., Kim, B.J. *et al.*  
@@ -582,35 +582,35 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **Geometry-Based Molecular Generation With Deep Constrained Variational Autoencoder** [2022]   
   Li, Chunyan, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, and Jianmin Wang.   
-  [Paper](https://ieeexplore.ieee.org/abstract/document/9714718) |  [code](https://github.com/anny0316/GEOM-CVAE) 
+  [IEEE Transactions on Neural Networks and Learning Systems (2022)](https://ieeexplore.ieee.org/abstract/document/9714718) |  [code](https://github.com/anny0316/GEOM-CVAE) 
 
 * **Inverse design of nanoporous crystalline reticular materials with deep generative models.** [2021]  
   Yao, Z., Sánchez-Lengeling, B., Bobbitt, N.S. et al.  
-  [Paper](https://doi.org/10.1038/s42256-020-00271-1) |  [code](https://github.com/zhenpengyao/Supramolecular_VAE) 
+  [Nat Mach Intell 3, 76–86 (2021)](https://doi.org/10.1038/s42256-020-00271-1) |  [code](https://github.com/zhenpengyao/Supramolecular_VAE) 
 
 * **Attention-based generative models for de novo molecular design** [2021]  
   Dollar, O., Joshi, N., Beck, D.A. and Pfaendtner, J.,  
-  [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc01050f) |  [code](https://github.com/oriondollar/TransVAE) 
+  [Chemical Science 12.24 (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc01050f) |  [code](https://github.com/oriondollar/TransVAE) 
 
 * **Toward efficient generation, correction, and properties control of unique drug-like structures** [2021]  
   Druchok, Maksym, Dzvenymyra Yarish, Oleksandr Gurbych, and Mykola Maksymenko.  
-  [Paper](https://onlinelibrary.wiley.com/doi/10.1002/jcc.26494) |  [code](https://github.com/SoftServeInc/novel-molecule-generation) 
+  [Journal of Computational Chemistry 42.11 (2021)](https://onlinelibrary.wiley.com/doi/10.1002/jcc.26494) |  [code](https://github.com/SoftServeInc/novel-molecule-generation) 
 
 * **Compressed graph representation for scalable molecular graph generation** [2020]  
   Kwon, Youngchun, Dongseon Lee, Youn-Suk Choi, Kyoham Shin, and Seokho Kang.  
-  [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00463-2) |  [code](https://github.com/seokhokang/graphvae_compress) 
+  [J Cheminform 12, 58 (2020)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00463-2) |  [code](https://github.com/seokhokang/graphvae_compress) 
 
 * **Fragment Graphical Variational AutoEncoding for Screening Molecules with Small Data** [2019]  
   Armitage, John, Leszek J. Spalek, Malgorzata Nguyen, Mark Nikolka, Ian E. Jacobs, Lorena Marañón, Iyad Nasrallah et al.  
-  [Paper](https://arxiv.org/abs/1910.13325) |  [code](https://github.com/OE-FET/FraGVAE) 
+  [arXiv:1910.13325v2](https://arxiv.org/abs/1910.13325) |  [code](https://github.com/OE-FET/FraGVAE) 
 
 * **Molecular generative model based on conditional variational autoencoder for de novo molecular design** [2018]  
   Lim, J., Ryu, S., Kim, J. W., & Kim, W. Y.   
-  [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0286-7) |  [code](https://github.com/jaechanglim/CVAE) 
+  [J Cheminform 10, 31 (2018)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0286-7) |  [code](https://github.com/jaechanglim/CVAE) 
 
 * **Automatic chemical design using a data-driven continuous representation of molecules** [2017]  
   Gómez-Bombarelli, R., Wei, J. N., Duvenaud, D., Hernández-Lobato, J. M., Sánchez-Lengeling, B., Sheberla, D., ... & Aspuru-Guzik, A.   
-  [Paper](https://arxiv.org/abs/1610.02415) |  [code](https://github.com/tuantla80/VAE-Molecular-Generation) 
+  [ACS Cent. Sci. 2018](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572) | [arXiv:1610.02415v3](https://arxiv.org/abs/1610.02415) |  [code](https://github.com/tuantla80/VAE-Molecular-Generation) 
 
 
 
@@ -1399,19 +1399,19 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 * **Gex2SGen: Designing Drug-like Molecules from Desired Gene Expression Signatures** [2023]   
  Das, Dibyajyoti, Broto Chakrabarty, Rajgopal Srinivasan, and Arijit Roy.   
-  [Paper](https://doi.org/10.1021/acs.jcim.2c01301)
+  [J. Chem. Inf. Model. 2023, 63, 7, 1882–1893](https://doi.org/10.1021/acs.jcim.2c01301)
 
 * **PaccMannRL: De novo generation of hit-like anticancer molecules from transcriptomic data via reinforcement learning** [2021]  
   Born, Jannis, Matteo Manica, Ali Oskooei, Joris Cadow, Greta Markert, and María Rodríguez Martínez.   
-  [Paper](https://doi.org/10.1016/j.isci.2021.102269) |  [code](https://github.com/PaccMann/paccmann_omics) 
+  [Iscience 24.4 (2021)](https://doi.org/10.1016/j.isci.2021.102269) |  [code](https://github.com/PaccMann/paccmann_omics) 
 
 * **Molecular Generation for Desired Transcriptome Changes With Adversarial Autoencoders** [2020]  
   Shayakhmetov, Rim, Maksim Kuznetsov, Alexander Zhebrak, Artur Kadurin, Sergey Nikolenko, Alexander Aliper, and Daniil Polykovskiy.   
-  [Paper](https://doi.org/10.3389/fphar.2020.00269) |  [code](https://github.com/insilicomedicine/BiAAE) 
+  [Frontiers in Pharmacology (2020)](https://doi.org/10.3389/fphar.2020.00269) |  [code](https://github.com/insilicomedicine/BiAAE) 
 
 * **De novo generation of hit-like molecules from gene expression signatures using artificial intelligence** [2020]  
   Méndez-Lucio, Oscar, Benoit Baillif, Djork-Arné Clevert, David Rouquié, and Joerg Wichard.   
-  [Paper](https://doi.org/10.1038/s41467-019-13807-w) 
+  [Nat Commun 11, 10 (2020)](https://doi.org/10.1038/s41467-019-13807-w) 
 
 
 ## Multi-Objective deep molecular generative models
