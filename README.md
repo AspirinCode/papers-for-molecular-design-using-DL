@@ -110,7 +110,7 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 * **How will generative AI disrupt data science in drug discovery?**[2023]   
  Vert, JP.  
-[[Paper]](https://doi.org/10.1038/s41587-023-01789-6)
+[[Nat Biotechnol (2023)]](https://doi.org/10.1038/s41587-023-01789-6)
 
 * **Generative Models as an Emerging Paradigm in the Chemical Sciences**[2023]   
  Anstine, Dylan M., and Olexandr Isayev.  
