@@ -25,7 +25,7 @@ Beck, Hartmut, Tobias Thaler, Daniel Meibom, Mark Meininghaus, Hannah Jörißen
 
 * **Computer-aided multi-objective optimization in small molecule discovery** [2023]  
   Fromer, J. C., & Coley, C. W.   
-[[Paper]](https://doi.org/10.1016/j.patter.2023.100678)
+[Patterns 4.2 (2023)](https://doi.org/10.1016/j.patter.2023.100678)
 
 
 
@@ -87,7 +87,7 @@ https://pubchem.ncbi.nlm.nih.gov/
 
 * **Utilizing deep learning to explore chemical space for drug lead optimization** [2023]  
   Chakraborty, Rajkumar, and Yasha Hasija.  
-  [Paper](https://doi.org/10.1016/j.eswa.2023.120592) |  [code](https://github.com/rajkumar1501/drug_analog_data) 
+  [Expert Systems with Applications (2023)](https://doi.org/10.1016/j.eswa.2023.120592) |  [code](https://github.com/rajkumar1501/drug_analog_data) 
 
 
 
@@ -104,11 +104,11 @@ https://pubchem.ncbi.nlm.nih.gov/
 
 * **Molecular optimization by capturing chemist’s intuition using deep neural networks** [2021]  
   He, Jiazhen, Huifang You, Emil Sandström, Eva Nittinger, Esben Jannik Bjerrum, Christian Tyrchan, Werngard Czechtizky, and Ola Engkvist.  
-  [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00497-0) |  [code](https://github.com/MolecularAI/deep-molecular-optimization) 
+  [J Cheminform 13, 26 (2021)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00497-0) |  [code](https://github.com/MolecularAI/deep-molecular-optimization) 
 
 * **Transformer-based molecular optimization beyond matched molecular pairs** [2022]  
   He, Jiazhen, Eva Nittinger, Christian Tyrchan, Werngard Czechtizky, Atanas Patronov, Esben Jannik Bjerrum, and Ola Engkvist.  
-  [Paper](https://doi.org/10.1186/s13321-022-00599-3) |  [code](https://github.com/MolecularAI/deep-molecular-optimization/tree/general_transformation) 
+  [J Cheminform 14, 18 (2022)](https://doi.org/10.1186/s13321-022-00599-3) |  [code](https://github.com/MolecularAI/deep-molecular-optimization/tree/general_transformation) 
 
 * **Transformer Neural Network-Based Molecular Optimization Using General Transformations** [2021]  
   He, Jiazhen, Eva Nittinger, Christian Tyrchan, Werngard Czechtizky, Atanas Patronov, Esben Jannik Bjerrum, and Ola Engkvist.  
@@ -121,11 +121,11 @@ https://pubchem.ncbi.nlm.nih.gov/
 
 * **Utilizing deep learning to explore chemical space for drug lead optimization** [2023]  
   Chakraborty, Rajkumar, and Yasha Hasija.  
-  [Paper](https://doi.org/10.1016/j.eswa.2023.120592) |  [code](https://github.com/rajkumar1501/drug_analog_data) 
+  [Expert Systems with Applications (2023)](https://doi.org/10.1016/j.eswa.2023.120592) |  [code](https://github.com/rajkumar1501/drug_analog_data) 
 
 * **Constrained Bayesian optimization for automatic chemical design using variational autoencoders** [2019]  
   Griffiths, Ryan-Rhys, and José Miguel Hernández-Lobato.  
-  [Paper](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc04026a) |  [code](https://github.com/Ryan-Rhys/Constrained-Bayesian-Optimisation-for-Automatic-Chemical-Design) 
+  [Chemical science 11.2 (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc04026a) |  [code](https://github.com/Ryan-Rhys/Constrained-Bayesian-Optimisation-for-Automatic-Chemical-Design) 
 
 
 
@@ -144,7 +144,7 @@ https://pubchem.ncbi.nlm.nih.gov/
 
 * **A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets** [2023]  
 Huang, Lei.   
-[Paper](https://www.biorxiv.org/content/10.1101/2023.01.28.526011v1) 
+[bioRxiv 2023.01.28.526011](https://www.biorxiv.org/content/10.1101/2023.01.28.526011v1) 
 
 
 
