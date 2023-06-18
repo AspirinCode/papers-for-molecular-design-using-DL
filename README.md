@@ -406,15 +406,15 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **Molecule generation using transformers and policy gradient reinforcement learning** [2023]   
  Mazuz, E., Shtar, G., Shapira, B. et al.    
-  [Paper](https://doi.org/10.1038/s41598-023-35648-w) |  [code](https://github.com/eyalmazuz/MolGen) 
+  [Sci Rep 13, 8799 (2023)](https://doi.org/10.1038/s41598-023-35648-w) |  [code](https://github.com/eyalmazuz/MolGen) 
 
 * **iupacGPT: IUPAC-based large-scale molecular pre-trained model for property prediction and molecule generation** [2023]   
  Jiashun Mao,, Jianmin  Wang, Kwang-Hwi Cho, Kyoung Tai No    
-  [Paper](https://doi.org/10.26434/chemrxiv-2023-5kjvh) |  [code](https://github.com/AspirinCode/iupacGPT) 
+  [chemrxiv-2023-5kjvh](https://doi.org/10.26434/chemrxiv-2023-5kjvh) |  [code](https://github.com/AspirinCode/iupacGPT) 
 
 * **Molecular Generation with Reduced Labeling through Constraint Architecture** [2023]   
  Wang, Jike, Yundian Zeng, Huiyong Sun, Junmei Wang, Xiaorui Wang, Ruofan Jin, Mingyang Wang et al.    
-  [Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00579) |  [code](https://github.com/jkwang93/Frag-G_M) 
+  [J. Chem. Inf. Model. (2023)](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00579) |  [code](https://github.com/jkwang93/Frag-G_M) 
 
 * **Generative Discovery of Novel Chemical Designs using Diffusion Modeling and Transformer Deep Neural Networks with Application to Deep Eutectic Solvents** [2023]   
  Luu, Rachel K., Marcin Wysokowski, and Markus J. Buehler.    
@@ -434,19 +434,19 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **DrugEx v3: scaffold-constrained drug design with graph transformer-based reinforcement learning** [2023]  
   Liu, X., Ye, K., van Vlijmen, H.W.T. et al.   
-  [Paper](https://doi.org/10.1186/s13321-023-00694-z) |  [code](https://github.com/CDDLeiden/DrugEx) 
+  [J Cheminform 15, 24 (2023)](https://doi.org/10.1186/s13321-023-00694-z) |  [code](https://github.com/CDDLeiden/DrugEx) 
 
 * **Explore drug-like space with deep generative models** [2023]  
   Wang, Jianmin, et al.  
-  [Paper](https://doi.org/10.1016/j.ymeth.2023.01.004) |  [code](https://github.com/AspirinCode/drug-likeness_space) 
+  [Methods (2023)](https://doi.org/10.1016/j.ymeth.2023.01.004) |  [code](https://github.com/AspirinCode/drug-likeness_space) 
 
 * **Large-scale chemical language representations capture molecular structure and properties** [2022]  
   Ross, J., Belgodere, B., Chenthamarakshan, V., Padhi, I., Mroueh, Y., & Das, P.   
-  [Paper](https://www.nature.com/articles/s42256-022-00580-7) |  [code](https://github.com/IBM/molformer) 
+  [Nat Mach Intell 4, 1256–1264 (2022)](https://www.nature.com/articles/s42256-022-00580-7) |  [code](https://github.com/IBM/molformer) 
 
 * **AlphaDrug: protein target specific de novo molecular generation** [2022]  
   Qian, Hao, Cheng Lin, Dengwei Zhao, Shikui Tu, and Lei Xu.  
-  [Paper](https://academic.oup.com/pnasnexus/article/1/4/pgac227/6751929) |  [code](https://github.com/CMACH508/AlphaDrug) 
+  [ PNAS Nexus (2022)](https://academic.oup.com/pnasnexus/article/1/4/pgac227/6751929) |  [code](https://github.com/CMACH508/AlphaDrug) 
 
 * **Can We Quickly Learn to “Translate” Bioactive Molecules with Transformer Models?** [2022]  
   Bagal, V., Aggarwal, R., Vinod, P. K., & Priyakumar, U. D.  
