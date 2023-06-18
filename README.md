@@ -338,11 +338,11 @@ Santos, B. P., Abbasi, M., Pereira, T., Ribeiro, B., & Arrais, J. P.
 
 * **Bidirectional Molecule Generation with Recurrent Neural Networks** [2020]  
 Grisoni, F., Moret, M., Lingwood, R., & Schneider, G.  
-[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00943) |  [code](https://github.com/robinlingwood/BIMODAL) 
+[J. Chem. Inf. Model. (2020)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00943) |  [code](https://github.com/robinlingwood/BIMODAL) 
 
 * **Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks** [2019]  
 Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
-[Paper](https://www.nature.com/articles/s42256-020-0174-5) |  [code](https://github.com/pcko1/Deep-Drug-Coder) 
+[Nat Mach Intell 2, 254–265 (2020)](https://www.nature.com/articles/s42256-020-0174-5) |  [code](https://github.com/pcko1/Deep-Drug-Coder) 
 
 * **ChemTS: An Efficient Python Library for de novo Molecular Generation** [2017]  
 Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.  
