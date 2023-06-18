@@ -418,11 +418,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **Generative Discovery of Novel Chemical Designs using Diffusion Modeling and Transformer Deep Neural Networks with Application to Deep Eutectic Solvents** [2023]   
  Luu, Rachel K., Marcin Wysokowski, and Markus J. Buehler.    
-  [Paper](https://arxiv.org/abs/2304.12400) |  [code](https://github.com/lamm-mit/MoleculeDiffusionTransformer) 
+  [arXiv:2304.12400v1](https://arxiv.org/abs/2304.12400) |  [code](https://github.com/lamm-mit/MoleculeDiffusionTransformer) 
 
 * **Regression Transformer enables concurrent sequence regression and generation for molecular language modelling** [2023]   
  Born, J., Manica, M.    
-  [Paper](https://doi.org/10.1038/s42256-023-00639-z) |  [code](https://github.com/GT4SD/gt4sd-core/tree/main/examples/regression_transformer) 
+  [Nat Mach Intell 5, 432–444 (2023)](https://doi.org/10.1038/s42256-023-00639-z) |  [code](https://github.com/GT4SD/gt4sd-core/tree/main/examples/regression_transformer) 
 
 * **Transformer-based molecular generative model for antiviral drug design** [2023]  
  mao, jiashun; wang, jianming; zeb, amir; Cho, Kwang-Hwi; jin, haiyan; Kim, Jongwan; Lee, Onju; Wang, Yunyun; No, Kyoung Tai.    
@@ -430,7 +430,7 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks** [2023]   
   Ünlü, Atabey, Elif Çevrim, Ahmet Sarıgün, Hayriye Çelikbilek, Heval Ataş Güvenilir, Altay Koyaş, Deniz Cansen Kahraman, Ahmet Rifaioğlu, and Abdurrahman Olğaç.   
-  [Paper](https://arxiv.org/abs/2302.07868)
+  [arXiv:2302.07868v5](https://arxiv.org/abs/2302.07868)
 
 * **DrugEx v3: scaffold-constrained drug design with graph transformer-based reinforcement learning** [2023]  
   Liu, X., Ye, K., van Vlijmen, H.W.T. et al.   
@@ -450,7 +450,7 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **Can We Quickly Learn to “Translate” Bioactive Molecules with Transformer Models?** [2022]  
   Bagal, V., Aggarwal, R., Vinod, P. K., & Priyakumar, U. D.  
-  [Paper](https://doi.org/10.26434/chemrxiv-2022-gln27)
+  [chemrxiv-2022-gln27](https://doi.org/10.26434/chemrxiv-2022-gln27)
 
 * **MolGPT: Molecular Generation Using a Transformer-Decoder Model** [2022]  
   Bagal, V., Aggarwal, R., Vinod, P. K., & Priyakumar, U. D.  
@@ -458,7 +458,7 @@ Santana, M.V.S., Silva-Jr, F.P.
   
 * **Tailoring Molecules for Protein Pockets: a Transformer-based Generative Solution for Structured-based Drug Design** [2022]  
   Wu, K., Xia, Y., Fan, Y., Deng, P., Liu, H., Wu, L., ... & Liu, T. Y.  
-  [Paper](https://arxiv.org/abs/2209.06158) |  [code](https://github.com/HankerWu/TamGent) 
+  [arXiv.2209.06158](https://arxiv.org/abs/2209.06158) |  [code](https://github.com/HankerWu/TamGent) 
  
  * **Exploiting pretrained biochemical language models for targeted drug design** [2022]  
   Uludoğan, Gökçe, Elif Ozkirimli, Kutlu O. Ulgen, Nilgün Karalı, and Arzucan Özgür.  
@@ -466,51 +466,51 @@ Santana, M.V.S., Silva-Jr, F.P.
  
 * **A Transformer-based Generative Model for De Novo Molecular Design** [2022]  
   Wang, Wenlu, et al.  
-  [Paper](https://arxiv.org/abs/2210.08749)
+  [arXiv:2210.08749v2](https://arxiv.org/abs/2210.08749)
 
 * **Translation between Molecules and Natural Language** [2022]  
   Edwards, C., Lai, T., Ros, K., Honke, G., & Ji, H.  
-  [Paper](https://arxiv.org/abs/2204.11817) |  [code](https://github.com/blender-nlp/MolT5) 
+  [arXiv:2204.11817v3](https://arxiv.org/abs/2204.11817) |  [code](https://github.com/blender-nlp/MolT5) 
 
 * **Regression Transformer enables concurrent sequence regression and generation for molecular language modeling** [2022]  
   Born, Jannis and Manica, Matteo  
-  [Paper](https://arxiv.org/abs/2202.01338) |  [code](https://github.com/IBM/regression-transformer) 
+  [arXiv:2202.01338v3](https://arxiv.org/abs/2202.01338) |  [code](https://github.com/IBM/regression-transformer) 
 
 * **Generative Pre-Training from Molecules** [2021]  
   Adilov, Sanjar.  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) |  [code](https://github.com/sanjaradylov/smiles-gpt) 
+  [J. Chem. Inf. Model. 2022, 62, 9, 2064–2076](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) |  [code](https://github.com/sanjaradylov/smiles-gpt) 
 
 * **Transformers for Molecular Graph Generation** [2021]  
   Cofala, Tim, and Oliver Kramer.  
-  [Paper](https://web.archive.org/web/20211019010336id_/https://www.esann.org/sites/default/files/proceedings/2021/ES2021-112.pdf) |  [code](https://gitlab.uni-oldenburg.de/gies6280/molegent) 
+  [ESANN 2021 ](https://www.esann.org/sites/default/files/proceedings/2021/ES2021-112.pdf) |  [code](https://gitlab.uni-oldenburg.de/gies6280/molegent) 
 
 * **Spatial Generation of Molecules with Transformers** [2021]  
   Cofala, Tim, and Oliver Kramer.  
-  [Paper](https://ieeexplore.ieee.org/abstract/document/9533439) |  [code](https://gitlab.uni-oldenburg.de/gies6280/molegent) 
+  [IJCNN52387.2021.9533439 (2021)](https://ieeexplore.ieee.org/abstract/document/9533439) |  [code](https://gitlab.uni-oldenburg.de/gies6280/molegent) 
 
 * **Generative Chemical Transformer: Neural Machine Learning of Molecular Geometric Structures from Chemical Language via Attentio** [2021]  
   Hyunseung Kim, Jonggeol Na*, and Won Bo Lee*.  
-  [Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c01289) |  [code](https://github.com/Hyunseung-Kim/molGCT) 
+  [J. Chem. Inf. Model. 2021, 61, 12, 5804–5814](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c01289) |  [code](https://github.com/Hyunseung-Kim/molGCT) 
 
 * **C5T5: Controllable Generation of Organic Molecules with Transformer** [2021]  
   Rothchild, D., Tamkin, A., Yu, J., Misra, U., & Gonzalez, J.  
-  [Paper](https://arxiv.org/abs/2108.10307) |  [code](https://github.com/dhroth/c5t5) 
+  [arXiv:2108.10307v1](https://arxiv.org/abs/2108.10307) |  [code](https://github.com/dhroth/c5t5) 
 
 * **Molecular optimization by capturing chemist’s intuition using deep neural networks** [2021]  
   He, J., You, H., Sandström, E. et al.   
-  [Paper](https://doi.org/10.1186/s13321-021-00497-0) |  [code](https://github.com/MolecularAI/deep-molecular-optimization) 
+  [J Cheminform 13, 26 (2021)](https://doi.org/10.1186/s13321-021-00497-0) |  [code](https://github.com/MolecularAI/deep-molecular-optimization) 
 
 * **Transformer neural network for protein-specific de novo drug generation as a machine translation problem** [2021]  
   Grechishnikova, Daria.   
-  [Paper](https://www.nature.com/articles/s41598-020-79682-4) |  [code](https://github.com/dariagrechishnikova/molecule_structure_generation) 
+  [Sci Rep 11, 321 (2021)](https://www.nature.com/articles/s41598-020-79682-4) |  [code](https://github.com/dariagrechishnikova/molecule_structure_generation) 
 
 * **Transmol: repurposing a language model for molecular generation** [2021]  
   Grechishnikova, Daria.   
-  [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/ra/d1ra03086h) |  [code](https://gitlab.com/cheml.io/public/transmol) 
+  [RSC advances. 2021;11(42):25921-32.](https://pubs.rsc.org/en/content/articlelanding/2021/ra/d1ra03086h) |  [code](https://gitlab.com/cheml.io/public/transmol) 
 
 * **Attention-based generative models for de novo molecular design** [2021]  
   Dollar, O., Joshi, N., Beck, D.A. and Pfaendtner, J.,  
-  [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc01050f) |  [code](https://github.com/oriondollar/TransVAE) 
+  [Chemical Science 12.24 (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc01050f) |  [code](https://github.com/oriondollar/TransVAE) 
 
 
 
@@ -518,7 +518,7 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **A Protein-Ligand Interaction-focused 3D Molecular Generative Framework for Generalizable Structure-based Drug Design** [2023]  
  Zhung W, Kim H, Kim WY.   
-  [Paper](https://doi.org/10.26434/chemrxiv-2023-jsjwx) |  [code](https://github.com/ACE-KAIST/DeepICL) 
+  [chemrxiv-2023-jsjwx](https://doi.org/10.26434/chemrxiv-2023-jsjwx) |  [code](https://github.com/ACE-KAIST/DeepICL) 
 
 * **VGAE-MCTS: a New Molecular Generative Model combining Variational Graph Auto-Encoder and Monte Carlo Tree Search** [2023]  
  Iwata, Hiroaki, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, Ryosuke Kojima, and Yasushi Okuno.   
@@ -550,11 +550,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **Accelerating Bayesian Optimization for Biological Sequence Design with Denoising Autoencoders** [2022]  
   Stanton, S., Maddox, W., Gruver, N., Maffettone, P., Delaney, E., Greenside, P., & Wilson, A. G.   
-  [Paper](https://arxiv.org/abs/2203.12742) 
+  [PMLR 162:20459-20478, 2022](https://arxiv.org/abs/2203.12742) 
 
 * **Conditional β-VAE for De Novo Molecular Generation** [2022]  
   Richards, Ryan J., and Austen M. Groener.   
-  [Paper](https://arxiv.org/abs/2205.01592) 
+  [arXiv:2205.01592v1 ](https://arxiv.org/abs/2205.01592) 
 
 * **MGCVAE: Multi-Objective Inverse Design via Molecular Graph Conditional Variational Autoencoder** [2022]  
   Lee, Myeonghun, and Kyoungmin Min.  
