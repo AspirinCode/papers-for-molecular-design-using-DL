@@ -386,7 +386,7 @@ Santana, M.V.S., Silva-Jr, F.P.
 ###  Transformer-based
 
 * **Adaptive language model training for molecular designs** [2023]  
- Andrew E. Blanchard, Debsindhu Bhowmik, Zachary Fox, John Gounley, Jens Glaser, Belinda S. Akpa & Stephan Irle
+ Andrew E. Blanchard, Debsindhu Bhowmik, Zachary Fox, John Gounley, Jens Glaser, Belinda S. Akpa & Stephan Irle.
   [Paper](https://doi.org/10.1186/s13321-023-00719-7) |  [code](https://code.ornl.gov/candle/mlmol%20in%20the%20adaptive-lm%20directory) 
 
 * **CMGN: a conditional molecular generation net to design target-specific molecules with desired properties** [2023]   
