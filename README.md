@@ -346,7 +346,7 @@ Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
 
 * **ChemTS: An Efficient Python Library for de novo Molecular Generation** [2017]  
 Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.  
-[Paper](https://arxiv.org/abs/1710.00616) |  [code](https://github.com/tsudalab/ChemTS) 
+[Science and Technology of Advanced Materials (2017)](https://www.tandfonline.com/doi/full/10.1080/14686996.2017.1401424) |  [code](https://github.com/tsudalab/ChemTS) 
 
 
 
@@ -382,11 +382,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **Domain-Agnostic Molecular Generation with Self-feedback** [2023]  
  Yin Fang, Ningyu Zhang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
-  [Paper](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
+  [arXiv:2301.11259v3](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
 
 * **GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation** [2020]  
   Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.   
-  [Paper](https://arxiv.org/abs/2001.09382) |  [code](https://github.com/DeepGraphLearning/GraphAF) 
+    [ICLR (2020)](https://openreview.net/forum?id=S1esMkHYPr) |[arXiv:2001.09382](https://arxiv.org/abs/2001.09382) |  [code](https://github.com/DeepGraphLearning/GraphAF) 
 
 
 
