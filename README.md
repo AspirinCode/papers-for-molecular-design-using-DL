@@ -522,31 +522,31 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **VGAE-MCTS: a New Molecular Generative Model combining Variational Graph Auto-Encoder and Monte Carlo Tree Search** [2023]  
  Iwata, Hiroaki, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, Ryosuke Kojima, and Yasushi Okuno.   
-  [Paper](https://doi.org/10.26434/chemrxiv-2023-q8419-v2) 
+  [chemrxiv-2023-q8419-v2](https://doi.org/10.26434/chemrxiv-2023-q8419-v2) 
 
 * **Deep Generation Model Guided by the Docking Score for Active Molecular Design** [2023]  
  Yang, Yuwei, Chang-Yu Hsieh, Yu Kang, Tingjun Hou, Huanxiang Liu, and Xiaojun Yao.   
-  [Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00572) |  [code](https://github.com/jaechanglim/CVAE) 
+  [J. Chem. Inf. Model. 2023, 63, 10, 2983–2991](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00572) |  [code](https://github.com/jaechanglim/CVAE) 
 
 * **Direct De Novo Molecule Generation Using Probabilistic Diverse Variational Autoencoder** [2023]  
  Singh Bhadwal, Arun, and Kamal Kumar.     
-  [Paper](https://link.springer.com/chapter/10.1007/978-981-19-7867-8_2) 
+  [Computer Vision and Machine Intelligence. Lecture Notes in Networks and Systems, vol 586. Springer (2023)](https://link.springer.com/chapter/10.1007/978-981-19-7867-8_2) 
 
 * **MoVAE: A Variational AutoEncoder for Molecular Graph Generation** [2023]   
  Lin, Zerun, Yuhan Zhang, Lixin Duan, Le Ou-Yang, and Peilin Zhao.   
-  [Paper](https://doi.org/10.1137/1.9781611977653.ch58) 
+  [Society for Industrial and Applied Mathematics, 2023.](https://doi.org/10.1137/1.9781611977653.ch58) 
 
 * **Gex2SGen: Designing Drug-like Molecules from Desired Gene Expression Signatures** [2023]   
  Das, Dibyajyoti, Broto Chakrabarty, Rajgopal Srinivasan, and Arijit Roy.   
-  [Paper](https://doi.org/10.1021/acs.jcim.2c01301)
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.2c01301)
 
 * **COMA: efficient structure-constrained molecular generation using contractive and margin losses** [2023]  
  Choi, J., Seo, S. & Park, S.     
-  [Paper](https://doi.org/10.1186/s13321-023-00679-y) |  [code](https://github.com/mathcom/COMA) 
+  [J Cheminform 15, 8 (2023)](https://doi.org/10.1186/s13321-023-00679-y) |  [code](https://github.com/mathcom/COMA) 
 
 * **Design of potent antimalarials with generative chemistry** [2022]   
   Godinez, W.J., Ma, E.J., Chao, A.T. et al.  
-  [Paper](https://doi.org/10.1038/s42256-022-00448-w)  |  [code](https://github.com/Novartis/JAEGER) 
+  [Nat Mach Intell 4, 180–186 (2022)](https://doi.org/10.1038/s42256-022-00448-w)  |  [code](https://github.com/Novartis/JAEGER) 
 
 * **Accelerating Bayesian Optimization for Biological Sequence Design with Denoising Autoencoders** [2022]  
   Stanton, S., Maddox, W., Gruver, N., Maffettone, P., Delaney, E., Greenside, P., & Wilson, A. G.   
@@ -558,11 +558,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **MGCVAE: Multi-Objective Inverse Design via Molecular Graph Conditional Variational Autoencoder** [2022]  
   Lee, Myeonghun, and Kyoungmin Min.  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487) |  [code](https://github.com/mhlee216/MGCVAE) 
+  [J. Chem. Inf. Model. 2022, 62, 12, 2943–2950](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487) |  [code](https://github.com/mhlee216/MGCVAE) 
 
 * **RELATION: A Deep Generative Model for Structure-Based De Novo Drug Design** [2022]  
   Wang, M., Hsieh, C.Y., Wang, J., Wang, D., Weng, G., Shen, C., Yao, X., Bing, Z., Li, H., Cao, D. and Hou, T.,  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00732) |  [code](https://github.com/micahwang/RELATION) 
+  [J. Med. Chem. 2022, 65, 13, 9478–9492](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00732) |  [code](https://github.com/micahwang/RELATION) 
 
 * **3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design** [2022]  
   Huang, Yinan, Xingang Peng, Jianzhu Ma, and Muhan Zhang.   
@@ -578,7 +578,7 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **Predicting chemical structure using reinforcement learning with a stack-augmented conditional variational autoencoder** [2022]  
   Kim, H., Ko, S., Kim, B.J. *et al.*  
-  [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00666-9) |  [code](https://github.com/HwanheeKim813/stack_CVAE) 
+  [J Cheminform 14, 83 (2022)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00666-9) |  [code](https://github.com/HwanheeKim813/stack_CVAE) 
 
 * **Geometry-Based Molecular Generation With Deep Constrained Variational Autoencoder** [2022]   
   Li, Chunyan, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, and Jianmin Wang.   
