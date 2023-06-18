@@ -454,7 +454,7 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **MolGPT: Molecular Generation Using a Transformer-Decoder Model** [2022]  
   Bagal, V., Aggarwal, R., Vinod, P. K., & Priyakumar, U. D.  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) |  [code](https://github.com/devalab/molgpt) 
+  [J. Chem. Inf. Model. 2022, 62, 9, 2064–2076](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) |  [code](https://github.com/devalab/molgpt) 
   
 * **Tailoring Molecules for Protein Pockets: a Transformer-based Generative Solution for Structured-based Drug Design** [2022]  
   Wu, K., Xia, Y., Fan, Y., Deng, P., Liu, H., Wu, L., ... & Liu, T. Y.  
@@ -462,7 +462,7 @@ Santana, M.V.S., Silva-Jr, F.P.
  
  * **Exploiting pretrained biochemical language models for targeted drug design** [2022]  
   Uludoğan, Gökçe, Elif Ozkirimli, Kutlu O. Ulgen, Nilgün Karalı, and Arzucan Özgür.  
-  [Paper](https://doi.org/10.1093/bioinformatics/btac482) |  [code](https://github.com/boun-tabi/biochemical-lms-for-drug-design) 
+  [Bioinformatics (2022)](https://doi.org/10.1093/bioinformatics/btac482) |  [code](https://github.com/boun-tabi/biochemical-lms-for-drug-design) 
  
 * **A Transformer-based Generative Model for De Novo Molecular Design** [2022]  
   Wang, Wenlu, et al.  
