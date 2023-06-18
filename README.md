@@ -355,7 +355,7 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 
 * **Leveraging molecular structure and bioactivity with chemical language models for de novo drug design** [2023]  
   Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
-  [Paper](https://www.nature.com/articles/s41467-022-35692-6) |  [code](https://github.com/ETHmodlab/hybridCLMs/tree/v1.0) 
+  [Nat Commun 14, 114 (2023)](https://www.nature.com/articles/s41467-022-35692-6) |  [code](https://github.com/ETHmodlab/hybridCLMs/tree/v1.0) 
 
 * **SMILES-based CharLSTM with finetuning and goal-directed generation via policy gradient** [2022]  
 
@@ -363,19 +363,19 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 
 * **DeLA-Drug: A Deep Learning Algorithm for Automated Design of Druglike Analogues** [2022]  
   Creanza, T. M., Lamanna, G., Delre, P., Contino, M., Corriero, N., Saviano, M., ... & Ancona, N.   
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00205) |  [Web](http://www.ba.ic.cnr.it/softwareic/deladrugportal/) 
+  [J. Chem. Inf. Model. (2022)](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00205) |  [Web](http://www.ba.ic.cnr.it/softwareic/deladrugportal/) 
 
 * **De novo design and bioactivity prediction of SARS-CoV-2 main protease inhibitors using recurrent neural network-based transfer learning** [2021]  
 Santana, M.V.S., Silva-Jr, F.P.  
-  [Paper](https://bmcchem.biomedcentral.com/articles/10.1186/s13065-021-00737-2) |  [code](https://github.com/marcossantanaioc/De_novo_design_SARSCOV2) 
+  [BMC Chemistry 15, 8 (2021)](https://bmcchem.biomedcentral.com/articles/10.1186/s13065-021-00737-2) |  [code](https://github.com/marcossantanaioc/De_novo_design_SARSCOV2) 
 
 * **Generative Recurrent Networks for De Novo Drug Design** [2018]  
   Gupta, A., Müller, A. T., Huisman, B. J., Fuchs, J. A., Schneider, P., & Schneider, G.   
-  [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836943/) |  [code](https://github.com/topazape/LSTM_Chem) 
+  [Mol Inform. 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836943/) |  [code](https://github.com/topazape/LSTM_Chem) 
 
 * **Generative Recurrent Neural Networks for De Novo Drug Design** [2017]  
   Gupta, Anvita, et al.   
-  [Paper](https://onlinelibrary.wiley.com/doi/10.1002/minf.201700111) |  [code](https://github.com/SilviaAmAm/MolBot) 
+  [Mol Inform. 2018](https://onlinelibrary.wiley.com/doi/10.1002/minf.201700111) |  [code](https://github.com/SilviaAmAm/MolBot) 
 
 
 ### Autoregressive-models
