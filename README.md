@@ -237,6 +237,11 @@ https://coconut.naturalproducts.net/
 
 ### Benchmarks
 
+
+* **Generative Models Should at Least Be Able to Design Molecules That Dock Well: A New Benchmark** [2023]  
+Ciepliński, Tobiasz, Tomasz Danel, Sabina Podlewska, and Stanisław Jastrzȩbski.  
+[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01355) |  [code](https://github.com/cieplinski-tobiasz/smina-docking-benchmark) 
+
 * **Tartarus: A Benchmarking Platform for Realistic And Practical Inverse Molecular Design** [2022]  
 Nigam, AkshatKumar, Robert Pollice, Gary Tom, Kjell Jorner, Luca A.  
 [Paper](https://arxiv.org/abs/2209.12487) |  [code](https://github.com/aspuru-guzik-group/Tartarus) 
