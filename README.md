@@ -16,6 +16,12 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 
 ## Recommendations and References
 
+
+**Large Language Model for Biomedical Science, Molecule, Protein, Material Discovery**
+
+https://github.com/HHW-zhou/LLM4Mol
+
+
 **List of papers about Proteins Design using Deep Learning**
 
 https://github.com/Peldom/papers_for_protein_design_using_DL
