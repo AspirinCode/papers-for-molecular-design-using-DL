@@ -320,11 +320,11 @@ Chen, Lin, Qing Shen, and Jungang Lou.
 
 * **Augmented Hill-Climb increases reinforcement learning efficiency for language-based de novo molecule generation** [2022]  
 Thomas, M., O’Boyle, N.M., Bender, A. et al.  
-[Paper](https://doi.org/10.1186/s13321-022-00646-z) |  [code](https://github.com/MorganCThomas/SMILES-RNN) 
+[ J Cheminform (2022)](https://doi.org/10.1186/s13321-022-00646-z) |  [code](https://github.com/MorganCThomas/SMILES-RNN) 
 
 * **De novo molecule design with chemical language models** [2022]  
 Grisoni, F., Schneider, G.  
-[Paper](https://doi.org/10.1007/978-1-0716-1787-8_9) |  [code](https://github.com/grisoniFr/de_novo_design_RNN) 
+[Artificial Intelligence in Drug Design. Methods in Molecular Biology, vol 2390.(2022)](https://doi.org/10.1007/978-1-0716-1787-8_9) |  [code](https://github.com/grisoniFr/de_novo_design_RNN) 
 
 * **Optimizing Recurrent Neural Network Architectures for De Novo Drug Design** [2021]  
 Santos, B. P., Abbasi, M., Pereira, T., Ribeiro, B., & Arrais, J. P.  
