@@ -1418,23 +1418,23 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 * **MolSearch: Search-based Multi-objective Molecular Generation and Property Optimization** [2022]   
   Sun, Mengying, Jing Xing, Han Meng, Huijun Wang, Bin Chen, and Jiayu Zhou.   
-  [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3542676) |  [code](https://github.com/illidanlab/MolSearch) 
+  [KDD '2022](https://dl.acm.org/doi/abs/10.1145/3534678.3542676) |  [code](https://github.com/illidanlab/MolSearch) 
 
 * **MGCVAE: Multi-Objective Inverse Design via Molecular Graph Conditional Variational Autoencoder** [2022]   
   Lee, Myeonghun, and Kyoungmin Min.   
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487) |  [code](https://github.com/mhlee216/MGCVAE) 
+  [J. Chem. Inf. Model. 2022, 62, 12, 2943–2950](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487) |  [code](https://github.com/mhlee216/MGCVAE) 
 
 * **Multi-Objective Molecule Generation using Interpretable Substructures** [2020]  
   Jin, Wengong, Regina Barzilay, and Tommi Jaakkola.   
-  [Paper](http://proceedings.mlr.press/v119/jin20b.html) |  [code](https://github.com/wengong-jin/multiobj-rationale) 
+  [ICML (2020)](http://proceedings.mlr.press/v119/jin20b.html) |  [code](https://github.com/wengong-jin/multiobj-rationale) 
 
 * **DeepGraphMolGen, a multi-objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach** [2020]  
   Khemchandani, Yash, Stephen O’Hagan, Soumitra Samanta, Neil Swainston, Timothy J. Roberts, Danushka Bollegala, and Douglas B. Kell.   
-  [Paper](https://doi.org/10.1186/s13321-020-00454-3) |  [code](https://github.com/dbkgroup/prop_gen) 
+  [ J Cheminform 12, 53 (2020)](https://doi.org/10.1186/s13321-020-00454-3) |  [code](https://github.com/dbkgroup/prop_gen) 
 
 * **Multi-objective de novo drug design with conditional graph generative model** [2018]  
   Li, Yibo, Liangren Zhang, and Zhenming Liu.   
-  [Paper](https://doi.org/10.1186/s13321-018-0287-6) |  [code](https://github.com/kevinid/molecule_generator) 
+  [J Cheminform 10, 33 (2018)](https://doi.org/10.1186/s13321-018-0287-6) |  [code](https://github.com/kevinid/molecule_generator) 
 
 
 ## Quantum deep molecular generative models
@@ -1442,7 +1442,7 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 * **Quantum Generative Models for Small Molecule Drug Discovery** [2021]  
   Li, Junde, Rasit O. Topaloglu, and Swaroop Ghosh.   
-  [Paper](https://ieeexplore.ieee.org/document/9520764) |  [code](https://github.com/jundeli/quantum-gan) 
+  [IEEE Transactions on Quantum Engineering (2021)](https://ieeexplore.ieee.org/document/9520764) |  [code](https://github.com/jundeli/quantum-gan) 
 
 
 
