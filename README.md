@@ -643,7 +643,7 @@ Ragoza, Matthew, Tomohide Masuda, and David Ryan Koes.
 
 * **Designing optimized drug candidates with Generative Adversarial Network** [2022]  
 Abbasi, M., Santos, B.P., Pereira, T.C. et al.  
-[ J Cheminform 14, 40 (2022)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00623-6) |  [code](https://github.com/larngroup/GAN-Drug-Generator) 
+[J Cheminform 14, 40 (2022)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00623-6) |  [code](https://github.com/larngroup/GAN-Drug-Generator) 
 
 * **De novo molecular design with deep molecular generative models for PPI inhibitors** [2022]  
 Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil Jang, Kwang-Hwi Cho, Tao Song, Kyoung Tai No.  
@@ -651,23 +651,23 @@ Jianmin Wang, Yanyi Chu, Jiashun Mao, Hyeon-Nae Jeon, Haiyan Jin, Amir Zeb, Yuil
 
 * **Improvement on Generative Adversarial Network for Targeted Drug Design** [2021]  
 Santos, B. P., Abbasi, M., Pereira, T., Ribeiro, B., & Arrais, J.  
-[Paper](https://www.cisuc.uc.pt/download-file/16987/IR5glkL7JLe3EZrI59BI) 
+[ESANN.(2021)](https://www.cisuc.uc.pt/download-file/16987/IR5glkL7JLe3EZrI59BI) 
 
 * **Generative Adversarial Networks for De Novo Molecular Design** [2021]  
 Lee, Y.J., Kahng, H. and Kim, S.B.,  
-[Paper](https://doi.org/10.1002/minf.202100045) |  [code](https://github.com/dudwojae/SMILES-MaskGAN) 
+[Molecular Informatics 40.10 (2021)](https://doi.org/10.1002/minf.202100045) |  [code](https://github.com/dudwojae/SMILES-MaskGAN) 
 
 * **Mol-CycleGAN: a generative model for molecular optimization** [2020]  
 Maziarka, Łukasz, Agnieszka Pocha, Jan Kaczmarczyk, Krzysztof Rataj, Tomasz Danel, and Michał Warchoł  
-[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0404-1) |  [code](https://github.com/ardigen/mol-cycle-gan) 
+[J Cheminform 12, 2 (2020)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0404-1) |  [code](https://github.com/ardigen/mol-cycle-gan) 
 
 * **MolGAN: An implicit generative model for small molecular graph** [2018]  
 De Cao, N. and Kipf, T.,  
-[Paper](https://arxiv.org/abs/1805.11973) |  [code](https://github.com/yongqyu/MolGAN-pytorch) 
+[arXiv:1805.11973 (2018)](https://arxiv.org/abs/1805.11973) |  [code](https://github.com/yongqyu/MolGAN-pytorch) 
 
 * **Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models** [2017]  
 Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-Guzik, A.,  
-[Paper](https://arxiv.org/abs/1705.10843) |  [code](https://github.com/gablg1/ORGAN) 
+[ arXiv:1705.10843 (2017)](https://arxiv.org/abs/1705.10843) |  [code](https://github.com/gablg1/ORGAN) 
 
 
 
@@ -676,27 +676,27 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 * **Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery** [2022]  
 Chao Pang , Yu Wang , Yi Jiang , Ruheng Wang , Ran Su  , and Leyi Wei.  
-[Paper](https://arxiv.org/abs/2212.01575) |  [code](https://github.com/Pang-chao/MEDICO) 
+[arXiv:2212.01575 (2022)](https://arxiv.org/abs/2212.01575) |  [code](https://github.com/Pang-chao/MEDICO) 
 
 * **Biological Sequence Design with GFlowNets** [2022]  
 Jain, M., Bengio, E., Hernandez-Garcia, A., Rector-Brooks, J., Dossou, B.F., Ekbote, C.A., Fu, J., Zhang, T., Kilgour, M., Zhang, D. and Simine, L.  
-[Paper](https://arxiv.org/abs/2203.04115) |  [code](https://github.com/MJ10/BioSeq-GFN-AL) 
+[International Conference on Machine Learning. PMLR, (2022)](https://proceedings.mlr.press/v162/jain22a.html) |  [code](https://github.com/MJ10/BioSeq-GFN-AL) 
 
 * **FastFlows: Flow-Based Models for Molecular Graph Generation** [2022]  
 Frey, N.C., Gadepally, V. and Ramsundar, B.  
-[Paper](https://arxiv.org/abs/2201.12419)
+[arXiv:2201.12419 (2022)](https://arxiv.org/abs/2201.12419)
 
 * **Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation** [2021]  
 Bengio, E., Jain, M., Korablyov, M., Precup, D. and Bengio, Y.  
-[Paper](https://arxiv.org/abs/2106.04399) |  [code](https://github.com/GFNOrg/gflownet) 
+[Neural Information Processing Systems 34 (2021)](https://proceedings.neurips.cc/paper/2021/hash/e614f646836aaed9f89ce58e837e2310-Abstract.html) |  [code](https://github.com/GFNOrg/gflownet) 
 
 * **MoFlow: An Invertible Flow Model for Generating Molecular Graphs** [2020]  
 Zang, Chengxi, and Fei Wang.  
-[Paper](https://arxiv.org/abs/2006.10137) |  [code](https://github.com/calvin-zcx/moflow) 
+[KDD '20 (2020)](https://dl.acm.org/doi/abs/10.1145/3394486.3403104) |  [code](https://github.com/calvin-zcx/moflow) 
 
 * **GraphNVP: an Invertible Flow-based Model for Generating Molecular Graphs** [2020]   
 Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.  
-[Paper](https://openreview.net/forum?id=ryxQ6T4YwB)
+[arXiv:1905.11600 (2019)](https://openreview.net/forum?id=ryxQ6T4YwB)
 
 ### Score-Based
 
