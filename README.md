@@ -101,7 +101,7 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
 
 * **Accelerating Material Design with the Generative Toolkit for Scientific Discovery**  
 Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish and Born, Jannis and Clarke, Dean and Teukam, Yves Gaetan Nana and Hoffman, Samuel C and Buchan, Matthew and Chenthamarakshan, Vijil and others  
-[Paper](https://arxiv.org/abs/2207.03928) |  [code](https://github.com/GT4SD/gt4sd-core) 
+[npj Comput Mater 9, 69 (2023)](https://www.nature.com/articles/s41524-023-01028-1) |  [code](https://github.com/GT4SD/gt4sd-core) 
 
 
 
@@ -118,91 +118,91 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 * **Chemical language models for de novo drug design: Challenges and opportunities**[2023]  
 Grisoni, Francesca.  
-[[Paper]](https://doi.org/10.1016/j.sbi.2023.102527)
+[Current Opinion in Structural Biology 79 (2023)](https://doi.org/10.1016/j.sbi.2023.102527)
 
 * **Artificial intelligence in multi-objective drug design**[2023]   
  Luukkonen, Sohvi, Helle W. van den Maagdenberg, Michael TM Emmerich, and Gerard JP van Westen.  
-[[Paper]](https://doi.org/10.1016/j.sbi.2023.102537)
+[Current Opinion in Structural Biology 79 (2023)](https://doi.org/10.1016/j.sbi.2023.102537)
 
 * **Integrating structure-based approaches in generative molecular design**[2023]   
  Thomas, Morgan, Andreas Bender, and Chris de Graaf.  
-[[Paper]](https://doi.org/10.1016/j.sbi.2023.102559)
+[Current Opinion in Structural Biology 79 (2023)](https://doi.org/10.1016/j.sbi.2023.102559)
 
 * **Open data and algorithms for open science in AI-driven molecular informatics**[2023]  
  Brinkhaus, Henning Otto, Kohulan Rajan, Jonas Schaub, Achim Zielesny, and Christoph Steinbeck.  
-[[Paper]](https://doi.org/10.1016/j.sbi.2023.102542)
+[Current Opinion in Structural Biology 79 (2023)](https://doi.org/10.1016/j.sbi.2023.102542)
 
 * **Structure-based drug design with geometric deep learning**[2023]  
   Isert, Clemens, Kenneth Atz, and Gisbert Schneider.  
-[[Paper]](https://doi.org/10.1016/j.sbi.2023.102548)
+[Current Opinion in Structural Biology 79 (2023)](https://doi.org/10.1016/j.sbi.2023.102548)
 
 * **MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design**[2022]  
   Du, Yuanqi, Tianfan Fu, Jimeng Sun, and Shengchao Liu.  
-[[Paper]](https://arxiv.org/abs/2203.14500)
+[arXiv:2203.14500 (2022)](https://arxiv.org/abs/2203.14500)
 
 * **Deep generative molecular design reshapes drug discovery**[2022]  
   Zeng, Xiangxiang, Fei Wang, Yuan Luo, Seung-gu Kang, Jian Tang, Felice C. Lightstone, Evandro F. Fang, Wendy Cornell, Ruth Nussinov, and Feixiong Cheng.  
-[[Paper]](https://doi.org/10.1016/j.xcrm.2022.100794)
+[Cell Reports Medicine (2022)](https://doi.org/10.1016/j.xcrm.2022.100794)
 
 * **Structure-based drug discovery with deep learning**[2022]  
   Özçelik, Rıza, Derek van Tilborg, José Jiménez-Luna, and Francesca Grisoni.  
-[[Paper]](https://arxiv.org/abs/2212.13295)
+[ChemBioChem (2022)](https://doi.org/10.1002/cbic.202200776)
 
 * **Generative models for molecular discovery: Recent advances and challenges**[2022]  
  Bilodeau, Camille, Wengong Jin, Tommi Jaakkola, Regina Barzilay, and Klavs F. Jensen.  
-[[Paper]](https://doi.org/10.1002/wcms.1608)
+[Computational Molecular Science 12.5 (2022)](https://doi.org/10.1002/wcms.1608)
 
 * **Generative machine learning for de novo drug discovery: A systematic review**[2022]  
  Martinelli, Dominic.   
-[[Paper]](https://doi.org/10.1016/j.compbiomed.2022.105403)
+[Computers in Biology and Medicine 145 (2022)](https://doi.org/10.1016/j.compbiomed.2022.105403)
 
 * **Docking-based generative approaches in the search for new drug candidates**[2022]  
  Danel, Tomasz, Jan Łęski, Sabina Podlewska, and Igor T. Podolak.   
-[[Paper]](https://doi.org/10.1016/j.drudis.2022.103439)
+[Drug Discovery Today (2022)](https://doi.org/10.1016/j.drudis.2022.103439)
 
 * **Advances and Challenges in De Novo Drug Design Using Three-Dimensional Deep Generative Models**[2022]  
   Xie, Weixin, Fanhao Wang, Yibo Li, Luhua Lai, and Jianfeng Pei.   
-[[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00042)
+[J. Chem. Inf. Model. 2022, 62, 10, 2269–2279](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00042)
 
 * **Deep learning to catalyze inverse molecular design**[2022]  
   Alshehri, Abdulelah S., and Fengqi You.   
-[[Paper]](https://doi.org/10.1016/j.cej.2022.136669)
+[Chemical Engineering Journal 444 (2022)](https://doi.org/10.1016/j.cej.2022.136669)
 
 * **AI in 3D compound design**[2022]  
   Hadfield, Thomas E., and Charlotte M. Deane.   
-[[Paper]](https://doi.org/10.1016/j.sbi.2021.102326)
+[Current Opinion in Structural Biology 73 (2022)](https://doi.org/10.1016/j.sbi.2021.102326)
 
 * **Deep learning approaches for de novo drug design: An overview**[2021]  
  Wang, Mingyang, Zhe Wang, Huiyong Sun, Jike Wang, Chao Shen, Gaoqi Weng, Xin Chai, Honglin Li, Dongsheng Cao, and Tingjun Hou.  
-[[Paper]](https://doi.org/10.1016/j.sbi.2021.10.001)
+[Current Opinion in Structural Biology 72 (2022)](https://doi.org/10.1016/j.sbi.2021.10.001)
 
 * **Generative chemistry: drug discovery with deep learning generative models**[2021]  
  Bian, Yuemin, and Xiang-Qun Xie.  
-[[Paper]](https://link.springer.com/article/10.1007/s00894-021-04674-8)
+[Journal of Molecular Modeling 27 (2021)](https://link.springer.com/article/10.1007/s00894-021-04674-8)
 
 * **Generative Deep Learning for Targeted Compound Design**[2021]  
  Sousa, Tiago, João Correia, Vítor Pereira, and Miguel Rocha.  
-[[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01496)
+[J. Chem. Inf. Model. 2021, 61, 11, 5343–5361](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01496)
 
 * **Generative Models for De Novo Drug Design**[2021]  
  Tong, Xiaochu, Xiaohong Liu, Xiaoqin Tan, Xutong Li, Jiaxin Jiang, Zhaoping Xiong, Tingyang Xu, Hualiang Jiang, Nan Qiao, and Mingyue Zheng.  
-[[Paper]](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c00927)
+[Journal of Medicinal Chemistry 64.19 (2021)](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c00927)
 
 * **Molecular design in drug discovery: a comprehensive review of deep generative models**[2021]  
  Cheng, Yu, Yongshun Gong, Yuansheng Liu, Bosheng Song, and Quan Zou.   
-[[Paper]](https://doi.org/10.1093/bib/bbab344)
+[Briefings in bioinformatics 22.6 (2021)](https://doi.org/10.1093/bib/bbab344)
 
 * **De novo molecular design and generative models**[2021]  
  Meyers, Joshua, Benedek Fabian, and Nathan Brown.  
-[[Paper]](https://doi.org/10.1016/j.drudis.2021.05.019)
+[Drug Discovery Today 26.11 (2021)](https://doi.org/10.1016/j.drudis.2021.05.019)
 
 * **Deep learning for molecular design—a review of the state of the art**[2019]  
  Elton, Daniel C., Zois Boukouvalas, Mark D. Fuge, and Peter W. Chung.  
-[[Paper]](https://pubs.rsc.org/en/content/articlelanding/2019/me/c9me00039a)
+[Molecular Systems Design & Engineering 4.4 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/me/c9me00039a)
 
 * **Inverse molecular design using machine learning: Generative models for matter engineering**[2018]  
  Sanchez-Lengeling, Benjamin, and Alán Aspuru-Guzik.  
-[[Paper]](https://www.science.org/doi/10.1126/science.aat2663)
+[Science 361.6400 (2018)](https://www.science.org/doi/10.1126/science.aat2663)
 
 ## Datasets and Benchmarks
 
