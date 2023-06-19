@@ -703,11 +703,11 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 
 * **Exploring Chemical Space with Score-based Out-of-distribution Generation** [2023]   
  Lee, Seul, Jaehyeong Jo, and Sung Ju Hwang.    
-  [Paper](https://arxiv.org/abs/2206.07632) | [code](https://github.com/SeulLee05/MOOD) 
+  [arXiv:2206.07632v3](https://arxiv.org/abs/2206.07632) | [code](https://github.com/SeulLee05/MOOD) 
 
 * **Score-Based Generative Models for Molecule Generation** [2022]  
 Gnaneshwar, Dwaraknath, et al.  
-[Paper](https://arxiv.org/abs/2203.04698) 
+[arXiv:2203.04698 (2022)](https://arxiv.org/abs/2203.04698) 
 
 
 
@@ -716,7 +716,7 @@ Gnaneshwar, Dwaraknath, et al.
 
 * **Energy-based Generative Models for Target-specific Drug Discovery** [2022]  
 Li, Junde, Collin Beaudoin, and Swaroop Ghosh.  
-[Paper](https://arxiv.org/abs/2212.02404) |  [code](https://github.com/jundeli/TagMol) 
+[arXiv:2212.02404 (2022)](https://arxiv.org/abs/2212.02404) |  [code](https://github.com/jundeli/TagMol) 
 
 * **MOG: Molecular Out-of-distribution Generation with Energy-based Models** [2021]  
 Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.  
@@ -727,51 +727,51 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 * **SILVR: Guided Diffusion for Molecule Generation** [2023]   
  Runcie, Nicholas T., and Antonia SJS Mey.    
-  [Paper](https://arxiv.org/abs/2304.10905) |  [code](https://github.com/meyresearch/SILVR) 
+  [arXiv:2304.10905v1](https://arxiv.org/abs/2304.10905) |  [code](https://github.com/meyresearch/SILVR) 
 
 * **Guided Diffusion for Inverse Molecular Design** [2023]   
  Weiss, Tomer, Luca Cosmo, Eduardo Mayo Yanes, Sabyasachi Chakraborty, Alex M. Bronstein, and Renana Gershoni-Poranne.    
-  [Paper](https://doi.org/10.26434/chemrxiv-2023-z8ltp) |  [code](https://github.com/tomer196/GaUDI) 
+  [chemrxiv-2023-z8ltp](https://doi.org/10.26434/chemrxiv-2023-z8ltp) |  [code](https://github.com/tomer196/GaUDI) 
 
 * **Generative Discovery of Novel Chemical Designs using Diffusion Modeling and Transformer Deep Neural Networks with Application to Deep Eutectic Solvents** [2023]   
  Luu, Rachel K., Marcin Wysokowski, and Markus J. Buehler.    
-  [Paper](https://arxiv.org/abs/2304.12400) |  [code](https://github.com/lamm-mit/MoleculeDiffusionTransformer) 
+  [arXiv:2304.12400v1](https://arxiv.org/abs/2304.12400) |  [code](https://github.com/lamm-mit/MoleculeDiffusionTransformer) 
 
 * **Geometric Latent Diffusion Models for 3D Molecule Generation** [2023]   
   Minkai Xu, Alexander Powers, Ron Dror, Stefano Ermon, Jure Leskovec   
-  [Paper](https://arxiv.org/abs/2305.01140) |  [code](https://github.com/MinkaiXu/GeoLDMf) 
+  [arXiv:2305.01140v1](https://arxiv.org/abs/2305.01140) |  [code](https://github.com/MinkaiXu/GeoLDMf) 
 
 * **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction** [2023]   
   Guan, Jiaqi, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, and Jianzhu Ma.   
-  [Paper](https://openreview.net/forum?id=kJqXEPXMsE0) |  [code](https://github.com/guanjq/targetdiff) 
+  [ICLR (2023)](https://openreview.net/forum?id=kJqXEPXMsE0) |  [code](https://github.com/guanjq/targetdiff) 
 
 * **Structure-based Drug Design with Equivariant Diffusion Models** [2023]  
 Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correia, B.   
-[Paper](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD) 
+[arXiv:2210.13695 (2022)](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD) 
 
 * **Equivariant 3D-Conditional Diffusion Models for Molecular Linker Desig** [2023]  
 Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., Bronstein, M. and Correia, B.,   
-[Paper](https://openreview.net/forum?id=cnsHSSLnHVV) |  [code](https://github.com/igashov/DiffLinker) 
+[arXiv:2210.05274 (2022)](https://openreview.net/forum?id=cnsHSSLnHVV) |  [code](https://github.com/igashov/DiffLinker) 
 
 * **MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation** [2023]  
 Vignac, Clement, Nagham Osman, Laura Toni, and Pascal Frossard.  
-[Paper](https://arxiv.org/abs/2302.09048) |  [code](https://github.com/cvignac/MiDi) 
+[arXiv:2302.09048 (2023)](https://arxiv.org/abs/2302.09048) |  [code](https://github.com/cvignac/MiDi) 
 
 * **Geometry-Complete Diffusion for 3D Molecule Generation** [2023]  
 Morehead, Alex, and Jianlin Cheng.  
-[Paper](https://arxiv.org/abs/2302.04313) |  [code](https://github.com/BioinfoMachineLearning/bio-diffusion) 
+[arXiv:2302.04313 (2023)](https://arxiv.org/abs/2302.04313) |  [code](https://github.com/BioinfoMachineLearning/bio-diffusion) 
 
 * **MDM: Molecular Diffusion Model for 3D Molecule Generation** [2022]  
 Huang, Lei, Hengtong Zhang, Tingyang Xu, and Ka-Chun Wong.  
-[Paper](https://arxiv.org/abs/2209.05710)
+[arXiv:2209.05710 (2022)](https://arxiv.org/abs/2209.05710)
 
 * **Diffusion-based Molecule Generation with Informative Prior Bridges** [2022]  
 Lemeng Wu, Chengyue Gong, Xingchao Liu, Mao Ye, Qiang Liu  
-[Paper](https://arxiv.org/abs/2209.00865)
+[NeurIPS (2022)](https://openreview.net/forum?id=QagNEt9k8Vi)
 
 * **Equivariant Diffusion for Molecule Generation in 3D** [2022]  
 Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.  
-[Paper](https://arxiv.org/abs/2203.17003) |  [code](https://github.com/ehoogeboom/e3_diffusion_for_molecules) 
+[International Conference on Machine Learning. PMLR, (2022)](https://proceedings.mlr.press/v162/hoogeboom22a.html) |  [code](https://github.com/ehoogeboom/e3_diffusion_for_molecules) 
 
 
 
