@@ -248,16 +248,16 @@ https://coconut.naturalproducts.net/
 
 * **Generative Models Should at Least Be Able to Design Molecules That Dock Well: A New Benchmark** [2023]  
 Ciepliński, Tobiasz, Tomasz Danel, Sabina Podlewska, and Stanisław Jastrzȩbski.  
-[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01355) |  [code](https://github.com/cieplinski-tobiasz/smina-docking-benchmark) 
+[J. Chem. Inf. Model. 2023, 63, 11, 3238–3247](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01355) |  [code](https://github.com/cieplinski-tobiasz/smina-docking-benchmark) 
 
 * **Tartarus: A Benchmarking Platform for Realistic And Practical Inverse Molecular Design** [2022]  
 Nigam, AkshatKumar, Robert Pollice, Gary Tom, Kjell Jorner, Luca A.  
-[Paper](https://arxiv.org/abs/2209.12487) |  [code](https://github.com/aspuru-guzik-group/Tartarus) 
+[arXiv:2209.12487v1](https://arxiv.org/abs/2209.12487) |  [code](https://github.com/aspuru-guzik-group/Tartarus) 
 
 
 * **Molecular Sets (MOSES): A benchmarking platform for molecular generation models**  
 
-  [Paper](https://doi.org/10.3389/fphar.2020.565644) |  [code](https://github.com/molecularsets/moses) 
+  [Frontiers in pharmacology 11 (2020)](https://doi.org/10.3389/fphar.2020.565644) |  [code](https://github.com/molecularsets/moses) 
 
 
 * **GuacaMol: Benchmarking Models for de Novo Molecular Design**
@@ -283,11 +283,11 @@ https://github.com/ohuelab/QEPPI
 
 ### SAscore
 **Estimation of synthetic accessibility score of drug-like molecules based on molecular complexity and fragment contributions**  
-[Paper](http://www.jcheminf.com/content/1/1/8) |  [code](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score) 
+[J Cheminform 1, 8 (2009)](http://www.jcheminf.com/content/1/1/8) |  [code](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score) 
 
 ### RAscore
 **Retrosynthetic accessibility score (RAscore) – rapid machine learned synthesizability classification from AI driven retrosynthetic planning**  
-[Paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc05401a) |  [code](https://github.com/reymond-group/RAscore) 
+[Chemical Science 12.9 (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc05401a) |  [code](https://github.com/reymond-group/RAscore) 
 
 ### Evaluation metrics
 
@@ -299,7 +299,7 @@ https://github.com/ohuelab/QEPPI
 
 * **Perplexity-Based Molecule Ranking and Bias Estimation of Chemical Language Models** [2022]  
   Moret, M., Grisoni, F., Katzberger, P. and Schneider, G.  
-[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00079) |  [code](https://github.com/ETHmodlab/CLM_perplexity) 
+[J. Chem. Inf. Model. 2022, 62, 5, 1199–1206](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00079) |  [code](https://github.com/ETHmodlab/CLM_perplexity) 
 
 * **MolScore**
   
