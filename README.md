@@ -780,11 +780,11 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 * **Molecule generation using transformers and policy gradient reinforcement learning** [2023]   
  Mazuz, E., Shtar, G., Shapira, B. et al.    
-  [Paper](https://doi.org/10.1038/s41598-023-35648-w) |  [code](https://github.com/eyalmazuz/MolGen) 
+  [Sci Rep 13, 8799 (2023)](https://doi.org/10.1038/s41598-023-35648-w) |  [code](https://github.com/eyalmazuz/MolGen) 
 
 * **Augmented Memory: Capitalizing on Experience Replay to Accelerate De Novo Molecular Design** [2023]   
  Guo, Jeff, and Philippe Schwaller.    
-  [Paper](https://doi.org/10.26434/chemrxiv-2023-qmqmq-v2) |  [code](https://github.com/schwallergroup/augmented_memory) 
+  [chemrxiv-2023-qmqmq-v3](https://doi.org/10.26434/chemrxiv-2023-qmqmq-v2) |  [code](https://github.com/schwallergroup/augmented_memory) 
 
 * **Generating Potential Protein-Protein Interaction Inhibitor Molecules Based on Physicochemical Properties** [2023]   
  Ohue, Masahito, Yuki Kojima, and Takatsugu Kosugi.   
@@ -792,27 +792,27 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 * **Tree-Invent: A novel molecular generative model constrained with topological tree** [2023]   
  Mingyuan Xu, HongMing Chen.   
-  [Paper](https://doi.org/10.26434/chemrxiv-2023-m77vk) |  [code](https://github.com/MingyuanXu/Tree-Invent) 
+  [chemrxiv-2023-m77vk](https://doi.org/10.26434/chemrxiv-2023-m77vk) |  [code](https://github.com/MingyuanXu/Tree-Invent) 
 
 * **De Novo Drug Design by Iterative Multi-Objective Deep Reinforcement Learning with Graph-based Molecular Quality Assessment** [2023]   
  Yi Fang, Xiaoyong Pan, Hong-Bin Shen.    
-  [Paper](https://doi.org/10.1093/bioinformatics/btad157) |  [code](https://github.com/yifang000/QADD) 
+  [Bioinformatics 39.4 (2023)](https://doi.org/10.1093/bioinformatics/btad157) |  [code](https://github.com/yifang000/QADD) 
 
 * **DrugEx v3: scaffold-constrained drug design with graph transformer-based reinforcement learning** [2023]  
   Liu, X., Ye, K., van Vlijmen, H.W.T. et al.   
-  [Paper](https://doi.org/10.1186/s13321-023-00694-z) |  [code](https://github.com/CDDLeiden/DrugEx) 
+  [ J Cheminform 15, 24 (2023)](https://doi.org/10.1186/s13321-023-00694-z) |  [code](https://github.com/CDDLeiden/DrugEx) 
 
 * **COMA: efficient structure-constrained molecular generation using contractive and margin losses** [2023]  
  Choi, J., Seo, S. & Park, S.     
-  [Paper](https://doi.org/10.1186/s13321-023-00679-y) |  [code](https://github.com/mathcom/COMA) 
+  [J Cheminform 15, 8 (2023)](https://doi.org/10.1186/s13321-023-00679-y) |  [code](https://github.com/mathcom/COMA) 
 
 * **Generative and reinforcement learning approaches for the automated de novo design of bioactive compounds** [2022]  
 Korshunova, M., Huang, N., Capuzzi, S. et al.  
-[Paper](https://doi.org/10.1038/s42004-022-00733-0) |  [code](https://github.com/isayevlab/rl_experiments) 
+[Commun Chem 5, 129 (2022)](https://doi.org/10.1038/s42004-022-00733-0) |  [code](https://github.com/isayevlab/rl_experiments) 
 
 * **Augmented Hill-Climb increases reinforcement learning efficiency for language-based de novo molecule generation** [2022]  
 Thomas, M., O’Boyle, N.M., Bender, A. et al.  
-[Paper](https://doi.org/10.1186/s13321-022-00646-z) |  [code](https://github.com/MorganCThomas/SMILES-RNN) 
+[ J Cheminform 14, 68 (2022)](https://doi.org/10.1186/s13321-022-00646-z) |  [code](https://github.com/MorganCThomas/SMILES-RNN) 
 
 
 * **Predicting chemical structure using reinforcement learning with a stack-augmented conditional variational autoencoder** [2022]  
