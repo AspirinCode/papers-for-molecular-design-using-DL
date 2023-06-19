@@ -817,47 +817,47 @@ Thomas, M., O’Boyle, N.M., Bender, A. et al.
 
 * **Predicting chemical structure using reinforcement learning with a stack-augmented conditional variational autoencoder** [2022]  
   Kim, H., Ko, S., Kim, B.J. *et al.*  
-  [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00666-9) |  [code](https://github.com/HwanheeKim813/stack_CVAE) 
+  [J Cheminform 14, 83 (2022)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00666-9) |  [code](https://github.com/HwanheeKim813/stack_CVAE) 
 
 * **De Novo Drug Design Using Reinforcement Learning with Graph-Based Deep Generative Models** [2022]  
 Atance, S.R., Diez, J.V., Engkvist, O., Olsson, S. and Mercado, R.  
-[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00838) |  [code](https://github.com/olsson-group/RL-GraphINVENT) 
+[J. Chem. Inf. Model. 2022, 62, 20, 4863–4872](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00838) |  [code](https://github.com/olsson-group/RL-GraphINVENT) 
 
 * **DRlinker: Deep Reinforcement Learning for Optimization in Fragment Linking Design** [2022]
   Tan, Y., Dai, L., Huang, W., Guo, Y., Zheng, S., Lei, J., ... & Yang, Y. 
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00982) |  [code](https://github.com/biomed-AI/DRlinker) 
+  [J. Chem. Inf. Model. 2022, 62, 23, 5907–5917](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00982) |  [code](https://github.com/biomed-AI/DRlinker) 
 
 * **Widely Used and Fast De Novo Drug Design by a Protein Sequence-Based Reinforcement Learning Model** [2022]  
 Li, Yaqin, Lingli Li, Yongjin Xu, and Yi Yu.
-[Paper](https://arxiv.org/abs/2209.07405) 
+[bioRxiv (2022)](https://arxiv.org/abs/2209.07405) 
 
 * **Molecular Design Method Using a Reversible Tree Representation of Chemical Compounds and Deep Reinforcement Learning** [2022]  
   Ishitani, R., Kataoka, T. and Rikimaru, K.  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00366) |  [code](https://github.com/pfnet-research/RJT-RL) 
+  [J. Chem. Inf. Model. 2022, 62, 17, 4032–4048](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00366) |  [code](https://github.com/pfnet-research/RJT-RL) 
 
 * **Accelerated rational PROTAC design via deep learning and molecular simulations** [2022]  
   Zheng, S., Tan, Y., Wang, Z. et al.  
-  [Paper](https://www.nature.com/articles/s42256-022-00527-y) |  [code](https://github.com/biomed-AI/PROTAC-RL) 
+  [Nat Mach Intell 4, 739–748 (2022)](https://www.nature.com/articles/s42256-022-00527-y) |  [code](https://github.com/biomed-AI/PROTAC-RL) 
   
 * **Improving de novo molecular design with curriculum learning** [2022]  
   Guo, J., Fialková, V., Arango, J.D. et al.  
-  [Paper](https://doi.org/10.1038/s42256-022-00494-4) |  [code](https://github.com/MolecularAI/ReinventCommunity/blob/master/notebooks/Automated_Curriculum_Learning_Demo.ipynb)  
+  [Nat Mach Intell 4, 555–563 (2022)](https://doi.org/10.1038/s42256-022-00494-4) |  [code](https://github.com/MolecularAI/ReinventCommunity/blob/master/notebooks/Automated_Curriculum_Learning_Demo.ipynb)  
  
 * **De novo design of protein target specific scaffold-based Inhibitors via Reinforcement Learning** [2022]  
   Bontha M, McNaughton A, Knutson C, Pope J, Kumar N.  
-  [Paper](https://openreview.net/forum?id=k-ES3OH7eqp)
+  [arXiv:2205.10473 (2022)](https://arxiv.org/abs/2205.10473)
 
 * **Autonomous molecule generation using reinforcement learning and docking to develop potential novel inhibitors** [2022]  
   Jeon, W., Kim, D.  
-  [Paper](https://doi.org/10.1038/s41598-020-78537-2) |  [code](https://github.com/wsjeon92/morld) 
+  [Sci Rep 10, 22104 (2020)](https://doi.org/10.1038/s41598-020-78537-2) |  [code](https://github.com/wsjeon92/morld) 
 
 * **Scalable Fragment-Based 3D Molecular Design with Reinforcement Learning** [2022]  
   Flam-Shepherd, Daniel, Alexander Zhigalin, and Alán Aspuru-Guzik.  
-  [Paper](https://arxiv.org/abs/2202.00658) 
+  [arXiv:2202.00658 (2022)](https://arxiv.org/abs/2202.00658) 
 
 * **Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation** [2021]  
   Yang, S., Hwang, D., Lee, S., Ryu, S., & Hwang, S. J.  
-  [Paper](https://arxiv.org/abs/2110.01219) |  [code](https://github.com/AITRICS/FREED) 
+  [Neural Information Processing Systems 34 (2021)](https://proceedings.neurips.cc/paper/2021/hash/41da609c519d77b29be442f8c1105647-Abstract.html) |  [code](https://github.com/AITRICS/FREED) 
 
 * **Unlocking reinforcement learning for drug design** [2021]  
  
@@ -865,30 +865,30 @@ Li, Yaqin, Lingli Li, Yongjin Xu, and Yi Yu.
 
 * **MoleGuLAR: Molecule Generation Using Reinforcement Learning with Alternating Rewards** [2021]  
 Goel, Manan, Shampa Raghunathan, Siddhartha Laghuvarapu, and U. Deva Priyakumar.  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01341) |  [code](https://github.com/devalab/MoleGuLAR) 
+  [J. Chem. Inf. Model. 2021, 61, 12, 5815–5826](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01341) |  [code](https://github.com/devalab/MoleGuLAR) 
 
 * **Memory-Assisted Reinforcement Learning for Diverse Molecular De Novo Design** [2020]  
 Blaschke T, Engkvist O, Bajorath J, Chen H.  
-  [Paper](https://doi.org/10.26434/chemrxiv.12693152.v1) |  [code](https://github.com/tblaschke/reinvent-memory) 
+  [Journal of cheminformatics 12.1 (2020)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00473-0) |  [code](https://github.com/tblaschke/reinvent-memory) 
 
 * **DeepGraphMolGen, a multi-objective, computational strategy for generating molecules with desirable properties: a graph convolution and reinforcement learning approach** [2020]  
   Khemchandani, Yash, Stephen O’Hagan, Soumitra Samanta, Neil Swainston, Timothy J. Roberts, Danushka Bollegala, and Douglas B. Kell.   
-  [Paper](https://doi.org/10.1186/s13321-020-00454-3) |  [code](https://github.com/dbkgroup/prop_gen) 
+  [J Cheminform 12, 53 (2020)](https://doi.org/10.1186/s13321-020-00454-3) |  [code](https://github.com/dbkgroup/prop_gen) 
 
 * **Reinforcement Learning for Molecular Design Guided by Quantum Mechanics** [2020]  
 Simm, G., Pinsler, R. and Hernández-Lobato, J.M.,  
-  [Paper](http://proceedings.mlr.press/v119/simm20b/simm20b.pdf) |  [code](https://github.com/gncs/molgym) 
+  [nternational Conference on Machine Learning. PMLR (2020)](http://proceedings.mlr.press/v119/simm20b/simm20b.pdf) |  [code](https://github.com/gncs/molgym) 
 
 * **Molecular de-novo design through deep reinforcement learning** [2017]  
 Olivecrona, M., Blaschke, T., Engkvist, O. et al.  
-  [Paper](https://doi.org/10.1186/s13321-017-0235-x) |  [code](https://github.com/tblaschke/reinvent) 
+  [ J Cheminform 9, 48 (2017)](https://doi.org/10.1186/s13321-017-0235-x) |  [code](https://github.com/tblaschke/reinvent) 
 
 
 ### Multi-task DMGs
 
 * **Molecular Language Model as Multi-task Generator** [2023]  
  Fang, Y., Zhang, N., Chen, Z., Fan, X. and Chen, H.    
-  [Paper](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
+  [arXiv:2301.11259 (2023)](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
 
 
 
@@ -898,7 +898,7 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 * **VGAE-MCTS: a New Molecular Generative Model combining Variational Graph Auto-Encoder and Monte Carlo Tree Search** [2023]  
  Iwata, Hiroaki, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, Ryosuke Kojima, and Yasushi Okuno.   
-  [Paper](https://doi.org/10.26434/chemrxiv-2023-q8419-v2) 
+  [chemrxiv-2023-q8419-v2](https://doi.org/10.26434/chemrxiv-2023-q8419-v2) 
 
 
 
@@ -921,11 +921,11 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 * **De novo generation of dual-target ligands using adversarial training and reinforcement learning** [2021]  
  Lu, Fengqing, Mufei Li, Xiaoping Min, Chunyan Li, and Xiangxiang Zeng.    
-  [Paper](https://doi.org/10.1093/bib/bbab333) | [code](https://github.com/lllfq/DLGN) 
+  [Briefings in Bioinformatics 22.6 (2021)](https://doi.org/10.1093/bib/bbab333) | [code](https://github.com/lllfq/DLGN) 
 
 * **Compound dataset and custom code for deep generative multi-target compound design** [2021]  
  Blaschke, Thomas, and Jürgen Bajorath.    
-  [Paper](https://doi.org/10.2144/fsoa-2021-0033) |  [code](https://github.com/tblaschke/reinvent-multi-target) 
+  [Future Science OA 7.6 (2021)](https://doi.org/10.2144/fsoa-2021-0033) |  [code](https://github.com/tblaschke/reinvent-multi-target) 
 
 
 ## Ligand-based deep molecular generative models
