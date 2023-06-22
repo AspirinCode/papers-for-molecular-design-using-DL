@@ -60,19 +60,6 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
     - [RAscore](#RAscore)
     - [Evaluation metrics](#Evaluation-metrics)
   - [Deep Learning-based design](#Deep-Learning-based-design)
-    - [RNN-based](#RNN-based)
-    - [LSTM-based](#LSTM-based)
-    - [Autoregressive-models](#Autoregressive-models)
-    - [Transformer-based](#Transformer-based)
-    - [VAE-based](#VAE-based)
-    - [GAN-based](#GAN-based)
-    - [Flow-based](#Flow-based)
-    - [Score-Based](#Score-Based)
-    - [Energy-based](#Energy-based)
-    - [Diffusion-based](#Diffusion-based)
-    - [RL-based](#RL-based)
-    - [Multi-task DMGs](#Multi-task-DMGs)
-    - [Monte Carlo Tree Search](#Monte-Carlo-Tree-Search)
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
