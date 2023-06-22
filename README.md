@@ -74,12 +74,12 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
     - [Multi-task DMGs](#Multi-task-DMGs)
     - [Monte Carlo Tree Search](#Monte-Carlo-Tree-Search)
 
-| Menu | Menu | Menu |
-| ------ | :---------- | ------ |
-|[LSTM-based](#LSTM-based)| [Autoregressive-models](#Autoregressive-models) | [Transformer-based](#Transformer-based) |
-| [VAE-based](#VAE-based) | [GAN-based](#GAN-based) | [Flow-based](#Flow-based) |
-| [Score-Based](#Score-Based) | [Energy-based](#Energy-based) | [Diffusion-based](#Diffusion-based) |
-| [RL-based](#RL-based) | [Multi-task DMGs](#Multi-task-DMGs) | [Monte Carlo Tree Search](#Monte-Carlo-Tree-Search) |
+| Menu | Menu | Menu | Menu |
+| ------ | :---------- | ------ | ------ |
+| [RNN-based](#RNN-based) | [LSTM-based](#LSTM-based) | [Autoregressive-models](#Autoregressive-models) | [Transformer-based](#Transformer-based) |
+| [VAE-based](#VAE-based) | [GAN-based](#GAN-based) | [Flow-based](#Flow-based) |  |
+| [Score-Based](#Score-Based) | [Energy-based](#Energy-based) | [Diffusion-based](#Diffusion-based) |  |
+| [RL-based](#RL-based) | [Multi-task DMGs](#Multi-task-DMGs) | [Monte Carlo Tree Search](#Monte-Carlo-Tree-Search) |  |
 
   - [Text-driven molecular generation models](#Text-driven-molecular-generation-models)
   - [Multi-Target based deep molecular generative models](#Multi-Target-based-deep-molecular-generative-models)
