@@ -45,6 +45,15 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
 
 ## Menu
 
+| Menu | Menu | Menu | Menu |
+| ------ | :---------- | ------ | ------ |
+| [ Generative AI for Scientific Discovery](#Generative-AI-for-Scientific-Discovery) | [ Reviews](#reviews) | [ Datasets and Benchmarks](#Datasets-and-Benchmarks) | [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics) |
+| [Deep Learning-based design](#Deep-Learning-based-design) | [Text-driven molecular generation models](#Text-driven-molecular-generation-models) | [Multi-Target based deep molecular generative models](#Multi-Target-based-deep-molecular-generative-models) | [Ligand-based deep molecular generative models](#Ligand-based-deep-molecular-generative-models) |
+| [Pharmacophore-based deep molecular generative models](#Pharmacophore-based-deep-molecular-generative-models) | [Structure-based deep molecular generative models](#Structure-based-deep-molecular-generative-models) | [Fragment-based deep molecular generative models](#Fragment-based-deep-molecular-generative-models) | [Scaffold-based DMGs](#Scaffold-based-DMGs) |
+| [Fragment-based DMGs](#Fragment-based-DMGs) | [Motifs-based DMGs](#Motifs-based-DMGs) | [Linkers-based DMGs](#Linkers-based-DMGs) | [Chemical Reaction-based deep molecular generative models](#Chemical-Reaction-based-deep-molecular-generative-models) |
+| [Omics-based deep molecular generative models](#Omics-based-deep-molecular-generative-models) | [Multi-Objective deep molecular generative models](#Multi-Objective-deep-molecular-generative-models) | [Quantum deep molecular generative models](#Quantum-deep-molecular-generative-models) |  |
+
+
   - [ Generative AI for Scientific Discovery](#Generative-AI-for-Scientific-Discovery)
 
   - [ Reviews](#reviews)
