@@ -1066,11 +1066,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 * **PGMG: A Pharmacophore-Guided Deep Learning Approach for Bioactive Molecular Generation** [2022]  
   Zhu, Huimin, Renyi Zhou, Jing Tang, and Min Li.  
-  [Paper](https://arxiv.org/abs/2207.00821) |  [code](https://github.com/CSUBioGroup/PGMG) 
+  [arXiv:2207.00821 (2022)](https://arxiv.org/abs/2207.00821) |  [code](https://github.com/CSUBioGroup/PGMG) 
 
 * **Deep generative design with 3D pharmacophoric constraints** [2021]  
   mrie, Fergus and Hadfield, Thomas E and Bradley, Anthony R and Deane, Charlotte M.  
-  [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/SC/D1SC02436A) |  [code](https://github.com/XiaotanYu/DEVELOP-ZYH) 
+  [Chemical science 12.43 (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/SC/D1SC02436A) |  [code](https://github.com/XiaotanYu/DEVELOP-ZYH) 
 
 
 
@@ -1078,114 +1078,111 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 * **A Simple Way to Incorporate Target Structural Information in Molecular Generative Models** [2023]  
  Zhang, Wenyi, Kaiyue Zhang, and Jing Huang.   
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00293) |  [code](https://github.com/JingHuangLab/SWIT) 
+  [Journal of Chemical Information and Modeling (2023)](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00293) |  [code](https://github.com/JingHuangLab/SWIT) 
 
 * **A Protein-Ligand Interaction-focused 3D Molecular Generative Framework for Generalizable Structure-based Drug Design** [2023]  
  Zhung W, Kim H, Kim WY.   
-  [Paper](https://doi.org/10.26434/chemrxiv-2023-jsjwx) |  [code](https://github.com/ACE-KAIST/DeepICL) 
+  [chemrxiv-2023-jsjwx](https://doi.org/10.26434/chemrxiv-2023-jsjwx) |  [code](https://github.com/ACE-KAIST/DeepICL) 
 
 * **Mol-Zero-GAN: Zero-Shot Adaptation of Molecular Generative Adversarial Network for Specific Protein Targets** [2023]   
 Ravipas Aphikulvanich*， Natapol Pornputtapong， Duangdao Wichadakul   
-[Paper](https://doi.org/10.26434/chemrxiv-2023-lv2m1) |  [code](https://github.com/cucpbioinfo/Mol-Zero-GAN) 
+[chemrxiv-2023-lv2m1](https://doi.org/10.26434/chemrxiv-2023-lv2m1) |  [code](https://github.com/cucpbioinfo/Mol-Zero-GAN) 
 
 * **Molecule Generation For Target Protein Binding with Structural Motifs** [2023]   
   Zhang, Zaixi, Yaosen Min, Shuxin Zheng, and Qi Liu.   
-  [Paper](https://openreview.net/forum?id=Rq13idF0F73) |  [code](https://github.com/zaixizhang/FLAG) 
+  [The Eleventh International Conference on Learning Representations. (2023)](https://openreview.net/forum?id=Rq13idF0F73) |  [code](https://github.com/zaixizhang/FLAG) 
 
 * **Deep generative model for drug design from protein target sequence** [2023]   
 Yangyang Chen, Zixu Wang, Lei Wang, Jianmin Wang, Pengyong Li, Dongsheng Cao, Xiangxiang Zeng, Xiucai Ye & Tetsuya Sakurai.   
-[Paper](https://doi.org/10.1186/s13321-023-00702-2) |  [code](https://github.com/viko-3/TargetGAN) 
+[J Cheminform 15, 38 (2023)](https://doi.org/10.1186/s13321-023-00702-2) |  [code](https://github.com/viko-3/TargetGAN) 
 
 * **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction** [2023]   
   Guan, Jiaqi, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, and Jianzhu Ma.   
-  [Paper](https://openreview.net/forum?id=kJqXEPXMsE0) |  [code](https://github.com/guanjq/targetdiff) 
+  [The Eleventh International Conference on Learning Representations. (2023)](https://openreview.net/forum?id=kJqXEPXMsE0) |  [code](https://github.com/guanjq/targetdiff) 
 
 * **Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks** [2023]     
   Ünlü, Atabey, Elif Çevrim, Ahmet Sarıgün, Hayriye Çelikbilek, Heval Ataş Güvenilir, Altay Koyaş, Deniz Cansen Kahraman, Ahmet Rifaioğlu, and Abdurrahman Olğaç.   
-  [Paper](https://arxiv.org/abs/2302.07868)
+  [arXiv:2302.07868 (2023)](https://arxiv.org/abs/2302.07868)
 
 * **Structure-based Drug Design with Equivariant Diffusion Models** [2023]  
 Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correia, B.   
-[Paper](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD) 
+[arXiv:2210.13695 (2022)](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD) 
 
 * **A multilevel generative framework with hierarchical self-contrasting for bias control and transparency in structure-based ligand design** [2022]   
   Chan, Lucian, Rajendra Kumar, Marcel Verdonk, and Carl Poelking.   
-  [Paper](https://doi.org/10.1038/s42256-022-00564-7) |  [code](https://github.com/capoe/libpqr) 
+  [Nat Mach Intell 4, 1130–1142 (2022)](https://doi.org/10.1038/s42256-022-00564-7) |  [code](https://github.com/capoe/libpqr) 
 
 * **Reinforced Genetic Algorithm for Structure-based Drug Design** [2022]   
   Fu, Tianfan, Wenhao Gao, Connor Coley, and Jimeng Sun.  
-  [Paper](https://openreview.net/forum?id=Qx6UPW0r9Lf) |  [code](https://github.com/futianfan/reinforced-genetic-algorithm) 
+  [Advances in Neural Information Processing Systems 35 (2022)](https://openreview.net/forum?id=Qx6UPW0r9Lf) |  [code](https://github.com/futianfan/reinforced-genetic-algorithm) 
 
 * **Exploiting pretrained biochemical language models for targeted drug design** [2022]  
   Uludoğan, Gökçe, Elif Ozkirimli, Kutlu O. Ulgen, Nilgün Karalı, and Arzucan Özgür.  
-  [Paper](https://doi.org/10.1093/bioinformatics/btac482) |  [code](https://github.com/boun-tabi/biochemical-lms-for-drug-design) 
+  [Bioinformatics 38.Supplement_2 (2022)](https://doi.org/10.1093/bioinformatics/btac482) |  [code](https://github.com/boun-tabi/biochemical-lms-for-drug-design) 
 
 * **RELATION: A Deep Generative Model for Structure-Based De Novo Drug Design** [2022]  
   Wang, M., Hsieh, C.Y., Wang, J., Wang, D., Weng, G., Shen, C., Yao, X., Bing, Z., Li, H., Cao, D. and Hou, T.,  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00732) |  [code](https://github.com/micahwang/RELATION) 
+  [Journal of Medicinal Chemistry 65.13 (2022)](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00732) |  [code](https://github.com/micahwang/RELATION) 
 
 * **Tailoring Molecules for Protein Pockets: a Transformer-based Generative Solution for Structured-based Drug Design** [2022]  
   Wu, K., Xia, Y., Fan, Y., Deng, P., Liu, H., Wu, L., ... & Liu, T. Y.  
-  [Paper](https://arxiv.org/abs/2209.06158) |  [code](https://github.com/HankerWu/TamGent) 
+  [arXiv:2209.06158 (2022)](https://arxiv.org/abs/2209.06158) |  [code](https://github.com/HankerWu/TamGent) 
 
 * **De novo design of protein target specific scaffold-based Inhibitors via Reinforcement Learning** [2022]  
   Bontha M, McNaughton A, Knutson C, Pope J, Kumar N.  
-  [Paper](https://openreview.net/forum?id=k-ES3OH7eqp)
+  [arXiv:2205.10473 (2022)](https://openreview.net/forum?id=k-ES3OH7eqp)
 
 * **AlphaDrug: protein target specific de novo molecular generation** [2022]  
   Qian, Hao, Cheng Lin, Dengwei Zhao, Shikui Tu, and Lei Xu.  
-  [Paper](https://academic.oup.com/pnasnexus/article/1/4/pgac227/6751929) |  [code](https://github.com/CMACH508/AlphaDrug) 
+  [PNAS Nexus 1.4 (2022)](https://academic.oup.com/pnasnexus/article/1/4/pgac227/6751929) |  [code](https://github.com/CMACH508/AlphaDrug) 
 
 * **LIMO: Latent Inceptionism for Targeted Molecule Generation** [2022]  
   Eckmann, Peter, Kunyang Sun, Bo Zhao, Mudong Feng, Michael K. Gilson, and Rose Yu.  
-  [Paper](https://arxiv.org/abs/2206.09010) |  [code](https://github.com/rose-stl-lab/limo) 
+  [arXiv:2206.09010 (2022)](https://arxiv.org/abs/2206.09010) |  [code](https://github.com/rose-stl-lab/limo) 
 
 * **Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets** [2022]  
  Peng, Xingang, Shitong Luo, Jiaqi Guan, Qi Xie, Jian Peng, and Jianzhu Ma.  
-  [Paper](https://proceedings.mlr.press/v162/peng22b.html) |  [code](https://github.com/pengxingang/Pocket2Mol) 
+  [International Conference on Machine Learning. PMLR, (2022)](https://proceedings.mlr.press/v162/peng22b.html) |  [code](https://github.com/pengxingang/Pocket2Mol) 
 
 * **Autonomous molecule generation using reinforcement learning and docking to develop potential novel inhibitors** [2022]  
   Jeon, W., Kim, D.  
-  [Paper](https://doi.org/10.1038/s41598-020-78537-2) |  [code](https://github.com/wsjeon92/morld) 
+  [Sci Rep 10, 22104 (2020)](https://doi.org/10.1038/s41598-020-78537-2) |  [code](https://github.com/wsjeon92/morld) 
 
 * **Target-Focused Library Design by Pocket-Applied Computer Vision and Fragment Deep Generative Linking** [2022]  
   Eguida, Merveille, Christel Schmitt-Valencia, Marcel Hibert, Pascal Villa, and Didier Rognan.  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00931) |  [code](https://github.com/kimeguida/POEM) 
+  [Journal of Medicinal Chemistry 65.20 (2022)](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00931) |  [code](https://github.com/kimeguida/POEM) 
 
 * **Incorporating Target-Specific Pharmacophoric Information into Deep Generative Models for Fragment Elaboration** [2022]  
   Hadfield, Thomas E., Fergus Imrie, Andy Merritt, Kristian Birchall, and Charlotte M. Deane.  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01311) |  [code](https://github.com/tomhadfield95/STRIFE) 
+  [J. Chem. Inf. Model. 2022, 62, 10, 2280–2292](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01311) |  [code](https://github.com/tomhadfield95/STRIFE) 
 
 * **Fragment-Based Ligand Generation Guided By Geometric Deep Learning On Protein-Ligand Structure** [2022]  
   Powers, Alexander S., Helen H. Yu, Patricia Suriana, and Ron O. Dror.  
-  [Paper](https://www.biorxiv.org/content/10.1101/2022.03.17.484653v2) 
+  [bioRxiv (2022)](https://www.biorxiv.org/content/10.1101/2022.03.17.484653v2) 
 
 * **Zero-Shot 3D Drug Design by Sketching and Generating** [2022]  
   Long, Siyu, Yi Zhou, Xinyu Dai, and Hao Zhou.   
-  [Paper](https://nips.cc/media/neurips-2022/Slides/54457.pdf) |  [code](https://github.com/longlongman/DESERT) 
+  [arXiv:2209.13865 (2022)](https://nips.cc/media/neurips-2022/Slides/54457.pdf) |  [code](https://github.com/longlongman/DESERT) 
 
 * **Structure-based de novo drug design using 3D deep generative models** [2021]  
   Li, Yibo, Jianfeng Pei, and Luhua Lai.    
-  [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc04444c)
+  [Chemical science 12.41 (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc04444c)
 
 * **Transformer neural network for protein-specific de novo drug generation as a machine translation proble** [2021]  
   Grechishnikova, Daria.   
-  [Paper](https://www.nature.com/articles/s41598-020-79682-4) |  [code](https://github.com/dariagrechishnikova/molecule_structure_generation) 
+  [Sci Rep 11, 321 (2021)](https://www.nature.com/articles/s41598-020-79682-4) |  [code](https://github.com/dariagrechishnikova/molecule_structure_generation) 
 
 * **Structure-aware generation of drug-like molecules** [2021]  
   Drotár, P., Jamasb, A.R., Day, B., Cangea, C. and Liò, P.,   
-  [Paper](https://arxiv.org/abs/2111.04107) 
+  [arXiv:2111.04107 (2021)](https://arxiv.org/abs/2111.04107) 
 
 * **A 3D Generative Model for Structure-Based Drug Design** [2021]  
   Luo, S., Guan, J., Ma, J., & Peng, J.   
-  [Paper](https://openreview.net/forum?id=yDwfVD_odRo) |  [code](https://github.com/luost26/3D-Generative-SBDD) 
+  [Advances in Neural Information Processing Systems 34 (2021)](https://openreview.net/forum?id=yDwfVD_odRo) |  [code](https://github.com/luost26/3D-Generative-SBDD) 
 
 * **Structure-Based de Novo Molecular Generator Combined with Artificial Intelligence and Docking Simulations** [2021]  
   Ma, B., Terayama, K., Matsumoto, S., Isaka, Y., Sasakura, Y., Iwata, H., Araki, M. and Okuno, Y.   
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00679) |  [code](https://github.com/clinfo/SBMolGen) 
-
-
-
+  [J. Chem. Inf. Model. 2021, 61, 7, 3304–3313](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00679) |  [code](https://github.com/clinfo/SBMolGen) 
 
 
 
@@ -1198,66 +1195,66 @@ Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correi
 
 * **DrugEx v3: scaffold-constrained drug design with graph transformer-based reinforcement learning** [2023]  
   Liu, X., Ye, K., van Vlijmen, H.W.T. et al.    
-  [Paper](https://doi.org/10.1186/s13321-023-00694-z) |  [code](https://github.com/CDDLeiden/DrugEx) 
+  [J Cheminform 15, 24 (2023)](https://doi.org/10.1186/s13321-023-00694-z) |  [code](https://github.com/CDDLeiden/DrugEx) 
 
 * **Sc2Mol: a scaffold-based two-step molecule generator with variational autoencoder and transformer** [2023]  
   Zhirui Liao, Lei Xie, Hiroshi Mamitsuka, Shanfeng Zhu.  
-  [Paper](https://doi.org/10.1093/bioinformatics/btac814) |  [code](https://github.com/zhiruiliao/Sc2Mol) 
+  [Bioinformatics 39.1 (2023)](https://doi.org/10.1093/bioinformatics/btac814) |  [code](https://github.com/zhiruiliao/Sc2Mol) 
 
 * **De novo design of protein target specific scaffold-based Inhibitors via Reinforcement Learning** [2022]  
   Bontha M, McNaughton A, Knutson C, Pope J, Kumar N.  
-  [Paper](https://openreview.net/forum?id=k-ES3OH7eqp)
+  [arXiv:2205.10473 (2022)](https://openreview.net/forum?id=k-ES3OH7eqp)
 
 * **LibINVENT: Reaction-based Generative Scaffold Decoration for in Silico Library Design** [2022]  
   Fialková, V., Zhao, J., Papadopoulos, K., Engkvist, O., Bjerrum, E.J., Kogej, T. and Patronov, A   
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00469) |  [code](https://github.com/MolecularAI/Lib-INVENT) 
+  [J. Chem. Inf. Model. 2022, 62, 9, 2046–2063](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00469) |  [code](https://github.com/MolecularAI/Lib-INVENT) 
 
 * **Learning to Extend Molecular Scaffolds with Structural Motifs** [2022]  
   Maziarz, Krzysztof, Henry Jackson-Flux, Pashmina Cameron, Finton Sirockin, Nadine Schneider, Nikolaus Stiefl, Marwin Segler, and Marc Brockschmidt.   
-  [Paper](https://openreview.net/forum?id=ZTsoE8G3GG)
+  [arXiv:2103.03864 (2021)](https://openreview.net/forum?id=ZTsoE8G3GG)
 
 * **Deep scaffold hopping with multimodal transformer neural networks** [2021]  
 Zheng, Shuangjia, Zengrong Lei, Haitao Ai, Hongming Chen, Daiguo Deng, and Yuedong Yang.  
-  [Paper](https://doi.org/10.1186/s13321-021-00565-5) |  [code](https://github.com/prokia/deepHops) 
+  [J Cheminform 13, 87 (2021)](https://doi.org/10.1186/s13321-021-00565-5) |  [code](https://github.com/prokia/deepHops) 
 
 * **Kinase Inhibitor Scaffold Hopping with Deep Learning Approaches** [2021]  
 Hu, Lizhao, Yuyao Yang, Shuangjia Zheng, Jun Xu, Ting Ran, and Hongming Chen.  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00608) |  [code](https://github.com/YuYaoYang2333/SyntaLinker) 
+  [J. Chem. Inf. Model. 2021, 61, 10, 4900–4912](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00608) |  [code](https://github.com/YuYaoYang2333/SyntaLinker) 
 
 * **3D-Scaffold: A Deep Learning Framework to Generate 3D Coordinates of Drug-like Molecules with Desired Scaffolds** [2021]  
 Joshi, Rajendra P., Niklas WA Gebauer, Mridula Bontha, Mercedeh Khazaieli, Rhema M. James, James B. Brown, and Neeraj Kumar.  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c06437) |  [code](https://github.com/PNNL-CompBio/3D_Scaffold) 
+  [J. Phys. Chem. B 2021, 125, 44, 12166–12176](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c06437) |  [code](https://github.com/PNNL-CompBio/3D_Scaffold) 
 
 * **SMILES-Based Deep Generative Scaffold Decorator for De-Novo Drug Design** [2020]  
 Arús-Pous, Josep, Atanas Patronov, Esben Jannik Bjerrum, Christian Tyrchan, Jean-Louis Reymond, Hongming Chen, and Ola Engkvist.  
-  [Paper](https://doi.org/10.26434/chemrxiv.11638383.v1) |  [code](https://github.com/undeadpixel/reinvent-scaffold-decorator) 
+  [J Cheminform 12, 38 (2020)](https://doi.org/10.1186/s13321-020-00441-8) | [chemrxiv.11638383.v1](https://doi.org/10.26434/chemrxiv.11638383.v1) |  [code](https://github.com/undeadpixel/reinvent-scaffold-decorator) 
 
-* **Scaffold-based molecular design with a graph generative model** [2019]  
+* **Scaffold-based molecular design with a graph generative model** [2020]  
 Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.  
-  [Paper](https://pubs.rsc.org/en/content/articlelanding/2020/SC/C9SC04503A) |  [code](https://github.com/jaechanglim/GGM) 
+  [Chemical science 11.4 (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/SC/C9SC04503A) |  [code](https://github.com/jaechanglim/GGM) 
 
 
 ### Motifs-based DMGs
 
 * **MAGNet: Motif-Agnostic Generation of Molecules from Shapes** [2023]   
   Hetzel, Leon, Johanna Sommer, Bastian Rieck, Fabian Theis, and Stephan Günnemann.   
-  [Paper](https://arxiv.org/abs/2305.19303) 
+  [arXiv:2305.19303 (2023)](https://arxiv.org/abs/2305.19303) 
 
 * **Molecule Generation For Target Protein Binding with Structural Motifs** [2023]   
   Zhang, Zaixi, Yaosen Min, Shuxin Zheng, and Qi Liu.   
-  [Paper](https://openreview.net/forum?id=Rq13idF0F73) |  [code](https://github.com/zaixizhang/FLAG) 
+  [The Eleventh International Conference on Learning Representations. (2023)](https://openreview.net/forum?id=Rq13idF0F73) |  [code](https://github.com/zaixizhang/FLAG) 
 
 * **De Novo Molecular Generation via Connection-aware Motif Mining** [2023]   
   Zijie Geng, Shufang Xie, Yingce Xia, Lijun Wu, Tao Qin, Jie Wang, Yongdong Zhang, Feng Wu, Tie-Yan Liu   
-  [Paper](https://openreview.net/pdf?id=Q_Jexl8-qDihttps://openreview.net/pdf?id=Q_Jexl8-qDi) |  [code](https://github.com/MIRALab-USTC/AI4Sci-MiCaM) 
+  [arXiv:2302.01129 (2023)](https://openreview.net/pdf?id=Q_Jexl8-qDihttps://openreview.net/pdf?id=Q_Jexl8-qDi) |  [code](https://github.com/MIRALab-USTC/AI4Sci-MiCaM) 
 
 * **Learning to Extend Molecular Scaffolds with Structural Motifs** [2022]  
   Maziarz, Krzysztof, Henry Jackson-Flux, Pashmina Cameron, Finton Sirockin, Nadine Schneider, Nikolaus Stiefl, Marwin Segler, and Marc Brockschmidt.   
-  [Paper](https://openreview.net/forum?id=ZTsoE8G3GG)
+  [arXiv:2103.03864 (2021)](https://openreview.net/forum?id=ZTsoE8G3GG)
 
 * **Hierarchical generation of molecular graphs using structural motifs** [2020]  
   Jin, Wengong, Regina Barzilay, and Tommi Jaakkola.   
-  [Paper](https://dl.acm.org/doi/abs/10.5555/3524938.3525387) |  [code](https://github.com/wengong-jin/hgraph2graph) 
+  [International conference on machine learning. PMLR, (2020)](https://dl.acm.org/doi/abs/10.5555/3524938.3525387) |  [code](https://github.com/wengong-jin/hgraph2graph) 
 
 
 
