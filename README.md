@@ -59,6 +59,13 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
     - [SAscore](#SAscore)
     - [RAscore](#RAscore)
     - [Evaluation metrics](#Evaluation-metrics)
+
+| Datasets |  Benchmarks | Drug-likeness| Evaluation metrics  |
+| ------ | :---------- | ------ | ------ |
+| [Datasets](#Datasets) | [Benchmarks](#Benchmarks) | [QED](#QED) | [SAscore](#SAscore) |
+|  |  | [QEPPI](#QEPPI) | [RAscore](#RAscore) |
+|  |  |  | [Evaluation metrics](#Evaluation-metrics) |
+
   - [Deep Learning-based design](#Deep-Learning-based-design)
 
 | Menu | Menu | Menu | Menu |
