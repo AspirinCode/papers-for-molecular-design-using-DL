@@ -549,7 +549,7 @@ Santana, M.V.S., Silva-Jr, F.P.
   [Nat Mach Intell 4, 180–186 (2022)](https://doi.org/10.1038/s42256-022-00448-w)  |  [code](https://github.com/Novartis/JAEGER) 
 
 * **Accelerating Bayesian Optimization for Biological Sequence Design with Denoising Autoencoders** [2022]  
-  Stanton, S., Maddox, W., Gruver, N., Maffettone, P., Delaney, E., Greenside, P., & Wilson, A. G.   
+  Stanton, S., Maddox, W., Gruver, N., Maffettone, P., Delaney, E., Greenside, P., & Wilson, A. G.
   [PMLR 162:20459-20478, 2022](https://arxiv.org/abs/2203.12742)
 
 * **Conditional β-VAE for De Novo Molecular Generation** [2022]  
