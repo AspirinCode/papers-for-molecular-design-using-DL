@@ -1262,67 +1262,63 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 * **Molecular Generation with Reduced Labeling through Constraint Architecture** [2023]   
  Wang, Jike, Yundian Zeng, Huiyong Sun, Junmei Wang, Xiaorui Wang, Ruofan Jin, Mingyang Wang et al.    
-  [Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00579) |  [code](https://github.com/jkwang93/Frag-G_M) 
+  [J. Chem. Inf. Model. 2023, 63, 11, 3319–3327](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00579) |  [code](https://github.com/jkwang93/Frag-G_M) 
 
 * **Tree-Invent: A novel molecular generative model constrained with topological tree** [2023]   
  Mingyuan Xu, HongMing Chen.   
-  [Paper](https://doi.org/10.26434/chemrxiv-2023-m77vk) |  [code](https://github.com/MingyuanXu/Tree-Invent) 
+  [chemrxiv-2023-m77vk](https://doi.org/10.26434/chemrxiv-2023-m77vk) |  [code](https://github.com/MingyuanXu/Tree-Invent) 
 
 * **MacFrag: segmenting large-scale molecules to obtain diverse fragments with high qualities** [2023]  
   Yanyan Diao, Feng Hu, Zihao Shen, Honglin Li*.  
-  [Paper](https://doi.org/10.1093/bioinformatics/btad012) |  [code](https://github.com/yydiao1025/MacFrag) 
+  [Bioinformatics (2023)](https://doi.org/10.1093/bioinformatics/btad012) |  [code](https://github.com/yydiao1025/MacFrag) 
 
 * **Fragment-based Deep Molecular Generation using Hierarchical Chemical Graph Representation and Multi-Resolution Graph Variational Autoencoder** [2023]  
   Gao, Zhenxiang, Xinyu Wang, Blake Blumenfeld Gaines, Xuetao Shi, Jinbo Bi, and Minghu Song.  
-  [Paper](https://doi.org/10.1002/minf.202200215)
+  [Molecular Informatics (2023)](https://doi.org/10.1002/minf.202200215)
 
 * **Fragment-based t-SMILES for de novo molecular generation** [2023]  
   Wu, Juan-Ni, Tong Wang, Yue Chen, Li-Juan Tang, Hai-Long Wu, and Ru-Qin Yu.  
-  [Paper](https://arxiv.org/abs/2301.01829) |  [code](https://github.com/juanniwu/t-SMILES) 
+  [arXiv:2301.01829 (2023)](https://arxiv.org/abs/2301.01829) |  [code](https://github.com/juanniwu/t-SMILES) 
 
 * **Target-Focused Library Design by Pocket-Applied Computer Vision and Fragment Deep Generative Linking** [2022]  
   Eguida, Merveille, Christel Schmitt-Valencia, Marcel Hibert, Pascal Villa, and Didier Rognan.  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00931) |  [code](https://github.com/kimeguida/POEM) 
+  [Journal of Medicinal Chemistry 65.20 (2022): 13771-13783](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00931) |  [code](https://github.com/kimeguida/POEM) 
 
 * **Incorporating Target-Specific Pharmacophoric Information into Deep Generative Models for Fragment Elaboration** [2022]  
   Hadfield, Thomas E., Fergus Imrie, Andy Merritt, Kristian Birchall, and Charlotte M. Deane.  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01311) |  [code](https://github.com/tomhadfield95/STRIFE) 
+  [J. Chem. Inf. Model. 2022, 62, 10, 2280–2292](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01311) |  [code](https://github.com/tomhadfield95/STRIFE) 
 
 * **Fragment-Based Ligand Generation Guided By Geometric Deep Learning On Protein-Ligand Structure** [2022]  
   Powers, Alexander S., Helen H. Yu, Patricia Suriana, and Ron O. Dror.  
-  [Paper](https://www.biorxiv.org/content/10.1101/2022.03.17.484653v2) 
+  [bioRxiv (2022)](https://www.biorxiv.org/content/10.1101/2022.03.17.484653v2) 
 
 * **FAME: Fragment-based Conditional Molecular Generation for Phenotypic Drug Discovery** [2022]  
   Pham, Thai-Hoang, Lei Xie, and Ping Zhang.  
-  [Paper](https://www.biorxiv.org/content/10.1101/2022.01.21.477292v1) 
+  [SDM. Society for Industrial and Applied Mathematics, (2022)](https://www.biorxiv.org/content/10.1101/2022.01.21.477292v1) 
 
 * **Scalable Fragment-Based 3D Molecular Design with Reinforcement Learning** [2022]  
   Flam-Shepherd, Daniel, Alexander Zhigalin, and Alán Aspuru-Guzik.  
-  [Paper](https://arxiv.org/abs/2202.00658) 
+  [arXiv:2202.00658 (2022)](https://arxiv.org/abs/2202.00658) 
 
 * **Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation** [2021]  
   Yang, S., Hwang, D., Lee, S., Ryu, S., & Hwang, S. J.  
-  [Paper](https://arxiv.org/abs/2110.01219) |  [code](https://github.com/AITRICS/FREED) 
+  [Advances in Neural Information Processing Systems 34 (2021)](https://arxiv.org/abs/2110.01219) |  [code](https://github.com/AITRICS/FREED) 
 
 * **Automated Generation of Novel Fragments Using Screening Data, a Dual SMILES Autoencoder, Transfer Learning and Syntax Correction** [2021]  
   Bilsland, Alan E., Kirsten McAulay, Ryan West, Angelo Pugliese, and Justin Bower.  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01226) |  [code](https://github.com/abilsland/fragmentEncoder) 
+  [J. Chem. Inf. Model. 2021, 61, 6, 2547–2559](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01226) |  [code](https://github.com/abilsland/fragmentEncoder) 
 
 * **A Deep Generative Model for Fragment-Based Molecule Generation** [2020]  
   Podda, Marco, Davide Bacciu, and Alessio Micheli.  
-  [Paper](http://proceedings.mlr.press/v108/) |  [code](https://github.com/hengwei-chan/fragment-based-de-novo) 
+  [International Conference on Artificial Intelligence and Statistics. PMLR, (2020)](http://proceedings.mlr.press/v108/) |  [code](https://github.com/hengwei-chan/fragment-based-de-novo) 
 
 * **Multi-Objective Molecule Generation using Interpretable Substructures** [2020]  
   Jin, Wengong, Regina Barzilay, and Tommi Jaakkola.   
-  [Paper](http://proceedings.mlr.press/v119/jin20b.html) |  [code](https://github.com/wengong-jin/multiobj-rationale) 
+  [International conference on machine learning. PMLR, (2020)](http://proceedings.mlr.press/v119/jin20b.html) |  [code](https://github.com/wengong-jin/multiobj-rationale) 
 
 * **Fragment Graphical Variational AutoEncoding for Screening Molecules with Small Data** [2019]  
   Armitage, John, Leszek J. Spalek, Malgorzata Nguyen, Mark Nikolka, Ian E. Jacobs, Lorena Marañón, Iyad Nasrallah et al.  
-  [Paper](https://arxiv.org/abs/1910.13325) |  [code](https://github.com/OE-FET/FraGVAE) 
-
-
-
-
+  [arXiv:1910.13325 (2019)](https://arxiv.org/abs/1910.13325) |  [code](https://github.com/OE-FET/FraGVAE) 
 
 
 
@@ -1331,66 +1327,66 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 * **Fragment Linker Prediction Using the Deep Encoder-Decoder Network for PROTACs Drug Design** [2023]  
 Kao, Chien-Ting, Chieh-Te Lin, Cheng-Li Chou, and Chu-Chung Lin.   
-[Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01287) |  [code](https://github.com/AnHorn/AIMLinker) 
+[J. Chem. Inf. Model. 2023, 63, 10, 2918–2927](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01287) |  [code](https://github.com/AnHorn/AIMLinker) 
 
 * **Equivariant 3D-Conditional Diffusion Models for Molecular Linker Desig** [2023]  
 Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., Bronstein, M. and Correia, B.,   
-[Paper](https://openreview.net/forum?id=cnsHSSLnHVV) |  [code](https://github.com/igashov/DiffLinker) 
+[arXiv:2210.05274 (2022)](https://arxiv.org/abs/2210.05274) |  [code](https://github.com/igashov/DiffLinker) 
 
 * **DRlinker: Deep Reinforcement Learning for Optimization in Fragment Linking Design** [2022]  
   Tan, Y., Dai, L., Huang, W., Guo, Y., Zheng, S., Lei, J., ... & Yang, Y.  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00982) |  [code](https://github.com/biomed-AI/DRlinker) 
+  [J. Chem. Inf. Model. 2022, 62, 23, 5907–5917](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00982) |  [code](https://github.com/biomed-AI/DRlinker) 
 
 * **3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design** [2022]  
   Huang, Yinan, Xingang Peng, Jianzhu Ma, and Muhan Zhang.   
-  [Paper](https://arxiv.org/abs/2205.07309) |  [code](https://github.com/GraphPKU/3DLinker) 
+  [arXiv:2205.07309 (2022)](https://arxiv.org/abs/2205.07309) |  [code](https://github.com/GraphPKU/3DLinker) 
 
 * **SyntaLinker-Hybrid: A deep learning approach for target specific drug design** [2022]  
   Feng, Yu, Yuyao Yang, Wenbin Deng, Hongming Chen, and Ting Ran.    
-  [Paper](https://doi.org/10.1016/j.ailsci.2022.100035) 
+  [Artificial Intelligence in the Life Sciences 2 (2022)](https://doi.org/10.1016/j.ailsci.2022.100035) 
 
 * **Deep Generative Models for 3D Linker Design** [2020]  
   Imrie, Fergus, Anthony R. Bradley, Mihaela van der Schaar, and Charlotte M. Deane.  
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01120) |  [code](https://github.com/fimrie/DeLinker) 
+  [J. Chem. Inf. Model. 2020, 60, 4, 1983–1995](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01120) |  [code](https://github.com/fimrie/DeLinker) 
 
 * **SyntaLinker: automatic fragment linking with deep conditional transformer neural networks** [2020]  
   Yang, Yuyao, Shuangjia Zheng, Shimin Su, Chao Zhao, Jun Xu, and Hongming Chen.  
-  [Paper](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc03126g) |  [code](https://github.com/YuYaoYang2333/SyntaLinker) 
+  [Chemical science 11.31 (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc03126g) |  [code](https://github.com/YuYaoYang2333/SyntaLinker) 
 
 
 ## Chemical Reaction-based deep molecular generative models
 
 * **Uni-RXN: A Unified Framework Bridging the Gap between Chemical Reaction Pretraining and Conditional Molecule Generation** [2023]   
 Bo Qiang, Yiran Zhou, Yuheng Ding, Ningfeng Liu, Song Song, Liangren Zhang, Bo Huang, Zhenming Liu   
-[Paper](https://arxiv.org/abs/2303.06965) |  [code](https://github.com/qiangbo1222/Uni-RXN-official) 
+[arXiv:2303.06965 (2023)](https://arxiv.org/abs/2303.06965) |  [code](https://github.com/qiangbo1222/Uni-RXN-official) 
 
 * **Molecular Generative Model via Retrosynthetically Prepared Chemical Building Block Assembly** [2023]   
 Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.   
-[Paper](https://doi.org/10.1002/advs.202206674) |  [code](https://github.com/SeonghwanSeo/BBAR) 
+[Advanced Science (2023)](https://doi.org/10.1002/advs.202206674) |  [code](https://github.com/SeonghwanSeo/BBAR) 
 
 * **Synthesis-Aware Generation of Structural Analogues** [2022]   
   Dolfus, Uschi, Hans Briem, and Matthias Rarey.   
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00246) |  [code](https://github.com/whitead/synspace) 
+  [J. Chem. Inf. Model. 2022, 62, 15, 3565–3576](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00246) |  [code](https://github.com/whitead/synspace) 
 
 * **ChemistGA: A Chemical Synthesizable Accessible Molecular Generation Algorithm for Real-World Drug Discovery** [2022]   
   Wang, Jike, Xiaorui Wang, Huiyong Sun, Mingyang Wang, Yundian Zeng, Dejun Jiang, Zhenxing Wu et al.   
-[Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c01179) |  [code](https://github.com/jkwang93/ChemistGA) 
+[Journal of Medicinal Chemistry 65.18 (2022)](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c01179) |  [code](https://github.com/jkwang93/ChemistGA) 
 
 * **Generating reaction trees with cascaded variational autoencoders** [2022]   
   Nguyen, Dai Hai, and Koji Tsuda.   
-  [Paper](https://doi.org/10.1063/5.0076749) |  [code](https://github.com/haidnguyen0909/rxngenerator) 
+  [The Journal of Chemical Physics 156.4 (2022)](https://doi.org/10.1063/5.0076749) |  [code](https://github.com/haidnguyen0909/rxngenerator) 
 
 * **Synthesis-Aware Generation of Structural Analogues** [2022]   
   Dolfus, Uschi, Hans Briem, and Matthias Rarey.   
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00246)
+  [J. Chem. Inf. Model. 2022, 62, 15, 3565–3576](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00246)
 
 * **SynthI: A New Open-Source Tool for Synthon-Based Library Design** [2022]   
   Zabolotna, Yuliana, Dmitriy M. Volochnyuk, Sergey V. Ryabukhin, Kostiantyn Gavrylenko, Dragos Horvath, Olga Klimchuk, Oleksandr Oksiuta, Gilles Marcou, and Alexandre Varnek.   
-  [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00754) |  [code](https://github.com/Laboratoire-de-Chemoinformatique/Synt-On) 
+  [J. Chem. Inf. Model. 2022, 62, 9, 2151–2163](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00754) |  [code](https://github.com/Laboratoire-de-Chemoinformatique/Synt-On) 
 
 * **Integrating Synthetic Accessibility with AI-based Generative Drug Design** [2021]   
   Parrot, Maud, Hamza Tajmouati, Vinicius Barros Ribeiro da Silva, Brian Atwood, Robin Fourcade, Yann Gaston-Mathé, Nicolas Do Huu, and Quentin Perron.   
-  [Paper](https://doi.org/10.26434/chemrxiv-2021-jkhzw-v2) |  [code](https://github.com/iktos/generation-under-synthetic-constraint) 
+  [chemrxiv-2021-jkhzw-v2](https://doi.org/10.26434/chemrxiv-2021-jkhzw-v2) |  [code](https://github.com/iktos/generation-under-synthetic-constraint) 
 
 ## Omics-based deep molecular generative models
 
