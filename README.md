@@ -21,7 +21,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | [Deep Learning-based design](#Deep-Learning-based-design) | [Text-driven molecular generation models](#Text-driven-molecular-generation-models) | [Multi-Target based deep molecular generative models](#Multi-Target-based-deep-molecular-generative-models) | [Ligand-based deep molecular generative models](#Ligand-based-deep-molecular-generative-models) |
 | [Pharmacophore-based deep molecular generative models](#Pharmacophore-based-deep-molecular-generative-models) | [Structure-based deep molecular generative models](#Structure-based-deep-molecular-generative-models) | [Fragment-based deep molecular generative models](#Fragment-based-deep-molecular-generative-models) | [Scaffold-based DMGs](#Scaffold-based-DMGs) |
 | [Fragment-based DMGs](#Fragment-based-DMGs) | [Motifs-based DMGs](#Motifs-based-DMGs) | [Linkers-based DMGs](#Linkers-based-DMGs) | [Chemical Reaction-based deep molecular generative models](#Chemical-Reaction-based-deep-molecular-generative-models) |
-| [Omics-based deep molecular generative models](#Omics-based-deep-molecular-generative-models) | [Multi-Objective deep molecular generative models](#Multi-Objective-deep-molecular-generative-models) | [Quantum deep molecular generative models](#Quantum-deep-molecular-generative-models) |  |
+| [Omics-based deep molecular generative models](#Omics-based-deep-molecular-generative-models) | [Multi-Objective deep molecular generative models](#Multi-Objective-deep-molecular-generative-models) | [Quantum deep molecular generative models](#Quantum-deep-molecular-generative-models) | [Recommendations and References](#Recommendations-and-References) |
 
 
   - [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics)
@@ -39,7 +39,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | [RNN-based](#RNN-based) | [LSTM-based](#LSTM-based) | [Autoregressive-models](#Autoregressive-models) | [Transformer-based](#Transformer-based) |
 | [VAE-based](#VAE-based) | [GAN-based](#GAN-based) | [Flow-based](#Flow-based) |  |
 | [Score-Based](#Score-Based) | [Energy-based](#Energy-based) | [Diffusion-based](#Diffusion-based) |  |
-| [RL-based](#RL-based) | [Multi-task DMGs](#Multi-task-DMGs) | [Monte Carlo Tree Search](#Monte-Carlo-Tree-Search) | [Recommendations and References](#Recommendations-and-References) |
+| [RL-based](#RL-based) | [Multi-task DMGs](#Multi-task-DMGs) | [Monte Carlo Tree Search](#Monte-Carlo-Tree-Search) |  |
 
 
 
