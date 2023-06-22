@@ -549,8 +549,8 @@ Santana, M.V.S., Silva-Jr, F.P.
   [Nat Mach Intell 4, 180–186 (2022)](https://doi.org/10.1038/s42256-022-00448-w)  |  [code](https://github.com/Novartis/JAEGER) 
 
 * **Accelerating Bayesian Optimization for Biological Sequence Design with Denoising Autoencoders** [2022]  
-  Stanton, S., Maddox, W., Gruver, N., Maffettone, P., Delaney, E., Greenside, P., & Wilson, A. G.   
-  [PMLR 162:20459-20478, 2022](https://arxiv.org/abs/2203.12742) 
+  Stanton, S., Maddox, W., Gruver, N., Maffettone, P., Delaney, E., Greenside, P., & Wilson, A. G.
+  [PMLR 162:20459-20478, 2022](https://arxiv.org/abs/2203.12742)
 
 * **Conditional β-VAE for De Novo Molecular Generation** [2022]  
   Richards, Ryan J., and Austen M. Groener.   
@@ -582,7 +582,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **Geometry-Based Molecular Generation With Deep Constrained Variational Autoencoder** [2022]   
   Li, Chunyan, Junfeng Yao, Wei Wei, Zhangming Niu, Xiangxiang Zeng, Jin Li, and Jianmin Wang.   
-  [IEEE Transactions on Neural Networks and Learning Systems (2022)](https://ieeexplore.ieee.org/abstract/document/9714718) |  [code](https://github.com/anny0316/GEOM-CVAE) 
+  [IEEE Transactions on Neural Networks and Learning Systems (2022)](https://ieeexplore.ieee.org/abstract/document/9714718) |  [code](https://github.com/anny0316/GEOM-CVAE)
+
+* **High-Dimensional Bayesian Optimisation with Variational Autoencoders and Deep Metric Learning** [2021]
+  Grosnit, A., Tutunov, R., Maraval, A.M., Griffiths, R-R., Cowen-Rivers, A.I. et al.
+  [arXiv:2106.03609v3](https://arxiv.org/abs/2106.03609) | [code](https://github.com/huawei-noah/HEBO/tree/master/T-LBO)
 
 * **Inverse design of nanoporous crystalline reticular materials with deep generative models.** [2021]  
   Yao, Z., Sánchez-Lengeling, B., Bobbitt, N.S. et al.  
@@ -606,7 +610,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 * **Molecular generative model based on conditional variational autoencoder for de novo molecular design** [2018]  
   Lim, J., Ryu, S., Kim, J. W., & Kim, W. Y.   
-  [J Cheminform 10, 31 (2018)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0286-7) |  [code](https://github.com/jaechanglim/CVAE) 
+  [J Cheminform 10, 31 (2018)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0286-7) |  [code](https://github.com/jaechanglim/CVAE)
+
+* **Constrained Bayesian optimization for automatic chemical design using variational autoencoders** [2017]
+  Griffiths, R-R., Hernández-Lobato, J. M.
+  [Chemical Science 11, 2 (2020)](https://pubs.rsc.org/en/content/articlehtml/2019/sc/c9sc04026a) | [arXiv:1709.05501v6](https://arxiv.org/abs/1709.05501) | [code](https://github.com/Ryan-Rhys/Constrained-Bayesian-Optimisation-for-Automatic-Chemical-Design)
 
 * **Automatic chemical design using a data-driven continuous representation of molecules** [2017]  
   Gómez-Bombarelli, R., Wei, J. N., Duvenaud, D., Hernández-Lobato, J. M., Sánchez-Lengeling, B., Sheberla, D., ... & Aspuru-Guzik, A.   
