@@ -54,12 +54,6 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
 | [Omics-based deep molecular generative models](#Omics-based-deep-molecular-generative-models) | [Multi-Objective deep molecular generative models](#Multi-Objective-deep-molecular-generative-models) | [Quantum deep molecular generative models](#Quantum-deep-molecular-generative-models) |  |
 
 
-  - [ Generative AI for Scientific Discovery](#Generative-AI-for-Scientific-Discovery)
-
-  - [ Reviews](#reviews)
-
-  - [ Datasets and Benchmarks](#Datasets-and-Benchmarks)
-
   - [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics)
 
 | Datasets |  Benchmarks | Drug-likeness| Evaluation metrics  |
