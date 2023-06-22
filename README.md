@@ -13,6 +13,35 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 [Molecular Optimization](https://github.com/AspirinCode/papers-for-molecular-design-using-DL/blob/main/Molecular_Optimization.md) will welcome ！！！
 
 
+## Menu
+
+| Menu | Menu | Menu | Menu |
+| ------ | :---------- | ------ | ------ |
+| [ Generative AI for Scientific Discovery](#Generative-AI-for-Scientific-Discovery) | [ Reviews](#reviews) | [ Datasets and Benchmarks](#Datasets-and-Benchmarks) | [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics) |
+| [Deep Learning-based design](#Deep-Learning-based-design) | [Text-driven molecular generation models](#Text-driven-molecular-generation-models) | [Multi-Target based deep molecular generative models](#Multi-Target-based-deep-molecular-generative-models) | [Ligand-based deep molecular generative models](#Ligand-based-deep-molecular-generative-models) |
+| [Pharmacophore-based deep molecular generative models](#Pharmacophore-based-deep-molecular-generative-models) | [Structure-based deep molecular generative models](#Structure-based-deep-molecular-generative-models) | [Fragment-based deep molecular generative models](#Fragment-based-deep-molecular-generative-models) | [Scaffold-based DMGs](#Scaffold-based-DMGs) |
+| [Fragment-based DMGs](#Fragment-based-DMGs) | [Motifs-based DMGs](#Motifs-based-DMGs) | [Linkers-based DMGs](#Linkers-based-DMGs) | [Chemical Reaction-based deep molecular generative models](#Chemical-Reaction-based-deep-molecular-generative-models) |
+| [Omics-based deep molecular generative models](#Omics-based-deep-molecular-generative-models) | [Multi-Objective deep molecular generative models](#Multi-Objective-deep-molecular-generative-models) | [Quantum deep molecular generative models](#Quantum-deep-molecular-generative-models) |  |
+
+
+  - [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics)
+
+| Datasets |  Benchmarks | Drug-likeness| Evaluation metrics  |
+| ------ | :---------- | ------ | ------ |
+| [Datasets](#Datasets) | [Benchmarks](#Benchmarks) | [QED](#QED) | [SAscore](#SAscore) |
+|  |  | [QEPPI](#QEPPI) | [RAscore](#RAscore) |
+|  |  |  | [Evaluation metrics](#Evaluation-metrics) |
+
+  - [Deep Learning-based design](#Deep-Learning-based-design)
+
+| Menu | Menu | Menu | Menu |
+| ------ | :---------- | ------ | ------ |
+| [RNN-based](#RNN-based) | [LSTM-based](#LSTM-based) | [Autoregressive-models](#Autoregressive-models) | [Transformer-based](#Transformer-based) |
+| [VAE-based](#VAE-based) | [GAN-based](#GAN-based) | [Flow-based](#Flow-based) |  |
+| [Score-Based](#Score-Based) | [Energy-based](#Energy-based) | [Diffusion-based](#Diffusion-based) |  |
+| [RL-based](#RL-based) | [Multi-task DMGs](#Multi-task-DMGs) | [Monte Carlo Tree Search](#Monte-Carlo-Tree-Search) |  |
+
+
 
 ## Recommendations and References
 
@@ -41,35 +70,6 @@ https://github.com/dengjianyuan/Survey_AI_Drug_Discovery
 **Geometry Deep Learning for Drug Discovery and Life Science**  
 
 https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life-Science
-
-
-## Menu
-
-| Menu | Menu | Menu | Menu |
-| ------ | :---------- | ------ | ------ |
-| [ Generative AI for Scientific Discovery](#Generative-AI-for-Scientific-Discovery) | [ Reviews](#reviews) | [ Datasets and Benchmarks](#Datasets-and-Benchmarks) | [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics) |
-| [Deep Learning-based design](#Deep-Learning-based-design) | [Text-driven molecular generation models](#Text-driven-molecular-generation-models) | [Multi-Target based deep molecular generative models](#Multi-Target-based-deep-molecular-generative-models) | [Ligand-based deep molecular generative models](#Ligand-based-deep-molecular-generative-models) |
-| [Pharmacophore-based deep molecular generative models](#Pharmacophore-based-deep-molecular-generative-models) | [Structure-based deep molecular generative models](#Structure-based-deep-molecular-generative-models) | [Fragment-based deep molecular generative models](#Fragment-based-deep-molecular-generative-models) | [Scaffold-based DMGs](#Scaffold-based-DMGs) |
-| [Fragment-based DMGs](#Fragment-based-DMGs) | [Motifs-based DMGs](#Motifs-based-DMGs) | [Linkers-based DMGs](#Linkers-based-DMGs) | [Chemical Reaction-based deep molecular generative models](#Chemical-Reaction-based-deep-molecular-generative-models) |
-| [Omics-based deep molecular generative models](#Omics-based-deep-molecular-generative-models) | [Multi-Objective deep molecular generative models](#Multi-Objective-deep-molecular-generative-models) | [Quantum deep molecular generative models](#Quantum-deep-molecular-generative-models) |  |
-
-
-  - [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics)
-
-| Datasets |  Benchmarks | Drug-likeness| Evaluation metrics  |
-| ------ | :---------- | ------ | ------ |
-| [Datasets](#Datasets) | [Benchmarks](#Benchmarks) | [QED](#QED) | [SAscore](#SAscore) |
-|  |  | [QEPPI](#QEPPI) | [RAscore](#RAscore) |
-|  |  |  | [Evaluation metrics](#Evaluation-metrics) |
-
-  - [Deep Learning-based design](#Deep-Learning-based-design)
-
-| Menu | Menu | Menu | Menu |
-| ------ | :---------- | ------ | ------ |
-| [RNN-based](#RNN-based) | [LSTM-based](#LSTM-based) | [Autoregressive-models](#Autoregressive-models) | [Transformer-based](#Transformer-based) |
-| [VAE-based](#VAE-based) | [GAN-based](#GAN-based) | [Flow-based](#Flow-based) |  |
-| [Score-Based](#Score-Based) | [Energy-based](#Energy-based) | [Diffusion-based](#Diffusion-based) |  |
-| [RL-based](#RL-based) | [Multi-task DMGs](#Multi-task-DMGs) | [Monte Carlo Tree Search](#Monte-Carlo-Tree-Search) |  |
 
 
 
