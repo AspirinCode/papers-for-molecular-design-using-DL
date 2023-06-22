@@ -612,8 +612,8 @@ Santana, M.V.S., Silva-Jr, F.P.
   Lim, J., Ryu, S., Kim, J. W., & Kim, W. Y.   
   [J Cheminform 10, 31 (2018)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0286-7) |  [code](https://github.com/jaechanglim/CVAE)
 
-* **Constrained Bayesian optimization for automatic chemical design using variational autoencoders** [2017]
-  Griffiths, R-R., Hernández-Lobato, J. M.
+* **Constrained Bayesian optimization for automatic chemical design using variational autoencoders** [2017]  
+  Griffiths, R-R., Hernández-Lobato, J. M.  
   [Chemical Science 11, 2 (2020)](https://pubs.rsc.org/en/content/articlehtml/2019/sc/c9sc04026a) | [arXiv:1709.05501v6](https://arxiv.org/abs/1709.05501) | [code](https://github.com/Ryan-Rhys/Constrained-Bayesian-Optimisation-for-Automatic-Chemical-Design)
 
 * **Automatic chemical design using a data-driven continuous representation of molecules** [2017]  
