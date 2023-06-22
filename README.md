@@ -940,7 +940,7 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 * **Transformer-based molecular generative model for antiviral drug design** [2023]  
  mao, jiashun; wang, jianming; zeb, amir; Cho, Kwang-Hwi; jin, haiyan; Kim, Jongwan; Lee, Onju; Wang, Yunyun; No, Kyoung Tai.    
-  [Paper]https://dx.doi.org/10.2139/ssrn.4345811) |  [code](https://github.com/AspirinCode/TransAntivirus) 
+  [Available at SSRN 4345811 (2023)](https://dx.doi.org/10.2139/ssrn.4345811) |  [code](https://github.com/AspirinCode/TransAntivirus) 
 
 * **Leveraging molecular structure and bioactivity with chemical language models for de novo drug design** [2023]  
   Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
@@ -1001,8 +1001,8 @@ Ross, J., Belgodere, B., Chenthamarakshan, V., Padhi, I., Mroueh, Y., & Das, P.
 * **A molecule generative model used interaction fingerprint (docking pose) as constraints** [2021]  
   [code](https://github.com/jeah-z/IFP-RNN) 
 
-* **De novo design and bioactivity prediction of SARS-CoV-2 main protease inhibitors using recurrent neural network-based transfer learning** [2021]
-  Santana, M.V.S., Silva-Jr, F.P. 
+* **De novo design and bioactivity prediction of SARS-CoV-2 main protease inhibitors using recurrent neural network-based transfer learning** [2021]  
+  Santana, M.V.S., Silva-Jr, F.P.   
   [BMC chemistry 15.1 (2021)](https://bmcchem.biomedcentral.com/articles/10.1186/s13065-021-00737-2) |  [code](https://github.com/marcossantanaioc/De_novo_design_SARSCOV2) 
 
 * **Generative Pre-Training from Molecules** [2021]  
