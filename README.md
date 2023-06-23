@@ -722,6 +722,15 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+
+* **Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation** [2023]   
+ Huang, Han, Leilei Sun, Bowen Du, and Weifeng Lv.    
+  [arXiv:2305.12347 (2023)](https://arxiv.org/abs/2305.12347) |  [code](https://github.com/GRAPH-0/JODO) 
+
+* **Conditional Diffusion Based on Discrete Graph Structures for Molecular Graph Generation** [2023]   
+ Huang, Han, Leilei Sun, Bowen Du, and Weifeng Lv.    
+  [arXiv:2301.00427 (2023)](https://arxiv.org/abs/2301.00427) |  [code](https://github.com/GRAPH-0/CDGS) 
+
 * **SILVR: Guided Diffusion for Molecule Generation** [2023]   
  Runcie, Nicholas T., and Antonia SJS Mey.    
   [arXiv:2304.10905v1](https://arxiv.org/abs/2304.10905) |  [code](https://github.com/meyresearch/SILVR) 
