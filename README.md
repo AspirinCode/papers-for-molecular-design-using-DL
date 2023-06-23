@@ -775,6 +775,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 ### RL-based
 
+* **LS-MolGen: Ligand-and-Structure Dual-Driven Deep Reinforcement Learning for Target-Specific Molecular Generation Improves Binding Affinity and Novelty** [2023]  
+ Li, Song, Chao Hu, Song Ke, Chenxing Yang, Jun Chen, Yi Xiong, Hao Liu, and Liang Hong.   
+  [J. Chem. Inf. Model. （2023）](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00587) |  [code](https://github.com/songleee/LS-MolGen) 
+
 * **Molecule generation using transformers and policy gradient reinforcement learning** [2023]   
  Mazuz, E., Shtar, G., Shapira, B. et al.    
   [Sci Rep 13, 8799 (2023)](https://doi.org/10.1038/s41598-023-35648-w) |  [code](https://github.com/eyalmazuz/MolGen) 
@@ -927,6 +931,11 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 ## Ligand-based deep molecular generative models
 
+
+* **LS-MolGen: Ligand-and-Structure Dual-Driven Deep Reinforcement Learning for Target-Specific Molecular Generation Improves Binding Affinity and Novelty** [2023]  
+ Li, Song, Chao Hu, Song Ke, Chenxing Yang, Jun Chen, Yi Xiong, Hao Liu, and Liang Hong.   
+  [J. Chem. Inf. Model. （2023）](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00587) |  [code](https://github.com/songleee/LS-MolGen) 
+
 * **Regression Transformer enables concurrent sequence regression and generation for molecular language modeling** [2023]  
   Born, Jannis and Manica, Matteo  
   [Nat Mach Intell 5, 432–444 (2023)](https://doi.org/10.1038/s42256-023-00639-z) |  [arXiv:2202.01338v3](https://arxiv.org/abs/2202.01338) |  [code](https://github.com/IBM/regression-transformer) 
@@ -1072,6 +1081,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 ## Structure-based deep molecular generative models
+
+* **LS-MolGen: Ligand-and-Structure Dual-Driven Deep Reinforcement Learning for Target-Specific Molecular Generation Improves Binding Affinity and Novelty** [2023]  
+ Li, Song, Chao Hu, Song Ke, Chenxing Yang, Jun Chen, Yi Xiong, Hao Liu, and Liang Hong.   
+  [J. Chem. Inf. Model. （2023）](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00587) |  [code](https://github.com/songleee/LS-MolGen) 
 
 * **Accelerating drug target inhibitor discovery with a deep generative foundation model** [2023]  
  Vijil Chenthamarakshan et al.    
