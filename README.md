@@ -85,6 +85,10 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 ## Reviews
 
+* **A Systematic Survey in Geometric Deep Learning for Structure-based Drug Design**[2023]   
+ Zaixi Zhang, Jiaxian Yan, Qi Liu, Enhong Chen  
+[arXiv:2306.11768v2](https://arxiv.org/abs/2306.11768)
+
 * **How will generative AI disrupt data science in drug discovery?**[2023]   
  Vert, JP.  
 [Nat Biotechnol (2023)](https://doi.org/10.1038/s41587-023-01789-6)
