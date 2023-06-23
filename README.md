@@ -722,6 +722,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+* **DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design** [2023]   
+ Guan, Jiaqi, Xiangxin Zhou, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, Qiang Liu, Liang Wang, and Quanquan Gu.    
+  [ICML (2023)](https://openreview.net/forum?id=9qy9DizMlr) |  [code](https://github.com/bytedance/DecompDiff) 
 
 * **Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation** [2023]   
  Huang, Han, Leilei Sun, Bowen Du, and Weifeng Lv.    
@@ -1090,6 +1093,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 ## Structure-based deep molecular generative models
+
+* **DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design** [2023]   
+ Guan, Jiaqi, Xiangxin Zhou, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, Qiang Liu, Liang Wang, and Quanquan Gu.    
+  [ICML (2023)](https://openreview.net/forum?id=9qy9DizMlr) |  [code](https://github.com/bytedance/DecompDiff) 
 
 * **LS-MolGen: Ligand-and-Structure Dual-Driven Deep Reinforcement Learning for Target-Specific Molecular Generation Improves Binding Affinity and Novelty** [2023]  
  Li, Song, Chao Hu, Song Ke, Chenxing Yang, Jun Chen, Yi Xiong, Hao Liu, and Liang Hong.   
