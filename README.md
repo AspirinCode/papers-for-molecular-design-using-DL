@@ -493,6 +493,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+* **Accelerating drug target inhibitor discovery with a deep generative foundation model** [2023]  
+ Vijil Chenthamarakshan et al.    
+  [Sci. Adv.9,eadg7865(2023)](https://www.science.org/doi/10.1126/sciadv.adg7865) |  [code](https://zenodo.org/record/7863805) 
+
 * **De Novo Design of Molecules with Multiaction Potential from Differential Gene Expression using Variational Autoencoder** [2023]  
  Nutaya Pravalphruekul, Maytus Piriyajitakonkij, Phond Phunchongharn, and Supanida Piyayotai.   
   [J. Chem. Inf. Model. 2023](https://doi.org/10.1021/acs.jcim.3c00355) |  [code](https://github.com/ChemEXL/BiCEV) 
@@ -1064,6 +1068,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 ## Structure-based deep molecular generative models
+
+* **Accelerating drug target inhibitor discovery with a deep generative foundation model** [2023]  
+ Vijil Chenthamarakshan et al.    
+  [Sci. Adv.9,eadg7865(2023)](https://www.science.org/doi/10.1126/sciadv.adg7865) |  [code](https://zenodo.org/record/7863805) 
 
 * **A Simple Way to Incorporate Target Structural Information in Molecular Generative Models** [2023]  
  Zhang, Wenyi, Kaiyue Zhang, and Jing Huang.   
