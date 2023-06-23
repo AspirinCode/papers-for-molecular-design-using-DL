@@ -299,6 +299,10 @@ https://github.com/ohuelab/QEPPI
 
 ### RNN-based
 
+* **On The Difficulty of Validating Molecular Generative Models Realistically: A Case Study on Public and Proprietary Data** [2023]   
+Handa, Koichi, Morgan Thomas, Michiharu Kageyama, Takeshi Iijima, and Andreas Bender.   
+[chemrxiv-2023-lbvgn](https://doi.org/10.26434/chemrxiv-2023-lbvgn) |  [code](https://github.com/MolecularAI/Reinvent) 
+
 * **Magicmol: a light-weighted pipeline for drug-like molecule evolution and quick chemical space exploration** [2023]  
 Chen, Lin, Qing Shen, and Jungang Lou.  
 [BMC Bioinformatics (2023)](https://doi.org/10.1186/s12859-023-05286-0) |  [code](https://github.com/Josefjosda/Magicmol) 
