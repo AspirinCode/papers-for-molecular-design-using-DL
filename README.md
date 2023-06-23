@@ -493,6 +493,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+* **De Novo Design of Molecules with Multiaction Potential from Differential Gene Expression using Variational Autoencoder** [2023]  
+ Nutaya Pravalphruekul, Maytus Piriyajitakonkij, Phond Phunchongharn, and Supanida Piyayotai.   
+  [J. Chem. Inf. Model. 2023](https://doi.org/10.1021/acs.jcim.3c00355) |  [code](https://github.com/ChemEXL/BiCEV) 
+
 * **A Protein-Ligand Interaction-focused 3D Molecular Generative Framework for Generalizable Structure-based Drug Design** [2023]  
  Zhung W, Kim H, Kim WY.   
   [chemrxiv-2023-jsjwx](https://doi.org/10.26434/chemrxiv-2023-jsjwx) |  [code](https://github.com/ACE-KAIST/DeepICL) 
