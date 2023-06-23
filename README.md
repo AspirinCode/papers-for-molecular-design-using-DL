@@ -85,6 +85,10 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 ## Reviews
 
+* **Quantum computing for near-term applications in generative chemistry and drug discovery** [2023]   
+ Pyrkov, Alexey, Alex Aliper, Dmitry Bezrukov, Yen-Chu Lin, Daniil Polykovskiy, Petrina Kamya, Feng Ren, and Alex Zhavoronkov.   
+  [Drug Discovery Today (2023)](https://doi.org/10.1016/j.drudis.2023.103675) 
+
 * **A Systematic Survey in Geometric Deep Learning for Structure-based Drug Design**[2023]   
  Zaixi Zhang, Jiaxian Yan, Qi Liu, Enhong Chen  
 [arXiv:2306.11768v2](https://arxiv.org/abs/2306.11768)
@@ -1462,6 +1466,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 ## Quantum deep molecular generative models
 
+* **Quantum computing for near-term applications in generative chemistry and drug discovery** [2023]   
+ Pyrkov, Alexey, Alex Aliper, Dmitry Bezrukov, Yen-Chu Lin, Daniil Polykovskiy, Petrina Kamya, Feng Ren, and Alex Zhavoronkov.   
+  [Drug Discovery Today (2023)](https://doi.org/10.1016/j.drudis.2023.103675) 
 
 * **Quantum Generative Models for Small Molecule Drug Discovery** [2021]  
   Li, Junde, Rasit O. Topaloglu, and Swaroop Ghosh.   
