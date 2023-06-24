@@ -240,14 +240,15 @@ Nigam, AkshatKumar, Robert Pollice, Gary Tom, Kjell Jorner, Luca A.
 [arXiv:2209.12487v1](https://arxiv.org/abs/2209.12487) |  [code](https://github.com/aspuru-guzik-group/Tartarus) 
 
 
-* **Molecular Sets (MOSES): A benchmarking platform for molecular generation models**  
+* **Molecular Sets (MOSES): A benchmarking platform for molecular generation models**  [2020]  
+Polykovskiy, Daniil, Alexander Zhebrak, Benjamin Sanchez-Lengeling, Sergey Golovanov, Oktai Tatanov, Stanislav Belyaev, Rauf Kurbanov et al.  
+  [Frontiers in pharmacology 11 (2020)](https://doi.org/10.3389/fphar.2020.565644) |  [code](https://github.com/molecularsets/moses)   
 
-  [Frontiers in pharmacology 11 (2020)](https://doi.org/10.3389/fphar.2020.565644) |  [code](https://github.com/molecularsets/moses) 
 
+* **GuacaMol: Benchmarking Models for de Novo Molecular Design**  [2019]  
+Brown, Nathan, Marco Fiscato, Marwin HS Segler, and Alain C. Vaucher.  
+  [J. Chem. Inf. Model. 2019, 59, 3, 1096–1108](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839) |  [code](https://github.com/BenevolentAI/guacamol)   
 
-* **GuacaMol: Benchmarking Models for de Novo Molecular Design**
-
-https://github.com/BenevolentAI/guacamol
 
 
 ## Drug-likeness and Evaluation metrics
