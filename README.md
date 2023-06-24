@@ -342,7 +342,7 @@ Grisoni, F., Moret, M., Lingwood, R., & Schneider, G.
 [J. Chem. Inf. Model. (2020)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00943) |  [code](https://github.com/robinlingwood/BIMODAL) 
 
 * **Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks** [2019]  
-Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
+Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*   
 [Nat Mach Intell 2, 254–265 (2020)](https://www.nature.com/articles/s42256-020-0174-5) |  [code](https://github.com/pcko1/Deep-Drug-Coder) 
 
 * **ChemTS: An Efficient Python Library for de novo Molecular Generation** [2017]  
@@ -1083,8 +1083,8 @@ Ross, J., Belgodere, B., Chenthamarakshan, V., Padhi, I., Mroueh, Y., & Das, P.
 Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.   
 [arXiv:2001.09382 (2020)](https://arxiv.org/abs/2001.09382) |  [code](https://github.com/DeepGraphLearning/GraphAF) 
 
-* **Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks** [2019]
-  Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*
+* **Direct steering of de novo molecular generation with descriptor conditional recurrent neural networks** [2019]  
+  Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*   
   [Nat Mach Intell 2, 254–265 (2020)](https://www.nature.com/articles/s42256-020-0174-5) |  [code](https://github.com/pcko1/Deep-Drug-Coder) 
 
 * **Generative Recurrent Networks for De Novo Drug Design** [2018]  
