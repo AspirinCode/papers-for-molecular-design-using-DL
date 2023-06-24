@@ -856,12 +856,12 @@ Thomas, M., O’Boyle, N.M., Bender, A. et al.
 Atance, S.R., Diez, J.V., Engkvist, O., Olsson, S. and Mercado, R.  
 [J. Chem. Inf. Model. 2022, 62, 20, 4863–4872](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00838) |  [code](https://github.com/olsson-group/RL-GraphINVENT) 
 
-* **DRlinker: Deep Reinforcement Learning for Optimization in Fragment Linking Design** [2022]
-  Tan, Y., Dai, L., Huang, W., Guo, Y., Zheng, S., Lei, J., ... & Yang, Y. 
+* **DRlinker: Deep Reinforcement Learning for Optimization in Fragment Linking Design** [2022]  
+  Tan, Y., Dai, L., Huang, W., Guo, Y., Zheng, S., Lei, J., ... & Yang, Y.   
   [J. Chem. Inf. Model. 2022, 62, 23, 5907–5917](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00982) |  [code](https://github.com/biomed-AI/DRlinker) 
 
 * **Widely Used and Fast De Novo Drug Design by a Protein Sequence-Based Reinforcement Learning Model** [2022]  
-Li, Yaqin, Lingli Li, Yongjin Xu, and Yi Yu.
+Li, Yaqin, Lingli Li, Yongjin Xu, and Yi Yu.  
 [bioRxiv (2022)](https://arxiv.org/abs/2209.07405) 
 
 * **Molecular Design Method Using a Reversible Tree Representation of Chemical Compounds and Deep Reinforcement Learning** [2022]  
