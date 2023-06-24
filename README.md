@@ -259,7 +259,7 @@ https://github.com/AspirinCode/DrugAI_Drug-Likeness
 ### QED
 **quantitative estimation of drug-likeness**  
 
-  Quantifying the chemical beauty of drugs  
+* **Quantifying the chemical beauty of drugs**[2012]  
   Bickerton, G., Paolini, G., Besnard, J. et al.    
 [Nature Chem 4, 90–98 (2012)](https://doi.org/10.1038/nchem.1243) |  [code](https://github.com/AspirinCode/DrugAI_Drug-Likeness) 
 
