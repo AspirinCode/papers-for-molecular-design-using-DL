@@ -259,15 +259,22 @@ https://github.com/AspirinCode/DrugAI_Drug-Likeness
 ### QED
 **quantitative estimation of drug-likeness**  
 
-* **Quantifying the chemical beauty of drugs**[2012]  
+* **Quantifying the chemical beauty of drugs**  [2012]  
   Bickerton, G., Paolini, G., Besnard, J. et al.    
 [Nature Chem 4, 90–98 (2012)](https://doi.org/10.1038/nchem.1243) |  [code](https://github.com/AspirinCode/DrugAI_Drug-Likeness) 
 
 
 ### QEPPI
-**quantitative estimate of protein-protein interaction targeting drug-likeness**
+**quantitative estimate of protein-protein interaction targeting drug-likeness**  
 
-https://github.com/ohuelab/QEPPI
+* **Quantitative Estimate Index for Early-Stage Screening of Compounds Targeting Protein-Protein Interactions**  [2021]  
+  Kosugi, Takatsugu, and Masahito Ohue.    
+[International Journal of Molecular Sciences 22.20 (2021)](https://doi.org/10.3390/ijms222010925) |  [code](https://github.com/ohuelab/QEPPI) 
+
+* **Quantitative Estimate of Protein-Protein Interaction Targeting Drug-likeness**  [2021]  
+  Kosugi, Takatsugi, and Masahito Ohue.    
+[CIBCB. IEEE, (2021)](https://ieeexplore.ieee.org/abstract/document/9562931) |  [code](https://github.com/ohuelab/QEPPI) 
+
 
 ### SAscore
 **Estimation of synthetic accessibility score of drug-like molecules based on molecular complexity and fragment contributions**  
