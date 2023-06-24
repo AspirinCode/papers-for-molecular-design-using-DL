@@ -1474,6 +1474,10 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
  Pyrkov, Alexey, Alex Aliper, Dmitry Bezrukov, Yen-Chu Lin, Daniil Polykovskiy, Petrina Kamya, Feng Ren, and Alex Zhavoronkov.   
   [Drug Discovery Today (2023)](https://doi.org/10.1016/j.drudis.2023.103675) 
 
+* **Exploring the Advantages of Quantum Generative Adversarial Networks in Generative Chemistry** [2023]   
+ Kao, Po-Yu, Ya-Chu Yang, Wei-Yin Chiang, Jen-Yueh Hsiao, Yudong Cao, Alex Aliper, Feng Ren et al.   
+  [J. Chem. Inf. Model. 2023, 63, 11, 3307–3318](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00562) |  [code](https://github.com/pykao/QuantumMolGAN-PyTorch) 
+
 * **Quantum Generative Models for Small Molecule Drug Discovery** [2021]  
   Li, Junde, Rasit O. Topaloglu, and Swaroop Ghosh.   
   [IEEE Transactions on Quantum Engineering (2021)](https://ieeexplore.ieee.org/document/9520764) |  [code](https://github.com/jundeli/quantum-gan) 
