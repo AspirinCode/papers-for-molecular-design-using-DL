@@ -279,6 +279,7 @@ https://github.com/ohuelab/QEPPI
 * **FCD : Fréchet ChemNet Distance**
   
   Fréchet ChemNet Distance: A Metric for Generative Models for Molecules in Drug Discovery
+  Preuer, Kristina, Philipp Renz, Thomas Unterthiner, Sepp Hochreiter, and Gunter Klambauer.  
 [J. Chem. Inf. Model. 2018, 58, 9, 1736–1741](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00234) |  [code](https://github.com/bioinf-jku/FCD) 
   
 * **Perplexity-Based Molecule Ranking and Bias Estimation of Chemical Language Models** [2022]  
