@@ -613,6 +613,10 @@ Santana, M.V.S., Silva-Jr, F.P.
   Kwon, Youngchun, Dongseon Lee, Youn-Suk Choi, Kyoham Shin, and Seokho Kang.  
   [J Cheminform 12, 58 (2020)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00463-2) |  [code](https://github.com/seokhokang/graphvae_compress) 
 
+* **Deep learning enables rapid identification of potent DDR1 kinase inhibitors** [2019]   
+  Zhavoronkov, A., Ivanenkov, Y.A., Aliper, A. et al.   
+  [Nat Biotechnol 37, 1038–1040 (2019)](https://doi.org/10.1038/s41587-019-0224-x) |  [code](https://github.com/insilicomedicine/gentrl) 
+
 * **Fragment Graphical Variational AutoEncoding for Screening Molecules with Small Data** [2019]  
   Armitage, John, Leszek J. Spalek, Malgorzata Nguyen, Mark Nikolka, Ian E. Jacobs, Lorena Marañón, Iyad Nasrallah et al.  
   [arXiv:1910.13325v2](https://arxiv.org/abs/1910.13325) |  [code](https://github.com/OE-FET/FraGVAE) 
@@ -847,7 +851,6 @@ Korshunova, M., Huang, N., Capuzzi, S. et al.
 Thomas, M., O’Boyle, N.M., Bender, A. et al.  
 [ J Cheminform 14, 68 (2022)](https://doi.org/10.1186/s13321-022-00646-z) |  [code](https://github.com/MorganCThomas/SMILES-RNN) 
 
-
 * **Predicting chemical structure using reinforcement learning with a stack-augmented conditional variational autoencoder** [2022]  
   Kim, H., Ko, S., Kim, B.J. *et al.*  
   [J Cheminform 14, 83 (2022)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00666-9) |  [code](https://github.com/HwanheeKim813/stack_CVAE) 
@@ -911,6 +914,10 @@ Blaschke T, Engkvist O, Bajorath J, Chen H.
 * **Reinforcement Learning for Molecular Design Guided by Quantum Mechanics** [2020]  
 Simm, G., Pinsler, R. and Hernández-Lobato, J.M.,  
   [nternational Conference on Machine Learning. PMLR (2020)](http://proceedings.mlr.press/v119/simm20b/simm20b.pdf) |  [code](https://github.com/gncs/molgym) 
+
+* **Deep learning enables rapid identification of potent DDR1 kinase inhibitors** [2019]   
+  Zhavoronkov, A., Ivanenkov, Y.A., Aliper, A. et al.   
+  [Nat Biotechnol 37, 1038–1040 (2019)](https://doi.org/10.1038/s41587-019-0224-x) |  [code](https://github.com/insilicomedicine/gentrl) 
 
 * **Molecular de-novo design through deep reinforcement learning** [2017]  
 Olivecrona, M., Blaschke, T., Engkvist, O. et al.  
