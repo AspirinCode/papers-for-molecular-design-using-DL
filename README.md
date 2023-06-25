@@ -945,10 +945,18 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 ### Genetic Algorithm-based
 
 
+
 * **Reinforced Genetic Algorithm for Structure-based Drug Design** [2022]   
   Fu, Tianfan, Wenhao Gao, Connor Coley, and Jimeng Sun.  
   [Advances in Neural Information Processing Systems 35 (2022)](https://openreview.net/forum?id=Qx6UPW0r9Lf) |  [code](https://github.com/futianfan/reinforced-genetic-algorithm) 
 
+* **Evolutionary design of molecules based on deep learning and a genetic algorithm** [2021]   
+  Kwon, Y., Kang, S., Choi, YS. et al.   
+  [Sci Rep 11, 17304 (2021)](https://doi.org/10.1038/s41598-021-96812-8) 
+
+* **A graph-based genetic algorithm and generative model/Monte Carlo tree search for the exploration of chemical space** [2019]   
+  Jensen, Jan H.    
+  [Chemical science 10.12 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc05372c) 
 
 
 ## Text-driven molecular generation models
