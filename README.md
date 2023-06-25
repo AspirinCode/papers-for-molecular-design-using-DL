@@ -937,6 +937,9 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 ## Text-driven molecular generation models
 
+* **Interactive Molecular Discovery with Natural Language** [2023]   
+ Zheni Zeng, Bangchen Yin, Shipeng Wang, Jiarui Liu, Cheng Yang, Haishen Yao, Xingzhi Sun, Maosong Sun, Guotong Xie, Zhiyuan Liu   
+  [arXiv:2306.11976v1](https://arxiv.org/abs/2306.11976) |  [code](https://github.com/Ellenzzn/ChatMol) 
 
 * **Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models** [2023]  
  Yin Fang, Xiaozhuan Liang, Ningyu Zhang, Kangwei Liu, Rui Huang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
