@@ -940,7 +940,9 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
  Iwata, Hiroaki, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, Ryosuke Kojima, and Yasushi Okuno.   
   [chemrxiv-2023-q8419-v2](https://doi.org/10.26434/chemrxiv-2023-q8419-v2) 
 
-
+* **A graph-based genetic algorithm and generative model/Monte Carlo tree search for the exploration of chemical space** [2019]   
+  Jensen, Jan H.    
+  [Chemical science 10.12 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc05372c) 
 
 ### Genetic Algorithm-based
 
