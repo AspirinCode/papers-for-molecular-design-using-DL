@@ -39,7 +39,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | [RNN-based](#RNN-based) | [LSTM-based](#LSTM-based) | [Autoregressive-models](#Autoregressive-models) | [Transformer-based](#Transformer-based) |
 | [VAE-based](#VAE-based) | [GAN-based](#GAN-based) | [Flow-based](#Flow-based) |  |
 | [Score-Based](#Score-Based) | [Energy-based](#Energy-based) | [Diffusion-based](#Diffusion-based) |  |
-| [RL-based](#RL-based) | [Multi-task DMGs](#Multi-task-DMGs) | [Monte Carlo Tree Search](#Monte-Carlo-Tree-Search) |  |
+| [RL-based](#RL-based) | [Multi-task DMGs](#Multi-task-DMGs) | [Monte Carlo Tree Search](#Monte-Carlo-Tree-Search) | [Genetic Algorithm-based](#Genetic-Algorithm-based) |
 
 
 
@@ -939,6 +939,15 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 * **VGAE-MCTS: a New Molecular Generative Model combining Variational Graph Auto-Encoder and Monte Carlo Tree Search** [2023]  
  Iwata, Hiroaki, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, Ryosuke Kojima, and Yasushi Okuno.   
   [chemrxiv-2023-q8419-v2](https://doi.org/10.26434/chemrxiv-2023-q8419-v2) 
+
+
+
+### Genetic Algorithm-based
+
+
+* **Reinforced Genetic Algorithm for Structure-based Drug Design** [2022]   
+  Fu, Tianfan, Wenhao Gao, Connor Coley, and Jimeng Sun.  
+  [Advances in Neural Information Processing Systems 35 (2022)](https://openreview.net/forum?id=Qx6UPW0r9Lf) |  [code](https://github.com/futianfan/reinforced-genetic-algorithm) 
 
 
 
