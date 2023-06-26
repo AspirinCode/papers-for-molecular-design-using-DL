@@ -311,6 +311,10 @@ https://github.com/AspirinCode/DrugAI_Drug-Likeness
 
 ### RNN-based
 
+* **De novo drug design based on Stack-RNN with multi-objective reward-weighted sum and reinforcement learning** [2023]   
+Hu, P., Zou, J., Yu, J. et al.   
+[ J Mol Model 29, 121 (2023)](https://doi.org/10.1007/s00894-023-05523-6) |  [code](https://github.com/PengWeiHu1/mul_RL) 
+
 * **On The Difficulty of Validating Molecular Generative Models Realistically: A Case Study on Public and Proprietary Data** [2023]   
 Handa, Koichi, Morgan Thomas, Michiharu Kageyama, Takeshi Iijima, and Andreas Bender.   
 [chemrxiv-2023-lbvgn](https://doi.org/10.26434/chemrxiv-2023-lbvgn) |  [code](https://github.com/MolecularAI/Reinvent) 
@@ -810,6 +814,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 ### RL-based
+
+* **De novo drug design based on Stack-RNN with multi-objective reward-weighted sum and reinforcement learning** [2023]   
+Hu, P., Zou, J., Yu, J. et al.   
+[ J Mol Model 29, 121 (2023)](https://doi.org/10.1007/s00894-023-05523-6) |  [code](https://github.com/PengWeiHu1/mul_RL) 
 
 * **LS-MolGen: Ligand-and-Structure Dual-Driven Deep Reinforcement Learning for Target-Specific Molecular Generation Improves Binding Affinity and Novelty** [2023]  
  Li, Song, Chao Hu, Song Ke, Chenxing Yang, Jun Chen, Yi Xiong, Hao Liu, and Liang Hong.   
