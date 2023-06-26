@@ -68,6 +68,18 @@ https://pubchem.ncbi.nlm.nih.gov/
 
 
 
+
+### LSTM-based
+
+
+* **Utilizing deep learning to explore chemical space for drug lead optimization** [2023]  
+  Chakraborty, Rajkumar, and Yasha Hasija.  
+  [Expert Systems with Applications (2023)](https://doi.org/10.1016/j.eswa.2023.120592) |  [code](https://github.com/rajkumar1501/drug_analog_data) 
+
+
+
+
+
 ### Autoregressive-models
 
 
@@ -82,17 +94,6 @@ https://pubchem.ncbi.nlm.nih.gov/
 
 
 
-
-
-
-
-
-### LSTM-based
-
-
-* **Utilizing deep learning to explore chemical space for drug lead optimization** [2023]  
-  Chakraborty, Rajkumar, and Yasha Hasija.  
-  [Expert Systems with Applications (2023)](https://doi.org/10.1016/j.eswa.2023.120592) |  [code](https://github.com/rajkumar1501/drug_analog_data) 
 
 
 
