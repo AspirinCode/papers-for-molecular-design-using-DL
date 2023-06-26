@@ -16,8 +16,14 @@ Beck, Hartmut, Tobias Thaler, Daniel Meibom, Mark Meininghaus, Hannah Jörißen
 
 ## Menu
 
+  - [Deep Learning-Molecular Optimization](#Deep-Learning-Molecular-Optimization)
 
-
+| Menu | Menu | Menu | Menu |
+| ------ | :---------- | ------ | ------ |
+| [RNN-based](#RNN-based) | [LSTM-based](#LSTM-based) | [Autoregressive-models](#Autoregressive-models) | [Transformer-based](#Transformer-based) |
+| [VAE-based](#VAE-based) | [GAN-based](#GAN-based) | [Flow-based](#Flow-based) |  |
+| [Score-Based](#Score-Based) | [Energy-based](#Energy-based) | [Diffusion-based](#Diffusion-based) |  |
+| [RL-based](#RL-based) | [Active Learning-based](#Active-Learning-based) |  |  |
 
 
 ## Reviews
