@@ -62,6 +62,12 @@ https://pubchem.ncbi.nlm.nih.gov/
 ## Deep Learning-Molecular Optimization
 
 
+
+### RNN-based
+
+
+
+
 ### Autoregressive-models
 
 
@@ -71,7 +77,6 @@ https://pubchem.ncbi.nlm.nih.gov/
 
 
 
-### RNN-based
 
 
 
