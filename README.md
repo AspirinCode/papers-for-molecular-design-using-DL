@@ -525,6 +525,9 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+* **De Novo Design of Molecules with Multiaction Potential from Differential Gene Expression using Variational Autoencoder** [2023]   
+ Pravalphruekul, Nutaya, Maytus Piriyajitakonkij, Phond Phunchongharn, and Supanida Piyayotai.   
+  [J. Chem. Inf. Model.  (2023)](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00355) |  [code](https://github.com/ChemEXL/BiCEV) 
 
 * **Chemical Design with GPU-based Ising Machine** [2023]   
  Mao, Zetian, Yoshiki Matsuda, Ryo Tamura, and Koji Tsuda.   
@@ -1501,6 +1504,10 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
   [chemrxiv-2021-jkhzw-v2](https://doi.org/10.26434/chemrxiv-2021-jkhzw-v2) |  [code](https://github.com/iktos/generation-under-synthetic-constraint) 
 
 ## Omics-based deep molecular generative models
+
+* **De Novo Design of Molecules with Multiaction Potential from Differential Gene Expression using Variational Autoencoder** [2023]   
+ Pravalphruekul, Nutaya, Maytus Piriyajitakonkij, Phond Phunchongharn, and Supanida Piyayotai.   
+  [J. Chem. Inf. Model.  (2023)](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00355) |  [code](https://github.com/ChemEXL/BiCEV) 
 
 * **Gex2SGen: Designing Drug-like Molecules from Desired Gene Expression Signatures** [2023]   
  Das, Dibyajyoti, Broto Chakrabarty, Rajgopal Srinivasan, and Arijit Roy.   
