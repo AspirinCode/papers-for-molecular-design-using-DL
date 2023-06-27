@@ -819,6 +819,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 ### RL-based
 
+* **Reinforcement Learning-Driven Linker Design via Fast Attention-based Point Cloud Alignment** [2023]   
+ Neeser, Rebecca M., Mehmet Akdel, Daniel Kovtun, and Luca Naef.   
+  [arXiv:2306.08166 (2023)](https://arxiv.org/abs/2306.08166) |  [code](https://github.com/aivant/ShapeLinker) 
+
 * **De novo drug design based on Stack-RNN with multi-objective reward-weighted sum and reinforcement learning** [2023]   
 Hu, P., Zou, J., Yu, J. et al.   
 [ J Mol Model 29, 121 (2023)](https://doi.org/10.1007/s00894-023-05523-6) |  [code](https://github.com/PengWeiHu1/mul_RL) 
@@ -1419,6 +1423,11 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 
 ### Linkers-based DMGs
+
+
+* **Reinforcement Learning-Driven Linker Design via Fast Attention-based Point Cloud Alignment** [2023]   
+ Neeser, Rebecca M., Mehmet Akdel, Daniel Kovtun, and Luca Naef.   
+  [arXiv:2306.08166 (2023)](https://arxiv.org/abs/2306.08166) |  [code](https://github.com/aivant/ShapeLinker) 
 
 * **Fragment Linker Prediction Using the Deep Encoder-Decoder Network for PROTACs Drug Design** [2023]  
 Kao, Chien-Ting, Chieh-Te Lin, Cheng-Li Chou, and Chu-Chung Lin.   
