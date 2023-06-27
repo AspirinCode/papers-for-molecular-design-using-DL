@@ -397,6 +397,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ###  Transformer-based
 
+* **PrefixMol: Target- and Chemistry-aware Molecule Design via Prefix Embedding** [2023]   
+ Gao, Zhangyang, Yuqi Hu, Cheng Tan, and Stan Z. Li.    
+  [arXiv:2302.07120 (2023)](https://arxiv.org/abs/2302.07120) |  [code](https://github.com/A4Bio/PrefixMolf) 
+
 * **Adaptive language model training for molecular designs** [2023]  
  Andrew E. Blanchard, Debsindhu Bhowmik, Zachary Fox, John Gounley, Jens Glaser, Belinda S. Akpa & Stephan Irle.  
   [ J Cheminform 15, 59 (2023)](https://doi.org/10.1186/s13321-023-00719-7) |  [code](https://code.ornl.gov/candle/mlmol%20in%20the%20adaptive-lm%20directory) 
@@ -1150,6 +1154,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 ## Structure-based deep molecular generative models
+
+* **PrefixMol: Target- and Chemistry-aware Molecule Design via Prefix Embedding** [2023]   
+ Gao, Zhangyang, Yuqi Hu, Cheng Tan, and Stan Z. Li.    
+  [arXiv:2302.07120 (2023)](https://arxiv.org/abs/2302.07120) |  [code](https://github.com/A4Bio/PrefixMolf) 
 
 * **DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design** [2023]   
  Guan, Jiaqi, Xiangxin Zhou, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, Qiang Liu, Liang Wang, and Quanquan Gu.    
