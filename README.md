@@ -525,6 +525,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+
+* **Chemical Design with GPU-based Ising Machine** [2023]   
+ Mao, Zetian, Yoshiki Matsuda, Ryo Tamura, and Koji Tsuda.   
+  [Digital Discovery (2023)](https://doi.org/10.1039/D3DD00047H) |  [code](https://github.com/tsudalab/bVAE-IM) 
+
 * **Accelerating drug target inhibitor discovery with a deep generative foundation model** [2023]  
  Vijil Chenthamarakshan et al.    
   [Sci. Adv.9,eadg7865(2023)](https://www.science.org/doi/10.1126/sciadv.adg7865) |  [code](https://zenodo.org/record/7863805) 
