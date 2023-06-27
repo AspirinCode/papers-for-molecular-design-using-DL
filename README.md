@@ -1364,6 +1364,9 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 ### Fragment-based DMGs
 
+* **Fragment-based Molecule Design with Self-learning Entropic Population Annealing** [2023]   
+   [code](https://github.com/tsudalab/MolSLEPA) 
+
 * **Molecular Generation with Reduced Labeling through Constraint Architecture** [2023]   
  Wang, Jike, Yundian Zeng, Huiyong Sun, Junmei Wang, Xiaorui Wang, Ruofan Jin, Mingyang Wang et al.    
   [J. Chem. Inf. Model. 2023, 63, 11, 3319–3327](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00579) |  [code](https://github.com/jkwang93/Frag-G_M) 
