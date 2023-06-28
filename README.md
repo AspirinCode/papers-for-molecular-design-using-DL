@@ -749,7 +749,13 @@ Gnaneshwar, Dwaraknath, et al.
 
 
 
+
 ### Energy-based
+
+
+* **Molecule Design by Latent Space Energy-Based Modeling and Gradual Distribution Shifting**   [2023]   
+Deqian Kong, Bo Pang, Tian Han, Ying Nian Wu   
+[arXiv:2306.14902v1](https://arxiv.org/abs/2306.14902) |  [code](https://github.com/deqiankong/SGDS) 
 
 * **Energy-based Generative Models for Target-specific Drug Discovery** [2022]  
 Li, Junde, Collin Beaudoin, and Swaroop Ghosh.  
@@ -758,6 +764,9 @@ Li, Junde, Collin Beaudoin, and Swaroop Ghosh.
 * **MOG: Molecular Out-of-distribution Generation with Energy-based Models** [2021]  
 Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.  
 [Paper](https://openreview.net/forum?id=qkTEaJ9orc1) 
+
+
+
 
 
 ### Diffusion-based
