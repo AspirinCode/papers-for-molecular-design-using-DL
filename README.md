@@ -1586,5 +1586,15 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
   [IEEE Transactions on Quantum Engineering (2021)](https://ieeexplore.ieee.org/document/9520764) |  [code](https://github.com/jundeli/quantum-gan) 
 
 
+## Spectra-based
 
+
+### Mass Spectra-based
+
+* **An end-to-end deep learning framework for translating mass spectra to de-novo molecules** [2023]   
+ Litsa, E.E., Chenthamarakshan, V., Das, P. et al.   
+  [Commun Chem 6, 132 (2023)](https://doi.org/10.1038/s42004-023-00932-3) |  [code](https://github.com/KavrakiLab/Spec2Mol)
+
+
+  
 
