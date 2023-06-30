@@ -1598,6 +1598,10 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
  Litsa, E.E., Chenthamarakshan, V., Das, P. et al.   
   [Commun Chem 6, 132 (2023)](https://doi.org/10.1038/s42004-023-00932-3) |  [code](https://github.com/KavrakiLab/Spec2Mol)
 
+* **MSNovelist: de novo structure generation from mass spectra**  [2022]   
+ Stravs, M.A., Dührkop, K., Böcker, S. et al   
+  [Nat Methods 19, 865–870 (2022)](https://doi.org/10.1038/s41592-022-01486-3) |  [code](https://github.com/meowcat/MSNovelist) 
+
 
 
 ### NMR Spectra-based
