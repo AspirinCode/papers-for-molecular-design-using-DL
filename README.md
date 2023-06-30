@@ -525,6 +525,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+
+* **De Novo Design of Molecules with Multiaction Potential from Differential Gene Expression using Variational Autoencoder** [2023]   
+ Salas-Estrada, Leslie, Davide Provasi, Xing Qiu, H. Umit Kaniskan, Xi-Ping Huang, Jeffrey DiBerto, Joao Marcelo Lamim Ribeiro, Jian Jin, Bryan L. Roth, and Marta Filizola.   
+  [bioRxiv (2023)](https://doi.org/10.1101/2023.04.25.537995) |  [code](https://github.com/insilicomedicine/GENTRL) 
+
 * **De Novo Design of Molecules with Multiaction Potential from Differential Gene Expression using Variational Autoencoder** [2023]   
  Pravalphruekul, Nutaya, Maytus Piriyajitakonkij, Phond Phunchongharn, and Supanida Piyayotai.   
   [J. Chem. Inf. Model.  (2023)](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00355) |  [code](https://github.com/ChemEXL/BiCEV) 
@@ -835,6 +840,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 ### RL-based
+
+* **De Novo Design of Molecules with Multiaction Potential from Differential Gene Expression using Variational Autoencoder** [2023]   
+ Salas-Estrada, Leslie, Davide Provasi, Xing Qiu, H. Umit Kaniskan, Xi-Ping Huang, Jeffrey DiBerto, Joao Marcelo Lamim Ribeiro, Jian Jin, Bryan L. Roth, and Marta Filizola.   
+  [bioRxiv (2023)](https://doi.org/10.1101/2023.04.25.537995) |  [code](https://github.com/insilicomedicine/GENTRL) 
 
 * **Reinforcement Learning-Driven Linker Design via Fast Attention-based Point Cloud Alignment** [2023]   
  Neeser, Rebecca M., Mehmet Akdel, Daniel Kovtun, and Luca Naef.   
