@@ -525,6 +525,9 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+* **De Novo Design of Molecules with Multiaction Potential from Differential Gene Expression using Variational Autoencoder** [2023]   
+ Salas-Estrada, Leslie, Davide Provasi, Xing Qiu, H. Umit Kaniskan, Xi-Ping Huang, Jeffrey DiBerto, Joao Marcelo Lamim Ribeiro, Jian Jin, Bryan L. Roth, and Marta Filizola.   
+  [bioRxiv (2023)](https://doi.org/10.1101/2023.04.25.537995) |  [code](https://github.com/insilicomedicine/GENTRL) 
 
 * **De Novo Design of Molecules with Multiaction Potential from Differential Gene Expression using Variational Autoencoder** [2023]   
  Salas-Estrada, Leslie, Davide Provasi, Xing Qiu, H. Umit Kaniskan, Xi-Ping Huang, Jeffrey DiBerto, Joao Marcelo Lamim Ribeiro, Jian Jin, Bryan L. Roth, and Marta Filizola.   
@@ -840,6 +843,11 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 ### RL-based
+
+
+* **De Novo Design of Molecules with Multiaction Potential from Differential Gene Expression using Variational Autoencoder** [2023]   
+ Salas-Estrada, Leslie, Davide Provasi, Xing Qiu, H. Umit Kaniskan, Xi-Ping Huang, Jeffrey DiBerto, Joao Marcelo Lamim Ribeiro, Jian Jin, Bryan L. Roth, and Marta Filizola.   
+  [bioRxiv (2023)](https://doi.org/10.1101/2023.04.25.537995) |  [code](https://github.com/insilicomedicine/GENTRL) 
 
 * **De Novo Design of Molecules with Multiaction Potential from Differential Gene Expression using Variational Autoencoder** [2023]   
  Salas-Estrada, Leslie, Davide Provasi, Xing Qiu, H. Umit Kaniskan, Xi-Ping Huang, Jeffrey DiBerto, Joao Marcelo Lamim Ribeiro, Jian Jin, Bryan L. Roth, and Marta Filizola.   
