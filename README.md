@@ -22,7 +22,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | [Pharmacophore-based deep molecular generative models](#Pharmacophore-based-deep-molecular-generative-models) | [Structure-based deep molecular generative models](#Structure-based-deep-molecular-generative-models) | [Fragment-based deep molecular generative models](#Fragment-based-deep-molecular-generative-models) | [Scaffold-based DMGs](#Scaffold-based-DMGs) |
 | [Fragment-based DMGs](#Fragment-based-DMGs) | [Motifs-based DMGs](#Motifs-based-DMGs) | [Linkers-based DMGs](#Linkers-based-DMGs) | [Chemical Reaction-based deep molecular generative models](#Chemical-Reaction-based-deep-molecular-generative-models) |
 | [Omics-based deep molecular generative models](#Omics-based-deep-molecular-generative-models) | [Multi-Objective deep molecular generative models](#Multi-Objective-deep-molecular-generative-models) | [Quantum deep molecular generative models](#Quantum-deep-molecular-generative-models) | [Recommendations and References](#Recommendations-and-References) |
-| [Spectra(Mass/NMR)-based](#Spectra-based) | [Mass Spectra-based](#Mass-Spectra-based) |  |  |
+| [Spectra(Mass/NMR)-based](#Spectra-based) | [Mass Spectra-based](#Mass-Spectra-based) | [NMR Spectra-based](#NMR-Spectra-based) |  |
 
   - [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics)
 
@@ -1591,9 +1591,21 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 ### Mass Spectra-based
 
+
+
+
 * **An end-to-end deep learning framework for translating mass spectra to de-novo molecules** [2023]   
  Litsa, E.E., Chenthamarakshan, V., Das, P. et al.   
   [Commun Chem 6, 132 (2023)](https://doi.org/10.1038/s42004-023-00932-3) |  [code](https://github.com/KavrakiLab/Spec2Mol)
+
+
+
+### NMR Spectra-based
+
+
+
+
+
 
 
   
