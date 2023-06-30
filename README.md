@@ -1607,7 +1607,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 ### NMR Spectra-based
 
 
-
+* **NMR-TS: de novo molecule identification from NMR spectra**  [2020]   
+ Zhang, Jinzhe, Kei Terayama, Masato Sumita, Kazuki Yoshizoe, Kengo Ito, Jun Kikuchi, and Koji Tsuda   
+  [Science and technology of advanced materials 21.1 (2020)](https://doi.org/10.1080/14686996.2020.1793382) |  [code](https://github.com/tsudalab/NMR-TS) 
 
 
 
