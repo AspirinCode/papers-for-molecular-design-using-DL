@@ -397,6 +397,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ###  Transformer-based
 
+* **DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins** [2023]   
+ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang,  View ORCID ProfileYungang Xu, Suxia Han    
+  [bioRxiv (2023)](https://doi.org/10.1101/2023.06.29.543848) |  [code](https://github.com/LIYUESEN/druggpt) 
+
 * **PrefixMol: Target- and Chemistry-aware Molecule Design via Prefix Embedding** [2023]   
  Gao, Zhangyang, Yuqi Hu, Cheng Tan, and Stan Z. Li.    
   [arXiv:2302.07120 (2023)](https://arxiv.org/abs/2302.07120) |  [code](https://github.com/A4Bio/PrefixMolf) 
@@ -1009,6 +1013,10 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 ## Text-driven molecular generation models
 
+* **DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins** [2023]   
+ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang,  View ORCID ProfileYungang Xu, Suxia Han    
+  [bioRxiv (2023)](https://doi.org/10.1101/2023.06.29.543848) |  [code](https://github.com/LIYUESEN/druggpt) 
+
 * **Interactive Molecular Discovery with Natural Language** [2023]   
  Zheni Zeng, Bangchen Yin, Shipeng Wang, Jiarui Liu, Cheng Yang, Haishen Yao, Xingzhi Sun, Maosong Sun, Guotong Xie, Zhiyuan Liu   
   [arXiv:2306.11976v1](https://arxiv.org/abs/2306.11976) |  [code](https://github.com/Ellenzzn/ChatMol) 
@@ -1188,6 +1196,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 ## Structure-based deep molecular generative models
+
+* **DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins** [2023]   
+ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang,  View ORCID ProfileYungang Xu, Suxia Han    
+  [bioRxiv (2023)](https://doi.org/10.1101/2023.06.29.543848) |  [code](https://github.com/LIYUESEN/druggpt) 
 
 * **PrefixMol: Target- and Chemistry-aware Molecule Design via Prefix Embedding** [2023]   
  Gao, Zhangyang, Yuqi Hu, Cheng Tan, and Stan Z. Li.    
