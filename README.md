@@ -85,6 +85,10 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 ## Reviews
 
+* **The Hitchhiker’s Guide to Deep Learning Driven Generative Chemistry** [2023]   
+ Yan Ivanenkov, Bogdan Zagribelnyy, Alex Malyshev, Sergei Evteev, Victor Terentiev, Petrina Kamya, Dmitry Bezrukov, Alex Aliper, Feng Ren, and Alex Zhavoronkov   
+  [ACS Med. Chem. Lett. (2023)](https://doi.org/10.1021/acsmedchemlett.3c00041) 
+
 * **Quantum computing for near-term applications in generative chemistry and drug discovery** [2023]   
  Pyrkov, Alexey, Alex Aliper, Dmitry Bezrukov, Yen-Chu Lin, Daniil Polykovskiy, Petrina Kamya, Feng Ren, and Alex Zhavoronkov.   
   [Drug Discovery Today (2023)](https://doi.org/10.1016/j.drudis.2023.103675) 
