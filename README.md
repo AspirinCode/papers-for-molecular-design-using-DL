@@ -197,23 +197,17 @@ Grisoni, Francesca.
 
 ### Datasets
 
-**DrugBank**  
-https://go.drugbank.com/
+[**DrugBank**](https://go.drugbank.com/)
 
-**ZINC**  
-https://zinc15.docking.org/
+[**ZINC 15**](https://zinc15.docking.org/)  
 
-https://zinc20.docking.org/
+[**ZINC 20**](https://zinc20.docking.org/)
 
+[**PubChem**](https://pubchem.ncbi.nlm.nih.gov/)
 
-**PubChem**  
-https://pubchem.ncbi.nlm.nih.gov/
-
-**ChEMBL**  
-https://www.ebi.ac.uk/chembl/
-
-**GDB Databases**  
-https://gdb.unibe.ch/downloads/
+[**ChEMBL** ](https://www.ebi.ac.uk/chembl/)
+  
+[**GDB Databases**](https://gdb.unibe.ch/downloads/)
 
 **QM Dataset**  
 http://quantum-machine.org/datasets/
