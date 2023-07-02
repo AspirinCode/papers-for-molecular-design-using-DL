@@ -209,15 +209,11 @@ Grisoni, Francesca.
   
 [**GDB Databases**](https://gdb.unibe.ch/downloads/)
 
-**QM Dataset**  
-http://quantum-machine.org/datasets/
+[**ChemSpider**](http://www.chemspider.com/)
 
-**ChemSpider**  
-http://www.chemspider.com/
+[**QM Dataset**](http://quantum-machine.org/datasets/)
 
-**COCONUT**  
-Collection of Open Natural Products database  
-https://coconut.naturalproducts.net/
+[**COCONUT** | Collection of Open Natural Products database](https://coconut.naturalproducts.net/)  
 
 **MolData**  
 A Molecular Benchmark for Disease and Target Based Machine Learning  
