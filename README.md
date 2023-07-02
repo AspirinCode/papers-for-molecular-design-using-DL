@@ -227,7 +227,13 @@ https://coconut.naturalproducts.net/
 
 **MolData**  
 A Molecular Benchmark for Disease and Target Based Machine Learning  
-https://github.com/LumosBio/MolData
+https://github.com/LumosBio/MolData  
+  
+  
+* **Machine Learning Methods for Small Data Challenges in Molecular Science** [2023]   
+ Bozheng Dou, Zailiang Zhu, Ekaterina Merkurjev, Lu Ke, Long Chen, Jian Jiang, Yueying Zhu, Jie Liu, Bengong Zhang, and Guo-Wei Wei   
+  [Chem. Rev  (2023)](https://doi.org/10.1021/acs.chemrev.3c00189) 
+
 
 
 
