@@ -40,7 +40,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | [VAE-based](#VAE-based) | [GAN-based](#GAN-based) | [Flow-based](#Flow-based) |  |
 | [Score-Based](#Score-Based) | [Energy-based](#Energy-based) | [Diffusion-based](#Diffusion-based) |  |
 | [RL-based](#RL-based) | [Multi-task DMGs](#Multi-task-DMGs) | [Monte Carlo Tree Search](#Monte-Carlo-Tree-Search) | [Genetic Algorithm-based](#Genetic-Algorithm-based) |
-
+| [Evolutionary Algorithm-based](#Evolutionary-Algorithm-based) |  |  |  |
 
 
 ## Recommendations and References
@@ -1013,6 +1013,18 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 * **A graph-based genetic algorithm and generative model/Monte Carlo tree search for the exploration of chemical space** [2019]   
   Jensen, Jan H.    
   [Chemical science 10.12 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc05372c) 
+
+
+
+### Evolutionary Algorithm-based
+
+
+
+* **LEADD: Lamarckian evolutionary algorithm for de novo drug design**  [2022]   
+ Kerstjens, A., De Winter, H.   
+  [J Cheminform 14, 3 (2022)](https://doi.org/10.1186/s13321-022-00582-y) |  [code](https://github.com/UAMCAntwerpen/LEADD) 
+
+
 
 
 ## Text-driven molecular generation models
