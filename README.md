@@ -228,9 +228,15 @@ http://quantum-machine.org/datasets/
 http://www.chemspider.com/
 
 **COCONUT**  
-Collection of Open Natural Products database
-
+Collection of Open Natural Products database  
 https://coconut.naturalproducts.net/
+
+**MolData**  
+A Molecular Benchmark for Disease and Target Based Machine Learning  
+
+https://github.com/LumosBio/MolData
+
+
 
 ### Benchmarks
 
