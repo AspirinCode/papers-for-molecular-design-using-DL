@@ -852,6 +852,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+* **Generative Organic Electronic Molecular Design via Reinforcement Learning Integration with Quantum Chemistry: Tuning Singlet and Triplet Energy Energy Levels**  [2023]   
+ Cheng-Han Li ,Daniel P. Tabor   
+  [chemrxiv (2023)](https://doi.org/10.26434/chemrxiv-2023-bgcjg) |  [code](https://github.com/Tabor-Research-Group/reinvent_qc) 
+
 * **De Novo Design of κ-Opioid Receptor Antagonists Using a Generative Deep Learning Framework** [2023]   
  Salas-Estrada, Leslie, Davide Provasi, Xing Qiu, H. Umit Kaniskan, Xi-Ping Huang, Jeffrey DiBerto, Joao Marcelo Lamim Ribeiro, Jian Jin, Bryan L. Roth, and Marta Filizola.   
   [bioRxiv (2023)](https://doi.org/10.1101/2023.04.25.537995) |  [code](https://github.com/insilicomedicine/GENTRL) 
