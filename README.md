@@ -197,34 +197,28 @@ Grisoni, Francesca.
 
 ### Datasets
 
-**DrugBank**
-
+**DrugBank**  
 https://go.drugbank.com/
 
-**ZINC**
-
+**ZINC**  
 https://zinc15.docking.org/
 
 https://zinc20.docking.org/
 
-**PubChem**
 
+**PubChem**  
 https://pubchem.ncbi.nlm.nih.gov/
 
-**ChEMBL**
-
+**ChEMBL**  
 https://www.ebi.ac.uk/chembl/
 
-**GDB Databases**
-
+**GDB Databases**  
 https://gdb.unibe.ch/downloads/
 
-**QM Dataset**
-
+**QM Dataset**  
 http://quantum-machine.org/datasets/
 
-**ChemSpider**
-
+**ChemSpider**  
 http://www.chemspider.com/
 
 **COCONUT**  
@@ -233,7 +227,6 @@ https://coconut.naturalproducts.net/
 
 **MolData**  
 A Molecular Benchmark for Disease and Target Based Machine Learning  
-
 https://github.com/LumosBio/MolData
 
 
