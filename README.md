@@ -746,6 +746,10 @@ Zang, Chengxi, and Fei Wang.
 Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.  
 [arXiv:1905.11600 (2019)](https://openreview.net/forum?id=ryxQ6T4YwB)
 
+
+
+
+
 ### Score-Based
 
 
@@ -762,6 +766,7 @@ Gnaneshwar, Dwaraknath, et al.
 
 
 ### Energy-based
+
 
 
 * **Molecule Design by Latent Space Energy-Based Modeling and Gradual Distribution Shifting**   [2023]   
@@ -781,6 +786,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 ### Diffusion-based
+
+
+* **DiffDTM: A conditional structure-free framework for bioactive molecules generation targeted for dual proteins**   [2023]   
+ Huang, Lei, Zheng Yuan, Huihui Yan, Rong Sheng, Linjing Liu, Fuzhou Wang, Weidun Xie et al.    
+  [arXiv:2306.13957 (2023)](https://arxiv.org/abs/2306.13957) 
 
 * **DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design** [2023]   
  Guan, Jiaqi, Xiangxin Zhou, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, Qiang Liu, Liang Wang, and Quanquan Gu.    
@@ -977,7 +987,13 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
   [ J Cheminform 9, 48 (2017)](https://doi.org/10.1186/s13321-017-0235-x) |  [code](https://github.com/tblaschke/reinvent) 
 
 
+
+
+
 ### Multi-task DMGs
+
+
+
 
 * **Molecular Language Model as Multi-task Generator** [2023]  
  Fang, Y., Zhang, N., Chen, Z., Fan, X. and Chen, H.    
@@ -989,6 +1005,8 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 ### Monte Carlo Tree Search
 
 
+
+
 * **VGAE-MCTS: a New Molecular Generative Model combining Variational Graph Auto-Encoder and Monte Carlo Tree Search** [2023]  
  Iwata, Hiroaki, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, Ryosuke Kojima, and Yasushi Okuno.   
   [chemrxiv-2023-q8419-v2](https://doi.org/10.26434/chemrxiv-2023-q8419-v2) 
@@ -996,6 +1014,9 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 * **A graph-based genetic algorithm and generative model/Monte Carlo tree search for the exploration of chemical space** [2019]   
   Jensen, Jan H.    
   [Chemical science 10.12 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc05372c) 
+
+
+
 
 ### Genetic Algorithm-based
 
@@ -1211,6 +1232,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 ## Structure-based deep molecular generative models
+
+
+* **DiffDTM: A conditional structure-free framework for bioactive molecules generation targeted for dual proteins**   [2023]   
+ Huang, Lei, Zheng Yuan, Huihui Yan, Rong Sheng, Linjing Liu, Fuzhou Wang, Weidun Xie et al.    
+  [arXiv:2306.13957 (2023)](https://arxiv.org/abs/2306.13957) 
 
 * **DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins** [2023]   
  Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang,  View ORCID ProfileYungang Xu, Suxia Han    
