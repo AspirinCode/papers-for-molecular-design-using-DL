@@ -1019,6 +1019,10 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+* **AlvaBuilder: A Software for De Novo Molecular Design** [2023]   
+  Mauri, Andrea, and Matteo Bertola.  
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00610) |  [code](https://www.alvascience.com/alvabuilder/) 
+
 * **Reinforced Genetic Algorithm for Structure-based Drug Design** [2022]   
   Fu, Tianfan, Wenhao Gao, Connor Coley, and Jimeng Sun.  
   [Advances in Neural Information Processing Systems 35 (2022)](https://openreview.net/forum?id=Qx6UPW0r9Lf) |  [code](https://github.com/futianfan/reinforced-genetic-algorithm) 
@@ -1149,8 +1153,7 @@ Ross, J., Belgodere, B., Chenthamarakshan, V., Padhi, I., Mroueh, Y., & Das, P.
   [CBMS. IEEE, (2021)](https://ieeexplore.ieee.org/document/9474742) |  [code](https://github.com/larngroup/RNN-Drug-Generation) 
 
 * **A recurrent neural network (RNN) that generates drug-like molecules for drug discovery** [2021]  
-
-  [code](https://github.com/shiwentao00/Molecule-RNN) 
+  [code](https://github.com/shiwentao00/Molecule-RNN)  
 
 * **A molecule generative model used interaction fingerprint (docking pose) as constraints** [2021]  
   [code](https://github.com/jeah-z/IFP-RNN) 
