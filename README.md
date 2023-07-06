@@ -286,15 +286,15 @@ https://github.com/AspirinCode/DrugAI_Drug-Likeness
 
 ### Evaluation metrics
 
-* **FCD : Fréchet ChemNet Distance**
-  
-  Fréchet ChemNet Distance: A Metric for Generative Models for Molecules in Drug Discovery
-  Preuer, Kristina, Philipp Renz, Thomas Unterthiner, Sepp Hochreiter, and Gunter Klambauer.  
-[J. Chem. Inf. Model. 2018, 58, 9, 1736–1741](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00234) |  [code](https://github.com/bioinf-jku/FCD) 
 
-**An automated scoring function to facilitate and standardize evaluation of goal-directed generative models for de novo molecular design** [2023]   
+* **An automated scoring function to facilitate and standardize evaluation of goal-directed generative models for de novo molecular design** [2023]   
 Thomas, Morgan, Noel M. O'Boyle, Andreas Bender, and Chris De Graaf.   
 [chemrxiv-2023-c4867](https://doi.org/10.26434/chemrxiv-2023-c4867) |  [code](https://github.com/MorganCThomas/MolScore) 
+
+* **FCD : Fréchet ChemNet Distance**  
+  Fréchet ChemNet Distance: A Metric for Generative Models for Molecules in Drug Discovery
+  Preuer, Kristina, Philipp Renz, Thomas Unterthiner, Sepp Hochreiter, and Gunter Klambauer.  
+[J. Chem. Inf. Model. 2018, 58, 9, 1736–1741](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00234) |  [code](https://github.com/bioinf-jku/FCD)
 
 * **Perplexity-Based Molecule Ranking and Bias Estimation of Chemical Language Models** [2022]  
   Moret, M., Grisoni, F., Katzberger, P. and Schneider, G.  
