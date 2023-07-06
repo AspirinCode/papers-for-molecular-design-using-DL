@@ -525,6 +525,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### VAE-based
 
+* **Construction of order-independent molecular fragments space with vector quantised graph autoencoder**  [2023]   
+ Akhmetshin, Timur and Lin, Albert and Madzhidov, Timur and Varnek, Alexandre   
+  [chemrxiv-2023-5zmvw](https://doi.org/10.26434/chemrxiv-2023-5zmvw) |  [code](https://github.com/Laboratoire-de-Chemoinformatique/VQGAE) 
+
 * **De Novo Design of κ-Opioid Receptor Antagonists Using a Generative Deep Learning Framework** [2023]   
  Salas-Estrada, Leslie, Davide Provasi, Xing Qiu, H. Umit Kaniskan, Xi-Ping Huang, Jeffrey DiBerto, Joao Marcelo Lamim Ribeiro, Jian Jin, Bryan L. Roth, and Marta Filizola.   
   [bioRxiv (2023)](https://doi.org/10.1101/2023.04.25.537995) |  [code](https://github.com/insilicomedicine/GENTRL) 
@@ -1441,6 +1445,11 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 
 ### Fragment-based DMGs
+
+
+* **Construction of order-independent molecular fragments space with vector quantised graph autoencoder**  [2023]   
+ Akhmetshin, Timur and Lin, Albert and Madzhidov, Timur and Varnek, Alexandre   
+  [chemrxiv-2023-5zmvw](https://doi.org/10.26434/chemrxiv-2023-5zmvw) |  [code](https://github.com/Laboratoire-de-Chemoinformatique/VQGAE) 
 
 * **Fragment-based Molecule Design with Self-learning Entropic Population Annealing** [2023]   
    [code](https://github.com/tsudalab/MolSLEPA) 
