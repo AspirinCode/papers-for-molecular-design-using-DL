@@ -722,6 +722,9 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 ### Flow-based
 
+* **Semi-Equivariant conditional normalizing flows, with applications to target-aware molecule generation** [2023]  
+Rozenberg, Eyal, and Daniel Freedman.   
+[Machine Learning: Science and Technology (2023)](https://iopscience.iop.org/article/10.1088/2632-2153/ace58c/meta) |  [arXiv:2304.06779 (2023)](https://arxiv.org/abs/2304.06779) 
 
 * **Multi-view deep learning based molecule design and structural optimization accelerates the SARS-CoV-2 inhibitor discovery** [2022]  
 Chao Pang , Yu Wang , Yi Jiang , Ruheng Wang , Ran Su  , and Leyi Wei.  
@@ -1237,6 +1240,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+* **Semi-Equivariant conditional normalizing flows, with applications to target-aware molecule generation** [2023]  
+Rozenberg, Eyal, and Daniel Freedman.   
+[Machine Learning: Science and Technology (2023)](https://iopscience.iop.org/article/10.1088/2632-2153/ace58c/meta) |  [arXiv:2304.06779 (2023)](https://arxiv.org/abs/2304.06779) 
 
 * **DiffDTM: A conditional structure-free framework for bioactive molecules generation targeted for dual proteins**   [2023]   
  Huang, Lei, Zheng Yuan, Huihui Yan, Rong Sheng, Linjing Liu, Fuzhou Wang, Weidun Xie et al.    
