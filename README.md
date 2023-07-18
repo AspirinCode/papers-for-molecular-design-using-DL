@@ -393,6 +393,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ###  Transformer-based
 
+
+* **Sequence-based drug design as a concept in computational drug design**   [2023]   
+ Chen, L., Fan, Z., Chang, J. et al.    
+  [Nat Commun 14, 4217 (2023)]( https://doi.org/10.1038/s41467-023-39856-w)  |  [code](https://github.com/lifanchen-simm/transformerCPI2.0/) 
+
 * **DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins** [2023]   
  Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang,  View ORCID ProfileYungang Xu, Suxia Han    
   [bioRxiv (2023)](https://doi.org/10.1101/2023.06.29.543848) |  [code](https://github.com/LIYUESEN/druggpt) 
@@ -1239,6 +1244,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 ## Structure-based deep molecular generative models
+
+* **Sequence-based drug design as a concept in computational drug design**   [2023]   
+ Chen, L., Fan, Z., Chang, J. et al.    
+  [Nat Commun 14, 4217 (2023)]( https://doi.org/10.1038/s41467-023-39856-w)  |  [code](https://github.com/lifanchen-simm/transformerCPI2.0/) 
 
 * **Semi-Equivariant conditional normalizing flows, with applications to target-aware molecule generation** [2023]  
 Rozenberg, Eyal, and Daniel Freedman.   
