@@ -796,6 +796,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+* **Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D** [2023]   
+ Qiang, Bo, Yuxuan Song, Minkai Xu, Jingjing Gong, Bowen Gao, Hao Zhou, Wei-Ying Ma, and Yanyan Lan.    
+  [ICML  (2023)](https://proceedings.mlr.press/v202/qiang23a.html) |  [code](https://github.com/qiangbo1222/HierDiff) 
 
 * **DiffDTM: A conditional structure-free framework for bioactive molecules generation targeted for dual proteins**   [2023]   
  Huang, Lei, Zheng Yuan, Huihui Yan, Rong Sheng, Linjing Liu, Fuzhou Wang, Weidun Xie et al.    
