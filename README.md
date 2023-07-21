@@ -18,13 +18,13 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
 | [ Generative AI for Scientific Discovery](#generative-ai-for-scientific-discovery) | [ Reviews](#reviews) | [ Datasets and Benchmarks](#datasets-and-benchmarks) | [ Drug-likeness and Evaluation metrics](#drug-likeness-and-evaluation-metrics) |
-| [Deep Learning-based design](#Deep-Learning-based-design) | [Text-driven molecular generation models](#Text-driven-molecular-generation-models) | [Multi-Target based deep molecular generative models](#Multi-Target-based-deep-molecular-generative-models) | [Ligand-based deep molecular generative models](#Ligand-based-deep-molecular-generative-models) |
-| [Pharmacophore-based deep molecular generative models](#Pharmacophore-based-deep-molecular-generative-models) | [Structure-based deep molecular generative models](#Structure-based-deep-molecular-generative-models) | [Fragment-based deep molecular generative models](#Fragment-based-deep-molecular-generative-models) | [Scaffold-based DMGs](#Scaffold-based-DMGs) |
-| [Fragment-based DMGs](#Fragment-based-DMGs) | [Motifs-based DMGs](#Motifs-based-DMGs) | [Linkers-based DMGs](#Linkers-based-DMGs) | [Chemical Reaction-based deep molecular generative models](#Chemical-Reaction-based-deep-molecular-generative-models) |
-| [Omics-based deep molecular generative models](#Omics-based-deep-molecular-generative-models) | [Multi-Objective deep molecular generative models](#Multi-Objective-deep-molecular-generative-models) | [Quantum deep molecular generative models](#Quantum-deep-molecular-generative-models) | [Recommendations and References](#Recommendations-and-References) |
-| [Spectra(Mass/NMR)-based](#Spectra-based) | [Mass Spectra-based](#Mass-Spectra-based) | [NMR Spectra-based](#NMR-Spectra-based) |  |
+| [Deep Learning-based design](#deep-learning-based-design) | [Text-driven molecular generation models](#text-driven-molecular-generation-models) | [Multi-Target based deep molecular generative models](#multi-Target-based-deep-molecular-generative-models) | [Ligand-based deep molecular generative models](#ligand-based-deep-molecular-generative-models) |
+| [Pharmacophore-based deep molecular generative models](#pharmacophore-based-deep-molecular-generative-models) | [Structure-based deep molecular generative models](#structure-based-deep-molecular-generative-models) | [Fragment-based deep molecular generative models](#fragment-based-deep-molecular-generative-models) | [Scaffold-based DMGs](#scaffold-based-dmgs) |
+| [Fragment-based DMGs](#fragment-based-dmgs) | [Motifs-based DMGs](#motifs-based-dmgs) | [Linkers-based DMGs](#linkers-based-dmgs) | [Chemical Reaction-based deep molecular generative models](#chemical-reaction-based-deep-molecular-generative-models) |
+| [Omics-based deep molecular generative models](#omics-based-deep-molecular-generative-models) | [Multi-Objective deep molecular generative models](#multi-objective-deep-molecular-generative-models) | [Quantum deep molecular generative models](#quantum-deep-molecular-generative-models) | [Recommendations and References](#recommendations-and-references) |
+| [Spectra(Mass/NMR)-based](#spectra-based) | [Mass Spectra-based](#mass-spectra-based) | [NMR Spectra-based](#nmr-spectra-based) |  |
 
-  - [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics)
+  - [ Drug-likeness and Evaluation metrics](#drug-likeness-and-evaluation-metrics)
 
 | Datasets |  Benchmarks | Drug-likeness| Evaluation metrics  |
 | ------ | :---------- | ------ | ------ |
