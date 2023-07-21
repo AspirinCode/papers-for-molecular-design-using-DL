@@ -28,19 +28,19 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 
 | Datasets |  Benchmarks | Drug-likeness| Evaluation metrics  |
 | ------ | :---------- | ------ | ------ |
-| [Datasets](#Datasets) | [Benchmarks](#Benchmarks) | [QED](#QED) | [SAscore](#SAscore) |
-|  |  | [QEPPI](#QEPPI) | [RAscore](#RAscore) |
-|  |  |  | [Evaluation metrics](#Evaluation-metrics) |
+| [Datasets](#datasets) | [Benchmarks](#benchmarks) | [QED](#qed) | [SAscore](#sascore) |
+|  |  | [QEPPI](#qeppi) | [RAscore](#rascore) |
+|  |  |  | [Evaluation metrics](#evaluation-metrics) |
 
-  - [Deep Learning-based design](#Deep-Learning-based-design)
+  - [Deep Learning-based design](#deep-learning-based-design)
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
-| [RNN-based](#RNN-based) | [LSTM-based](#LSTM-based) | [Autoregressive-models](#Autoregressive-models) | [Transformer-based](#Transformer-based) |
-| [VAE-based](#VAE-based) | [GAN-based](#GAN-based) | [Flow-based](#Flow-based) |  |
-| [Score-Based](#Score-Based) | [Energy-based](#Energy-based) | [Diffusion-based](#Diffusion-based) |  |
-| [RL-based](#RL-based) | [Multi-task DMGs](#Multi-task-DMGs) | [Monte Carlo Tree Search](#Monte-Carlo-Tree-Search) | [Genetic Algorithm-based](#Genetic-Algorithm-based) |
-| [Evolutionary Algorithm-based](#Evolutionary-Algorithm-based) |  |  |  |
+| [RNN-based](#rnn-based) | [LSTM-based](#lstm-based) | [Autoregressive-models](#autoregressive-models) | [Transformer-based](#transformer-based) |
+| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) |  |
+| [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) |  |
+| [RL-based](#rl-based) | [Multi-task DMGs](#multi-task-dmgs) | [Monte Carlo Tree Search](#monte-carlo-tree-search) | [Genetic Algorithm-based](#genetic-algorithm-based) |
+| [Evolutionary Algorithm-based](#evolutionary-algorithm-based) |  |  |  |
 
 
 ## Recommendations and References
