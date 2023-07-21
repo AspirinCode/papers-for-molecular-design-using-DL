@@ -17,7 +17,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
-| [ Generative AI for Scientific Discovery](#Generative-AI-for-Scientific-Discovery) | [ Reviews](#Reviews) | [ Datasets and Benchmarks](#Datasets-and-Benchmarks) | [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics) |
+| [ Generative AI for Scientific Discovery](#generative-ai-for-scientific-discovery) | [ Reviews](#reviews) | [ Datasets and Benchmarks](#Datasets-and-Benchmarks) | [ Drug-likeness and Evaluation metrics](#Drug-likeness-and-Evaluation-metrics) |
 | [Deep Learning-based design](#Deep-Learning-based-design) | [Text-driven molecular generation models](#Text-driven-molecular-generation-models) | [Multi-Target based deep molecular generative models](#Multi-Target-based-deep-molecular-generative-models) | [Ligand-based deep molecular generative models](#Ligand-based-deep-molecular-generative-models) |
 | [Pharmacophore-based deep molecular generative models](#Pharmacophore-based-deep-molecular-generative-models) | [Structure-based deep molecular generative models](#Structure-based-deep-molecular-generative-models) | [Fragment-based deep molecular generative models](#Fragment-based-deep-molecular-generative-models) | [Scaffold-based DMGs](#Scaffold-based-DMGs) |
 | [Fragment-based DMGs](#Fragment-based-DMGs) | [Motifs-based DMGs](#Motifs-based-DMGs) | [Linkers-based DMGs](#Linkers-based-DMGs) | [Chemical Reaction-based deep molecular generative models](#Chemical-Reaction-based-deep-molecular-generative-models) |
