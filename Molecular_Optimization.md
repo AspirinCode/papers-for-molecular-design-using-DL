@@ -20,10 +20,10 @@ Beck, Hartmut, Tobias Thaler, Daniel Meibom, Mark Meininghaus, Hannah Jörißen
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
-| [RNN-based](#RNN-based) | [LSTM-based](#LSTM-based) | [Autoregressive-models](#Autoregressive-models) | [Transformer-based](#Transformer-based) |
-| [VAE-based](#VAE-based) | [GAN-based](#GAN-based) | [Flow-based](#Flow-based) |  |
-| [Score-Based](#Score-Based) | [Energy-based](#Energy-based) | [Diffusion-based](#Diffusion-based) |  |
-| [RL-based](#RL-based) | [Active Learning-based](#Active-Learning-based) |  |  |
+| [RNN-based](#rnn-based) | [LSTM-based](#lstm-based) | [Autoregressive-models](#autoregressive-models) | [Transformer-based](#transformer-based) |
+| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) |  |
+| [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) |  |
+| [RL-based](#rl-based) | [Active Learning-based](#active-learning-based) |  |  |
 
 
 ## Reviews
