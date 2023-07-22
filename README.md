@@ -1672,7 +1672,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 ### Mass Spectra-based
 
 
-
+* **MIST-CF: Chemical formula inference from tandem mass spectra** [2023]   
+ Litsa, E.E., Chenthamarakshan, V., Das, P. et al.   
+  [arXiv:2307.08240 (2023)](https://arxiv.org/abs/2307.08240) |  [code](https://github.com/samgoldman97/mist-cf) 
 
 * **An end-to-end deep learning framework for translating mass spectra to de-novo molecules** [2023]   
  Litsa, E.E., Chenthamarakshan, V., Das, P. et al.   
