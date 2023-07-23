@@ -381,6 +381,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### Autoregressive-models
 
+* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization ** [2023]   
+Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
+[J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c01009) |  [code](https://github.com/JenniferKim09/FFLOM) 
+
 * **Domain-Agnostic Molecular Generation with Self-feedback** [2023]  
  Yin Fang, Ningyu Zhang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
   [arXiv:2301.11259v3](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
@@ -726,6 +730,10 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 ### Flow-based
+
+* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization ** [2023]   
+Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
+[J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c01009) |  [code](https://github.com/JenniferKim09/FFLOM) 
 
 * **Semi-Equivariant conditional normalizing flows, with applications to target-aware molecule generation** [2023]  
 Rozenberg, Eyal, and Daniel Freedman.   
