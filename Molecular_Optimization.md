@@ -117,6 +117,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+* **Transformer-based deep learning method for optimizing ADMET properties of lead compounds** [2023]   
+ Yang, Lijuan, Chao Jin, Guanghui Yang, Zhitong Bing, Liang Huang, Yuzhen Niu, and Lei Yang.    
+  [Physical Chemistry Chemical Physics 25.3 (2023)](https://doi.org/10.1039/D2CP05332B) 
+
 * **Molecular optimization by capturing chemist’s intuition using deep neural networks** [2021]  
   He, Jiazhen, Huifang You, Emil Sandström, Eva Nittinger, Esben Jannik Bjerrum, Christian Tyrchan, Werngard Czechtizky, and Ola Engkvist.  
   [J Cheminform 13, 26 (2021)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00497-0) |  [code](https://github.com/MolecularAI/deep-molecular-optimization) 
