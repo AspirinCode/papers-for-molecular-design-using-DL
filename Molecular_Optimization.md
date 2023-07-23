@@ -88,7 +88,7 @@ https://pubchem.ncbi.nlm.nih.gov/
 
 ### Autoregressive-models
 
-* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization ** [2023]   
+* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization** [2023]   
 Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
 [J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c01009) |  [code](https://github.com/JenniferKim09/FFLOM) 
 
@@ -163,7 +163,7 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization ** [2023]   
+* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization** [2023]   
 Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
 [J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c01009) |  [code](https://github.com/JenniferKim09/FFLOM) 
 
@@ -247,7 +247,7 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 ### Fragment-based Molecular Optimization
 
-* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization ** [2023]   
+* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization** [2023]   
 Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
 [J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c01009) |  [code](https://github.com/JenniferKim09/FFLOM) 
 
