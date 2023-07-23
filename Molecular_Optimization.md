@@ -88,6 +88,9 @@ https://pubchem.ncbi.nlm.nih.gov/
 
 ### Autoregressive-models
 
+* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization ** [2023]   
+Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
+[J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c01009) |  [code](https://github.com/JenniferKim09/FFLOM) 
 
 * **Domain-Agnostic Molecular Generation with Self-feedback** [2023]  
  Yin Fang, Ningyu Zhang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
@@ -146,6 +149,23 @@ https://pubchem.ncbi.nlm.nih.gov/
 
 ### GAN-based
 
+
+
+
+
+
+
+
+
+### Flow-based
+
+
+
+
+
+* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization ** [2023]   
+Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
+[J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c01009) |  [code](https://github.com/JenniferKim09/FFLOM) 
 
 
 
@@ -226,6 +246,10 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 
 ### Fragment-based Molecular Optimization
+
+* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization ** [2023]   
+Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
+[J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c01009) |  [code](https://github.com/JenniferKim09/FFLOM) 
 
 * **ReBADD-SE: Multi-objective molecular optimisation using SELFIES fragment and off-policy self-critical sequence training** [2023]  
 Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
