@@ -381,7 +381,7 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### Autoregressive-models
 
-* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization ** [2023]   
+* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization** [2023]   
 Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
 [J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c01009) |  [code](https://github.com/JenniferKim09/FFLOM) 
 
@@ -731,7 +731,7 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 ### Flow-based
 
-* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization ** [2023]   
+* **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization** [2023]   
 Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
 [J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c01009) |  [code](https://github.com/JenniferKim09/FFLOM) 
 
