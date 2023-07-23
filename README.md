@@ -1056,6 +1056,10 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+* **Combining Evolutionary Algorithms with Reaction Rules Towards Focused Molecular Design**  [2023]   
+ Correia, João, Vítor Pereira, and Miguel Rocha.   
+  [Proceedings of the Genetic and Evolutionary Computation Conference (2023)](https://doi.org/10.1145/3583131.3590413) |  [code](https://github.com/BioSystemsUM/ReactEA) 
+
 * **LEADD: Lamarckian evolutionary algorithm for de novo drug design**  [2022]   
  Kerstjens, A., De Winter, H.   
   [J Cheminform 14, 3 (2022)](https://doi.org/10.1186/s13321-022-00582-y) |  [code](https://github.com/UAMCAntwerpen/LEADD) 
@@ -1571,7 +1575,15 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
   [Chemical science 11.31 (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc03126g) |  [code](https://github.com/YuYaoYang2333/SyntaLinker) 
 
 
+
+
 ## Chemical Reaction-based deep molecular generative models
+
+
+
+* **Combining Evolutionary Algorithms with Reaction Rules Towards Focused Molecular Design**  [2023]   
+ Correia, João, Vítor Pereira, and Miguel Rocha.   
+  [Proceedings of the Genetic and Evolutionary Computation Conference (2023)](https://doi.org/10.1145/3583131.3590413) |  [code](https://github.com/BioSystemsUM/ReactEA) 
 
 * **Uni-RXN: A Unified Framework Bridging the Gap between Chemical Reaction Pretraining and Conditional Molecule Generation** [2023]   
 Bo Qiang, Yiran Zhou, Yuheng Ding, Ningfeng Liu, Song Song, Liangren Zhang, Bo Huang, Zhenming Liu   
