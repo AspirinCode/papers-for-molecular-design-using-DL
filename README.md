@@ -398,6 +398,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+* **Transformer-based deep learning method for optimizing ADMET properties of lead compounds** [2023]   
+ Yang, Lijuan, Chao Jin, Guanghui Yang, Zhitong Bing, Liang Huang, Yuzhen Niu, and Lei Yang.    
+  [Physical Chemistry Chemical Physics 25.3 (2023)](https://doi.org/10.1039/D2CP05332B) 
+
 * **Sequence-based drug design as a concept in computational drug design**   [2023]   
  Chen, L., Fan, Z., Chang, J. et al.    
   [Nat Commun 14, 4217 (2023)]( https://doi.org/10.1038/s41467-023-39856-w)  |  [code](https://github.com/lifanchen-simm/transformerCPI2.0/) 
