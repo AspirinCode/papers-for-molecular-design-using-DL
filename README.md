@@ -307,6 +307,10 @@ Thomas, Morgan, Noel M. O'Boyle, Andreas Bender, and Chris De Graaf.
 
 ### RNN-based
 
+* **Utilizing Reinforcement Learning for de novo Drug Design**  [2023]   
+ Svensson, Hampus Gummesson, Christian Tyrchan, Ola Engkvist, and Morteza Haghir Chehreghani.   
+  [arXiv:2303.17615 (2023)](https://arxiv.org/abs/2303.17615) |  [code](https://github.com/MolecularAI/SMILES-RL) 
+
 * **De novo drug design based on Stack-RNN with multi-objective reward-weighted sum and reinforcement learning** [2023]   
 Hu, P., Zou, J., Yu, J. et al.   
 [ J Mol Model 29, 121 (2023)](https://doi.org/10.1007/s00894-023-05523-6) |  [code](https://github.com/PengWeiHu1/mul_RL) 
@@ -880,6 +884,11 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 ### RL-based
+
+
+* **Utilizing Reinforcement Learning for de novo Drug Design**  [2023]   
+ Svensson, Hampus Gummesson, Christian Tyrchan, Ola Engkvist, and Morteza Haghir Chehreghani.   
+  [arXiv:2303.17615 (2023)](https://arxiv.org/abs/2303.17615) |  [code](https://github.com/MolecularAI/SMILES-RL) 
 
 * **De novo drug design by iterative multiobjective deep reinforcement learning with graph-based molecular quality assessment **  [2023]   
  Fang, Yi, Xiaoyong Pan, and Hong-Bin Shen.   
