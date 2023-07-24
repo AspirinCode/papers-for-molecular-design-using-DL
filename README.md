@@ -881,6 +881,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 ### RL-based
 
+* **De novo drug design by iterative multiobjective deep reinforcement learning with graph-based molecular quality assessment **  [2023]   
+ Fang, Yi, Xiaoyong Pan, and Hong-Bin Shen.   
+  [Bioinformatics 39.4 (2023)](https://doi.org/10.1093/bioinformatics/btad157) |  [code](https://github.com/yifang000/QADD) 
 
 * **Generative Organic Electronic Molecular Design via Reinforcement Learning Integration with Quantum Chemistry: Tuning Singlet and Triplet Energy Energy Levels**  [2023]   
  Cheng-Han Li ,Daniel P. Tabor   
