@@ -723,6 +723,10 @@ Santos, B. P., Abbasi, M., Pereira, T., Ribeiro, B., & Arrais, J.
 Lee, Y.J., Kahng, H. and Kim, S.B.,  
 [Molecular Informatics 40.10 (2021)](https://doi.org/10.1002/minf.202100045) |  [code](https://github.com/dudwojae/SMILES-MaskGAN) 
 
+* **De-novo generation of novel phenotypically active molecules for Chagas disease from biological signatures using AI-driven generative chemistry** [2021]   
+Pikusa, Michal, Olivier René, Sarah Williams, Yen-Liang Chen, Eric Martin, William J. Godinez, Srinivasa PS Rao, W. Armand Guiguemde, and Florian Nigsch.   
+[bioRxiv (2021)](https://www.biorxiv.org/content/10.1101/2021.12.10.472084v1) |  [code](https://github.com/Novartis/pqsar2cpd) 
+
 * **Mol-CycleGAN: a generative model for molecular optimization** [2020]  
 Maziarka, Łukasz, Agnieszka Pocha, Jan Kaczmarczyk, Krzysztof Rataj, Tomasz Danel, and Michał Warchoł  
 [J Cheminform 12, 2 (2020)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0404-1) |  [code](https://github.com/ardigen/mol-cycle-gan) 
