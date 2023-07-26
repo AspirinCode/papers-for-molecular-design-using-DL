@@ -401,6 +401,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+* **De novo drug design based on patient gene expression profiles via deep learning**  [2023]   
+ Yamanaka, Chikashige, Shunya Uki, Kazuma Kaitoh, Michio Iwata, and Yoshihiro Yamanishi.   
+  [Molecular Informatics (2023)](https://doi.org/10.1002/minf.202300064) |  [code](https://www.dropbox.com/s/vg3nxcio799h4ex/software.zip?dl=0) 
 
 * **Transformer-based deep learning method for optimizing ADMET properties of lead compounds** [2023]   
  Yang, Lijuan, Chao Jin, Guanghui Yang, Zhitong Bing, Liang Huang, Yuzhen Niu, and Lei Yang.    
@@ -541,6 +544,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 ### VAE-based
+
+* **De novo drug design based on patient gene expression profiles via deep learning**  [2023]   
+ Yamanaka, Chikashige, Shunya Uki, Kazuma Kaitoh, Michio Iwata, and Yoshihiro Yamanishi.   
+  [Molecular Informatics (2023)](https://doi.org/10.1002/minf.202300064) |  [code](https://www.dropbox.com/s/vg3nxcio799h4ex/software.zip?dl=0) 
 
 * **Construction of order-independent molecular fragments space with vector quantised graph autoencoder**  [2023]   
  Akhmetshin, Timur and Lin, Albert and Madzhidov, Timur and Varnek, Alexandre   
@@ -1645,7 +1652,13 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
   Parrot, Maud, Hamza Tajmouati, Vinicius Barros Ribeiro da Silva, Brian Atwood, Robin Fourcade, Yann Gaston-Mathé, Nicolas Do Huu, and Quentin Perron.   
   [chemrxiv-2021-jkhzw-v2](https://doi.org/10.26434/chemrxiv-2021-jkhzw-v2) |  [code](https://github.com/iktos/generation-under-synthetic-constraint) 
 
+
+
 ## Omics-based deep molecular generative models
+
+* **De novo drug design based on patient gene expression profiles via deep learning**  [2023]   
+ Yamanaka, Chikashige, Shunya Uki, Kazuma Kaitoh, Michio Iwata, and Yoshihiro Yamanishi.   
+  [Molecular Informatics (2023)](https://doi.org/10.1002/minf.202300064) |  [code](https://www.dropbox.com/s/vg3nxcio799h4ex/software.zip?dl=0) 
 
 * **De Novo Design of Molecules with Multiaction Potential from Differential Gene Expression using Variational Autoencoder** [2023]   
  Pravalphruekul, Nutaya, Maytus Piriyajitakonkij, Phond Phunchongharn, and Supanida Piyayotai.   
