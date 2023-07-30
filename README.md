@@ -401,6 +401,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+* **Macrocyclization of linear molecules by deep learning to facilitate macrocyclic drug candidates discovery**  [2023]   
+ Diao, Y., Liu, D., Ge, H. et al.   
+  [Nat Commun 14, 4552 (2023)](https://doi.org/10.1038/s41467-023-40219-8) |  [code](https://github.com/yydiao1025/Macformer) 
+
 * **De novo drug design based on patient gene expression profiles via deep learning**  [2023]   
  Yamanaka, Chikashige, Shunya Uki, Kazuma Kaitoh, Michio Iwata, and Yoshihiro Yamanishi.   
   [Molecular Informatics (2023)](https://doi.org/10.1002/minf.202300064) |  [code](https://www.dropbox.com/s/vg3nxcio799h4ex/software.zip?dl=0) 
