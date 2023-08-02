@@ -316,12 +316,36 @@ Thomas, Morgan, Noel M. O'Boyle, Andreas Bender, and Chris De Graaf.
 
 
 
+
+
+
+
+### Energy-based Molecular Conformation Generation
+
+
+
+
+
+* **Energy-inspired molecular conformation optimization** [2022]   
+Guan, Jiaqi, Wesley Wei Qian, Wei-Ying Ma, Jianzhu Ma, and Jian Peng.   
+[International Conference on Learning Representations. (2022)](https://openreview.net/forum?id=7QfLW-XZTl) |  [code](https://github.com/guanjq/confopt_officialf) 
+
+
+
+
+
 ### Diffusion-based Molecular Conformation Generation
+
+
 
 
 * **GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation** [2022]   
 Xu, Minkai, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, and Jian Tang.   
 [International Conference on Learning Representations. (2022)](https://openreview.net/forum?id=PzcvxEMzvQC) |  [code](https://github.com/MinkaiXu/GeoDiff) 
+
+
+
+
 
 
 
