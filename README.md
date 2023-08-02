@@ -32,6 +32,10 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 |  |  | [QEPPI](#qeppi) | [RAscore](#rascore) |
 |  |  |  | [Evaluation metrics](#evaluation-metrics) |
 
+
+  - [Generative AI for Molecular Conformation](#generative-ai-for-molecular-conformation)
+
+
   - [Deep Learning-based design](#deep-learning-based-design)
 
 | Menu | Menu | Menu | Menu |
@@ -299,6 +303,27 @@ Thomas, Morgan, Noel M. O'Boyle, Andreas Bender, and Chris De Graaf.
 * **Perplexity-Based Molecule Ranking and Bias Estimation of Chemical Language Models** [2022]  
   Moret, M., Grisoni, F., Katzberger, P. and Schneider, G.  
 [J. Chem. Inf. Model. 2022, 62, 5, 1199–1206](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00079) |  [code](https://github.com/ETHmodlab/CLM_perplexity) 
+
+
+
+
+
+## Generative AI for Molecular Conformation
+
+
+
+
+
+
+
+### Diffusion-based
+
+
+* **GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation** [2022]   
+Xu, Minkai, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, and Jian Tang.   
+[International Conference on Learning Representations. (2022)](https://openreview.net/forum?id=PzcvxEMzvQC) |  [code](https://github.com/MinkaiXu/GeoDiff) 
+
+
 
 
 
