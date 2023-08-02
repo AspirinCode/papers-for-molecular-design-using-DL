@@ -326,6 +326,22 @@ Thomas, Morgan, Noel M. O'Boyle, Andreas Bender, and Chris De Graaf.
 
 
 
+### VAE-based Molecular Conformation Generation
+
+
+
+
+
+* **An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming** [2021]   
+Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bombarelli, and Jian Tang.   
+[International Conference on Machine Learning. PMLR (2021)](http://proceedings.mlr.press/v139/xu21f.html) |  [code](https://github.com/MinkaiXu/ConfVAE-ICML21) 
+
+
+
+
+
+
+
 * **Energy-inspired molecular conformation optimization** [2022]   
 Guan, Jiaqi, Wesley Wei Qian, Wei-Ying Ma, Jianzhu Ma, and Jian Peng.   
 [International Conference on Learning Representations. (2022)](https://openreview.net/forum?id=7QfLW-XZTl) |  [code](https://github.com/guanjq/confopt_officialf) 
