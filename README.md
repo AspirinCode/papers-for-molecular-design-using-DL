@@ -316,7 +316,7 @@ Thomas, Morgan, Noel M. O'Boyle, Andreas Bender, and Chris De Graaf.
 
 
 
-### Diffusion-based
+### Diffusion-based Molecular Conformation Generation
 
 
 * **GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation** [2022]   
