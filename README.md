@@ -316,18 +316,7 @@ Thomas, Morgan, Noel M. O'Boyle, Andreas Bender, and Chris De Graaf.
 
 
 
-
-
-
-
-### Energy-based Molecular Conformation Generation
-
-
-
-
-
 ### VAE-based Molecular Conformation Generation
-
 
 
 
@@ -336,6 +325,13 @@ Thomas, Morgan, Noel M. O'Boyle, Andreas Bender, and Chris De Graaf.
 Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bombarelli, and Jian Tang.   
 [International Conference on Machine Learning. PMLR (2021)](http://proceedings.mlr.press/v139/xu21f.html) |  [code](https://github.com/MinkaiXu/ConfVAE-ICML21) 
 
+
+
+
+
+
+
+### Energy-based Molecular Conformation Generation
 
 
 
