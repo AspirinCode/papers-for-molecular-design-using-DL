@@ -1,8 +1,8 @@
 
-# List of molecular design using Generative AI and Deep Learning 
+# List of molecular design (molecular conformation generation) using Generative AI and Deep Learning 
 ![contributing-image](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
-related to  **Generative AI** and **Deep Learning** for  **molecular/drug design**. 
+related to  **Generative AI** and **Deep Learning** for  **molecular/drug design** and **molecular conformation generation**. 
 
 ![Molecular GenerativeAI](https://github.com/AspirinCode/papers-for-molecular-design-using-DL/blob/main/figures/DMGsinchemsci.png)[Ref: Generative Models as an Emerging Paradigm in the Chemical Sciences]
 
