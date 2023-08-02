@@ -361,6 +361,18 @@ Xu, Minkai, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, and Jian Tang.
 
 
 
+### RL-based Molecular Conformation Generation
+
+
+
+
+* **Conformer-RL: A deep reinforcement learning library for conformer generation** [2022]   
+Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Paul M. Zimmerman.   
+[Journal of Computational Chemistry 43.27 (2022)](https://doi.org/10.1002/jcc.26984) |  [code](https://github.com/ZimmermanGroup/conformer-rl) 
+
+
+
+
 
 
 
