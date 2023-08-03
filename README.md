@@ -35,6 +35,15 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 
   - [Generative AI for Molecular Conformation](#generative-ai-for-molecular-conformation)
 
+| Menu | 
+| ------ | 
+| [VAE-based Molecular Conformation Generation](#vae-based-molecular-conformation-generation) | 
+|  [Energy-based Molecular Conformation Generation](#energy-based-molecular-conformation-generation) | 
+|  [Diffusion-based Molecular Conformation Generation](#diffusion-based-molecular-conformation-generation) | 
+|  [RL-based Molecular Conformation Generation](#rl-based-molecular-conformation-generation) | 
+
+
+
 
   - [Deep Learning-based design](#deep-learning-based-design)
 
