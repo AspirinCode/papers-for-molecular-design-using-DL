@@ -485,6 +485,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+* **FSM-DDTR: End-to-end feedback strategy for multi-objective De Novo drug design using transformers**  [2023]   
+ Monteiro, Nelson RC, Tiago O. Pereira, Ana Catarina D. Machado, José L. Oliveira, Maryam Abbasi, and Joel P. Arrais.   
+  [Computers in Biology and Medicine (2023)](https://doi.org/10.1016/j.compbiomed.2023.107285) |  [code](https://github.com/larngroup/FSM-DDTR) 
+
 * **Macrocyclization of linear molecules by deep learning to facilitate macrocyclic drug candidates discovery**  [2023]   
  Diao, Y., Liu, D., Ge, H. et al.   
   [Nat Commun 14, 4552 (2023)](https://doi.org/10.1038/s41467-023-40219-8) |  [code](https://github.com/yydiao1025/Macformer) 
@@ -1769,7 +1773,16 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
   [Nat Commun 11, 10 (2020)](https://doi.org/10.1038/s41467-019-13807-w) 
 
 
+
+
+
 ## Multi-Objective deep molecular generative models
+
+
+
+* **FSM-DDTR: End-to-end feedback strategy for multi-objective De Novo drug design using transformers**  [2023]   
+ Monteiro, Nelson RC, Tiago O. Pereira, Ana Catarina D. Machado, José L. Oliveira, Maryam Abbasi, and Joel P. Arrais.   
+  [Computers in Biology and Medicine (2023)](https://doi.org/10.1016/j.compbiomed.2023.107285) |  [code](https://github.com/larngroup/FSM-DDTR) 
 
 * **MolSearch: Search-based Multi-objective Molecular Generation and Property Optimization** [2022]   
   Sun, Mengying, Jing Xing, Han Meng, Huijun Wang, Bin Chen, and Jiayu Zhou.   
@@ -1792,6 +1805,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
   [J Cheminform 10, 33 (2018)](https://doi.org/10.1186/s13321-018-0287-6) |  [code](https://github.com/kevinid/molecule_generator) 
 
 
+
+
+
 ## Quantum deep molecular generative models
 
 * **Quantum computing for near-term applications in generative chemistry and drug discovery** [2023]   
@@ -1807,10 +1823,17 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
   [IEEE Transactions on Quantum Engineering (2021)](https://ieeexplore.ieee.org/document/9520764) |  [code](https://github.com/jundeli/quantum-gan) 
 
 
+
+
+
 ## Spectra-based
 
 
+
 ### Mass Spectra-based
+
+
+
 
 
 * **MIST-CF: Chemical formula inference from tandem mass spectra** [2023]   
@@ -1827,12 +1850,16 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+
+
 ### NMR Spectra-based
 
 
 * **NMR-TS: de novo molecule identification from NMR spectra**  [2020]   
  Zhang, Jinzhe, Kei Terayama, Masato Sumita, Kazuki Yoshizoe, Kengo Ito, Jun Kikuchi, and Koji Tsuda   
   [Science and technology of advanced materials 21.1 (2020)](https://doi.org/10.1080/14686996.2020.1793382) |  [code](https://github.com/tsudalab/NMR-TS) 
+
+
 
 
 
