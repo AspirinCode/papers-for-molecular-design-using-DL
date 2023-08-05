@@ -358,6 +358,11 @@ Guan, Jiaqi, Wesley Wei Qian, Wei-Ying Ma, Jianzhu Ma, and Jian Peng.
 
 
 
+
+* **EC-Conf: An Ultra-fast Diffusion Model for Molecular Conformation Generation with Equivariant Consistency** [2023]   
+Fan, Zhiguang, Yuedong Yang, Mingyuan Xu, and Hongming Chen.   
+[arXiv:2308.00237 (2023)](https://arxiv.org/abs/2308.00237) 
+
 * **Torsional diffusion for molecular conformer generation** [2022]   
 Jing, Bowen, Gabriele Corso, Jeffrey Chang, Regina Barzilay, and Tommi Jaakkola.   
 [NeurIPS. (2022)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/994545b2308bbbbc97e3e687ea9e464f-Abstract-Conference.html) |  [code](https://github.com/gcorso/torsional-diffusionf) 
