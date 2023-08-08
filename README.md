@@ -396,6 +396,10 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 ### RNN-based
 
+* **ChemTSv2: Functional molecular design using de novo molecule generator** [2023]   
+Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa, Kazuki Yoshizoe, Koji Tsuda, and Kei Terayama.   
+[Wiley Interdisciplinary Reviews: Computational Molecular Science (2023)](https://doi.org/10.1002/wcms.1680) |  [code](https://github.com/molecule-generator-collection/ChemTSv2) 
+
 * **Utilizing Reinforcement Learning for de novo Drug Design**  [2023]   
  Svensson, Hampus Gummesson, Christian Tyrchan, Ola Engkvist, and Morteza Haghir Chehreghani.   
   [arXiv:2303.17615 (2023)](https://arxiv.org/abs/2303.17615) |  [code](https://github.com/MolecularAI/SMILES-RL) 
@@ -1150,6 +1154,9 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+* **ChemTSv2: Functional molecular design using de novo molecule generator** [2023]   
+Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa, Kazuki Yoshizoe, Koji Tsuda, and Kei Terayama.   
+[Wiley Interdisciplinary Reviews: Computational Molecular Science (2023)](https://doi.org/10.1002/wcms.1680) |  [code](https://github.com/molecule-generator-collection/ChemTSv2) 
 
 * **VGAE-MCTS: a New Molecular Generative Model combining Variational Graph Auto-Encoder and Monte Carlo Tree Search** [2023]  
  Iwata, Hiroaki, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, Ryosuke Kojima, and Yasushi Okuno.   
