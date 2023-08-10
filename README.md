@@ -644,7 +644,16 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
 ### VAE-based
+
+
+
+
+* **De Novo Design of κ-Opioid Receptor Antagonists Using a Generative Deep-Learning Framework**  [2023]   
+ Salas-Estrada, Leslie, Davide Provasi, Xing Qiu, H. Umit Kaniskan, Xi-Ping Huang, Jeffrey DiBerto, Joao Marcelo Lamim Ribeiro, Jian Jin, Bryan L. Roth, and Marta Filizola.   
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00651) |  [code](https://github.com/insilicomedicine/GENTRL) 
 
 * **De novo drug design based on patient gene expression profiles via deep learning**  [2023]   
  Yamanaka, Chikashige, Shunya Uki, Kazuma Kaitoh, Michio Iwata, and Yoshihiro Yamanishi.   
@@ -997,6 +1006,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 ### RL-based
 
+
+* **De Novo Design of κ-Opioid Receptor Antagonists Using a Generative Deep-Learning Framework**  [2023]   
+ Salas-Estrada, Leslie, Davide Provasi, Xing Qiu, H. Umit Kaniskan, Xi-Ping Huang, Jeffrey DiBerto, Joao Marcelo Lamim Ribeiro, Jian Jin, Bryan L. Roth, and Marta Filizola.   
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00651) |  [code](https://github.com/insilicomedicine/GENTRL) 
 
 * **Utilizing Reinforcement Learning for de novo Drug Design**  [2023]   
  Svensson, Hampus Gummesson, Christian Tyrchan, Ola Engkvist, and Morteza Haghir Chehreghani.   
