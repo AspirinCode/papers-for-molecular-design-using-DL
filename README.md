@@ -649,7 +649,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ### VAE-based
 
 
-
+* **Target-aware Variational Auto-encoders for Ligand Generation with Multimodal Protein Representation Learning**  [2023]   
+ Nhat Khang Ngo, Truong Son Hy.   
+  [bioRxiv. (2023)](https://doi.org/10.1101/2023.08.10.552868) |  [code](https://github.com/HySonLab/Ligand_Generation) 
 
 * **De Novo Design of κ-Opioid Receptor Antagonists Using a Generative Deep-Learning Framework**  [2023]   
  Salas-Estrada, Leslie, Davide Provasi, Xing Qiu, H. Umit Kaniskan, Xi-Ping Huang, Jeffrey DiBerto, Joao Marcelo Lamim Ribeiro, Jian Jin, Bryan L. Roth, and Marta Filizola.   
@@ -1402,7 +1404,17 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+
+
 ## Structure-based deep molecular generative models
+
+
+
+* **Target-aware Variational Auto-encoders for Ligand Generation with Multimodal Protein Representation Learning**  [2023]   
+ Nhat Khang Ngo, Truong Son Hy.   
+  [bioRxiv. (2023)](https://doi.org/10.1101/2023.08.10.552868) |  [code](https://github.com/HySonLab/Ligand_Generation) 
 
 * **Sequence-based drug design as a concept in computational drug design**   [2023]   
  Chen, L., Fan, Z., Chang, J. et al.    
