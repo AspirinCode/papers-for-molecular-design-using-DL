@@ -1008,6 +1008,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 ### RL-based
 
+* **3D Based Generative PROTAC Linker Design with Reinforcement Learning**  [2023]   
+ baiqing li, and Hongming Chen.   
+  [chemrxiv-2023-j740w (2023)](https://doi.org/10.26434/chemrxiv-2023-j740w) |  [code](https://github.com/jidushanbojue/Protac-invent) 
 
 * **De Novo Design of κ-Opioid Receptor Antagonists Using a Generative Deep-Learning Framework**  [2023]   
  Salas-Estrada, Leslie, Davide Provasi, Xing Qiu, H. Umit Kaniskan, Xi-Ping Huang, Jeffrey DiBerto, Joao Marcelo Lamim Ribeiro, Jian Jin, Bryan L. Roth, and Marta Filizola.   
@@ -1705,6 +1708,12 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 ### Linkers-based DMGs
 
+
+
+
+* **3D Based Generative PROTAC Linker Design with Reinforcement Learning**  [2023]   
+ baiqing li, and Hongming Chen.   
+  [chemrxiv-2023-j740w (2023)](https://doi.org/10.26434/chemrxiv-2023-j740w) |  [code](https://github.com/jidushanbojue/Protac-invent) 
 
 * **Reinforcement Learning-Driven Linker Design via Fast Attention-based Point Cloud Alignment** [2023]   
  Neeser, Rebecca M., Mehmet Akdel, Daniel Kovtun, and Luca Naef.   
