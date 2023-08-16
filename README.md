@@ -394,6 +394,8 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 ## Deep Learning-based design
 
 
+
+
 ### RNN-based
 
 * **ChemTSv2: Functional molecular design using de novo molecule generator** [2023]   
@@ -423,6 +425,10 @@ Thomas, M., O’Boyle, N.M., Bender, A. et al.
 * **De novo molecule design with chemical language models** [2022]  
 Grisoni, F., Schneider, G.  
 [Artificial Intelligence in Drug Design. Methods in Molecular Biology, vol 2390.(2022)](https://doi.org/10.1007/978-1-0716-1787-8_9) |  [code](https://github.com/grisoniFr/de_novo_design_RNN) 
+
+* **Correlated RNN Framework to Quickly Generate Molecules with Desired Properties for Energetic Materials in the Low Data Regime** [2022]  
+Li, Chuan, Chenghui Wang, Ming Sun, Yan Zeng, Yuan Yuan, Qiaolin Gou, Guangchuan Wang, Yanzhi Guo, and Xuemei Pu.   
+[J. Chem. Inf. Model. (2022)](https://doi.org/10.1021/acs.jcim.2c00997) |  [code](https://github.com/wangchenghuidream/RNNMGM) 
 
 * **Optimizing Recurrent Neural Network Architectures for De Novo Drug Design** [2021]  
 Santos, B. P., Abbasi, M., Pereira, T., Ribeiro, B., & Arrais, J. P.  
