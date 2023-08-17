@@ -939,7 +939,15 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+
 ### Diffusion-based
+
+
+* **DiffHopp: A Graph Diffusion Model for Novel Drug Design via Scaffold Hopping** [2023]   
+ Torge, Jos, Charles Harris, Simon V. Mathis, and Pietro Lió.    
+  [ICML(2023)](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper69.pdf) |  [code](https://github.com/jostorge/diffusion-hopping) 
 
 * **Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D** [2023]   
  Qiang, Bo, Yuxuan Song, Minkai Xu, Jingjing Gong, Bowen Gao, Hao Zhou, Wei-Ying Ma, and Yanyan Lan.    
@@ -1568,11 +1576,22 @@ Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correi
 
 
 
+
+
+
+
 ## Fragment-based deep molecular generative models
+
+
+
 
 
 ### Scaffold-based DMGs
 
+
+* **DiffHopp: A Graph Diffusion Model for Novel Drug Design via Scaffold Hopping** [2023]   
+ Torge, Jos, Charles Harris, Simon V. Mathis, and Pietro Lió.    
+  [ICML (2023)](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper69.pdf) |  [code](https://github.com/jostorge/diffusion-hopping) 
 
 * **DrugEx v3: scaffold-constrained drug design with graph transformer-based reinforcement learning** [2023]  
   Liu, X., Ye, K., van Vlijmen, H.W.T. et al.    
