@@ -923,6 +923,10 @@ Gnaneshwar, Dwaraknath, et al.
 
 
 
+* **Molecular design with automated quantum computing-based deep learning and optimization**   [2023]   
+Ajagekar, Akshay, and Fengqi You.   
+[npj Comput Mater 9, 143 (2023)](https://doi.org/10.1038/s41524-023-01099-0) |  [code](https://github.com/PEESEgroup/qc-camd) 
+
 * **Molecule Design by Latent Space Energy-Based Modeling and Gradual Distribution Shifting**   [2023]   
 Deqian Kong, Bo Pang, Tian Han, Ying Nian Wu   
 [arXiv:2306.14902v1](https://arxiv.org/abs/2306.14902) |  [code](https://github.com/deqiankong/SGDS) 
