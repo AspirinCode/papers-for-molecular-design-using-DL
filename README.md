@@ -654,6 +654,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ### VAE-based
 
+* **Deep Generative Design of Porous Organic Cages via a Variational Autoencoder**  [2023]   
+ Jiajun Zhou, Austin Mroz, Kim Jelfs*.   
+  [chemrxiv (2023)](https://doi.org/10.26434/chemrxiv-2023-ggnz0) |  [code](https://github.com/JiajunZhou96/Cage-VAE) 
 
 * **Target-aware Variational Auto-encoders for Ligand Generation with Multimodal Protein Representation Learning**  [2023]   
  Nhat Khang Ngo, Truong Son Hy.   
