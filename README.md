@@ -654,6 +654,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ### VAE-based
 
+* **ScaffoldGVAE: Scaffold Generation and Hopping of Drug Molecules via a Variational Autoencoder Based on Multi-View Graph Neural Networks**  [2023]   
+ Hu, Chao, Song Li, Chenxing Yang, Jun Chen, Yi Xiong, Guisheng Fan, Hao Liu, and Liang Hong.   
+  [Research Square. (2023)](https://www.researchsquare.com/article/rs-3254116/v1) |  [code](https://github.com/ecust-hc/ScaffoldGVAE) 
+
 * **Deep Generative Design of Porous Organic Cages via a Variational Autoencoder**  [2023]   
  Jiajun Zhou, Austin Mroz, Kim Jelfs*.   
   [chemrxiv (2023)](https://doi.org/10.26434/chemrxiv-2023-ggnz0) |  [code](https://github.com/JiajunZhou96/Cage-VAE) 
@@ -1595,6 +1599,9 @@ Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correi
 
 ### Scaffold-based DMGs
 
+* **ScaffoldGVAE: Scaffold Generation and Hopping of Drug Molecules via a Variational Autoencoder Based on Multi-View Graph Neural Networks**  [2023]   
+ Hu, Chao, Song Li, Chenxing Yang, Jun Chen, Yi Xiong, Guisheng Fan, Hao Liu, and Liang Hong.   
+  [Research Square. (2023)](https://www.researchsquare.com/article/rs-3254116/v1) |  [code](https://github.com/ecust-hc/ScaffoldGVAE) 
 
 * **DiffHopp: A Graph Diffusion Model for Novel Drug Design via Scaffold Hopping** [2023]   
  Torge, Jos, Charles Harris, Simon V. Mathis, and Pietro Lió.    
