@@ -482,7 +482,11 @@ Santana, M.V.S., Silva-Jr, F.P.
   [Mol Inform. 2018](https://onlinelibrary.wiley.com/doi/10.1002/minf.201700111) |  [code](https://github.com/SilviaAmAm/MolBot) 
 
 
+
+
 ### Autoregressive-models
+
+
 
 * **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization** [2023]   
 Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
@@ -498,7 +502,16 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
 ###  Transformer-based
+
+
+
+
+* **Lingo3DMol: Generation of a Pocket-based 3D Molecule using a Language Model**  [2023]   
+ Wang, Lvwei, Zaiyun Lin, Yanhao Zhu, Rong Bai, Wei Feng, Huting Wang, Jielong Zhou, Wei Peng, Bo Huang, and Wenbiao Zhou.   
+  [arXiv:2305.10133 (2023)](https://arxiv.org/abs/2305.10133) |  [code](https://github.com/stonewiseAIDrugDesign/Lingo3DMol) 
 
 * **FSM-DDTR: End-to-end feedback strategy for multi-objective De Novo drug design using transformers**  [2023]   
  Monteiro, Nelson RC, Tiago O. Pereira, Ana Catarina D. Machado, José L. Oliveira, Maryam Abbasi, and Joel P. Arrais.   
@@ -1439,6 +1452,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+
+* **Lingo3DMol: Generation of a Pocket-based 3D Molecule using a Language Model**  [2023]   
+ Wang, Lvwei, Zaiyun Lin, Yanhao Zhu, Rong Bai, Wei Feng, Huting Wang, Jielong Zhou, Wei Peng, Bo Huang, and Wenbiao Zhou.   
+  [arXiv:2305.10133 (2023)](https://arxiv.org/abs/2305.10133) |  [code](https://github.com/stonewiseAIDrugDesign/Lingo3DMol) 
 
 * **Target-aware Variational Auto-encoders for Ligand Generation with Multimodal Protein Representation Learning**  [2023]   
  Nhat Khang Ngo, Truong Son Hy.   
