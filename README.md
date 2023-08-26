@@ -826,7 +826,15 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+
+
+
 ### GAN-based
+
+
+
 
 * **Mol-Zero-GAN: Zero-Shot Adaptation of Molecular Generative Adversarial Network for Specific Protein Targets** [2023]   
 Ravipas Aphikulvanich*， Natapol Pornputtapong， Duangdao Wichadakul   
@@ -886,6 +894,9 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
+
+
+
 ### Flow-based
 
 * **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization** [2023]   
@@ -927,6 +938,8 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 ### Score-Based
 
 
+
+
 * **Exploring Chemical Space with Score-based Out-of-distribution Generation** [2023]   
  Lee, Seul, Jaehyeong Jo, and Sung Ju Hwang.    
   [arXiv:2206.07632v3](https://arxiv.org/abs/2206.07632) | [code](https://github.com/SeulLee05/MOOD) 
@@ -939,7 +952,13 @@ Gnaneshwar, Dwaraknath, et al.
 
 
 
+
+
+
 ### Energy-based
+
+
+
 
 
 
@@ -968,6 +987,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+* **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation ** [2023]   
+ Peng, Xingang, Jiaqi Guan, Qiang Liu, and Jianzhu Ma.    
+  [ICML  (2023)](https://proceedings.mlr.press/v202/peng23b.html) |  [code](https://github.com/pengxingang/MolDiff) 
 
 * **DiffHopp: A Graph Diffusion Model for Novel Drug Design via Scaffold Hopping** [2023]   
  Torge, Jos, Charles Harris, Simon V. Mathis, and Pietro Lió.    
