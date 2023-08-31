@@ -246,7 +246,13 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 
 
+
+
+
 ### Scaffold-based Molecular Optimization
+
+
+
 
 
 * **Differentiable Scaffolding Tree for Molecule Optimization** [2022]  
@@ -255,7 +261,14 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 
 
+
+
+
 ### Fragment-based Molecular Optimization
+
+
+
+
 
 * **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization** [2023]   
 Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
@@ -274,7 +287,19 @@ Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung J
   [Paper](https://openreview.net/forum?id=E_Slr0JVvuC) 
 
 
+
+
+
+
+
 ## Multi-Objective Molecular Optimization
+
+
+
+
+* **Multi-Objective and Many-Objective Optimisation: Present and Future in de novo Drug Design**  [2023]   
+ Angelo, Jaqueline S., Isabella Alvim Guedes, Helio JC Barbosa, and Laurent E. Dardenne.   
+  [chemrxiv-2023-q0zdf-v2 (2023)](https://doi.org/10.26434/chemrxiv-2023-q0zdf-v2) 
 
 * **Human-in-the-loop assisted de novo molecular design** [2022]   
   Sundin, Iiris, Alexey Voronov, Haoping Xiao, Kostas Papadopoulos, Esben Jannik Bjerrum, Markus Heinonen, Atanas Patronov, Samuel Kaski, and Ola Engkvist.   
