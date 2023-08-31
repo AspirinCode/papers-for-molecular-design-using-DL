@@ -667,6 +667,11 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ### VAE-based
 
+
+* **Multi-objective Molecular Optimization for Opioid Use Disorder Treatment Using Generative Network Complex**  [2023]   
+ Feng, Hongsong, Rui Wang, Chang-Guo Zhan, and Guo-Wei Wei.   
+  [J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c01053) |  [code](https://weilab.math.msu.edu/DataLibrary/2D/) 
+
 * **ScaffoldGVAE: Scaffold Generation and Hopping of Drug Molecules via a Variational Autoencoder Based on Multi-View Graph Neural Networks**  [2023]   
  Hu, Chao, Song Li, Chenxing Yang, Jun Chen, Yi Xiong, Guisheng Fan, Hao Liu, and Liang Hong.   
   [Research Square. (2023)](https://www.researchsquare.com/article/rs-3254116/v1) |  [code](https://github.com/ecust-hc/ScaffoldGVAE) 
