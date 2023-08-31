@@ -1908,7 +1908,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 ## Multi-Objective deep molecular generative models
 
-
+* **Multi-Objective and Many-Objective Optimisation: Present and Future in de novo Drug Design**  [2023]   
+ Angelo, Jaqueline S., Isabella Alvim Guedes, Helio JC Barbosa, and Laurent E. Dardenne.   
+  [chemrxiv-2023-q0zdf-v2 (2023)](https://doi.org/10.26434/chemrxiv-2023-q0zdf-v2) 
 
 * **FSM-DDTR: End-to-end feedback strategy for multi-objective De Novo drug design using transformers**  [2023]   
  Monteiro, Nelson RC, Tiago O. Pereira, Ana Catarina D. Machado, José L. Oliveira, Maryam Abbasi, and Joel P. Arrais.   
