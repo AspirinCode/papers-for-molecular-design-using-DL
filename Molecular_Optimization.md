@@ -135,8 +135,14 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
 ### VAE-based
 
+
+* **Multi-objective Molecular Optimization for Opioid Use Disorder Treatment Using Generative Network Complex**  [2023]   
+ Feng, Hongsong, Rui Wang, Chang-Guo Zhan, and Guo-Wei Wei.   
+  [J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c01053) |  [code](https://weilab.math.msu.edu/DataLibrary/2D/) 
 
 * **Utilizing deep learning to explore chemical space for drug lead optimization** [2023]  
   Chakraborty, Rajkumar, and Yasha Hasija.  
