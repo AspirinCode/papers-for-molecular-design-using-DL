@@ -997,7 +997,13 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
-* **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation ** [2023]   
+
+
+* **Shape-conditioned 3D Molecule Generation via Equivariant Diffusion Models** [2023]   
+ Chen, Ziqi, Bo Peng, Srinivasan Parthasarathy, and Xia Ning    
+  [arXiv:2308.11890 (2023)](https://arxiv.org/abs/2308.11890) 
+
+* **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation** [2023]   
  Peng, Xingang, Jiaqi Guan, Qiang Liu, and Jianzhu Ma.    
   [ICML  (2023)](https://proceedings.mlr.press/v202/peng23b.html) |  [code](https://github.com/pengxingang/MolDiff) 
 
