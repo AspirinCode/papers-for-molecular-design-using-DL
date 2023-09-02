@@ -299,6 +299,11 @@ https://github.com/AspirinCode/DrugAI_Drug-Likeness
 ### Evaluation metrics
 
 
+
+* **Spacial Score – A Comprehensive Topological Indicator for Small Molecule Complexity** [2023]   
+Krzyzanowski, Adrian, Axel Pahl, Michael Grigalunas, and Herbert Waldmann.   
+[chemrxiv-2023-nd1ll](https://chemrxiv.org/engage/chemrxiv/article-details/64257af562fecd2a83add9c2) |  [code](https://github.com/frog2000/Spacial-Score) 
+
 * **An automated scoring function to facilitate and standardize evaluation of goal-directed generative models for de novo molecular design** [2023]   
 Thomas, Morgan, Noel M. O'Boyle, Andreas Bender, and Chris De Graaf.   
 [chemrxiv-2023-c4867](https://doi.org/10.26434/chemrxiv-2023-c4867) |  [code](https://github.com/MorganCThomas/MolScore) 
