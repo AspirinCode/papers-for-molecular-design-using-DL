@@ -672,6 +672,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ### VAE-based
 
+* **Multi-constraint molecular generation using sparsely labelled training data for localized high-concentration electrolyte diluent screening**  [2023]   
+ Mailoa, Jonathan P., Xin Li, Jiezhong Qiu, and Shengyu Zhang.   
+  [Digital Discovery (2023)](https://doi.org/10.1039/D3DD00064H) |  [code](https://github.com/jpmailoa/ConGen_Dataset) 
 
 * **Multi-objective Molecular Optimization for Opioid Use Disorder Treatment Using Generative Network Complex**  [2023]   
  Feng, Hongsong, Rui Wang, Chang-Guo Zhan, and Guo-Wei Wei.   
