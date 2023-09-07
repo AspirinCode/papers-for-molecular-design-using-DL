@@ -1136,6 +1136,10 @@ Hu, P., Zou, J., Yu, J. et al.
  Mingyuan Xu, HongMing Chen.   
   [chemrxiv-2023-m77vk](https://doi.org/10.26434/chemrxiv-2023-m77vk) |  [code](https://github.com/MingyuanXu/Tree-Invent) 
 
+* **Molecular Graph Generation by Decomposition and Reassembling**  [2023]   
+ Yamada, Masatsugu, and Mahito Sugiyama.   
+  [ACS omega (2023)](https://doi.org/10.1021/acsomega.3c01078) |  [code](https://github.com/Masatsugar/graph-decomposition-reassembling) 
+
 * **De Novo Drug Design by Iterative Multi-Objective Deep Reinforcement Learning with Graph-based Molecular Quality Assessment** [2023]   
  Yi Fang, Xiaoyong Pan, Hong-Bin Shen.    
   [Bioinformatics 39.4 (2023)](https://doi.org/10.1093/bioinformatics/btad157) |  [code](https://github.com/yifang000/QADD) 
