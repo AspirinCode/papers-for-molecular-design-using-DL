@@ -514,7 +514,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
-
+* **Efficient 3D Molecular Design with an E(3) Invariant Transformer VAE**  [2023]   
+ Dollar, Orion, Nisarg Joshi, Jim Pfaendtner, and David AC Beck.   
+  [The Journal of Physical Chemistry A (2023)](https://doi.org/10.1021/acs.jpca.3c04188) |  [code](https://github.com/oriondollar/vagrant_en) 
 
 * **Lingo3DMol: Generation of a Pocket-based 3D Molecule using a Language Model**  [2023]   
  Wang, Lvwei, Zaiyun Lin, Yanhao Zhu, Rong Bai, Wei Feng, Huting Wang, Jielong Zhou, Wei Peng, Bo Huang, and Wenbiao Zhou.   
@@ -672,7 +674,17 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+
+
 ### VAE-based
+
+
+
+* **Efficient 3D Molecular Design with an E(3) Invariant Transformer VAE**  [2023]   
+ Dollar, Orion, Nisarg Joshi, Jim Pfaendtner, and David AC Beck.   
+  [The Journal of Physical Chemistry A (2023)](https://doi.org/10.1021/acs.jpca.3c04188) |  [code](https://github.com/oriondollar/vagrant_en) 
 
 * **Multi-constraint molecular generation using sparsely labelled training data for localized high-concentration electrolyte diluent screening**  [2023]   
  Mailoa, Jonathan P., Xin Li, Jiezhong Qiu, and Shengyu Zhang.   
