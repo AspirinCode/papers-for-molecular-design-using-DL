@@ -460,7 +460,16 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 
 
 
+
+
 ### LSTM-based
+
+
+
+
+* **LOGICS: Learning optimal generative distribution for designing de novo chemical structures** [2023]   
+  Bae, B., Bae, H. & Nam, H.   
+  [J Cheminform 15, 77 (2023)](https://doi.org/10.1186/s13321-023-00747-3) |  [code](https://github.com/GIST-CSBL/LOGICS) 
 
 * **Leveraging molecular structure and bioactivity with chemical language models for de novo drug design** [2023]  
   Kotsias, PC., Arús-Pous, J., Chen, H. *et al.*  
@@ -1099,7 +1108,16 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+
+
 ### RL-based
+
+
+
+* **LOGICS: Learning optimal generative distribution for designing de novo chemical structures** [2023]   
+  Bae, B., Bae, H. & Nam, H.   
+  [J Cheminform 15, 77 (2023)](https://doi.org/10.1186/s13321-023-00747-3) |  [code](https://github.com/GIST-CSBL/LOGICS) 
 
 * **3D Based Generative PROTAC Linker Design with Reinforcement Learning**  [2023]   
  baiqing li, and Hongming Chen.   
