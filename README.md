@@ -491,7 +491,9 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### Autoregressive-models
 
-
+* **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [2023]   
+Zhang, O., Zhang, J., Jin, J. et al.   
+[Nat Mach Intell (2023)](https://doi.org/10.1038/s42256-023-00712-7) |  [code](https://github.com/HaotianZhangAI4Science/ResGen) 
 
 * **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization** [2023]   
 Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
@@ -1497,7 +1499,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
-
+* **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [2023]   
+Zhang, O., Zhang, J., Jin, J. et al.   
+[Nat Mach Intell (2023)](https://doi.org/10.1038/s42256-023-00712-7) |  [code](https://github.com/HaotianZhangAI4Science/ResGen) 
 
 * **Lingo3DMol: Generation of a Pocket-based 3D Molecule using a Language Model**  [2023]   
  Wang, Lvwei, Zaiyun Lin, Yanhao Zhu, Rong Bai, Wei Feng, Huting Wang, Jielong Zhou, Wei Peng, Bo Huang, and Wenbiao Zhou.   
