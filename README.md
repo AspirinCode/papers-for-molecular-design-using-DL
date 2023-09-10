@@ -1510,6 +1510,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
   [Science and technology of advanced materials 18.1 (2017)](https://arxiv.org/abs/1710.00616) |  [arXiv:1710.00616v1](https://arxiv.org/abs/1710.00616) |  [code](https://github.com/tsudalab/ChemTS) 
 
 
+
+
+
+
+
 ## Pharmacophore-based deep molecular generative models
 
 * **PGMG: A Pharmacophore-Guided Deep Learning Approach for Bioactive Molecular Generation** [2022]  
@@ -1527,6 +1532,7 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 ## Structure-based deep molecular generative models
+
 
 
 * **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [2023]   
@@ -1694,6 +1700,9 @@ Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correi
 
 
 
+
+
+
 ### Scaffold-based DMGs
 
 * **ScaffoldGVAE: Scaffold Generation and Hopping of Drug Molecules via a Variational Autoencoder Based on Multi-View Graph Neural Networks**  [2023]   
@@ -1745,6 +1754,10 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
   [Chemical science 11.4 (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/SC/C9SC04503A) |  [code](https://github.com/jaechanglim/GGM) 
 
 
+
+
+
+
 ### Motifs-based DMGs
 
 * **MAGNet: Motif-Agnostic Generation of Molecules from Shapes** [2023]   
@@ -1769,8 +1782,13 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 
 
+
+
 ### Fragment-based DMGs
 
+* **Integrating Reaction Schemes, Reagent Databases, and Virtual Libraries into Fragment-Based Design by Reinforcement Learning**  [2023]   
+ Sauer, Susanne, Hans Matter, Gerhard Hessler, and Christoph Grebner.   
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00735) |  [code](https://github.com/Sanofi-Public/IDD-papers-fragrl) 
 
 * **Construction of order-independent molecular fragments space with vector quantised graph autoencoder**  [2023]   
  Akhmetshin, Timur and Lin, Albert and Madzhidov, Timur and Varnek, Alexandre   
@@ -1886,9 +1904,17 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
 
 
 
+
+
+
+
 ## Chemical Reaction-based deep molecular generative models
 
 
+
+* **Integrating Reaction Schemes, Reagent Databases, and Virtual Libraries into Fragment-Based Design by Reinforcement Learning**  [2023]   
+ Sauer, Susanne, Hans Matter, Gerhard Hessler, and Christoph Grebner.   
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00735) |  [code](https://github.com/Sanofi-Public/IDD-papers-fragrl) 
 
 * **Combining Evolutionary Algorithms with Reaction Rules Towards Focused Molecular Design**  [2023]   
  Correia, João, Vítor Pereira, and Miguel Rocha.   
