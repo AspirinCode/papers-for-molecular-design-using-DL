@@ -687,9 +687,18 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
 ### VAE-based
 
 
+
+
+
+
+* **ReBADD-SE: Multi-objective molecular optimisation using SELFIES fragment and off-policy self-critical sequence training** [2023]   
+  Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
+  [Computers in Biology and Medicine 157 (2023)](https://doi.org/10.1016/j.compbiomed.2023.106721) |  [code](https://github.com/mathcom/ReBADD-SE) 
 
 * **Efficient 3D Molecular Design with an E(3) Invariant Transformer VAE**  [2023]   
  Dollar, Orion, Nisarg Joshi, Jim Pfaendtner, and David AC Beck.   
@@ -1111,9 +1120,16 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+
 ### RL-based
 
 
+
+
+* **ReBADD-SE: Multi-objective molecular optimisation using SELFIES fragment and off-policy self-critical sequence training** [2023]   
+  Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
+  [Computers in Biology and Medicine 157 (2023)](https://doi.org/10.1016/j.compbiomed.2023.106721) |  [code](https://github.com/mathcom/ReBADD-SE) 
 
 * **LOGICS: Learning optimal generative distribution for designing de novo chemical structures** [2023]   
   Bae, B., Bae, H. & Nam, H.   
@@ -1324,6 +1340,9 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
+
+
+
 ### Evolutionary Algorithm-based
 
 
@@ -1339,7 +1358,11 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
+
+
 ## Text-driven molecular generation models
+
+
 
 * **DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins** [2023]   
  Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang,  View ORCID ProfileYungang Xu, Suxia Han    
@@ -1360,7 +1383,10 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
+
 ## Multi-Target based deep molecular generative models
+
+
 
 
 * **De novo generation of dual-target ligands using adversarial training and reinforcement learning** [2021]  
@@ -1372,7 +1398,12 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
   [Future Science OA 7.6 (2021)](https://doi.org/10.2144/fsoa-2021-0033) |  [code](https://github.com/tblaschke/reinvent-multi-target) 
 
 
+
+
+
 ## Ligand-based deep molecular generative models
+
+
 
 
 * **LS-MolGen: Ligand-and-Structure Dual-Driven Deep Reinforcement Learning for Target-Specific Molecular Generation Improves Binding Affinity and Novelty** [2023]  
@@ -1784,7 +1815,21 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 
 
+
+
+
+
 ### Fragment-based DMGs
+
+
+
+* **ReBADD-SE: Multi-objective molecular optimisation using SELFIES fragment and off-policy self-critical sequence training** [2023]   
+  Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
+  [Computers in Biology and Medicine 157 (2023)](https://doi.org/10.1016/j.compbiomed.2023.106721) |  [code](https://github.com/mathcom/ReBADD-SE) 
+
+* **ReBADD-SE: Multi-objective molecular optimisation using SELFIES fragment and off-policy self-critical sequence training** [2023]   
+  Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
+  [Computers in Biology and Medicine 157 (2023)](https://doi.org/10.1016/j.compbiomed.2023.106721) |  [code](https://github.com/mathcom/ReBADD-SE) 
 
 * **Integrating Reaction Schemes, Reagent Databases, and Virtual Libraries into Fragment-Based Design by Reinforcement Learning**  [2023]   
  Sauer, Susanne, Hans Matter, Gerhard Hessler, and Christoph Grebner.   
