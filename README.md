@@ -1125,7 +1125,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
-
+* **Exploration and Exploitation Approaches Based on Generative Machine Learning to Identify Potent Small Molecule Inhibitors of α-Synuclein Secondary Nucleation** [2023]    
+  Horne, Robert I., Mhd Hussein Murtada, Donghui Huo, Z. Faidon Brotzakis, Rebecca C. Gregory, Andrea Possenti, Sean Chia, and Michele Vendruscolo.   
+  [Journal of Chemical Theory and Computation (2023)](https://doi.org/10.1021/acs.jctc.2c01303) |  [code](https://github.com/husseinmur/GraphINVENT-CNS) 
 
 * **ReBADD-SE: Multi-objective molecular optimisation using SELFIES fragment and off-policy self-critical sequence training** [2023]   
   Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
