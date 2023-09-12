@@ -1644,6 +1644,10 @@ Yangyang Chen, Zixu Wang, Lei Wang, Jianmin Wang, Pengyong Li, Dongsheng Cao, Xi
 Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correia, B.   
 [arXiv:2210.13695 (2022)](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD) 
 
+* **Icolos: a workflow manager for structure-based post-processing of de novo generated small molecules**  [2022]   
+ Moore, J. Harry, Matthias R. Bauer, Jeff Guo, Atanas Patronov, Ola Engkvist, and Christian Margreitter.   
+  [Bioinformatics 38.21 (2022)](https://doi.org/10.1093/bioinformatics/btac614) |  [code](https://github.com/MolecularAI/Icolos) 
+
 * **A multilevel generative framework with hierarchical self-contrasting for bias control and transparency in structure-based ligand design** [2022]   
   Chan, Lucian, Rajendra Kumar, Marcel Verdonk, and Carl Poelking.   
   [Nat Mach Intell 4, 1130–1142 (2022)](https://doi.org/10.1038/s42256-022-00564-7) |  [code](https://github.com/capoe/libpqr) 
