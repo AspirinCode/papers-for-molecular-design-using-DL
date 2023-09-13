@@ -1577,6 +1577,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 Zhang, O., Zhang, J., Jin, J. et al.   
 [Nat Mach Intell (2023)](https://doi.org/10.1038/s42256-023-00712-7) |  [code](https://github.com/HaotianZhangAI4Science/ResGen) 
 
+* **Benchmarking Generated Poses: How Rational is Structure-based Drug Design with Generative Models?**  [2023]   
+ Harris, Charles, Kieran Didi, Arian R. Jamasb, Chaitanya K. Joshi, Simon V. Mathis, Pietro Lio, and Tom Blundell.   
+  [arXiv:2308.07413 (2023)](https://arxiv.org/abs/2308.07413) 
+
 * **Lingo3DMol: Generation of a Pocket-based 3D Molecule using a Language Model**  [2023]   
  Wang, Lvwei, Zaiyun Lin, Yanhao Zhu, Rong Bai, Wei Feng, Huting Wang, Jielong Zhou, Wei Peng, Bo Huang, and Wenbiao Zhou.   
   [arXiv:2305.10133 (2023)](https://arxiv.org/abs/2305.10133) |  [code](https://github.com/stonewiseAIDrugDesign/Lingo3DMol) 
