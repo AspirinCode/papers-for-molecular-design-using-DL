@@ -1032,7 +1032,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
-
+* **Guided Diffusion for molecular generation with interaction prompt** [2023]   
+ Wu Song, Peng Wu, Huabin Du, Yingchao Yan, Chen Bai    
+  [bioRxiv  (2023)](https://doi.org/10.1101/2023.09.11.557141) |  [data](https://bits.csb.pitt.edu/files/crossdock2020/) 
 
 * **Shape-conditioned 3D Molecule Generation via Equivariant Diffusion Models** [2023]   
  Chen, Ziqi, Bo Peng, Srinivasan Parthasarathy, and Xia Ning    
