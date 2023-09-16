@@ -50,7 +50,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | ------ | :---------- | ------ | ------ |
 | [RNN-based](#rnn-based) | [LSTM-based](#lstm-based) | [Autoregressive-models](#autoregressive-models) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) |  |
-| [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) |  |
+| [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) | [Active Learning DMGs](#active-learning-dmgs) |
 | [RL-based](#rl-based) | [Multi-task DMGs](#multi-task-dmgs) | [Monte Carlo Tree Search](#monte-carlo-tree-search) | [Genetic Algorithm-based](#genetic-algorithm-based) |
 | [Evolutionary Algorithm-based](#evolutionary-algorithm-based) |  |  |  |
 
@@ -520,8 +520,16 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+
 ###  Transformer-based
 
+
+
+* **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2023]   
+ Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
+  [arXiv:2309.05853 (2023)](https://arxiv.org/abs/2309.05853) |  [code](https://github.com/gregory-kyro/ChemSpaceAL/) 
 
 * **Efficient 3D Molecular Design with an E(3) Invariant Transformer VAE**  [2023]   
  Dollar, Orion, Nisarg Joshi, Jim Pfaendtner, and David AC Beck.   
@@ -1307,6 +1315,15 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+### Active Learning DMGs
+
+* **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2023]   
+ Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
+  [arXiv:2309.05853 (2023)](https://arxiv.org/abs/2309.05853) |  [code](https://github.com/gregory-kyro/ChemSpaceAL/) 
+
+
+
+
 
 ### Monte Carlo Tree Search
 
@@ -1573,7 +1590,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
-
+* **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2023]   
+ Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
+  [arXiv:2309.05853 (2023)](https://arxiv.org/abs/2309.05853) |  [code](https://github.com/gregory-kyro/ChemSpaceAL/) 
 
 * **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [2023]   
 Zhang, O., Zhang, J., Jin, J. et al.   
