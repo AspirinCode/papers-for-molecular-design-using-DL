@@ -1388,7 +1388,9 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 ## Text-driven molecular generation models
 
-
+* **Generating Novel Leads for Drug Discovery using LLMs with Logical Feedback** [2023]   
+ Shreyas Bhat Brahmavar, Ashwin Srinivasan, Tirtharaj Dash, Sowmya R Krishnan, Lovekesh Vig, Arijit Roy, Raviprasad Aduri    
+  [bioRxiv (2023)](https://doi.org/10.1101/2023.09.14.557698) |  [code](https://github.com/Shreyas-Bhat/LMLF) 
 
 * **DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins** [2023]   
  Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang,  View ORCID ProfileYungang Xu, Suxia Han    
