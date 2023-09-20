@@ -467,7 +467,9 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 ### LSTM-based
 
 
-
+* **Deep interactome learning for de novo drug design**  [2023]   
+ Atz K, Cotos Muñoz L, Isert C, Håkansson M, Focht D, Nippa DF, et al.   
+  [chemrxiv-2023-cbq9k (2023)](https://doi.org/10.26434/chemrxiv-2023-cbq9k) 
 
 * **Deep learning driven de novo drug design based on gastric proton pump structures** [2023]   
   Abe, K., Ozako, M., Inukai, M. et al.   
@@ -1601,7 +1603,15 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+
 ## Structure-based deep molecular generative models
+
+
+* **Deep interactome learning for de novo drug design**  [2023]   
+ Atz K, Cotos Muñoz L, Isert C, Håkansson M, Focht D, Nippa DF, et al.   
+  [chemrxiv-2023-cbq9k (2023)](https://doi.org/10.26434/chemrxiv-2023-cbq9k) 
 
 * **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2023]   
  Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
