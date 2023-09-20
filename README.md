@@ -1078,7 +1078,7 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 * **SILVR: Guided Diffusion for Molecule Generation** [2023]   
  Runcie, Nicholas T., and Antonia SJS Mey.    
-  [arXiv:2304.10905v1](https://arxiv.org/abs/2304.10905) |  [code](https://github.com/meyresearch/SILVR) 
+  [J. Chem. Inf. Model. (2023)](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00667) |  [arXiv:2304.10905v1](https://arxiv.org/abs/2304.10905) |  [code](https://github.com/meyresearch/SILVR) 
 
 * **Guided Diffusion for Inverse Molecular Design** [2023]   
  Weiss, Tomer, Luca Cosmo, Eduardo Mayo Yanes, Sabyasachi Chakraborty, Alex M. Bronstein, and Renana Gershoni-Poranne.    
