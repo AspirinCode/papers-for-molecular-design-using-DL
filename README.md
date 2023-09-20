@@ -462,10 +462,16 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 
 
 
+
+
 ### LSTM-based
 
 
 
+
+* **Deep learning driven de novo drug design based on gastric proton pump structures** [2023]   
+  Abe, K., Ozako, M., Inukai, M. et al.   
+  [Commun Biol 6, 956 (2023)](https://doi.org/10.1038/s42003-023-05334-8) |  [code](https://doi.org/10.1038/s42003-023-05334-8) 
 
 * **LOGICS: Learning optimal generative distribution for designing de novo chemical structures** [2023]   
   Bae, B., Bae, H. & Nam, H.   
@@ -1135,6 +1141,11 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+
+
+* **Deep learning driven de novo drug design based on gastric proton pump structures** [2023]   
+  Abe, K., Ozako, M., Inukai, M. et al.   
+  [Commun Biol 6, 956 (2023)](https://doi.org/10.1038/s42003-023-05334-8) |  [code](https://doi.org/10.1038/s42003-023-05334-8) 
 
 * **3D based generative PROTAC linker design with reinforcement learning** [2023]    
   Li, Baiqing, Ting Ran, and Hongming Chen.   
