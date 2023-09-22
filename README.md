@@ -467,6 +467,10 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 ### LSTM-based
 
 
+* **Integrating synthetic accessibility with AI-based generative drug design**  [2023]   
+ Parrot, M., Tajmouati, H., da Silva, V.B.R. et al.   
+  [J Cheminform 15, 83 (2023)](https://doi.org/10.1186/s13321-023-00742-8)  |  [code](https://github.com/iktos/generation-under-synthetic-constraint/) 
+
 * **Deep interactome learning for de novo drug design**  [2023]   
  Atz K, Cotos Muñoz L, Isert C, Håkansson M, Focht D, Nippa DF, et al.   
   [chemrxiv-2023-cbq9k (2023)](https://doi.org/10.26434/chemrxiv-2023-cbq9k) 
@@ -1143,7 +1147,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
-
+* **Integrating synthetic accessibility with AI-based generative drug design**  [2023]   
+ Parrot, M., Tajmouati, H., da Silva, V.B.R. et al.   
+  [J Cheminform 15, 83 (2023)](https://doi.org/10.1186/s13321-023-00742-8)  |  [code](https://github.com/iktos/generation-under-synthetic-constraint/) 
 
 * **Deep learning driven de novo drug design based on gastric proton pump structures** [2023]   
   Abe, K., Ozako, M., Inukai, M. et al.   
