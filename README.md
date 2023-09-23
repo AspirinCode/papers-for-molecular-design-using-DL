@@ -538,6 +538,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+* **A Reverse-Transformer GAN Generates Scaffold-Constrained Molecules with Property Optimization.** [2023]   
+Li, C., Yamanishi, Y.    
+[ECML PKDD (2023)](https://doi.org/10.1007/978-3-031-43412-9_19) |  [code](https://github.com/naruto7283/SpotGAN) 
 
 * **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2023]   
  Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
@@ -899,7 +902,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ### GAN-based
 
 
-
+* **A Reverse-Transformer GAN Generates Scaffold-Constrained Molecules with Property Optimization.** [2023]   
+Li, C., Yamanishi, Y.    
+[ECML PKDD (2023)](https://doi.org/10.1007/978-3-031-43412-9_19) |  [code](https://github.com/naruto7283/SpotGAN) 
 
 * **Mol-Zero-GAN: Zero-Shot Adaptation of Molecular Generative Adversarial Network for Specific Protein Targets** [2023]   
 Ravipas Aphikulvanich*， Natapol Pornputtapong， Duangdao Wichadakul   
