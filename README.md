@@ -362,7 +362,9 @@ Guan, Jiaqi, Wesley Wei Qian, Wei-Ying Ma, Jianzhu Ma, and Jian Peng.
 ### Diffusion-based Molecular Conformation Generation
 
 
-
+* **Molecular Conformation Generation via Shifting Scores** [2023]   
+Zhou, Zihan, Ruiying Liu, Chaolong Ying, Ruimao Zhang, and Tianshu Yu.   
+[arXiv:2309.09985 (2023)](https://arxiv.org/abs/2309.09985) 
 
 * **EC-Conf: An Ultra-fast Diffusion Model for Molecular Conformation Generation with Equivariant Consistency** [2023]   
 Fan, Zhiguang, Yuedong Yang, Mingyuan Xu, and Hongming Chen.   
