@@ -1811,6 +1811,11 @@ Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correi
 
 ### Scaffold-based DMGs
 
+
+* **D-SMGE: a pipeline for scaffold-based molecular generation and evaluation**  [2023]   
+ Chao Xu, Runduo Liu, Shuheng Huang, Wenchao Li, Zhe Li, Hai-Bin Luo.   
+  [Briefings in Bioinformatics. (2023)](https://doi.org/10.1093/bib/bbad327) |  [code](https://github.com/ZheLi-Lab-Collaboration/3D-SMGE) 
+
 * **ScaffoldGVAE: Scaffold Generation and Hopping of Drug Molecules via a Variational Autoencoder Based on Multi-View Graph Neural Networks**  [2023]   
  Hu, Chao, Song Li, Chenxing Yang, Jun Chen, Yi Xiong, Guisheng Fan, Hao Liu, and Liang Hong.   
   [Research Square. (2023)](https://www.researchsquare.com/article/rs-3254116/v1) |  [code](https://github.com/ecust-hc/ScaffoldGVAE) 
