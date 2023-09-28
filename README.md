@@ -1368,9 +1368,14 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
+
 ### Genetic Algorithm-based
 
 
+
+* **GENERA: A Combined Genetic/Deep-Learning Algorithm for Multiobjective Target-Oriented De Novo Design** [2023]   
+  Lamanna, Giuseppe, Pietro Delre, Gilles Marcou, Michele Saviano, Alexandre Varnek, Dragos Horvath, and Giuseppe Felice Mangiatordi.   
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00963) |  [code](https://github.com/GiuseppeLamanna/GENERA) 
 
 * **AlvaBuilder: A Software for De Novo Molecular Design** [2023]   
   Mauri, Andrea, and Matteo Bertola.  
@@ -2100,6 +2105,10 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 ## Multi-Objective deep molecular generative models
+
+* **GENERA: A Combined Genetic/Deep-Learning Algorithm for Multiobjective Target-Oriented De Novo Design** [2023]   
+  Lamanna, Giuseppe, Pietro Delre, Gilles Marcou, Michele Saviano, Alexandre Varnek, Dragos Horvath, and Giuseppe Felice Mangiatordi.   
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00963) |  [code](https://github.com/GiuseppeLamanna/GENERA) 
 
 * **Multi-Objective and Many-Objective Optimisation: Present and Future in de novo Drug Design**  [2023]   
  Angelo, Jaqueline S., Isabella Alvim Guedes, Helio JC Barbosa, and Laurent E. Dardenne.   
