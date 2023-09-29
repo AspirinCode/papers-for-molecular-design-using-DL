@@ -540,6 +540,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+
+
+* **De Novo Generation of Chemical Structures of Inhibitor and Activator Candidates for Therapeutic Target Proteins by a Transformer-Based Variational Autoencoder and Bayesian Optimization** [2023]   
+  Yuki Matsukiyo, Chikashige Yamanaka, and Yoshihiro Yamanishi.   
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00824) |  [code](https://yamanishi.cs.i.nagoya-u.ac.jp/triompheboa/) 
+
 * **A Reverse-Transformer GAN Generates Scaffold-Constrained Molecules with Property Optimization.** [2023]   
 Li, C., Yamanishi, Y.    
 [ECML PKDD (2023)](https://doi.org/10.1007/978-3-031-43412-9_19) |  [code](https://github.com/naruto7283/SpotGAN) 
@@ -719,7 +725,9 @@ Li, C., Yamanishi, Y.
 
 
 
-
+* **De Novo Generation of Chemical Structures of Inhibitor and Activator Candidates for Therapeutic Target Proteins by a Transformer-Based Variational Autoencoder and Bayesian Optimization** [2023]   
+  Yuki Matsukiyo, Chikashige Yamanaka, and Yoshihiro Yamanishi.   
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00824) |  [code](https://yamanishi.cs.i.nagoya-u.ac.jp/triompheboa/) 
 
 * **ReBADD-SE: Multi-objective molecular optimisation using SELFIES fragment and off-policy self-critical sequence training** [2023]   
   Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
@@ -1626,6 +1634,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+* **De Novo Generation of Chemical Structures of Inhibitor and Activator Candidates for Therapeutic Target Proteins by a Transformer-Based Variational Autoencoder and Bayesian Optimization** [2023]   
+  Yuki Matsukiyo, Chikashige Yamanaka, and Yoshihiro Yamanishi.   
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00824) |  [code](https://yamanishi.cs.i.nagoya-u.ac.jp/triompheboa/) 
 
 * **Deep interactome learning for de novo drug design**  [2023]   
  Atz K, Cotos Muñoz L, Isert C, Håkansson M, Focht D, Nippa DF, et al.   
