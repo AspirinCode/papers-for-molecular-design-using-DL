@@ -469,6 +469,10 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 ### LSTM-based
 
 
+* **Structured State-Space Sequence Models for De Novo Drug Design** [2023]   
+  Özçelik R, de Ruiter S, Grisoni F.   
+  [chemrxiv-2023-jwmf3. (2023)](https://doi.org/10.26434/chemrxiv-2023-jwmf3) |  [code](https://github.com/molML/s4-for-de-novo-drug-design) 
+
 * **Integrating synthetic accessibility with AI-based generative drug design**  [2023]   
  Parrot, M., Tajmouati, H., da Silva, V.B.R. et al.   
   [J Cheminform 15, 83 (2023)](https://doi.org/10.1186/s13321-023-00742-8)  |  [code](https://github.com/iktos/generation-under-synthetic-constraint/) 
@@ -540,7 +544,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
-
+* **Structured State-Space Sequence Models for De Novo Drug Design** [2023]   
+  Özçelik R, de Ruiter S, Grisoni F.   
+  [chemrxiv-2023-jwmf3. (2023)](https://doi.org/10.26434/chemrxiv-2023-jwmf3) |  [code](https://github.com/molML/s4-for-de-novo-drug-design) 
 
 * **De Novo Generation of Chemical Structures of Inhibitor and Activator Candidates for Therapeutic Target Proteins by a Transformer-Based Variational Autoencoder and Bayesian Optimization** [2023]   
   Yuki Matsukiyo, Chikashige Yamanaka, and Yoshihiro Yamanishi.   
@@ -1633,6 +1639,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 ## Structure-based deep molecular generative models
+
+
+* **Structured State-Space Sequence Models for De Novo Drug Design** [2023]   
+  Özçelik R, de Ruiter S, Grisoni F.   
+  [chemrxiv-2023-jwmf3. (2023)](https://doi.org/10.26434/chemrxiv-2023-jwmf3) |  [code](https://github.com/molML/s4-for-de-novo-drug-design) 
 
 * **De Novo Generation of Chemical Structures of Inhibitor and Activator Candidates for Therapeutic Target Proteins by a Transformer-Based Variational Autoencoder and Bayesian Optimization** [2023]   
   Yuki Matsukiyo, Chikashige Yamanaka, and Yoshihiro Yamanishi.   
