@@ -268,7 +268,9 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 
 
-
+* **FOMO: A Fragment-based Objective Molecule Optimization Framework** [2023]   
+Ma, Cong, Zeqi Zhang, Min Xu, and Haimin Zhang.  
+[Research Square. PREPRINT. (2023)](https://doi.org/10.21203/rs.3.rs-3180492/v1) |  [code](https://github.com/Davezqq/FOMO)
 
 * **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization** [2023]   
 Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
