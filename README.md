@@ -1082,6 +1082,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+
+
+* **Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation** [2023]   
+ Tuan Le and Julian Cremer and Frank No'e and Djork-Arn'e Clevert and Kristof Schutt.    
+  [arXiv:2309.17296v1  (2023)](https://doi.org/10.48550/arXiv.2309.17296) 
+
 * **Guided Diffusion for molecular generation with interaction prompt** [2023]   
  Wu Song, Peng Wu, Huabin Du, Yingchao Yan, Chen Bai    
   [bioRxiv  (2023)](https://doi.org/10.1101/2023.09.11.557141) |  [data](https://bits.csb.pitt.edu/files/crossdock2020/) 
