@@ -1089,6 +1089,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+* **Generative Design of inorganic compounds using deep diffusion language models** [2023]   
+ Rongzhi Dong and Nihang Fu and dirisuriya M. D. Siriwardane and Jianjun Hu.    
+  [	arXiv:2310.00475  (2023)](https://arxiv.org/abs/2310.00475) 
+
 * **Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation** [2023]   
  Tuan Le and Julian Cremer and Frank No'e and Djork-Arn'e Clevert and Kristof Schutt.    
   [arXiv:2309.17296v1  (2023)](https://doi.org/10.48550/arXiv.2309.17296) 
