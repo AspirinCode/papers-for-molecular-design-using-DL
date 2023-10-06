@@ -547,7 +547,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
-
+* **Probabilistic generative transformer language models for generative design of molecules** [2023]   
+  Wei, L., Fu, N., Song, Y. et al.   
+  [J Cheminform 15, 88 (2023)](https://doi.org/10.1186/s13321-023-00759-z) |  [code](https://github.com/usccolumbia/GMTransformer) 
 
 * **De Novo Drug Design with Joint Transformers** [2023]   
   Adam Izdebski and Ewelina Węglarz-Tomczak and Ewa Szczurek and Jakub M. Tomczak   
