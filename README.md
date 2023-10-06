@@ -548,6 +548,11 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+
+* **De Novo Drug Design with Joint Transformers** [2023]   
+  Adam Izdebski and Ewelina Węglarz-Tomczak and Ewa Szczurek and Jakub M. Tomczak   
+  [	arXiv:2310.02066. (2023)](https://arxiv.org/abs/2310.02066) 
+
 * **Structured State-Space Sequence Models for De Novo Drug Design** [2023]   
   Özçelik R, de Ruiter S, Grisoni F.   
   [chemrxiv-2023-jwmf3. (2023)](https://doi.org/10.26434/chemrxiv-2023-jwmf3) |  [code](https://github.com/molML/s4-for-de-novo-drug-design) 
