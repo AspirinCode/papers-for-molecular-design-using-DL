@@ -1952,6 +1952,9 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 ### Fragment-based DMGs
 
 
+* **Interpretable Fragment-Based Molecule Design with Self-Learning Entropic Population Annealing**  [2023]   
+ Li, J., Sumita, M., Tamura, R. and Tsuda, K.   
+  [Advanced Intelligent Systems (2023)](https://doi.org/10.1002/aisy.202300189) |  [code](https://github.com/tsudalab/MolSLEPA) 
 
 * **ReBADD-SE: Multi-objective molecular optimisation using SELFIES fragment and off-policy self-critical sequence training** [2023]   
   Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
