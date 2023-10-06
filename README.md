@@ -1130,7 +1130,7 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 * **Guided Diffusion for Inverse Molecular Design** [2023]   
  Weiss, Tomer, Luca Cosmo, Eduardo Mayo Yanes, Sabyasachi Chakraborty, Alex M. Bronstein, and Renana Gershoni-Poranne.    
-  [chemrxiv-2023-z8ltp](https://doi.org/10.26434/chemrxiv-2023-z8ltp) |  [code](https://github.com/tomer196/GaUDI) 
+  [Nat Comput Sci (2023)](https://doi.org/10.1038/s43588-023-00532-0) |   [chemrxiv-2023-z8ltp](https://doi.org/10.26434/chemrxiv-2023-z8ltp) |  [code](https://github.com/tomer196/GaUDI) 
 
 * **Generative Discovery of Novel Chemical Designs using Diffusion Modeling and Transformer Deep Neural Networks with Application to Deep Eutectic Solvents** [2023]   
  Luu, Rachel K., Marcin Wysokowski, and Markus J. Buehler.    
