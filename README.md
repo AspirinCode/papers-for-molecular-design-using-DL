@@ -1673,6 +1673,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+* **Target-Specific Novel Molecules with their Recipe: Incorporating Synthesizability in the Design Process** [2023]   
+  Krishnan, Sowmya Ramaswamy, Navneet Bung, Rajgopal Srinivasan, and Arijit Roy.   
+  [chemrxiv-2023-54bss. (2023)](https://doi.org/10.26434/chemrxiv-2023-54bss)
+
 * **TacoGFN: Target Conditioned GFlowNet for Structure-Based Drug Design** [2023]   
 Tony Shen, Mohit Pandey, Martin Ester.  
 [arXiv:2310.03223. (2023)](https://arxiv.org/abs/2310.03223v1) 
