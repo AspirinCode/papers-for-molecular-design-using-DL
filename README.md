@@ -997,6 +997,10 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 ### Flow-based
 
 
+* **TacoGFN: Target Conditioned GFlowNet for Structure-Based Drug Design** [2023]   
+Tony Shen, Mohit Pandey, Martin Ester.  
+[arXiv:2310.03223. (2023)](https://arxiv.org/abs/2310.03223v1) 
+
 * **PocketFlow: an autoregressive flow model incorporated with chemical knowledge for generating drug-like molecules inside protein pockets** [2023]   
 Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.  
 [Research Square. PREPRINT. (2023)](https://www.researchsquare.com/article/rs-3077992/v1) |  [code](https://github.com/Saoge123/PocketFlow) 
@@ -1669,7 +1673,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
-
+* **TacoGFN: Target Conditioned GFlowNet for Structure-Based Drug Design** [2023]   
+Tony Shen, Mohit Pandey, Martin Ester.  
+[arXiv:2310.03223. (2023)](https://arxiv.org/abs/2310.03223v1) 
 
 * **PocketFlow: an autoregressive flow model incorporated with chemical knowledge for generating drug-like molecules inside protein pockets** [2023]   
 Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.  
