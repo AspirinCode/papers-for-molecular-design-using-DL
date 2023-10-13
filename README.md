@@ -518,6 +518,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### Autoregressive-models
 
+* **Learning on topological surface and geometric structure for 3D molecular generation** [2023]   
+Zhang, Odin, Tianyue Wang, Gaoqi Weng, Dejun Jiang, Ning Wang, Xiaorui Wang, Huifeng Zhao et al.  
+[Nat Comput Sci (2023)](https://doi.org/10.1038/s43588-023-00530-2) |  [code](https://github.com/HaotianZhangAI4Science/SurfGen) 
+
 * **PocketFlow: an autoregressive flow model incorporated with chemical knowledge for generating drug-like molecules inside protein pockets** [2023]   
 Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.  
 [Research Square. PREPRINT. (2023)](https://www.researchsquare.com/article/rs-3077992/v1) |  [code](https://github.com/Saoge123/PocketFlow) 
@@ -1672,7 +1676,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
-
+* **Learning on topological surface and geometric structure for 3D molecular generation** [2023]   
+Zhang, Odin, Tianyue Wang, Gaoqi Weng, Dejun Jiang, Ning Wang, Xiaorui Wang, Huifeng Zhao et al.  
+[Nat Comput Sci (2023)](https://doi.org/10.1038/s43588-023-00530-2) |  [code](https://github.com/HaotianZhangAI4Science/SurfGen) 
 
 * **Target-Specific Novel Molecules with their Recipe: Incorporating Synthesizability in the Design Process** [2023]   
   Krishnan, Sowmya Ramaswamy, Navneet Bung, Rajgopal Srinivasan, and Arijit Roy.   
