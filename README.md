@@ -49,7 +49,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
 | [RNN-based](#rnn-based) | [LSTM-based](#lstm-based) | [Autoregressive-models](#autoregressive-models) | [Transformer-based](#transformer-based) |
-| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) |  |
+| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [ Prompt-based](#prompt-based)|
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) | [Active Learning DMGs](#active-learning-dmgs) |
 | [RL-based](#rl-based) | [Multi-task DMGs](#multi-task-dmgs) | [Monte Carlo Tree Search](#monte-carlo-tree-search) | [Genetic Algorithm-based](#genetic-algorithm-based) |
 | [Evolutionary Algorithm-based](#evolutionary-algorithm-based) |  |  |  |
@@ -1040,6 +1040,24 @@ Zang, Chengxi, and Fei Wang.
 * **GraphNVP: an Invertible Flow-based Model for Generating Molecular Graphs** [2020]   
 Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.  
 [arXiv:1905.11600 (2019)](https://openreview.net/forum?id=ryxQ6T4YwB)
+
+
+
+
+
+
+
+
+### Prompt-Based
+
+
+
+* **Molecule Design by Latent Prompt Transformer** [2023]   
+ Kong, D., Huang, Y., Xie, J. and Wu, Y.N.   
+  [arXiv:2310.03253 (2023)](https://arxiv.org/abs/2310.03253)
+
+
+
 
 
 
