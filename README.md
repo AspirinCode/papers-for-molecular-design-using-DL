@@ -1699,6 +1699,12 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+
+
+* **Pocket Crafter: A 3D Generative Modeling Based Workflow for the Rapid Generation of Hit Molecules in Drug Discovery** [2023]   
+Shen, L., Fang, J., Liu, L., Yang, F., Jenkins, J.L., Kutchukian, P.S. and Wang, H.  
+[chemrxiv-2023-3b9p3 (2023)](https://doi.org/10.26434/chemrxiv-2023-3b9p3) 
+
 * **Learning on topological surface and geometric structure for 3D molecular generation** [2023]   
 Zhang, Odin, Tianyue Wang, Gaoqi Weng, Dejun Jiang, Ning Wang, Xiaorui Wang, Huifeng Zhao et al.  
 [Nat Comput Sci (2023)](https://doi.org/10.1038/s43588-023-00530-2) |  [code](https://github.com/HaotianZhangAI4Science/SurfGen) 
