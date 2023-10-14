@@ -1487,6 +1487,11 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 ## Text-driven molecular generation models
 
+
+* **Exploring the potential of AI-Chatbots in organic chemistry: An assessment of ChatGPT and bard** [2023]   
+ Hallal, K., Hamdan, R. and Tlais, S.    
+  [Computers and Education: Artificial Intelligence (2023)](https://doi.org/10.1016/j.caeai.2023.100170) 
+
 * **Generating Novel Leads for Drug Discovery using LLMs with Logical Feedback** [2023]   
  Shreyas Bhat Brahmavar, Ashwin Srinivasan, Tirtharaj Dash, Sowmya R Krishnan, Lovekesh Vig, Arijit Roy, Raviprasad Aduri    
   [bioRxiv (2023)](https://doi.org/10.1101/2023.09.14.557698) |  [code](https://github.com/Shreyas-Bhat/LMLF) 
