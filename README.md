@@ -38,7 +38,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 
 | Menu | Menu | 
 | ------ | ------ | 
-| [VAE-based Molecular Conformation Generation](#vae-based-molecular-conformation-generation) |  | 
+| [VAE-based Molecular Conformation Generation](#vae-based-molecular-conformation-generation) | [Reviews_Molecular Conformation Generation](#reviews_molecular_conformation_generation) | 
 |  [Energy-based Molecular Conformation Generation](#energy-based-molecular-conformation-generation) |   | 
 |  [Diffusion-based Molecular Conformation Generation](#diffusion-based-molecular-conformation-generation) |   | 
 |  [RL-based Molecular Conformation Generation](#rl-based-molecular-conformation-generation) |   | 
@@ -325,6 +325,16 @@ Thomas, Morgan, Noel M. O'Boyle, Andreas Bender, and Chris De Graaf.
 
 
 
+
+
+### Reviews_Molecular Conformation Generation
+
+
+
+
+* **Prediction of Molecular Conformation Using Deep Generative Neural Networks** [2023]   
+Xu, Congsheng, Yi Lu, Xiaomei Deng, and Peiyuan Yu.   
+[Chinese Journal of Chemistry(2023)](https://doi.org/10.1002/cjoc.202300269)
 
 
 
