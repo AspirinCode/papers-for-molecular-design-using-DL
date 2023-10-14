@@ -1121,7 +1121,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion** [2023]   
+ Xie, Junjie, Sheng Chen, Jinping Lei, and Yuedong Yang.    
+  [bioRxiv (2023)](https://doi.org/10.1101/2023.10.08.561377) 
 
 * **Generative Design of inorganic compounds using deep diffusion language models** [2023]   
  Rongzhi Dong and Nihang Fu and dirisuriya M. D. Siriwardane and Jianjun Hu.    
@@ -1705,6 +1707,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+* **DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion** [2023]   
+ Xie, Junjie, Sheng Chen, Jinping Lei, and Yuedong Yang.    
+  [bioRxiv (2023)](https://doi.org/10.1101/2023.10.08.561377) 
+
 * **Pocket Crafter: A 3D Generative Modeling Based Workflow for the Rapid Generation of Hit Molecules in Drug Discovery** [2023]   
 Shen, L., Fang, J., Liu, L., Yang, F., Jenkins, J.L., Kutchukian, P.S. and Wang, H.  
 [chemrxiv-2023-3b9p3 (2023)](https://doi.org/10.26434/chemrxiv-2023-3b9p3) 
@@ -1919,6 +1925,10 @@ Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correi
 
 ### Scaffold-based DMGs
 
+
+* **DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion** [2023]   
+ Xie, Junjie, Sheng Chen, Jinping Lei, and Yuedong Yang.    
+  [bioRxiv (2023)](https://doi.org/10.1101/2023.10.08.561377) 
 
 * **D-SMGE: a pipeline for scaffold-based molecular generation and evaluation**  [2023]   
  Chao Xu, Runduo Liu, Shuheng Huang, Wenchao Li, Zhe Li, Hai-Bin Luo.   
