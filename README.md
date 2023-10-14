@@ -555,6 +555,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+
+
+* **Molecular De Novo Design through Transformer-based Reinforcement Learning** [2023]   
+  Feng, Tao, Pengcheng Xu, Tianfan Fu, Siddhartha Laghuvarapu, and Jimeng Sun.   
+  [arXiv:2310.05365 (2023)](https://arxiv.org/abs/2310.05365)
+
 * **Probabilistic generative transformer language models for generative design of molecules** [2023]   
   Wei, L., Fu, N., Song, Y. et al.   
   [J Cheminform 15, 88 (2023)](https://doi.org/10.1186/s13321-023-00759-z) |  [code](https://github.com/usccolumbia/GMTransformer) 
@@ -1227,6 +1233,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 ### RL-based
 
+* **Molecular De Novo Design through Transformer-based Reinforcement Learning** [2023]   
+  Feng, Tao, Pengcheng Xu, Tianfan Fu, Siddhartha Laghuvarapu, and Jimeng Sun.   
+  [arXiv:2310.05365 (2023)](https://arxiv.org/abs/2310.05365)
 
 * **Integrating synthetic accessibility with AI-based generative drug design**  [2023]   
  Parrot, M., Tajmouati, H., da Silva, V.B.R. et al.   
