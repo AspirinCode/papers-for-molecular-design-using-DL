@@ -1125,7 +1125,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
-
+* **Diffusing on Two Levels and Optimizing for Multiple Properties: A Novel Approach to Generating Molecules with Desirable Properties** [2023]   
+ Guo, Siyuan, Jihong Guan, and Shuigeng Zhou.    
+  [arXiv:2310.04463 (2023)](https://arxiv.org/abs/2310.04463) 
 
 * **DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion** [2023]   
  Xie, Junjie, Sheng Chen, Jinping Lei, and Yuedong Yang.    
