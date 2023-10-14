@@ -180,9 +180,15 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+
 ### Diffusion-based
 
 
+* **Diffusing on Two Levels and Optimizing for Multiple Properties: A Novel Approach to Generating Molecules with Desirable Properties** [2023]   
+ Guo, Siyuan, Jihong Guan, and Shuigeng Zhou.    
+  [arXiv:2310.04463 (2023)](https://arxiv.org/abs/2310.04463) 
 
 * **A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets** [2023]  
 Huang, Lei.   
