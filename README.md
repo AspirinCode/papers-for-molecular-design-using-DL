@@ -362,6 +362,10 @@ Guan, Jiaqi, Wesley Wei Qian, Wei-Ying Ma, Jianzhu Ma, and Jian Peng.
 ### Diffusion-based Molecular Conformation Generation
 
 
+* **On Accelerating Diffusion-based Molecular Conformation Generation in SE(3)-invariant Space** [2023]   
+Zhou, Z., Liu, R. and Yu, T.   
+[arXiv:2310.04915 (2023))](https://arxiv.org/abs/2310.04915) 
+
 * **Molecular Conformation Generation via Shifting Scores** [2023]   
 Zhou, Zihan, Ruiying Liu, Chaolong Ying, Ruimao Zhang, and Tianshu Yu.   
 [arXiv:2309.09985 (2023)](https://arxiv.org/abs/2309.09985) 
