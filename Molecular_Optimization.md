@@ -23,7 +23,7 @@ Beck, Hartmut, Tobias Thaler, Daniel Meibom, Mark Meininghaus, Hannah Jörißen
 | [RNN-based](#rnn-based) | [LSTM-based](#lstm-based) | [Autoregressive-models](#autoregressive-models) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) |  |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) |  |
-| [RL-based](#rl-based) | [Active Learning-based](#active-learning-based) |  |  |
+| [RL-based](#rl-based) | [Active Learning-based](#active-learning-based) | [Contrastive Learning-based](#contrastive-learning-based) |  |
 
 
 ## Reviews
@@ -218,6 +218,8 @@ Erikawa, D., Yasuo, N., & Sekijima, M.
 
 
 
+
+
 ### Active Learning-based
 
 
@@ -228,6 +230,19 @@ Erikawa, D., Yasuo, N., & Sekijima, M.
 * **Active Learning Guided Drug Design Lead Optimization Based on Relative Binding Free Energy Modeling** [2023]   
 Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.   
   [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01052)
+
+
+
+
+### Contrastive Learning-based
+
+
+* **GPMO: Gradient Perturbation-Based Contrastive Learning for Molecule Optimization** [2023]   
+  Yang, Xixi, Li Fu, Yafeng Deng, Yuansheng Liu, Dongsheng Cao, and Xiangxiang Zeng   
+  [IJCAI(2023)](https://www.ijcai.org/proceedings/2023/549) 
+
+
+
 
 
 
