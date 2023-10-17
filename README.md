@@ -1443,6 +1443,9 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 ### Active Learning DMGs
 
+
+
+
 * **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2023]   
  Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
   [arXiv:2309.05853 (2023)](https://arxiv.org/abs/2309.05853) |  [code](https://github.com/gregory-kyro/ChemSpaceAL/) 
@@ -1474,6 +1477,11 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Genetic Algorithm-based
 
 
+
+
+* **Genetic algorithms are strong baselines for molecule generation** [2023]   
+  Austin Tripp and Jos'e Miguel Hern'andez-Lobato.   
+  [arXiv:2310.09267 (2023)](https://arxiv.org/abs/2310.09267) 
 
 * **GENERA: A Combined Genetic/Deep-Learning Algorithm for Multiobjective Target-Oriented De Novo Design** [2023]   
   Lamanna, Giuseppe, Pietro Delre, Gilles Marcou, Michele Saviano, Alexandre Varnek, Dragos Horvath, and Giuseppe Felice Mangiatordi.   
