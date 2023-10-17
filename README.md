@@ -953,6 +953,11 @@ Li, C., Yamanishi, Y.
 ### GAN-based
 
 
+
+* **An interface-based molecular generative framework for protein-protein interaction inhibitors** [2023]   
+Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Heqi Sun, Kyoung Tai No, Tao Song, Xiangxiang Zeng    
+[bioRxiv (2023)](https://doi.org/10.1101/2023.10.10.557742) |  [code](https://github.com/AspirinCode/GENiPPI) 
+
 * **A Reverse-Transformer GAN Generates Scaffold-Constrained Molecules with Property Optimization.** [2023]   
 Li, C., Yamanishi, Y.    
 [ECML PKDD (2023)](https://doi.org/10.1007/978-3-031-43412-9_19) |  [code](https://github.com/naruto7283/SpotGAN) 
@@ -1724,9 +1729,16 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+
 ## Structure-based deep molecular generative models
 
 
+
+* **An interface-based molecular generative framework for protein-protein interaction inhibitors** [2023]   
+Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Heqi Sun, Kyoung Tai No, Tao Song, Xiangxiang Zeng    
+[bioRxiv (2023)](https://doi.org/10.1101/2023.10.10.557742) |  [code](https://github.com/AspirinCode/GENiPPI) 
 
 * **DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion** [2023]   
  Xie, Junjie, Sheng Chen, Jinping Lei, and Yuedong Yang.    
