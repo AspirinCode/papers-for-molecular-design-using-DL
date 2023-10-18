@@ -499,6 +499,10 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
   Abe, K., Ozako, M., Inukai, M. et al.   
   [Commun Biol 6, 956 (2023)](https://doi.org/10.1038/s42003-023-05334-8) |  [code](https://doi.org/10.1038/s42003-023-05334-8) 
 
+* **Artificial Intelligence for Prediction of Biological Activities and Generation of molecular hits using Stereochemical Information** [2023]   
+  Pereira, Tiago O., Maryam Abbasi, Rita I. Oliveira, Romina A. Guedes, Jorge AR Salvador, and Joel P. Arrais.   
+  [Research Square.  (2023)](https://doi.org/10.21203/rs.3.rs-2499317/v1) |  [code](https://github.com/larngroup/targeted_generation_stereo) 
+
 * **LOGICS: Learning optimal generative distribution for designing de novo chemical structures** [2023]   
   Bae, B., Bae, H. & Nam, H.   
   [J Cheminform 15, 77 (2023)](https://doi.org/10.1186/s13321-023-00747-3) |  [code](https://github.com/GIST-CSBL/LOGICS) 
@@ -1317,6 +1321,10 @@ Hu, P., Zou, J., Yu, J. et al.
 * **Molecule generation using transformers and policy gradient reinforcement learning** [2023]   
  Mazuz, E., Shtar, G., Shapira, B. et al.    
   [Sci Rep 13, 8799 (2023)](https://doi.org/10.1038/s41598-023-35648-w) |  [code](https://github.com/eyalmazuz/MolGen) 
+
+* **Artificial Intelligence for Prediction of Biological Activities and Generation of molecular hits using Stereochemical Information** [2023]   
+  Pereira, Tiago O., Maryam Abbasi, Rita I. Oliveira, Romina A. Guedes, Jorge AR Salvador, and Joel P. Arrais.   
+  [Research Square.  (2023)](https://doi.org/10.21203/rs.3.rs-2499317/v1) |  [code](https://github.com/larngroup/targeted_generation_stereo) 
 
 * **Augmented Memory: Capitalizing on Experience Replay to Accelerate De Novo Molecular Design** [2023]   
  Guo, Jeff, and Philippe Schwaller.    
