@@ -1256,7 +1256,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 ### RL-based
 
-
+* **A flexible data-free framework for structure-based de novo drug design with reinforcement learning** [2023]   
+  Hongyan Du, Dejun Jiang, Odin Zhang, Zhenxing Wu, Junbo Gao, Xujun Zhang, Xiaorui Wang, Yafeng Deng, Yu Kang, Dan Li, Peichen Pan, Chang-Yu Hsieh, Tingjun Hou.   
+  [Chemical Science (2023)](https://doi.org/10.1039/D3SC04091G) |  [code](https://github.com/Brian-hongyan/3D-MCTS) 
 
 * **Searching for High-Value Molecules Using Reinforcement Learning and Transformers** [2023]   
   Raj Ghugare and Santiago Miret and Adriana Hugessen and Mariano Phielipp and Glen Berseth.   
@@ -1473,6 +1475,10 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 ### Monte Carlo Tree Search
 
 
+
+* **A flexible data-free framework for structure-based de novo drug design with reinforcement learning** [2023]   
+  Hongyan Du, Dejun Jiang, Odin Zhang, Zhenxing Wu, Junbo Gao, Xujun Zhang, Xiaorui Wang, Yafeng Deng, Yu Kang, Dan Li, Peichen Pan, Chang-Yu Hsieh, Tingjun Hou.   
+  [Chemical Science (2023)](https://doi.org/10.1039/D3SC04091G) |  [code](https://github.com/Brian-hongyan/3D-MCTS) 
 
 * **ChemTSv2: Functional molecular design using de novo molecule generator** [2023]   
 Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa, Kazuki Yoshizoe, Koji Tsuda, and Kei Terayama.   
@@ -1759,6 +1765,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+* **A flexible data-free framework for structure-based de novo drug design with reinforcement learning** [2023]   
+  Hongyan Du, Dejun Jiang, Odin Zhang, Zhenxing Wu, Junbo Gao, Xujun Zhang, Xiaorui Wang, Yafeng Deng, Yu Kang, Dan Li, Peichen Pan, Chang-Yu Hsieh, Tingjun Hou.   
+  [Chemical Science (2023)](https://doi.org/10.1039/D3SC04091G) |  [code](https://github.com/Brian-hongyan/3D-MCTS) 
 
 * **An interface-based molecular generative framework for protein-protein interaction inhibitors** [2023]   
 Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Heqi Sun, Kyoung Tai No, Tao Song, Xiangxiang Zeng    
@@ -2076,6 +2086,11 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 ### Fragment-based DMGs
 
+
+
+* **A flexible data-free framework for structure-based de novo drug design with reinforcement learning** [2023]   
+  Hongyan Du, Dejun Jiang, Odin Zhang, Zhenxing Wu, Junbo Gao, Xujun Zhang, Xiaorui Wang, Yafeng Deng, Yu Kang, Dan Li, Peichen Pan, Chang-Yu Hsieh, Tingjun Hou.   
+  [Chemical Science (2023)](https://doi.org/10.1039/D3SC04091G) |  [code](https://github.com/Brian-hongyan/3D-MCTS) 
 
 * **Interpretable Fragment-Based Molecule Design with Self-Learning Entropic Population Annealing**  [2023]   
  Li, J., Sumita, M., Tamura, R. and Tsuda, K.   
