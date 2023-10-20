@@ -569,7 +569,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
-
+* **Searching for High-Value Molecules Using Reinforcement Learning and Transformers** [2023]   
+  Raj Ghugare and Santiago Miret and Adriana Hugessen and Mariano Phielipp and Glen Berseth.   
+  [arXiv:2310.02902 (2023)](https://arxiv.org/abs/2310.02902)
 
 * **Molecular De Novo Design through Transformer-based Reinforcement Learning** [2023]   
   Feng, Tao, Pengcheng Xu, Tianfan Fu, Siddhartha Laghuvarapu, and Jimeng Sun.   
@@ -1253,6 +1255,12 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 ### RL-based
+
+
+
+* **Searching for High-Value Molecules Using Reinforcement Learning and Transformers** [2023]   
+  Raj Ghugare and Santiago Miret and Adriana Hugessen and Mariano Phielipp and Glen Berseth.   
+  [arXiv:2310.02902 (2023)](https://arxiv.org/abs/2310.02902)
 
 * **Molecular De Novo Design through Transformer-based Reinforcement Learning** [2023]   
   Feng, Tao, Pengcheng Xu, Tianfan Fu, Siddhartha Laghuvarapu, and Jimeng Sun.   
