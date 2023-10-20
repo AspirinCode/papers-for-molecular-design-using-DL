@@ -2096,6 +2096,10 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
  Li, J., Sumita, M., Tamura, R. and Tsuda, K.   
   [Advanced Intelligent Systems (2023)](https://doi.org/10.1002/aisy.202300189) |  [code](https://github.com/tsudalab/MolSLEPA) 
 
+* **Expanding Bioactive Fragment Space with the Generated Database GDB-13s**  [2023]   
+ Buehler, Ye, and Jean-Louis Reymond.   
+  [J. Chem. Inf. Model. (2023)](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01096) |  [code](https://github.com/Ye-Buehler/Molecule_Breakdown_Model) 
+
 * **ReBADD-SE: Multi-objective molecular optimisation using SELFIES fragment and off-policy self-critical sequence training** [2023]   
   Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
   [Computers in Biology and Medicine 157 (2023)](https://doi.org/10.1016/j.compbiomed.2023.106721) |  [code](https://github.com/mathcom/ReBADD-SE) 
