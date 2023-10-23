@@ -774,7 +774,9 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
-
+* **Application of variational graph encoders as an effective generalist algorithm in computer-aided drug design** [2023]   
+  Lam, H.Y.I., Pincket, R., Han, H. et al.   
+  [Nat Mach Intell 5, 754–764 (2023)](https://doi.org/10.1038/s42256-023-00683-9) |  [code](https://github.com/Chokyotager/NotYetAnotherNightshade) 
 
 * **De Novo Generation of Chemical Structures of Inhibitor and Activator Candidates for Therapeutic Target Proteins by a Transformer-Based Variational Autoencoder and Bayesian Optimization** [2023]   
   Yuki Matsukiyo, Chikashige Yamanaka, and Yoshihiro Yamanishi.   
