@@ -1,3 +1,5 @@
+[![License: GNU](https://img.shields.io/badge/License-GNU-yellow)](https://github.com/AspirinCode/papers-for-molecular-design-using-DL)
+![contributing](https://img.shields.io/badge/contributions-welcome-brightgreen)
 
 # List of molecular design (molecular conformation generation) using Generative AI and Deep Learning 
 ![contributing-image](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
