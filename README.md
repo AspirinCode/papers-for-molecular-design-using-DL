@@ -569,6 +569,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+* **Gotta be SAFE: A New Framework for Molecular Design** [2023]   
+  Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
+  [arXiv:2310.10773 (2023)](https://arxiv.org/abs/2310.10773)
+
 * **Searching for High-Value Molecules Using Reinforcement Learning and Transformers** [2023]   
   Raj Ghugare and Santiago Miret and Adriana Hugessen and Mariano Phielipp and Glen Berseth.   
   [arXiv:2310.02902 (2023)](https://arxiv.org/abs/2310.02902)
@@ -2087,6 +2091,10 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 ### Fragment-based DMGs
 
 
+
+* **Gotta be SAFE: A New Framework for Molecular Design** [2023]   
+  Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
+  [arXiv:2310.10773 (2023)](https://arxiv.org/abs/2310.10773)
 
 * **A flexible data-free framework for structure-based de novo drug design with reinforcement learning** [2023]   
   Hongyan Du, Dejun Jiang, Odin Zhang, Zhenxing Wu, Junbo Gao, Xujun Zhang, Xiaorui Wang, Yafeng Deng, Yu Kang, Dan Li, Peichen Pan, Chang-Yu Hsieh, Tingjun Hou.   
