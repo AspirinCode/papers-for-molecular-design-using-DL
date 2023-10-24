@@ -605,7 +605,7 @@ Li, C., Yamanishi, Y.
 
 * **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2023]   
  Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
-  [arXiv:2309.05853 (2023)](https://arxiv.org/abs/2309.05853) |  [code](https://github.com/gregory-kyro/ChemSpaceAL/) 
+  [arXiv:2309.05853 (2023)](https://arxiv.org/abs/2309.05853) |  [code](https://github.com/batistagroup/ChemSpaceAL/) 
 
 * **Efficient 3D Molecular Design with an E(3) Invariant Transformer VAE**  [2023]   
  Dollar, Orion, Nisarg Joshi, Jim Pfaendtner, and David AC Beck.   
