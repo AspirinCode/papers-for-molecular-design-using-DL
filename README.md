@@ -1474,7 +1474,7 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 * **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2023]   
  Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
-  [arXiv:2309.05853 (2023)](https://arxiv.org/abs/2309.05853) |  [code](https://github.com/gregory-kyro/ChemSpaceAL/) 
+  [arXiv:2309.05853 (2023)](https://arxiv.org/abs/2309.05853) |  [code](https://github.com/batistagroup/ChemSpaceAL/) 
 
 
 
@@ -1820,7 +1820,7 @@ Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.
 
 * **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2023]   
  Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
-  [arXiv:2309.05853 (2023)](https://arxiv.org/abs/2309.05853) |  [code](https://github.com/gregory-kyro/ChemSpaceAL/) 
+  [arXiv:2309.05853 (2023)](https://arxiv.org/abs/2309.05853) |  [code](https://github.com/batistagroup/ChemSpaceAL/) 
 
 * **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [2023]   
 Zhang, O., Zhang, J., Jin, J. et al.   
