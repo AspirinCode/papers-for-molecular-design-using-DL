@@ -571,6 +571,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+* **Optimization of binding affinities in chemical space with transformer and deep reinforcement learning** [2023]   
+  Xu, Xiaopeng, Juexiao Zhou, Chen Zhu, Qing Zhan, Zhongxiao Li, Ruochi Zhang, Yu Wang, Xingyu Liao, and Xin Gao.   
+  [chemrxiv-2023-7v4sw (2023)](https://doi.org/10.26434/chemrxiv-2023-7v4sw) |  [code](https://github.com/charlesxu90/sgpt) 
+
 * **Gotta be SAFE: A New Framework for Molecular Design** [2023]   
   Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
   [arXiv:2310.10773 (2023)](https://arxiv.org/abs/2310.10773)
@@ -1263,6 +1267,12 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 ### RL-based
+
+
+
+* **Optimization of binding affinities in chemical space with transformer and deep reinforcement learning** [2023]   
+  Xu, Xiaopeng, Juexiao Zhou, Chen Zhu, Qing Zhan, Zhongxiao Li, Ruochi Zhang, Yu Wang, Xingyu Liao, and Xin Gao.   
+  [chemrxiv-2023-7v4sw (2023)](https://doi.org/10.26434/chemrxiv-2023-7v4sw) |  [code](https://github.com/charlesxu90/sgpt) 
 
 * **A flexible data-free framework for structure-based de novo drug design with reinforcement learning** [2023]   
   Hongyan Du, Dejun Jiang, Odin Zhang, Zhenxing Wu, Junbo Gao, Xujun Zhang, Xiaorui Wang, Yafeng Deng, Yu Kang, Dan Li, Peichen Pan, Chang-Yu Hsieh, Tingjun Hou.   
