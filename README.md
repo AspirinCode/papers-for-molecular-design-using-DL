@@ -1790,6 +1790,10 @@ Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zix
 Shen, L., Fang, J., Liu, L., Yang, F., Jenkins, J.L., Kutchukian, P.S. and Wang, H.  
 [chemrxiv-2023-3b9p3 (2023)](https://doi.org/10.26434/chemrxiv-2023-3b9p3) 
 
+* **Learning Subpocket Prototypes for Generalizable Structure-based Drug Design** [2023]   
+ZHANG Z, Liu Q.  
+[ICML'23: Proceedings of the 40th International Conference on Machine Learning (2023)](https://dl.acm.org/doi/10.5555/3618408.3620143) |  [code](https://github.com/zaixizhang/DrugGPS_ICML23) 
+
 * **Learning on topological surface and geometric structure for 3D molecular generation** [2023]   
 Zhang, Odin, Tianyue Wang, Gaoqi Weng, Dejun Jiang, Ning Wang, Xiaorui Wang, Huifeng Zhao et al.  
 [Nat Comput Sci (2023)](https://doi.org/10.1038/s43588-023-00530-2) |  [code](https://github.com/HaotianZhangAI4Science/SurfGen) 
@@ -2063,6 +2067,10 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 
 ### Motifs-based DMGs
+
+* **Learning Subpocket Prototypes for Generalizable Structure-based Drug Design** [2023]   
+ZHANG Z, Liu Q.  
+[ICML'23: Proceedings of the 40th International Conference on Machine Learning (2023)](https://dl.acm.org/doi/10.5555/3618408.3620143) |  [code](https://github.com/zaixizhang/DrugGPS_ICML23) 
 
 * **MAGNet: Motif-Agnostic Generation of Molecules from Shapes** [2023]   
   Hetzel, Leon, Johanna Sommer, Bastian Rieck, Fabian Theis, and Stephan Günnemann.   
