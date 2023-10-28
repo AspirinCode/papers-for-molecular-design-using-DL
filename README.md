@@ -820,6 +820,10 @@ Li, C., Yamanishi, Y.
  Salas-Estrada, Leslie, Davide Provasi, Xing Qiu, H. Umit Kaniskan, Xi-Ping Huang, Jeffrey DiBerto, Joao Marcelo Lamim Ribeiro, Jian Jin, Bryan L. Roth, and Marta Filizola.   
   [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00651) |  [code](https://github.com/insilicomedicine/GENTRL) 
 
+* **Deep generative model of constructing chemical latent space for large molecular structures with 3D complexity**  [2023]   
+ Ochiai, Toshiki, Tensei Inukai, Manato Akiyama, Kairi Furui, Masahito Ohue, Nobuaki Matsumori, Shinsuke Inuki et al.   
+  [chemrxiv (2023)](https://doi.org/10.26434/chemrxiv-2023-pjl0w-v2) |  [code](https://github.com/toshikiochiai/NPVAE) 
+
 * **De novo drug design based on patient gene expression profiles via deep learning**  [2023]   
  Yamanaka, Chikashige, Shunya Uki, Kazuma Kaitoh, Michio Iwata, and Yoshihiro Yamanishi.   
   [Molecular Informatics (2023)](https://doi.org/10.1002/minf.202300064) |  [code](https://www.dropbox.com/s/vg3nxcio799h4ex/software.zip?dl=0) 
