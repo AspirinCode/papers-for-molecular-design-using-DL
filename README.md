@@ -780,6 +780,10 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
+* **Interaction-aware 3D Molecular Generative Framework for Generalizable Structure-based Drug Design** [2023]   
+  Woo Youn Kim, Wonho Zhung, and Hyeongwoo Kim.   
+  [Research Square. (2023)](https://www.researchsquare.com/article/rs-3388359/v1) |  [code](https://github.com/ACE-KAIST/DeepICL) 
+
 * **Application of variational graph encoders as an effective generalist algorithm in computer-aided drug design** [2023]   
   Lam, H.Y.I., Pincket, R., Han, H. et al.   
   [Nat Mach Intell 5, 754–764 (2023)](https://doi.org/10.1038/s42256-023-00683-9) |  [code](https://github.com/Chokyotager/NotYetAnotherNightshade) 
@@ -1787,6 +1791,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+* **Interaction-aware 3D Molecular Generative Framework for Generalizable Structure-based Drug Design** [2023]   
+  Woo Youn Kim, Wonho Zhung, and Hyeongwoo Kim.   
+  [Research Square. (2023)](https://www.researchsquare.com/article/rs-3388359/v1) |  [code](https://github.com/ACE-KAIST/DeepICL) 
 
 * **A flexible data-free framework for structure-based de novo drug design with reinforcement learning** [2023]   
   Hongyan Du, Dejun Jiang, Odin Zhang, Zhenxing Wu, Junbo Gao, Xujun Zhang, Xiaorui Wang, Yafeng Deng, Yu Kang, Dan Li, Peichen Pan, Chang-Yu Hsieh, Tingjun Hou.   
