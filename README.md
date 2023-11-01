@@ -1792,6 +1792,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+* **Conformer Generation for Structure-Based Drug Design: How Many and How Good?** [2023]   
+  McNutt, Andrew, Fatimah Bisiriyu, Sophia Song, Ananya Vyas, Geoffrey Hutchison, and David Koes.   
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c01245) |  [code](https://github.com/dkoes/conformer_analysis) 
+
 * **Interaction-aware 3D Molecular Generative Framework for Generalizable Structure-based Drug Design** [2023]   
   Woo Youn Kim, Wonho Zhung, and Hyeongwoo Kim.   
   [Research Square. (2023)](https://www.researchsquare.com/article/rs-3388359/v1) |  [code](https://github.com/ACE-KAIST/DeepICL) 
