@@ -322,7 +322,9 @@ Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung J
 ## Multi-Objective Molecular Optimization
 
 
-
+* **Elion: A Deep Learning Based Platform for Multi-Objective Drug Hit Optimization**  [2023]   
+ Seabra, Gustavo, and Chenglong Li.   
+  [chemrxiv-2023-n526m (2023)](https://doi.org/10.26434/chemrxiv-2023-n526m)  |  [code](https://github.com/gmseabra/elion) 
 
 * **Multi-Objective and Many-Objective Optimisation: Present and Future in de novo Drug Design**  [2023]   
  Angelo, Jaqueline S., Isabella Alvim Guedes, Helio JC Barbosa, and Laurent E. Dardenne.   
