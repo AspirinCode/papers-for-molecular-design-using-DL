@@ -155,6 +155,10 @@ Grisoni, Francesca.
  Bilodeau, Camille, Wengong Jin, Tommi Jaakkola, Regina Barzilay, and Klavs F. Jensen.  
 [Computational Molecular Science 12.5 (2022)](https://doi.org/10.1002/wcms.1608)
 
+* **Assessing Deep Generative Models in Chemical Composition Space**[2022]  
+ Türk, Hanna, Elisabetta Landini, Christian Kunkel, Johannes T. Margraf, and Karsten Reuter.  
+[Chemistry of Materials 34.21 (2022)](https://doi.org/10.1021/acs.chemmater.2c01860)
+
 * **Generative machine learning for de novo drug discovery: A systematic review**[2022]  
  Martinelli, Dominic.   
 [Computers in Biology and Medicine 145 (2022)](https://doi.org/10.1016/j.compbiomed.2022.105403)
