@@ -575,6 +575,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+
+
+* **REINVENT4: Modern AI–Driven Generative Molecule Design** [2023]   
+  Loeffler H, He J, Tibo A, Janet JP, Voronov A, Mervin L, et al.   
+  [chemrxiv-2023-xt65x  (2023)](https://doi.org/10.26434/chemrxiv-2023-xt65x) |  [code](https://github.com/MolecularAI/REINVENT4) 
+
 * **Optimization of binding affinities in chemical space with transformer and deep reinforcement learning** [2023]   
   Xu, Xiaopeng, Juexiao Zhou, Chen Zhu, Qing Zhan, Zhongxiao Li, Ruochi Zhang, Yu Wang, Xingyu Liao, and Xin Gao.   
   [chemrxiv-2023-7v4sw (2023)](https://doi.org/10.26434/chemrxiv-2023-7v4sw) |  [code](https://github.com/charlesxu90/sgpt) 
@@ -1281,6 +1287,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+* **REINVENT4: Modern AI–Driven Generative Molecule Design** [2023]   
+  Loeffler H, He J, Tibo A, Janet JP, Voronov A, Mervin L, et al.   
+  [chemrxiv-2023-xt65x  (2023)](https://doi.org/10.26434/chemrxiv-2023-xt65x) |  [code](https://github.com/MolecularAI/REINVENT4) 
 
 * **Optimization of binding affinities in chemical space with transformer and deep reinforcement learning** [2023]   
   Xu, Xiaopeng, Juexiao Zhou, Chen Zhu, Qing Zhan, Zhongxiao Li, Ruochi Zhang, Yu Wang, Xingyu Liao, and Xin Gao.   
@@ -2036,6 +2045,10 @@ Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correi
 ### Scaffold-based DMGs
 
 
+* **REINVENT4: Modern AI–Driven Generative Molecule Design** [2023]   
+  Loeffler H, He J, Tibo A, Janet JP, Voronov A, Mervin L, et al.   
+  [chemrxiv-2023-xt65x  (2023)](https://doi.org/10.26434/chemrxiv-2023-xt65x) |  [code](https://github.com/MolecularAI/REINVENT4) 
+
 * **DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion** [2023]   
  Xie, Junjie, Sheng Chen, Jinping Lei, and Yuedong Yang.    
   [bioRxiv (2023)](https://doi.org/10.1101/2023.10.08.561377) 
@@ -2098,6 +2111,8 @@ Lim, Jaechang, Sang-Yeon Hwang, Seokhyun Moon, Seungsu Kim, and Woo Youn Kim.
 
 
 ### Motifs-based DMGs
+
+
 
 * **Learning Subpocket Prototypes for Generalizable Structure-based Drug Design** [2023]   
 ZHANG Z, Liu Q.  
