@@ -378,6 +378,11 @@ Guan, Jiaqi, Wesley Wei Qian, Wei-Ying Ma, Jianzhu Ma, and Jian Peng.
 ### Diffusion-based Molecular Conformation Generation
 
 
+
+* **Generating Molecular Conformer Fields** [2023]   
+Yuyang Wang, Ahmed Elhag, Navdeep Jaitly, Joshua Susskind, Miguel Bautista.   
+[NeurIPS 2023 Generative AI and Biology (GenBio) Workshop (2023)]https://openreview.net/forum?id=Od1KtMeAYo) 
+
 * **On Accelerating Diffusion-based Molecular Conformation Generation in SE(3)-invariant Space** [2023]   
 Zhou, Z., Liu, R. and Yu, T.   
 [arXiv:2310.04915 (2023))](https://arxiv.org/abs/2310.04915) 
