@@ -790,6 +790,10 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
+* **Target-Aware Variational Auto-Encoders for Ligand Generation with Multi-Modal Protein Modeling** [2023]   
+  Ngo, Khang, and Truong Son Hy.   
+  [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop. (2023)](https://openreview.net/forum?id=4k926QVVM4) |  [code](https://github.com/HySonLab/Ligand_Generation) 
+
 * **Interaction-aware 3D Molecular Generative Framework for Generalizable Structure-based Drug Design** [2023]   
   Woo Youn Kim, Wonho Zhung, and Hyeongwoo Kim.   
   [Research Square. (2023)](https://www.researchsquare.com/article/rs-3388359/v1) |  [code](https://github.com/ACE-KAIST/DeepICL) 
@@ -1804,7 +1808,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
-
+* **Target-Aware Variational Auto-Encoders for Ligand Generation with Multi-Modal Protein Modeling** [2023]   
+  Ngo, Khang, and Truong Son Hy.   
+  [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop. (2023)](https://openreview.net/forum?id=4k926QVVM4) |  [code](https://github.com/HySonLab/Ligand_Generation) 
 
 * **Conformer Generation for Structure-Based Drug Design: How Many and How Good?** [2023]   
   McNutt, Andrew, Fatimah Bisiriyu, Sophia Song, Ananya Vyas, Geoffrey Hutchison, and David Koes.   
