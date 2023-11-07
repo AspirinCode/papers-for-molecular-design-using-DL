@@ -1813,6 +1813,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+* **Delta Score: Improving the Binding Assessment of Structure-Based Drug Design Methods** [2023]   
+  Minsi Ren, Bowen Gao, Bo Qiang, Yanyan Lan.   
+  [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop. (2023)](https://openreview.net/forum?id=iO59l1LFvJ) 
+
 * **Target-Aware Variational Auto-Encoders for Ligand Generation with Multi-Modal Protein Modeling** [2023]   
   Ngo, Khang, and Truong Son Hy.   
   [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop. (2023)](https://openreview.net/forum?id=4k926QVVM4) |  [code](https://github.com/HySonLab/Ligand_Generation) 
