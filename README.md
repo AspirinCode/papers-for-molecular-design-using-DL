@@ -99,6 +99,11 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 ## Reviews
 
+
+* **Deep Generative Models in De Novo Drug Molecule Generation** [2023]   
+ Chao Pang, Jianbo Qiao, Xiangxiang Zeng, Quan Zou, and Leyi Wei*   
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c01496) 
+
 * **The Hitchhiker’s Guide to Deep Learning Driven Generative Chemistry** [2023]   
  Yan Ivanenkov, Bogdan Zagribelnyy, Alex Malyshev, Sergei Evteev, Victor Terentiev, Petrina Kamya, Dmitry Bezrukov, Alex Aliper, Feng Ren, and Alex Zhavoronkov   
   [ACS Med. Chem. Lett. (2023)](https://doi.org/10.1021/acsmedchemlett.3c00041) 
