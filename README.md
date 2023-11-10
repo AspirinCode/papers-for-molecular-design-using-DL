@@ -1530,6 +1530,9 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+* **Traversing Chemical Space with Active Deep Learning**  [2023]   
+ Derek van Tilborg, AFrancesca Grisoni*.   
+  [chemrxiv-2023-wgl32 (2023)](https://doi.org/10.26434/chemrxiv-2023-wgl32) |  [code](https://github.com/derekvantilborg/traversing_chem_space) 
 
 * **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2023]   
  Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
