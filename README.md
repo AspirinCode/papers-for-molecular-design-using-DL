@@ -1214,6 +1214,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
  Chen, Ziqi, Bo Peng, Srinivasan Parthasarathy, and Xia Ning    
   [arXiv:2308.11890 (2023)](https://arxiv.org/abs/2308.11890) 
 
+* **DiffSeqMol: A Non-Autoregressive Diffusion-Based Approach for Molecular Sequence Generation and Optimization** [2023]   
+ Zixu Wang, Yangyang Chen*, Xiucai Ye.    
+  [chemrxiv-2023-ltr9v-v2.  (2023)](https://doi.org/10.26434/chemrxiv-2023-ltr9v-v2) |  [code](https://github.com/viko-3/DiffSeqMol) 
+
 * **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation** [2023]   
  Peng, Xingang, Jiaqi Guan, Qiang Liu, and Jianzhu Ma.    
   [ICML  (2023)](https://proceedings.mlr.press/v202/peng23b.html) |  [code](https://github.com/pengxingang/MolDiff) 
