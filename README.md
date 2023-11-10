@@ -552,6 +552,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### Autoregressive-models
 
+
+* **Autoregressive fragment-based diffusion for pocket-aware ligand design** [2023]   
+ Ghorbani, Mahdi, Leo Gendelev, Paul Beroza, and Michael Keiser.    
+  [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop.  (2023)](https://openreview.net/forum?id=E3HN48zjam) |  [code](https://github.com/ghorbanimahdi73/autofragdiff) 
+
 * **Learning on topological surface and geometric structure for 3D molecular generation** [2023]   
 Zhang, Odin, Tianyue Wang, Gaoqi Weng, Dejun Jiang, Ning Wang, Xiaorui Wang, Huifeng Zhao et al.  
 [Nat Comput Sci (2023)](https://doi.org/10.1038/s43588-023-00530-2) |  [code](https://github.com/HaotianZhangAI4Science/SurfGen) 
@@ -1190,6 +1195,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+
+* **Autoregressive fragment-based diffusion for pocket-aware ligand design** [2023]   
+ Ghorbani, Mahdi, Leo Gendelev, Paul Beroza, and Michael Keiser.    
+  [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop.  (2023)](https://openreview.net/forum?id=E3HN48zjam) |  [code](https://github.com/ghorbanimahdi73/autofragdiff) 
+
 * **Diffusing on Two Levels and Optimizing for Multiple Properties: A Novel Approach to Generating Molecules with Desirable Properties** [2023]   
  Guo, Siyuan, Jihong Guan, and Shuigeng Zhou.    
   [arXiv:2310.04463 (2023)](https://arxiv.org/abs/2310.04463) 
@@ -1823,6 +1833,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+* **Autoregressive fragment-based diffusion for pocket-aware ligand design** [2023]   
+ Ghorbani, Mahdi, Leo Gendelev, Paul Beroza, and Michael Keiser.    
+  [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop.  (2023)](https://openreview.net/forum?id=E3HN48zjam) |  [code](https://github.com/ghorbanimahdi73/autofragdiff) 
+
 * **Delta Score: Improving the Binding Assessment of Structure-Based Drug Design Methods** [2023]   
   Minsi Ren, Bowen Gao, Bo Qiang, Yanyan Lan.   
   [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop. (2023)](https://openreview.net/forum?id=iO59l1LFvJ) 
@@ -2173,7 +2187,9 @@ ZHANG Z, Liu Q.
 
 ### Fragment-based DMGs
 
-
+* **Autoregressive fragment-based diffusion for pocket-aware ligand design** [2023]   
+ Ghorbani, Mahdi, Leo Gendelev, Paul Beroza, and Michael Keiser.    
+  [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop.  (2023)](https://openreview.net/forum?id=E3HN48zjam) |  [code](https://github.com/ghorbanimahdi73/autofragdiff) 
 
 * **Gotta be SAFE: A New Framework for Molecular Design** [2023]   
   Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
