@@ -1197,6 +1197,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+* **LinkerNet: Fragment Poses and Linker Co-Design with 3D Equivariant Diffusion** [2023]   
+ Guan, Jiaqi, Xingang Peng, PeiQi Jiang, Yunan Luo, Jian Peng, and Jianzhu Ma    
+  [NeurIPS 2023.  (2023)](https://openreview.net/forum?id=6EaLIw3W7c) |  [code](https://github.com/guanjq/LinkerNet) 
 
 * **Autoregressive fragment-based diffusion for pocket-aware ligand design** [2023]   
  Ghorbani, Mahdi, Leo Gendelev, Paul Beroza, and Michael Keiser.    
@@ -2297,7 +2300,9 @@ ZHANG Z, Liu Q.
 ### Linkers-based DMGs
 
 
-
+* **LinkerNet: Fragment Poses and Linker Co-Design with 3D Equivariant Diffusion** [2023]   
+ Guan, Jiaqi, Xingang Peng, PeiQi Jiang, Yunan Luo, Jian Peng, and Jianzhu Ma    
+  [NeurIPS 2023.  (2023)](https://openreview.net/forum?id=6EaLIw3W7c) |  [code](https://github.com/guanjq/LinkerNet) 
 
 * **3D Based Generative PROTAC Linker Design with Reinforcement Learning**  [2023]   
  baiqing li, and Hongming Chen.   
