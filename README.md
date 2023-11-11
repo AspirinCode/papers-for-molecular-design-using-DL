@@ -353,7 +353,9 @@ Xu, Congsheng, Yi Lu, Xiaomei Deng, and Peiyuan Yu.
 ### VAE-based Molecular Conformation Generation
 
 
-
+* **Deep-Learning-Assisted Enhanced Sampling for Exploring Molecular Conformational Changes** [2023]   
+Haohao Fu, Han Liu, Jingya Xing, Tong Zhao, Xueguang Shao, and Wensheng Cai.   
+[J. Phys. Chem. B (2023)](https://doi.org/10.1021/acs.jpcb.3c05284) 
 
 * **An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming** [2021]   
 Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bombarelli, and Jian Tang.   
