@@ -1330,6 +1330,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+* **De novo Drug Design using Reinforcement Learning with Multiple GPT Agents** [2023]   
+  Hu, Xiuyuan, Guoqing Liu, Yang Zhao, and Hao Zhang.   
+  [NeurIPS 2023  (2023)](https://openreview.net/forum?id=1B6YKnHYBb) |  [code](https://github.com/HXYfighter/MolRL-MGPT) 
+
 * **REINVENT4: Modern AI–Driven Generative Molecule Design** [2023]   
   Loeffler H, He J, Tibo A, Janet JP, Voronov A, Mervin L, et al.   
   [chemrxiv-2023-xt65x  (2023)](https://doi.org/10.26434/chemrxiv-2023-xt65x) |  [code](https://github.com/MolecularAI/REINVENT4) 
