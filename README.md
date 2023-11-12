@@ -807,6 +807,11 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
+
+* **NRC-VABS: Normalized Reparameterized Conditional Variational Autoencoder with applied beam search in latent space for drug molecule design** [2023]   
+  Bhadwal, Arun Singh, Kamal Kumar, and Neeraj Kumar.   
+  [Expert Systems with Applications. (2023)](https://doi.org/10.1016/j.eswa.2023.122396) 
+
 * **Target-Aware Variational Auto-Encoders for Ligand Generation with Multi-Modal Protein Modeling** [2023]   
   Ngo, Khang, and Truong Son Hy.   
   [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop. (2023)](https://openreview.net/forum?id=4k926QVVM4) |  [code](https://github.com/HySonLab/Ligand_Generation) 
