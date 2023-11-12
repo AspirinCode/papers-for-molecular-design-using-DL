@@ -437,6 +437,11 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 ### RNN-based
 
+
+* **Generation of focused drug molecule library using recurrent neural network** [2023]   
+Zou, Jinping, Long Zhao, and Shaoping Shi.   
+[Journal of Molecular Modeling 29.12 (2023)](https://doi.org/10.1007/s00894-023-05772-5) |  [code](https://github.com/JinPing1025/Drug_RNN) 
+
 * **ChemTSv2: Functional molecular design using de novo molecule generator** [2023]   
 Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa, Kazuki Yoshizoe, Koji Tsuda, and Kei Terayama.   
 [Wiley Interdisciplinary Reviews: Computational Molecular Science (2023)](https://doi.org/10.1002/wcms.1680) |  [code](https://github.com/molecule-generator-collection/ChemTSv2) 
