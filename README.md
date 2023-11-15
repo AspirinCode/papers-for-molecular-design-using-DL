@@ -1215,6 +1215,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+
+
+* **STRIDE: Structure-guided Generation for Inverse Design of Molecules** [2023]   
+ Zaman, Shehtab, Denis Akhiyarov, Mauricio Araya-Polo, and Kenneth Chiu.    
+  [NeurIPS 2023 AI for Science Workshop.  (2023)](https://openreview.net/forum?id=DqJThcBJ6P&noteId=JjvFlUIseN) 
+
 * **LinkerNet: Fragment Poses and Linker Co-Design with 3D Equivariant Diffusion** [2023]   
  Guan, Jiaqi, Xingang Peng, PeiQi Jiang, Yunan Luo, Jian Peng, and Jianzhu Ma    
   [NeurIPS 2023.  (2023)](https://openreview.net/forum?id=6EaLIw3W7c) |  [code](https://github.com/guanjq/LinkerNet) 
