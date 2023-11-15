@@ -1025,6 +1025,10 @@ Li, C., Yamanishi, Y.
 
 
 
+* **STAGAN: An approach for improve the stability of molecular graph generation based on generative adversarial networks** [2023]   
+Zou, Jinping, Jialin Yu, Pengwei Hu, Long Zhao, and Shaoping Shi.    
+[Computers in Biology and Medicine (2023)](https://doi.org/10.1016/j.compbiomed.2023.107691) |  [code](https://github.com/JinPing1025/STAGAN) 
+
 * **An interface-based molecular generative framework for protein-protein interaction inhibitors** [2023]   
 Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Heqi Sun, Kyoung Tai No, Tao Song, Xiangxiang Zeng    
 [bioRxiv (2023)](https://doi.org/10.1101/2023.10.10.557742) |  [code](https://github.com/AspirinCode/GENiPPI) 
