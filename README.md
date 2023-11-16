@@ -602,6 +602,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+* **Cross-modal Generation of Hit-like Molecules via Foundation Model Encoding of Gene Expression Signatures** [2023]   
+  Jiabei Cheng, Xiaoyong Pan, Kaiyuan Yang, Shenghao Cao, Bin Liu, Ye Yuan.   
+  [bioRxiv 2023.11.11.566725.  (2023)](https://doi.org/10.1101/2023.11.11.566725) |  [code](https://github.com/Bunnybeibei/GexMolGen) 
 
 * **REINVENT4: Modern AI–Driven Generative Molecule Design** [2023]   
   Loeffler H, He J, Tibo A, Janet JP, Voronov A, Mervin L, et al.   
@@ -2430,7 +2433,17 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+
+
+
+
 ## Omics-based deep molecular generative models
+
+
+
+* **Cross-modal Generation of Hit-like Molecules via Foundation Model Encoding of Gene Expression Signatures** [2023]   
+  Jiabei Cheng, Xiaoyong Pan, Kaiyuan Yang, Shenghao Cao, Bin Liu, Ye Yuan.   
+  [bioRxiv 2023.11.11.566725.  (2023)](https://doi.org/10.1101/2023.11.11.566725) |  [code](https://github.com/Bunnybeibei/GexMolGen) 
 
 * **De novo drug design based on patient gene expression profiles via deep learning**  [2023]   
  Yamanaka, Chikashige, Shunya Uki, Kazuma Kaitoh, Michio Iwata, and Yoshihiro Yamanishi.   
