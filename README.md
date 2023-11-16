@@ -1344,6 +1344,11 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+
+* **Tree-Invent: A Novel Multipurpose Molecular Generative Model Constrained with a Topological Tree** [2023]   
+  Mingyuan Xu, Hongming Chen.   
+  [J. Chem. Inf. Model.  (2023)](https://doi.org/10.1021/acs.jcim.3c01626) |  [code](https://github.com/MingyuanXu/Tree-Invent) 
+
 * **De novo Drug Design using Reinforcement Learning with Multiple GPT Agents** [2023]   
   Hu, Xiuyuan, Guoqing Liu, Yang Zhao, and Hao Zhang.   
   [NeurIPS 2023  (2023)](https://openreview.net/forum?id=1B6YKnHYBb) |  [code](https://github.com/HXYfighter/MolRL-MGPT) 
@@ -1702,6 +1707,10 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
+
+* **Tree-Invent: A Novel Multipurpose Molecular Generative Model Constrained with a Topological Tree** [2023]   
+  Mingyuan Xu, Hongming Chen.   
+  [J. Chem. Inf. Model.  (2023)](https://doi.org/10.1021/acs.jcim.3c01626) |  [code](https://github.com/MingyuanXu/Tree-Invent) 
 
 * **LS-MolGen: Ligand-and-Structure Dual-Driven Deep Reinforcement Learning for Target-Specific Molecular Generation Improves Binding Affinity and Novelty** [2023]  
  Li, Song, Chao Hu, Song Ke, Chenxing Yang, Jun Chen, Yi Xiong, Hao Liu, and Liang Hong.   
