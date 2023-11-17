@@ -874,7 +874,7 @@ Li, C., Yamanishi, Y.
 
 * **Deep generative model of constructing chemical latent space for large molecular structures with 3D complexity**  [2023]   
  Ochiai, Toshiki, Tensei Inukai, Manato Akiyama, Kairi Furui, Masahito Ohue, Nobuaki Matsumori, Shinsuke Inuki et al.   
-  [chemrxiv (2023)](https://doi.org/10.26434/chemrxiv-2023-pjl0w-v2) |  [code](https://github.com/toshikiochiai/NPVAE) 
+  [Commun Chem 6, 249 (2023)](https://doi.org/10.1038/s42004-023-01054-6) |  [chemrxiv (2023)](https://doi.org/10.26434/chemrxiv-2023-pjl0w-v2) |  [code](https://github.com/toshikiochiai/NPVAE) 
 
 * **De novo drug design based on patient gene expression profiles via deep learning**  [2023]   
  Yamanaka, Chikashige, Shunya Uki, Kazuma Kaitoh, Michio Iwata, and Yoshihiro Yamanishi.   
