@@ -1881,6 +1881,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+* **Geometric Deep Learning for Structure-Based Ligand Design** [2023]   
+  Alexander S. Powers, Helen H. Yu, Patricia Suriana, Rohan V. Koodli, Tianyu Lu, Joseph M. Paggi, and Ron O. Dror.   
+  [ACS Cent. Sci. (2023)](https://doi.org/10.1021/acscentsci.3c00572) 
+
 * **Autoregressive fragment-based diffusion for pocket-aware ligand design** [2023]   
  Ghorbani, Mahdi, Leo Gendelev, Paul Beroza, and Michael Keiser.    
   [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop.  (2023)](https://openreview.net/forum?id=E3HN48zjam) |  [code](https://github.com/ghorbanimahdi73/autofragdiff) 
@@ -2234,6 +2238,12 @@ ZHANG Z, Liu Q.
 
 
 ### Fragment-based DMGs
+
+
+
+* **Geometric Deep Learning for Structure-Based Ligand Design** [2023]   
+  Alexander S. Powers, Helen H. Yu, Patricia Suriana, Rohan V. Koodli, Tianyu Lu, Joseph M. Paggi, and Ron O. Dror.   
+  [ACS Cent. Sci. (2023)](https://doi.org/10.1021/acscentsci.3c00572) 
 
 * **Autoregressive fragment-based diffusion for pocket-aware ligand design** [2023]   
  Ghorbani, Mahdi, Leo Gendelev, Paul Beroza, and Michael Keiser.    
