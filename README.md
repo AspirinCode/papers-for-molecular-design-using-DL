@@ -2585,6 +2585,6 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 * **Protein-Ligand Binding Site Prediction and de Novo Ligand Generation from Cryo-EM Maps**  [2023]   
  Lu, Chunyang, Kaustav Mitra, Kiran Mitra, Hanze Meng, Shane Thomas Rich-New, Fengbin Wang, and Dong Si.   
-  [bioRxiv, 2023-11 (2020)](https://doi.org/10.1101/2023.11.16.567458) |  [Website](https://deeptracer.uw.edu/) 
+  [bioRxiv, 2023-11 (2023)](https://doi.org/10.1101/2023.11.16.567458) |  [Website](https://deeptracer.uw.edu/) 
   
 
