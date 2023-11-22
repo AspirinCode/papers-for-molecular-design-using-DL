@@ -601,6 +601,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+* **Molecular generation strategy and optimization based on A2C reinforcement learning in de novo drug design** [2023]   
+  Wang, Qian, Zhiqiang Wei, Xiaotong Hu, Zhuoya Wang, Yujie Dong, and Hao Liu.   
+  [Bioinformatics: btad693.  (2023)](https://doi.org/10.1093/bioinformatics/btad693) |  [code](https://github.com/wq-sunshine/MomdTDSRL) 
 
 * **Cross-modal Generation of Hit-like Molecules via Foundation Model Encoding of Gene Expression Signatures** [2023]   
   Jiabei Cheng, Xiaoyong Pan, Kaiyuan Yang, Shenghao Cao, Bin Liu, Ye Yuan.   
@@ -1347,6 +1350,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+
+* **Molecular generation strategy and optimization based on A2C reinforcement learning in de novo drug design** [2023]   
+  Wang, Qian, Zhiqiang Wei, Xiaotong Hu, Zhuoya Wang, Yujie Dong, and Hao Liu.   
+  [Bioinformatics: btad693.  (2023)](https://doi.org/10.1093/bioinformatics/btad693) |  [code](https://github.com/wq-sunshine/MomdTDSRL) 
 
 * **Tree-Invent: A Novel Multipurpose Molecular Generative Model Constrained with a Topological Tree** [2023]   
   Mingyuan Xu, Hongming Chen.   
