@@ -24,7 +24,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | [Pharmacophore-based deep molecular generative models](#pharmacophore-based-deep-molecular-generative-models) | [Structure-based deep molecular generative models](#structure-based-deep-molecular-generative-models) | [Fragment-based deep molecular generative models](#fragment-based-deep-molecular-generative-models) | [Scaffold-based DMGs](#scaffold-based-dmgs) |
 | [Fragment-based DMGs](#fragment-based-dmgs) | [Motifs-based DMGs](#motifs-based-dmgs) | [Linkers-based DMGs](#linkers-based-dmgs) | [Chemical Reaction-based deep molecular generative models](#chemical-reaction-based-deep-molecular-generative-models) |
 | [Omics-based deep molecular generative models](#omics-based-deep-molecular-generative-models) | [Multi-Objective deep molecular generative models](#multi-objective-deep-molecular-generative-models) | [Quantum deep molecular generative models](#quantum-deep-molecular-generative-models) | [Recommendations and References](#recommendations-and-references) |
-| [Spectra(Mass/NMR)-based](#spectra-based) | [Mass Spectra-based](#mass-spectra-based) | [NMR Spectra-based](#nmr-spectra-based) |  |
+| [Spectra(Mass/NMR)-based](#spectra-based) | [Mass Spectra-based](#mass-spectra-based) | [NMR Spectra-based](#nmr-spectra-based) | [Cryo-EM Maps-based](#cryo-em-maps-based) |
 
   - [ Drug-likeness and Evaluation metrics](#drug-likeness-and-evaluation-metrics)
 
@@ -2581,8 +2581,10 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+### Cryo-EM Maps-based
 
-
-
+* **Protein-Ligand Binding Site Prediction and de Novo Ligand Generation from Cryo-EM Maps**  [2023]   
+ Lu, Chunyang, Kaustav Mitra, Kiran Mitra, Hanze Meng, Shane Thomas Rich-New, Fengbin Wang, and Dong Si.   
+  [bioRxiv, 2023-11 (2020)](https://doi.org/10.1101/2023.11.16.567458) |  [Website](https://deeptracer.uw.edu/) 
   
 
