@@ -116,6 +116,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+* **Molecular generation strategy and optimization based on A2C reinforcement learning in de novo drug design** [2023]   
+  Wang, Qian, Zhiqiang Wei, Xiaotong Hu, Zhuoya Wang, Yujie Dong, and Hao Liu.   
+  [Bioinformatics: btad693.  (2023)](https://doi.org/10.1093/bioinformatics/btad693) |  [code](https://github.com/wq-sunshine/MomdTDSRL) 
 
 * **CFOM: Lead Optimization For Drug Discovery With Limited Data** [2023]  
   Kaminsky, Natan, Uriel Singer, and Kira Radinsky.  
@@ -206,6 +209,9 @@ Huang, Lei.
 
 ### RL-based
 
+* **Molecular generation strategy and optimization based on A2C reinforcement learning in de novo drug design** [2023]   
+  Wang, Qian, Zhiqiang Wei, Xiaotong Hu, Zhuoya Wang, Yujie Dong, and Hao Liu.   
+  [Bioinformatics: btad693.  (2023)](https://doi.org/10.1093/bioinformatics/btad693) |  [code](https://github.com/wq-sunshine/MomdTDSRL) 
 
 * **ReBADD-SE: Multi-objective molecular optimisation using SELFIES fragment and off-policy self-critical sequence training** [2023]  
 Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
