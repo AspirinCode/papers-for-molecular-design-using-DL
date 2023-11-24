@@ -33,6 +33,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | [Datasets](#datasets) | [Benchmarks](#benchmarks) | [QED](#qed) | [SAscore](#sascore) |
 |  |  | [QEPPI](#qeppi) | [RAscore](#rascore) |
 |  |  |  | [Evaluation metrics](#evaluation-metrics) |
+|  |  |  | [Molecular generative validation](#molecular-generative-validation) |
 
 
   - [Generative AI for Molecular Conformation](#generative-ai-for-molecular-conformation)
