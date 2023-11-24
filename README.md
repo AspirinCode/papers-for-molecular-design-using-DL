@@ -1604,7 +1604,7 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 * **VGAE-MCTS: a New Molecular Generative Model combining Variational Graph Auto-Encoder and Monte Carlo Tree Search** [2023]  
  Iwata, Hiroaki, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, Ryosuke Kojima, and Yasushi Okuno.   
-  [chemrxiv-2023-q8419-v2](https://doi.org/10.26434/chemrxiv-2023-q8419-v2) 
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c01220) | [chemrxiv-2023-q8419-v2](https://doi.org/10.26434/chemrxiv-2023-q8419-v2) 
 
 * **A graph-based genetic algorithm and generative model/Monte Carlo tree search for the exploration of chemical space** [2019]   
   Jensen, Jan H.    
