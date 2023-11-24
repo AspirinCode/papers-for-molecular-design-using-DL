@@ -330,6 +330,15 @@ Thomas, Morgan, Noel M. O'Boyle, Andreas Bender, and Chris De Graaf.
 
 
 
+## Molecular generative validation
+
+
+
+* **On the difficulty of validating molecular generative models realistically: a case study on public and proprietary data** [2023]   
+Handa, K., Thomas, M.C., Kageyama, M. et al.   
+[J Cheminform 15, 112 (2023)](https://doi.org/10.1186/s13321-023-00781-1) 
+
+
 
 
 ## Generative AI for Molecular Conformation
