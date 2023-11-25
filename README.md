@@ -611,6 +611,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+
+
+* **PROTACable is an Integrative Computational Pipeline of 3-D Modeling and Deep Learning to Automate the De Novo Design of PROTACs** [2023]   
+  Hazem Mslati, Francesco Gentile, Mohit Pandey, Fuqiang Ban, Artem Cherkasov.   
+  [bioRxiv 2023.11.20.567951. (2023)](https://doi.org/10.1101/2023.11.20.567951) |  [code](https://github.com/giaguaro/PROTACable) 
+
 * **Molecular generation strategy and optimization based on A2C reinforcement learning in de novo drug design** [2023]   
   Wang, Qian, Zhiqiang Wei, Xiaotong Hu, Zhuoya Wang, Yujie Dong, and Hao Liu.   
   [Bioinformatics: btad693.  (2023)](https://doi.org/10.1093/bioinformatics/btad693) |  [code](https://github.com/wq-sunshine/MomdTDSRL) 
