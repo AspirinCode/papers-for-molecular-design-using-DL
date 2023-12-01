@@ -617,6 +617,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+* **LLamol: A Dynamic Multi-Conditional Generative Transformer for De Novo Molecular Design** [2023]   
+  Dobberstein, Niklas, Astrid Maass, and Jan Hamaekers.   
+  [arXiv:2311.14407.  (2023)](https://arxiv.org/abs/2311.14407) |  [code](https://github.com/Fraunhofer-SCAI/llamol) 
+
 * **GraphGPT: A Graph Enhanced Generative Pretrained Transformer for Conditioned Molecular Generation** [2023]   
   Lu, Hao, Zhiqiang Wei, Xuze Wang, Kun Zhang, and Hao Liu.   
   [International Journal of Molecular Sciences 24.23 (2023)](https://doi.org/10.3390/ijms242316761) |  [code](https://github.com/luhao27/GraphGPT) 
