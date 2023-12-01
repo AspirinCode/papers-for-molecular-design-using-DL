@@ -520,6 +520,10 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 ### LSTM-based
 
 
+* **Computational Drug Discovery on HIV Virus with a Customized LSTM Variational Autoencoder Deep Learning Architecture** [2023]   
+  Kutsal, Mucahit, Ferhat Ucar, and Nida Kati.   
+  [CPT: Pharmacometrics & Systems Pharmacology. (2023)](https://doi.org/10.1002/psp4.13085) |  [code](https://github.com/McahitKutsal/lstm-drug-discovery) 
+
 * **Structured State-Space Sequence Models for De Novo Drug Design** [2023]   
   Özçelik R, de Ruiter S, Grisoni F.   
   [chemrxiv-2023-jwmf3. (2023)](https://doi.org/10.26434/chemrxiv-2023-jwmf3) |  [code](https://github.com/molML/s4-for-de-novo-drug-design) 
@@ -838,6 +842,9 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
+* **Computational Drug Discovery on HIV Virus with a Customized LSTM Variational Autoencoder Deep Learning Architecture** [2023]   
+  Kutsal, Mucahit, Ferhat Ucar, and Nida Kati.   
+  [CPT: Pharmacometrics & Systems Pharmacology. (2023)](https://doi.org/10.1002/psp4.13085) |  [code](https://github.com/McahitKutsal/lstm-drug-discovery) 
 
 * **NRC-VABS: Normalized Reparameterized Conditional Variational Autoencoder with applied beam search in latent space for drug molecule design** [2023]   
   Bhadwal, Arun Singh, Kamal Kumar, and Neeraj Kumar.   
