@@ -617,6 +617,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+* **GraphGPT: A Graph Enhanced Generative Pretrained Transformer for Conditioned Molecular Generation** [2023]   
+  Lu, Hao, Zhiqiang Wei, Xuze Wang, Kun Zhang, and Hao Liu.   
+  [International Journal of Molecular Sciences 24.23 (2023)](https://doi.org/10.3390/ijms242316761) |  [code](https://github.com/luhao27/GraphGPT) 
+
 * **PROTACable is an Integrative Computational Pipeline of 3-D Modeling and Deep Learning to Automate the De Novo Design of PROTACs** [2023]   
   Hazem Mslati, Francesco Gentile, Mohit Pandey, Fuqiang Ban, Artem Cherkasov.   
   [bioRxiv 2023.11.20.567951. (2023)](https://doi.org/10.1101/2023.11.20.567951) |  [code](https://github.com/giaguaro/PROTACable) 
