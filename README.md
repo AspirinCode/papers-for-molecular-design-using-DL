@@ -1609,6 +1609,11 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+
+* **Streamlining pipeline efficiency: a novel model-agnostic technique for accelerating conditional generative and virtual screening pipelines**  [2023]   
+ Viswanathan, K., Goel, M., Laghuvarapu, S. et al.   
+  [Sci Rep 13, 21069 (2023)](https://doi.org/10.1038/s41598-023-42952-y) |  [code](https://github.com/devalab/Enhanced-MoleGuLAR) 
+
 * **Traversing Chemical Space with Active Deep Learning**  [2023]   
  Derek van Tilborg, AFrancesca Grisoni*.   
   [chemrxiv-2023-wgl32 (2023)](https://doi.org/10.26434/chemrxiv-2023-wgl32) |  [code](https://github.com/derekvantilborg/traversing_chem_space) 
