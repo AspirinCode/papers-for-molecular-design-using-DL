@@ -1252,7 +1252,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
-
+* **KGDiff: towards explainable target-aware molecule generation with knowledge guidance** [2023]   
+ Hao Qian, Wenjing Huang, Shikui Tu, Lei Xu.    
+  [Briefings in Bioinformatics.  (2023)](https://doi.org/10.1093/bib/bbad435)  |  [code](https://github.com/CMACH508/KGDiff) 
 
 * **STRIDE: Structure-guided Generation for Inverse Design of Molecules** [2023]   
  Zaman, Shehtab, Denis Akhiyarov, Mauricio Araya-Polo, and Kenneth Chiu.    
@@ -1923,6 +1925,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+* **KGDiff: towards explainable target-aware molecule generation with knowledge guidance** [2023]   
+ Hao Qian, Wenjing Huang, Shikui Tu, Lei Xu.    
+  [Briefings in Bioinformatics.  (2023)](https://doi.org/10.1093/bib/bbad435)  |  [code](https://github.com/CMACH508/KGDiff) 
 
 * **Geometric Deep Learning for Structure-Based Ligand Design** [2023]   
   Alexander S. Powers, Helen H. Yu, Patricia Suriana, Rohan V. Koodli, Tianyu Lu, Joseph M. Paggi, and Ron O. Dror.   
