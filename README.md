@@ -622,6 +622,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+* **A self-improvable Polymer Discovery Framework Based on Conditional Generative Model** [2023]   
+  Xiangyun Lei and Weike Ye and Zhenze Yang and Daniel Schweigert and Ha-Kyung Kwon and Arash Khajeh.   
+  [	arXiv:2312.04013.  (2023)](https://arxiv.org/abs/2312.04013) 
+
 * **LLamol: A Dynamic Multi-Conditional Generative Transformer for De Novo Molecular Design** [2023]   
   Dobberstein, Niklas, Astrid Maass, and Jan Hamaekers.   
   [arXiv:2311.14407.  (2023)](https://arxiv.org/abs/2311.14407) |  [code](https://github.com/Fraunhofer-SCAI/llamol) 
