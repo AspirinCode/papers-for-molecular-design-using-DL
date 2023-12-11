@@ -1149,6 +1149,12 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 ### Flow-based
 
 
+
+
+* **High-Temperature Polymer Dielectrics Designed Using an Invertible Molecular Graph Generative Model** [2023]   
+Di-Fan Liu, Yong-Xin Zhang, Wen-Zhuo Dong, Qi-Kun Feng, Shao-Long Zhong, and Zhi-Min Dang.   
+[J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c01572) |  [code](https://github.com/pfnet-research/graph-nvp) 
+
 * **TacoGFN: Target Conditioned GFlowNet for Structure-Based Drug Design** [2023]   
 Tony Shen, Mohit Pandey, Martin Ester.  
 [arXiv:2310.03223. (2023)](https://arxiv.org/abs/2310.03223v1) 
