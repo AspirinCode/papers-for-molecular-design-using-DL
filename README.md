@@ -452,6 +452,11 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 ### RNN-based
 
 
+
+* **NovoMol: Recurrent Neural Network for Orally Bioavailable Drug Design and Validation on PDGFRα Receptor** [2023]   
+Rao, Ishir.   
+[arXiv:2312.01527 (2023)](https://arxiv.org/abs/2312.01527) |  [code](https://github.com/ishirraov/NovoMol) 
+
 * **Generation of focused drug molecule library using recurrent neural network** [2023]   
 Zou, Jinping, Long Zhao, and Shaoping Shi.   
 [Journal of Molecular Modeling 29.12 (2023)](https://doi.org/10.1007/s00894-023-05772-5) |  [code](https://github.com/JinPing1025/Drug_RNN) 
