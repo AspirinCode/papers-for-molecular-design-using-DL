@@ -622,7 +622,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **Gotta be SAFE: A New Framework for Molecular Design** [2023]   
+  Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
+  [arXiv:2310.10773 (2023)](https://arxiv.org/abs/2310.10773) |  [code](https://github.com/datamol-io/safe) 
 
 * **A self-improvable Polymer Discovery Framework Based on Conditional Generative Model** [2023]   
   Xiangyun Lei and Weike Ye and Zhenze Yang and Daniel Schweigert and Ha-Kyung Kwon and Arash Khajeh.   
@@ -2305,6 +2307,12 @@ ZHANG Z, Liu Q.
 ### Fragment-based DMGs
 
 
+
+
+
+* **Gotta be SAFE: A New Framework for Molecular Design** [2023]   
+  Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
+  [arXiv:2310.10773 (2023)](https://arxiv.org/abs/2310.10773) |  [code](https://github.com/datamol-io/safe) 
 
 * **Geometric Deep Learning for Structure-Based Ligand Design** [2023]   
   Alexander S. Powers, Helen H. Yu, Patricia Suriana, Rohan V. Koodli, Tianyu Lu, Joseph M. Paggi, and Ron O. Dror.   
