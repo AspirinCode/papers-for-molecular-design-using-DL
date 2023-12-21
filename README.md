@@ -1403,6 +1403,11 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+* **GRELinker: A Graph-based Generative Model for Molecular Linker Design with Reinforcement and Curriculum Learning** [2023]   
+     
+   [code](https://github.com/howzh728/GRELinker) 
+
 * **Molecular generation strategy and optimization based on A2C reinforcement learning in de novo drug design** [2023]   
   Wang, Qian, Zhiqiang Wei, Xiaotong Hu, Zhuoya Wang, Yujie Dong, and Hao Liu.   
   [Bioinformatics: btad693.  (2023)](https://doi.org/10.1093/bioinformatics/btad693) |  [code](https://github.com/wq-sunshine/MomdTDSRL) 
@@ -2422,6 +2427,12 @@ ZHANG Z, Liu Q.
 
 ### Linkers-based DMGs
 
+
+
+
+* **GRELinker: A Graph-based Generative Model for Molecular Linker Design with Reinforcement and Curriculum Learning** [2023]   
+     
+   [code](https://github.com/howzh728/GRELinker) 
 
 * **LinkerNet: Fragment Poses and Linker Co-Design with 3D Equivariant Diffusion** [2023]   
  Guan, Jiaqi, Xingang Peng, PeiQi Jiang, Yunan Luo, Jian Peng, and Jianzhu Ma    
