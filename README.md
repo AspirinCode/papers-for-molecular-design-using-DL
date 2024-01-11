@@ -254,6 +254,11 @@ https://github.com/LumosBio/MolData
 ### Benchmarks
 
 
+
+* **RediscMol: Benchmarking Molecular Generation Models in Biological Properties** [2024]  
+Weng, Gaoqi, Huifeng Zhao, Dou Nie, Haotian Zhang, Liwei Liu, Tingjun Hou, and Yu Kang.  
+[J. Med. Chem. 2024](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01355) |  [code](https://github.com/gaoqiweng/RediscMol) 
+
 * **Generative Models Should at Least Be Able to Design Molecules That Dock Well: A New Benchmark** [2023]  
 Ciepliński, Tobiasz, Tomasz Danel, Sabina Podlewska, and Stanisław Jastrzȩbski.  
 [J. Chem. Inf. Model. 2023, 63, 11, 3238–3247](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01355) |  [code](https://github.com/cieplinski-tobiasz/smina-docking-benchmark) 
