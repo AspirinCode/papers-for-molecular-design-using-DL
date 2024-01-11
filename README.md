@@ -627,6 +627,13 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+
+* **Accelerating Discovery of Novel and Bioactive Ligands With Pharmacophore-Informed Generative Models** [2024]   
+  Xie, Weixin, Jianhang Zhang, Qin Xie, Chaojun Gong, Youjun Xu, Luhua Lai, and Jianfeng Pei.   
+  [arXiv:2401.01059 (2024)](https://arxiv.org/abs/2401.01059) |  [code](http://gitlab.iipharma.cn/zhangjh/transpharmer-repo) 
+
 * **Gotta be SAFE: A New Framework for Molecular Design** [2023]   
   Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
   [arXiv:2310.10773 (2023)](https://arxiv.org/abs/2310.10773) |  [code](https://github.com/datamol-io/safe) 
