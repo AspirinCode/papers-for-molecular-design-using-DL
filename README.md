@@ -1402,7 +1402,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
-
+* **Goal-directed molecule generation with fine-tuning by policy gradient** [2024]   
+  Sha, Chunli, and Fei Zhu.   
+  [Expert Systems with Applications (2024)](https://doi.org/10.1016/j.eswa.2023.123127)  
 
 * **GRELinker: A Graph-based Generative Model for Molecular Linker Design with Reinforcement and Curriculum Learning** [2023]   
      
