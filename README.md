@@ -633,7 +633,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **Target-aware Molecule Generation for Drug Design Using a Chemical Language Model** [2024]   
+  Xia, Yingce, Kehan Wu, Pan Deng, Renhe Liu, Yuan Zhang, Han Guo, Yumeng Cui et al.   
+  [bioRxiv (2024)](https://doi.org/10.1101/2024.01.08.574635) 
 
 * **Accelerating Discovery of Novel and Bioactive Ligands With Pharmacophore-Informed Generative Models** [2024]   
   Xie, Weixin, Jianhang Zhang, Qin Xie, Chaojun Gong, Youjun Xu, Luhua Lai, and Jianfeng Pei.   
@@ -1973,6 +1975,12 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+
+
+
+* **Target-aware Molecule Generation for Drug Design Using a Chemical Language Model** [2024]   
+  Xia, Yingce, Kehan Wu, Pan Deng, Renhe Liu, Yuan Zhang, Han Guo, Yumeng Cui et al.   
+  [bioRxiv (2024)](https://doi.org/10.1101/2024.01.08.574635) 
 
 * **KGDiff: towards explainable target-aware molecule generation with knowledge guidance** [2023]   
  Hao Qian, Wenjing Huang, Shikui Tu, Lei Xu.    
