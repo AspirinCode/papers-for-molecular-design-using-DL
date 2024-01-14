@@ -588,6 +588,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 ### Autoregressive-models
 
 
+
+* **De Novo Molecule Design Towards Biased Properties via a Deep Generative Framework and Iterative Transfer Learning** [2024]   
+Sattari, Kianoosh, Dawei Li, Bhupalee Kalita, Yunchao Xie, Fatemeh Barmaleki Lighvan, Olexandr Isayev, and Jian Lin.  
+[Digital Discovery (2024)](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d3dd00210a) |  [code](https://github.com/linresearchgroup/RRCGAN_Molecules_Ehl) 
+
 * **Autoregressive fragment-based diffusion for pocket-aware ligand design** [2023]   
  Ghorbani, Mahdi, Leo Gendelev, Paul Beroza, and Michael Keiser.    
   [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop.  (2023)](https://openreview.net/forum?id=E3HN48zjam) |  [code](https://github.com/ghorbanimahdi73/autofragdiff) 
@@ -1086,6 +1091,12 @@ Li, C., Yamanishi, Y.
 ### GAN-based
 
 
+
+
+
+* **De Novo Molecule Design Towards Biased Properties via a Deep Generative Framework and Iterative Transfer Learning** [2024]   
+Sattari, Kianoosh, Dawei Li, Bhupalee Kalita, Yunchao Xie, Fatemeh Barmaleki Lighvan, Olexandr Isayev, and Jian Lin.  
+[Digital Discovery (2024)](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d3dd00210a) |  [code](https://github.com/linresearchgroup/RRCGAN_Molecules_Ehl) 
 
 * **STAGAN: An approach for improve the stability of molecular graph generation based on generative adversarial networks** [2023]   
 Zou, Jinping, Jialin Yu, Pengwei Hu, Long Zhao, and Shaoping Shi.    
