@@ -1296,6 +1296,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+
+
+* **Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation** [2024]   
+ Le, Tuan, Julian Cremer, Frank Noé, Djork-Arné Clevert, and Kristof Schütt.    
+  [International Conference on Learning Representations (ICLR).  (2024)](https://openreview.net/pdf?id=kzGuiRXZrQ)  |  [code](https://github.com/tuanle618/eqgat-diff) 
+
 * **KGDiff: towards explainable target-aware molecule generation with knowledge guidance** [2023]   
  Hao Qian, Wenjing Huang, Shikui Tu, Lei Xu.    
   [Briefings in Bioinformatics.  (2023)](https://doi.org/10.1093/bib/bbad435)  |  [code](https://github.com/CMACH508/KGDiff) 
