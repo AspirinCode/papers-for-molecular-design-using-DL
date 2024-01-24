@@ -1437,9 +1437,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
   Sha, Chunli, and Fei Zhu.   
   [Expert Systems with Applications (2024)](https://doi.org/10.1016/j.eswa.2023.123127)  
 
-* **GRELinker: A Graph-based Generative Model for Molecular Linker Design with Reinforcement and Curriculum Learning** [2023]   
-     
-   [code](https://github.com/howzh728/GRELinker) 
+* **GRELinker: A Graph-based Generative Model for Molecular Linker Design with Reinforcement and Curriculum Learning** [2024]   
+  Zhang, Hao, Jinchao Huang, Junjie Xie, Weifeng Huang, Yuedong Yang, Mingyuan Xu, Jinping Lei, and Hongming Chen.  
+  [J. Chem. Inf. Model.  (2024)](https://doi.org/10.1021/acs.jcim.3c01700) | [code](https://github.com/howzh728/GRELinker)  
 
 * **Molecular generation strategy and optimization based on A2C reinforcement learning in de novo drug design** [2023]   
   Wang, Qian, Zhiqiang Wei, Xiaotong Hu, Zhuoya Wang, Yujie Dong, and Hao Liu.   
