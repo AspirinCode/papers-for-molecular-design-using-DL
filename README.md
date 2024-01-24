@@ -2469,9 +2469,9 @@ ZHANG Z, Liu Q.
 
 
 
-* **GRELinker: A Graph-based Generative Model for Molecular Linker Design with Reinforcement and Curriculum Learning** [2023]   
-     
-   [code](https://github.com/howzh728/GRELinker) 
+* **GRELinker: A Graph-based Generative Model for Molecular Linker Design with Reinforcement and Curriculum Learning** [2024]   
+  Zhang, Hao, Jinchao Huang, Junjie Xie, Weifeng Huang, Yuedong Yang, Mingyuan Xu, Jinping Lei, and Hongming Chen.  
+  [J. Chem. Inf. Model.  (2024)](https://doi.org/10.1021/acs.jcim.3c01700) | [code](https://github.com/howzh728/GRELinker)  
 
 * **LinkerNet: Fragment Poses and Linker Co-Design with 3D Equivariant Diffusion** [2023]   
  Guan, Jiaqi, Xingang Peng, PeiQi Jiang, Yunan Luo, Jian Peng, and Jianzhu Ma    
