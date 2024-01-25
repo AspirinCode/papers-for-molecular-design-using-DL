@@ -1433,6 +1433,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+* **Using Generative Modeling to Endow with Potency Initially Inert Compounds with Good Bioavailability and Low Toxicity** [2024]   
+  Robert I. Horne, Jared Wilson-Godber, Alicia González Díaz, Z. Faidon Brotzakis, Srijit Seal, Rebecca C. Gregory, Andrea Possenti, Sean Chia, and Michele Vendruscolo.  
+  [J. Chem. Inf. Model.  (2024)](https://doi.org/10.1021/acs.jcim.3c01777) | [code](https://github.com/Jaredwg2000/MolDQN_CNS)  
+
 * **Goal-directed molecule generation with fine-tuning by policy gradient** [2024]   
   Sha, Chunli, and Fei Zhu.   
   [Expert Systems with Applications (2024)](https://doi.org/10.1016/j.eswa.2023.123127)  
