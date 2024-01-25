@@ -1436,6 +1436,11 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+* **FREED++: Improving RL Agents for Fragment-Based Molecule Generation by Thorough Reproduction** [2024]   
+  Telepov, Alexander, Artem Tsypin, Kuzma Khrabrov, Sergey Yakukhnov, Pavel Strashnov, Petr Zhilyaev, Egor Rumiantsev et al.    
+  [arXiv:2401.09840 (2024)](https://arxiv.org/abs/2401.09840) |  [code](https://github.com/AIRI-Institute/FFREED) 
+
 * **Local Scaffold Diversity-Contributed Generator for Discovering Potential NLRP3 Inhibitors** [2024]   
   Weichen Bo, Yangqin Duan, Yurong Zou, Ziyan Ma, Tao Yang, Peng Wang, Tao Guo, Zhiyuan Fu, Jianmin Wang, Linchuan Fan, Jie liu, Taijin Wang, and Lijuan Chen.   
   [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c01818) |  [code](https://github.com/wichen-2022/LSDC) 
@@ -2363,7 +2368,9 @@ ZHANG Z, Liu Q.
 
 
 
-
+* **FREED++: Improving RL Agents for Fragment-Based Molecule Generation by Thorough Reproduction** [2024]   
+  Telepov, Alexander, Artem Tsypin, Kuzma Khrabrov, Sergey Yakukhnov, Pavel Strashnov, Petr Zhilyaev, Egor Rumiantsev et al.    
+  [arXiv:2401.09840 (2024)](https://arxiv.org/abs/2401.09840) |  [code](https://github.com/AIRI-Institute/FFREED) 
 
 * **Gotta be SAFE: A New Framework for Molecular Design** [2023]   
   Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
