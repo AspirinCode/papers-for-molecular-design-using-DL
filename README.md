@@ -631,7 +631,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
-
+* **Local Scaffold Diversity-Contributed Generator for Discovering Potential NLRP3 Inhibitors** [2024]   
+  Weichen Bo, Yangqin Duan, Yurong Zou, Ziyan Ma, Tao Yang, Peng Wang, Tao Guo, Zhiyuan Fu, Jianmin Wang, Linchuan Fan, Jie liu, Taijin Wang, and Lijuan Chen.   
+  [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c01818) |  [code](https://github.com/wichen-2022/LSDC) 
 
 * **Target-aware Molecule Generation for Drug Design Using a Chemical Language Model** [2024]   
   Xia, Yingce, Kehan Wu, Pan Deng, Renhe Liu, Yuan Zhang, Han Guo, Yumeng Cui et al.   
@@ -1432,6 +1434,11 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 ### RL-based
 
+
+
+* **Local Scaffold Diversity-Contributed Generator for Discovering Potential NLRP3 Inhibitors** [2024]   
+  Weichen Bo, Yangqin Duan, Yurong Zou, Ziyan Ma, Tao Yang, Peng Wang, Tao Guo, Zhiyuan Fu, Jianmin Wang, Linchuan Fan, Jie liu, Taijin Wang, and Lijuan Chen.   
+  [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c01818) |  [code](https://github.com/wichen-2022/LSDC) 
 
 * **Using Generative Modeling to Endow with Potency Initially Inert Compounds with Good Bioavailability and Low Toxicity** [2024]   
   Robert I. Horne, Jared Wilson-Godber, Alicia González Díaz, Z. Faidon Brotzakis, Srijit Seal, Rebecca C. Gregory, Andrea Possenti, Sean Chia, and Michele Vendruscolo.  
