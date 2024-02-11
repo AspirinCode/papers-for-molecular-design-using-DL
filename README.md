@@ -45,6 +45,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 |  [Energy-based Molecular Conformation Generation](#energy-based-molecular-conformation-generation) |   | 
 |  [Diffusion-based Molecular Conformation Generation](#diffusion-based-molecular-conformation-generation) |   | 
 |  [RL-based Molecular Conformation Generation](#rl-based-molecular-conformation-generation) |   | 
+|  [GNN-based Molecular Conformation Generation](#gnn-based-molecular-conformation-generation) |   | 
 
 
   - [Deep Learning-based design](#deep-learning-based-design)
@@ -437,10 +438,26 @@ Xu, Minkai, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, and Jian Tang.
 
 
 
+
+
+
 * **Conformer-RL: A deep reinforcement learning library for conformer generation** [2022]   
 Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Paul M. Zimmerman.   
 [Journal of Computational Chemistry 43.27 (2022)](https://doi.org/10.1002/jcc.26984) |  [code](https://github.com/ZimmermanGroup/conformer-rl) 
 
+
+
+
+
+
+### GNN-based Molecular Conformation Generation
+
+
+
+
+* **Leveraging 2D Molecular Graph Pretraining for Improved 3D Conformer Generation with Graph Neural Networks** [2024]   
+Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Paul M. Zimmerman.   
+[Computers & Chemical Engineering (2024)](https://doi.org/10.1016/j.compchemeng.2024.108622) |  [code](https://github.com/m1k2zoo/2D-3DConformerGNN) 
 
 
 
