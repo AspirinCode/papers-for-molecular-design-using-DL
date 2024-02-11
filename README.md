@@ -1300,6 +1300,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+* **Inverse Molecular Design with Multi-Conditional Diffusion Guidance** [2024]   
+ Liu, Gang, Jiaxin Xu, Tengfei Luo, and Meng Jiang.    
+  [arXiv:2401.13858 (2024)](https://arxiv.org/abs/2401.13858)  |  [code](https://github.com/liugangcode/MCD) 
+
 * **Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation** [2024]   
  Le, Tuan, Julian Cremer, Frank Noé, Djork-Arné Clevert, and Kristof Schütt.    
   [International Conference on Learning Representations (ICLR).  (2024)](https://openreview.net/pdf?id=kzGuiRXZrQ)  |  [code](https://github.com/tuanle618/eqgat-diff) 
