@@ -1751,7 +1751,9 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Genetic Algorithm-based
 
 
-
+* **Genetic Algorithm-Based Receptor Ligand: A Genetic Algorithm-Guided Generative Model to Boost the Novelty and Drug-Likeness of Molecules in a Sampling Chemical Space** [2024]   
+  Wang, Mingyang, Zhengjian Wu, Jike Wang, Gaoqi Weng, Yu Kang, Peichen Pan, Dan Li et al.   
+  [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c01964) |  [code](https://github.com/micahwang/GARel) 
 
 * **Genetic algorithms are strong baselines for molecule generation** [2023]   
   Austin Tripp and Jos'e Miguel Hern'andez-Lobato.   
