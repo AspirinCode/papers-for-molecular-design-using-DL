@@ -901,6 +901,11 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
+
+* **De Novo Generation and Identification of Novel Compounds with Drug Efficacy Based on Machine Learning** [2024]   
+  He, Dakuo, Qing Liu, Yan Mi, Qingqi Meng, Libin Xu, Chunyu Hou, Jinpeng Wang et al.   
+  [Advanced Science (2024)](https://doi.org/10.1002/advs.202307245) 
+
 * **Computational Drug Discovery on HIV Virus with a Customized LSTM Variational Autoencoder Deep Learning Architecture** [2023]   
   Kutsal, Mucahit, Ferhat Ucar, and Nida Kati.   
   [CPT: Pharmacometrics & Systems Pharmacology. (2023)](https://doi.org/10.1002/psp4.13085) |  [code](https://github.com/McahitKutsal/lstm-drug-discovery) 
