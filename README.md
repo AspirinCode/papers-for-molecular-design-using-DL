@@ -1118,7 +1118,9 @@ Li, C., Yamanishi, Y.
 
 
 
-
+* **Automated Generation and Analysis of Molecular Images Using Generative Artificial Intelligence Models** [2024]   
+Zhiwen Zhu, Jiayi Lu, Shaoxuan Yuan, Yu He, Fengru Zheng, Hao Jiang, Yuyi Yan, Qiang Sun.  
+[J. Phys. Chem. Lett. (2024)](https://doi.org/10.1021/acs.jpclett.3c03504)  
 
 * **De Novo Molecule Design Towards Biased Properties via a Deep Generative Framework and Iterative Transfer Learning** [2024]   
 Sattari, Kianoosh, Dawei Li, Bhupalee Kalita, Yunchao Xie, Fatemeh Barmaleki Lighvan, Olexandr Isayev, and Jian Lin.  
