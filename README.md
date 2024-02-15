@@ -1467,6 +1467,12 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+
+* **Sample Efficient Reinforcement Learning with Active Learning for Molecular Design**  [2024]   
+ Janet, Jon Paul, Michael Dodds, Jeff Guo, Thomas Löhr, Alessandro Tibo, and Ola Engkvist.   
+  [Chemical Science (2024)](https://doi.org/10.1039/D3SC04653B) |  [code](https://www.rsc.org/suppdata/d3/sc/d3sc04653b/d3sc04653b2.pdf) 
+
 * **FREED++: Improving RL Agents for Fragment-Based Molecule Generation by Thorough Reproduction** [2024]   
   Telepov, Alexander, Artem Tsypin, Kuzma Khrabrov, Sergey Yakukhnov, Pavel Strashnov, Petr Zhilyaev, Egor Rumiantsev et al.    
   [arXiv:2401.09840 (2024)](https://arxiv.org/abs/2401.09840) |  [code](https://github.com/AIRI-Institute/FFREED) 
@@ -1714,6 +1720,9 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+* **Sample Efficient Reinforcement Learning with Active Learning for Molecular Design**  [2024]   
+ Janet, Jon Paul, Michael Dodds, Jeff Guo, Thomas Löhr, Alessandro Tibo, and Ola Engkvist.   
+  [Chemical Science (2024)](https://doi.org/10.1039/D3SC04653B) |  [code](https://www.rsc.org/suppdata/d3/sc/d3sc04653b/d3sc04653b2.pdf) 
 
 * **Streamlining pipeline efficiency: a novel model-agnostic technique for accelerating conditional generative and virtual screening pipelines**  [2023]   
  Viswanathan, K., Goel, M., Laghuvarapu, S. et al.   
