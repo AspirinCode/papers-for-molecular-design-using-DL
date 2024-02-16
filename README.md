@@ -102,6 +102,12 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 ## Reviews
 
 
+
+
+* **Deep Generative Models in De Novo Drug Molecule Generation** [2024]   
+ Chao Pang, Jianbo Qiao, Xiangxiang Zeng, Quan Zou, and Leyi Wei*   
+  [arXiv:2402.08703 (2024)](https://arxiv.org/abs/2402.08703) |  [code](https://github.com/gersteinlab/GenAI4Drug)  
+
 * **Deep Generative Models in De Novo Drug Molecule Generation** [2023]   
  Chao Pang, Jianbo Qiao, Xiangxiang Zeng, Quan Zou, and Leyi Wei*   
   [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c01496) 
