@@ -654,6 +654,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+* **GexMolGen: Cross-modal Generation of Hit-like Molecules via Large Language Model Encoding of Gene Expression Signatures** [2024]   
+  Cheng, Jia-Bei, Xiaoyong Pan, Kaiyuan Yang, Shenghao Cao, Bin Liu, Qingran Yan, and Ye Yuan.   
+  [bioRxiv (2024)](https://www.biorxiv.org/content/10.1101/2023.11.11.566725v4) |  [code](https://github.com/Bunnybeibei/GexMolGen) 
+
 * **Local Scaffold Diversity-Contributed Generator for Discovering Potential NLRP3 Inhibitors** [2024]   
   Weichen Bo, Yangqin Duan, Yurong Zou, Ziyan Ma, Tao Yang, Peng Wang, Tao Guo, Zhiyuan Fu, Jianmin Wang, Linchuan Fan, Jie liu, Taijin Wang, and Lijuan Chen.   
   [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c01818) |  [code](https://github.com/wichen-2022/LSDC) 
