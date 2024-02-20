@@ -24,7 +24,7 @@ Beck, Hartmut, Tobias Thaler, Daniel Meibom, Mark Meininghaus, Hannah Jörißen
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) |  |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) |  |
 | [RL-based](#rl-based) | [Active Learning-based](#active-learning-based) | [Contrastive Learning-based](#contrastive-learning-based) |  |
-
+| [Text-driven Molecular Optimization](#text-driven-molecular-optimization) | [Large Language Model-based](#large-language-model-based) |  |  |
 
 ## Reviews
 
@@ -259,9 +259,27 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 ## Text-driven Molecular Optimization
 
+
+
+
 * **Domain-Agnostic Molecular Generation with Self-feedback** [2023]  
  Yin Fang, Ningyu Zhang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
   [Paper](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
+
+
+
+
+### Large Language Model-based
+
+
+
+
+* **DrugAssist: A Large Language Model for Molecule Optimization**  [2023]   
+ Ye, Geyan, Xibao Cai, Houtim Lai, Xing Wang, Junhong Huang, Longyue Wang, Wei Liu, and Xiangxiang Zeng.   
+  [arXiv:2401.10334 (2023)](https://arxiv.org/abs/2401.10334) |  [code](https://github.com/blazerye/DrugAssist) 
+
+
+
 
 
 
