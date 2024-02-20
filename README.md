@@ -56,7 +56,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [ Prompt-based](#prompt-based)|
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) | [Active Learning DMGs](#active-learning-dmgs) |
 | [RL-based](#rl-based) | [Multi-task DMGs](#multi-task-dmgs) | [Monte Carlo Tree Search](#monte-carlo-tree-search) | [Genetic Algorithm-based](#genetic-algorithm-based) |
-| [Evolutionary Algorithm-based](#evolutionary-algorithm-based) |  |  |  |
+| [Evolutionary Algorithm-based](#evolutionary-algorithm-based) | [Large Language Model-based](#large-language-model-based)  |  |  |
 
 
 ## Recommendations and References
@@ -1814,6 +1814,9 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
+
+
+
 * **Combining Evolutionary Algorithms with Reaction Rules Towards Focused Molecular Design**  [2023]   
  Correia, João, Vítor Pereira, and Miguel Rocha.   
   [Proceedings of the Genetic and Evolutionary Computation Conference (2023)](https://doi.org/10.1145/3583131.3590413) |  [code](https://github.com/BioSystemsUM/ReactEA) 
@@ -1822,6 +1825,18 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
  Kerstjens, A., De Winter, H.   
   [J Cheminform 14, 3 (2022)](https://doi.org/10.1186/s13321-022-00582-y) |  [code](https://github.com/UAMCAntwerpen/LEADD) 
 
+
+
+
+
+### Large Language Model-based
+
+
+
+
+* **Combining Evolutionary Algorithms with Reaction Rules Towards Focused Molecular Design**  [2023]   
+ Ye, Geyan, Xibao Cai, Houtim Lai, Xing Wang, Junhong Huang, Longyue Wang, Wei Liu, and Xiangxiang Zeng.   
+  [arXiv:2401.10334 (2023)](https://arxiv.org/abs/2401.10334) |  [code](https://github.com/blazerye/DrugAssist) 
 
 
 
