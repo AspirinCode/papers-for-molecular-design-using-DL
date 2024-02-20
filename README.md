@@ -1834,7 +1834,7 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
-* **Combining Evolutionary Algorithms with Reaction Rules Towards Focused Molecular Design**  [2023]   
+* **DrugAssist: A Large Language Model for Molecule Optimization**  [2023]   
  Ye, Geyan, Xibao Cai, Houtim Lai, Xing Wang, Junhong Huang, Longyue Wang, Wei Liu, and Xiangxiang Zeng.   
   [arXiv:2401.10334 (2023)](https://arxiv.org/abs/2401.10334) |  [code](https://github.com/blazerye/DrugAssist) 
 
