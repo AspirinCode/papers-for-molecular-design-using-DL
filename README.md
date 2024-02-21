@@ -654,6 +654,13 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+
+
+
+* **A novel molecule generative model of VAE combined with Transformer** [2024]   
+  Yasuhiro Yoshikai and Tadahaya Mizuno and Shumpei Nemoto and Hiroyuki Kusuhara.   
+  [	arXiv:2402.11950 (2024)](https://arxiv.org/abs/2402.11950) |  [code](https://github.com/mizuno-group/TransformerVAE) 
+
 * **GexMolGen: Cross-modal Generation of Hit-like Molecules via Large Language Model Encoding of Gene Expression Signatures** [2024]   
   Cheng, Jia-Bei, Xiaoyong Pan, Kaiyuan Yang, Shenghao Cao, Bin Liu, Qingran Yan, and Ye Yuan.   
   [bioRxiv (2024)](https://www.biorxiv.org/content/10.1101/2023.11.11.566725v4) |  [code](https://github.com/Bunnybeibei/GexMolGen) 
@@ -911,6 +918,11 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
+
+
+* **A novel molecule generative model of VAE combined with Transformer** [2024]   
+  Yasuhiro Yoshikai and Tadahaya Mizuno and Shumpei Nemoto and Hiroyuki Kusuhara.   
+  [	arXiv:2402.11950 (2024)](https://arxiv.org/abs/2402.11950) |  [code](https://github.com/mizuno-group/TransformerVAE) 
 
 * **De Novo Generation and Identification of Novel Compounds with Drug Efficacy Based on Machine Learning** [2024]   
   He, Dakuo, Qing Liu, Yan Mi, Qingqi Meng, Libin Xu, Chunyu Hou, Jinpeng Wang et al.   
