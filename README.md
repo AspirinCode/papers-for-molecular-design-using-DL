@@ -480,6 +480,9 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 ### RNN-based
 
 
+* **CNSMolGen: a bidirectional recurrent neural networks based generative model for de novo central nervous system drug design** [2024]   
+Gou, Rongpei, Jingyi Yang, Menghan Guo, Yingjun Chen, and Weiwei Xue.   
+[chemrxiv-2024-x4wbl (2024)](https://doi.org/10.26434/chemrxiv-2024-x4wbl) |  [code](https://github.com/xueww/CNSMolGen/) 
 
 * **NovoMol: Recurrent Neural Network for Orally Bioavailable Drug Design and Validation on PDGFRα Receptor** [2023]   
 Rao, Ishir.   
@@ -1489,7 +1492,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
-
+* **Structure-Based Drug Design via 3D Molecular Generative Pre-training and Sampling** [2024]   
+ Yang, Yuwei, Siqi Ouyang, Xueyu Hu, Meihua Dang, Mingyue Zheng, Hao Zhou, and Lei Li.    
+  [arXiv:2402.14315 (2024)](https://arxiv.org/abs/2402.14315) 
 
 * **Sample Efficient Reinforcement Learning with Active Learning for Molecular Design**  [2024]   
  Janet, Jon Paul, Michael Dodds, Jeff Guo, Thomas Löhr, Alessandro Tibo, and Ola Engkvist.   
@@ -2076,7 +2081,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
-
+* **Structure-Based Drug Design via 3D Molecular Generative Pre-training and Sampling** [2024]   
+ Yang, Yuwei, Siqi Ouyang, Xueyu Hu, Meihua Dang, Mingyue Zheng, Hao Zhou, and Lei Li.    
+  [arXiv:2402.14315 (2024)](https://arxiv.org/abs/2402.14315) 
 
 * **Target-aware Molecule Generation for Drug Design Using a Chemical Language Model** [2024]   
   Xia, Yingce, Kehan Wu, Pan Deng, Renhe Liu, Yuan Zhang, Han Guo, Yumeng Cui et al.   
