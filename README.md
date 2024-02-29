@@ -658,7 +658,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **Dual-Space Optimization: Improved Molecule Sequence Design by Latent Prompt Transformer** [2024]   
+  Deqian Kong and Yuhao Huang and Jianwen Xie and Edouardo Honig and Ming Xu and Shuanghong Xue and Pei Lin and Sanping Zhou and Sheng Zhong and Nanning Zheng and Ying Nian Wu.   
+  [	arXiv:2402.17179 (2024)](https://arxiv.org/abs/2402.17179) 
 
 * **A novel molecule generative model of VAE combined with Transformer** [2024]   
   Yasuhiro Yoshikai and Tadahaya Mizuno and Shumpei Nemoto and Hiroyuki Kusuhara.   
@@ -1280,13 +1282,26 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 
 
 
+
+
 ### Prompt-Based
 
 
 
+
+
+
+
+
+* **Dual-Space Optimization: Improved Molecule Sequence Design by Latent Prompt Transformer** [2024]   
+  Deqian Kong and Yuhao Huang and Jianwen Xie and Edouardo Honig and Ming Xu and Shuanghong Xue and Pei Lin and Sanping Zhou and Sheng Zhong and Nanning Zheng and Ying Nian Wu.   
+  [	arXiv:2402.17179 (2024)](https://arxiv.org/abs/2402.17179) 
+
 * **Molecule Design by Latent Prompt Transformer** [2023]   
  Kong, D., Huang, Y., Xie, J. and Wu, Y.N.   
   [arXiv:2310.03253 (2023)](https://arxiv.org/abs/2310.03253)
+
+
 
 
 
@@ -1729,6 +1744,12 @@ Simm, G., Pinsler, R. and Hernández-Lobato, J.M.,
 * **Molecular de-novo design through deep reinforcement learning** [2017]  
 Olivecrona, M., Blaschke, T., Engkvist, O. et al.  
   [ J Cheminform 9, 48 (2017)](https://doi.org/10.1186/s13321-017-0235-x) |  [code](https://github.com/tblaschke/reinvent) 
+
+
+
+
+
+
 
 
 
