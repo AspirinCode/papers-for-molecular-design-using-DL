@@ -923,7 +923,9 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
-
+* **Attention Based Molecule Generation via Hierarchical Variational Autoencoder** [2024]   
+  Divahar Sivanesan.   
+  [	arXiv:2402.16854. (2024)](https://arxiv.org/abs/2402.16854) 
 
 * **A novel molecule generative model of VAE combined with Transformer** [2024]   
   Yasuhiro Yoshikai and Tadahaya Mizuno and Shumpei Nemoto and Hiroyuki Kusuhara.   
