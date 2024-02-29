@@ -1366,6 +1366,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **Field-based Molecule Generation** [2024]   
+ Dumitrescu, Alexandru, Dani Korpela, Markus Heinonen, Yogesh Verma, Valerii Iakovlev, Vikas Garg, and Harri Lähdesmäki.    
+  [arXiv:2402.15864 (2024)](https://arxiv.org/abs/2402.15864) 
+
 * **Text-Guided Molecule Generation with Diffusion Language Model** [2024]   
  Gong, Haisong, Qiang Liu, Shu Wu, and Liang Wang.    
   [arXiv:2402.13040 (2024)](https://arxiv.org/abs/2402.13040)  |  [code](https://github.com/Deno-V/tgm-dlm) 
