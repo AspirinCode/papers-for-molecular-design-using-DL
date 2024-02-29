@@ -1349,7 +1349,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Text-Guided Molecule Generation with Diffusion Language Model** [2024]   
+ Gong, Haisong, Qiang Liu, Shu Wu, and Liang Wang.    
+  [arXiv:2402.13040 (2024)](https://arxiv.org/abs/2402.13040)  |  [code](https://github.com/Deno-V/tgm-dlm) 
 
 * **Inverse Molecular Design with Multi-Conditional Diffusion Guidance** [2024]   
  Liu, Gang, Jiaxin Xu, Tengfei Luo, and Meng Jiang.    
@@ -1861,6 +1863,12 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 ## Text-driven molecular generation models
 
+
+
+
+* **Text-Guided Molecule Generation with Diffusion Language Model** [2024]   
+ Gong, Haisong, Qiang Liu, Shu Wu, and Liang Wang.    
+  [arXiv:2402.13040 (2024)](https://arxiv.org/abs/2402.13040)  |  [code](https://github.com/Deno-V/tgm-dlm) 
 
 * **Exploring the potential of AI-Chatbots in organic chemistry: An assessment of ChatGPT and bard** [2023]   
  Hallal, K., Hamdan, R. and Tlais, S.    
