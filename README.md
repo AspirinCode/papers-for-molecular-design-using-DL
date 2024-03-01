@@ -1367,6 +1367,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+* **Binding-Adaptive Diffusion Models for Structure-Based Drug Design** [2024]   
+ Zhilin Huang, Ling Yang, Zaixi Zhang, Xiangxin Zhou, Yu Bao, Xiawu Zheng, Yuwei Yang, Yu Wang, Wenming Yang.    
+  [AAAI 2024 (2024)](https://arxiv.org/abs/2402.18583)  |  [code](https://github.com/YangLing0818/BindDM) 
+
 * **Field-based Molecule Generation** [2024]   
  Dumitrescu, Alexandru, Dani Korpela, Markus Heinonen, Yogesh Verma, Valerii Iakovlev, Vikas Garg, and Harri Lähdesmäki.    
   [arXiv:2402.15864 (2024)](https://arxiv.org/abs/2402.15864) 
