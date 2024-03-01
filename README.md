@@ -1367,6 +1367,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+* **Functional-Group-Based Diffusion for Pocket-Specific Molecule Generation and Elaboration** [2024]   
+ Lin, Haitao, Yufei Huang, Odin Zhang, Yunfan Liu, Lirong Wu, Siyuan Li, Zhiyuan Chen, and Stan Z. Li.    
+  [Advances in Neural Information Processing Systems 36 (2024)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6cdd4ce9330025967dd1ed0bed3010f5-Abstract-Conference.html)  
+
 * **Binding-Adaptive Diffusion Models for Structure-Based Drug Design** [2024]   
  Zhilin Huang, Ling Yang, Zaixi Zhang, Xiangxin Zhou, Yu Bao, Xiawu Zheng, Yuwei Yang, Yu Wang, Wenming Yang.    
   [AAAI 2024 (2024)](https://arxiv.org/abs/2402.18583)  |  [code](https://github.com/YangLing0818/BindDM) 
