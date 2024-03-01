@@ -2820,7 +2820,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
-
+* **Deep Learning-Enabled MS/MS Spectrum Prediction Facilitates Automated Identification Of Novel Psychoactive Substances** [2023]   
+ Wang, Fei, Daniel Pasin, Michael A. Skinnider, Jaanus Liigand, Jan-Niklas Kleis, David Brown, Eponine Oler et al.   
+  [Anal. Chem. (2023)](https://doi.org/10.1021/acs.analchem.3c02413) |  [data](https://nps-ms.ca/) 
 
 * **MIST-CF: Chemical formula inference from tandem mass spectra** [2023]   
  Litsa, E.E., Chenthamarakshan, V., Das, P. et al.   
