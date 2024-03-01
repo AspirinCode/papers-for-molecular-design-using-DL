@@ -1366,6 +1366,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+* **DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion Model** [2024]   
+ Xie, Junjie, Sheng Chen, Jinping Lei, and Yuedong Yang.    
+  [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c01466)  |  [code](https://github.com/biomed-AI/DiffDec) 
 
 * **Functional-Group-Based Diffusion for Pocket-Specific Molecule Generation and Elaboration** [2024]   
  Lin, Haitao, Yufei Huang, Odin Zhang, Yunfan Liu, Lirong Wu, Siyuan Li, Zhiyuan Chen, and Stan Z. Li.    
