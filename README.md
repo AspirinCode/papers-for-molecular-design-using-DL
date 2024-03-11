@@ -41,6 +41,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 
 | Menu | Menu | 
 | ------ | ------ | 
+| [Benchmark for Molecular Conformer Ensembles](#benchmark-for-molecular-conformer-ensembles) | [Reviews_Molecular Conformation Generation](#reviews-molecular-conformation-generation) | 
 | [VAE-based Molecular Conformation Generation](#vae-based-molecular-conformation-generation) | | 
 |  [Energy-based Molecular Conformation Generation](#energy-based-molecular-conformation-generation) |   | 
 |  [Diffusion-based Molecular Conformation Generation](#diffusion-based-molecular-conformation-generation) |   | 
@@ -368,6 +369,20 @@ Handa, K., Thomas, M.C., Kageyama, M. et al.
 * **Prediction of Molecular Conformation Using Deep Generative Neural Networks** [2023]   
 Xu, Congsheng, Yi Lu, Xiaomei Deng, and Peiyuan Yu.   
 [Chinese Journal of Chemistry(2023)](https://doi.org/10.1002/cjoc.202300269)
+
+
+
+
+
+### Benchmark for Molecular Conformer Ensembles
+
+
+
+* **Learning Over Molecular Conformer Ensembles: Datasets and Benchmarks** [2023]   
+Zhu, Yanqiao, Jeehyun Hwang, Keir Adams, Zhen Liu, Bozhao Nan, Brock Stenfors, Yuanqi Du et al.   
+[NeurIPS 2023 AI for Science Workshop. 2023 (2023)](https://openreview.net/forum?id=kFiMXnLH9x) |  [code](https://github.com/SXKDZ/MARCEL) 
+
+
 
 
 
