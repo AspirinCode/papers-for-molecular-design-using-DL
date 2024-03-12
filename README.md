@@ -1310,7 +1310,9 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 
 
 
-
+* **PromptSMILES: Prompting for scaffold decoration and fragment linking in chemical language models** [2024]   
+  Thomas, Morgan, Mazen Ahmad, Gary Tresadern, and Gianni de Fabritiis.   
+  [chemrxiv-2024-z5jnt (2024)](https://doi.org/10.26434/chemrxiv-2024-z5jnt)  |  [code](https://github.com/compsciencelab/PromptSMILES) 
 
 * **Dual-Space Optimization: Improved Molecule Sequence Design by Latent Prompt Transformer** [2024]   
   Deqian Kong and Yuhao Huang and Jianwen Xie and Edouardo Honig and Ming Xu and Shuanghong Xue and Pei Lin and Sanping Zhou and Sheng Zhong and Nanning Zheng and Ying Nian Wu.   
