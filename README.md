@@ -630,6 +630,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
+* **PocketFlow is a data-and-knowledge-driven structure-based molecular generative model** [2024]   
+Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.  
+[Nat Mach Intell (2024)](https://doi.org/10.1038/s42256-024-00808-8) |  [Research Square. PREPRINT. (2023)](https://www.researchsquare.com/article/rs-3077992/v1) |  [code](https://github.com/Saoge123/PocketFlow) 
+
 * **De Novo Molecule Design Towards Biased Properties via a Deep Generative Framework and Iterative Transfer Learning** [2024]   
 Sattari, Kianoosh, Dawei Li, Bhupalee Kalita, Yunchao Xie, Fatemeh Barmaleki Lighvan, Olexandr Isayev, and Jian Lin.  
 [Digital Discovery (2024)](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d3dd00210a) |  [code](https://github.com/linresearchgroup/RRCGAN_Molecules_Ehl) 
@@ -641,10 +645,6 @@ Sattari, Kianoosh, Dawei Li, Bhupalee Kalita, Yunchao Xie, Fatemeh Barmaleki Lig
 * **Learning on topological surface and geometric structure for 3D molecular generation** [2023]   
 Zhang, Odin, Tianyue Wang, Gaoqi Weng, Dejun Jiang, Ning Wang, Xiaorui Wang, Huifeng Zhao et al.  
 [Nat Comput Sci (2023)](https://doi.org/10.1038/s43588-023-00530-2) |  [code](https://github.com/HaotianZhangAI4Science/SurfGen) 
-
-* **PocketFlow: an autoregressive flow model incorporated with chemical knowledge for generating drug-like molecules inside protein pockets** [2023]   
-Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.  
-[Research Square. PREPRINT. (2023)](https://www.researchsquare.com/article/rs-3077992/v1) |  [code](https://github.com/Saoge123/PocketFlow) 
 
 * **ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling** [2023]   
 Zhang, O., Zhang, J., Jin, J. et al.   
@@ -1246,7 +1246,9 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 ### Flow-based
 
 
-
+* **PocketFlow is a data-and-knowledge-driven structure-based molecular generative model** [2024]   
+Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.  
+[Nat Mach Intell (2024)](https://doi.org/10.1038/s42256-024-00808-8) |  [Research Square. PREPRINT. (2023)](https://www.researchsquare.com/article/rs-3077992/v1) |  [code](https://github.com/Saoge123/PocketFlow) 
 
 * **High-Temperature Polymer Dielectrics Designed Using an Invertible Molecular Graph Generative Model** [2023]   
 Di-Fan Liu, Yong-Xin Zhang, Wen-Zhuo Dong, Qi-Kun Feng, Shao-Long Zhong, and Zhi-Min Dang.   
@@ -1279,10 +1281,6 @@ Jain, M., Bengio, E., Hernandez-Garcia, A., Rector-Brooks, J., Dossou, B.F., Ekb
 * **FastFlows: Flow-Based Models for Molecular Graph Generation** [2022]  
 Frey, N.C., Gadepally, V. and Ramsundar, B.  
 [arXiv:2201.12419 (2022)](https://arxiv.org/abs/2201.12419)
-
-* **Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation** [2021]  
-Bengio, E., Jain, M., Korablyov, M., Precup, D. and Bengio, Y.  
-[Neural Information Processing Systems 34 (2021)](https://proceedings.neurips.cc/paper/2021/hash/e614f646836aaed9f89ce58e837e2310-Abstract.html) |  [code](https://github.com/GFNOrg/gflownet) 
 
 * **MoFlow: An Invertible Flow Model for Generating Molecular Graphs** [2020]  
 Zang, Chengxi, and Fei Wang.  
@@ -2142,6 +2140,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+* **PocketFlow is a data-and-knowledge-driven structure-based molecular generative model** [2024]   
+Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.  
+[Nat Mach Intell (2024)](https://doi.org/10.1038/s42256-024-00808-8) |  [Research Square. PREPRINT. (2023)](https://www.researchsquare.com/article/rs-3077992/v1) |  [code](https://github.com/Saoge123/PocketFlow)   
 
 * **Structure-Based Drug Design via 3D Molecular Generative Pre-training and Sampling** [2024]   
  Yang, Yuwei, Siqi Ouyang, Xueyu Hu, Meihua Dang, Mingyue Zheng, Hao Zhou, and Lei Li.    
@@ -2210,10 +2211,6 @@ Zhang, Odin, Tianyue Wang, Gaoqi Weng, Dejun Jiang, Ning Wang, Xiaorui Wang, Hui
 * **TacoGFN: Target Conditioned GFlowNet for Structure-Based Drug Design** [2023]   
 Tony Shen, Mohit Pandey, Martin Ester.  
 [arXiv:2310.03223. (2023)](https://arxiv.org/abs/2310.03223v1) 
-
-* **PocketFlow: an autoregressive flow model incorporated with chemical knowledge for generating drug-like molecules inside protein pockets** [2023]   
-Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.  
-[Research Square. PREPRINT. (2023)](https://www.researchsquare.com/article/rs-3077992/v1) |  [code](https://github.com/Saoge123/PocketFlow) 
 
 * **Structured State-Space Sequence Models for De Novo Drug Design** [2023]   
   Özçelik R, de Ruiter S, Grisoni F.   
