@@ -105,6 +105,10 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
+* **AI Deep Learning Generative Models for Drug Discovery** [2024]   
+ Bai, Qifeng, Jian Ma, and Tingyang Xu.   
+  [Applications of Generative AI. Cham: Springer International Publishing (2024)](https://link.springer.com/chapter/10.1007/978-3-031-46238-2_23)  
+
 * **Deep Generative Models in De Novo Drug Molecule Generation** [2024]   
  Xiangru Tang, Howard Dai, Elizabeth Knight, Fang Wu, Yunyang Li, Tianxiao Li, Mark Gerstein   
   [arXiv:2402.08703 (2024)](https://arxiv.org/abs/2402.08703) |  [code](https://github.com/gersteinlab/GenAI4Drug)  
