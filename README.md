@@ -677,6 +677,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+* **Evaluation of Reinforcement Learning in Transformer-based Molecular Design**  [2024]   
+ He J, Tibo A, Janet JP, Nittinger E, Tyrchan C, Czechtizky W, et al.   
+  [chemrxiv-2024-r9ljm (2024)](https://doi.org/10.26434/chemrxiv-2024-r9ljm) |  [code](https://github.com/MolecularAI/transformer_rl) 
+
 * **Dual-Space Optimization: Improved Molecule Sequence Design by Latent Prompt Transformer** [2024]   
   Deqian Kong and Yuhao Huang and Jianwen Xie and Edouardo Honig and Ming Xu and Shuanghong Xue and Pei Lin and Sanping Zhou and Sheng Zhong and Nanning Zheng and Ying Nian Wu.   
   [	arXiv:2402.17179 (2024)](https://arxiv.org/abs/2402.17179) 
@@ -1546,6 +1550,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+* **Evaluation of Reinforcement Learning in Transformer-based Molecular Design**  [2024]   
+ He J, Tibo A, Janet JP, Nittinger E, Tyrchan C, Czechtizky W, et al.   
+  [chemrxiv-2024-r9ljm (2024)](https://doi.org/10.26434/chemrxiv-2024-r9ljm) |  [code](https://github.com/MolecularAI/transformer_rl) 
+
 * **Structure-Based Drug Design via 3D Molecular Generative Pre-training and Sampling** [2024]   
  Yang, Yuwei, Siqi Ouyang, Xueyu Hu, Meihua Dang, Mingyue Zheng, Hao Zhou, and Lei Li.    
   [arXiv:2402.14315 (2024)](https://arxiv.org/abs/2402.14315) 
@@ -1853,6 +1861,11 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 ### Genetic Algorithm-based
 
+
+
+* **Augmenting Genetic Algorithms with Machine Learning for Inverse Molecular Design** [2024]   
+  Kneiding H, Balcells D.   
+  [chemrxiv-2024-lcm83. (2024)](https://doi.org/10.26434/chemrxiv-2024-lcm83)   
 
 * **Genetic Algorithm-Based Receptor Ligand: A Genetic Algorithm-Guided Generative Model to Boost the Novelty and Drug-Likeness of Molecules in a Sampling Chemical Space** [2024]   
   Wang, Mingyang, Zhengjian Wu, Jike Wang, Gaoqi Weng, Yu Kang, Peichen Pan, Dan Li et al.   
