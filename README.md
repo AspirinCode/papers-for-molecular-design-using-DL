@@ -1388,6 +1388,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+* **3M-Diffusion: Latent Multi-Modal Diffusion for Text-Guided Generation of Molecular Graphs** [2024]   
+ Huaisheng Zhu, Teng Xiao, Vasant G Honavar.    
+  [	arXiv:2403.07179. (2024)](https://arxiv.org/abs/2403.07179)  |  [code](https://github.com/huaishengzhu/3MDiffusion) 
 
 * **DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion Model** [2024]   
  Xie, Junjie, Sheng Chen, Jinping Lei, and Yuedong Yang.    
