@@ -430,6 +430,10 @@ Guan, Jiaqi, Wesley Wei Qian, Wei-Ying Ma, Jianzhu Ma, and Jian Peng.
 
 
 
+* **Diffusion-based generative AI for exploring transition states from 2D molecular graphs** [204]   
+Kim, S., Woo, J. & Kim, W.Y.   
+[Nat Commun 15, 341 (2024)](https://doi.org/10.1038/s41467-023-44629-6) |  [code](https://github.com/seonghann/tsdiff)
+
 * **Physics-informed generative model for drug-like molecule conformers** [204]   
 David C. Williams, Neil Imana.   
 [	arXiv:2403.07925. (2024)](https://arxiv.org/abs/2403.07925v1) |  [code](https://github.com/nobiastx/diffusion-conformer)   
