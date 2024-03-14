@@ -693,6 +693,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+* **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2024]   
+ Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
+  [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c01456) |  [code](https://github.com/batistagroup/ChemSpaceAL) 
 
 * **Evaluation of Reinforcement Learning in Transformer-based Molecular Design**  [2024]   
  He J, Tibo A, Janet JP, Nittinger E, Tyrchan C, Czechtizky W, et al.   
@@ -1831,9 +1834,15 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+
+
 ### Active Learning DMGs
 
 
+
+* **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2024]   
+ Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
+  [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c01456) |  [code](https://github.com/batistagroup/ChemSpaceAL) 
 
 * **Sample Efficient Reinforcement Learning with Active Learning for Molecular Design**  [2024]   
  Janet, Jon Paul, Michael Dodds, Jeff Guo, Thomas Löhr, Alessandro Tibo, and Ola Engkvist.   
@@ -2181,6 +2190,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+* **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2024]   
+ Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
+  [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c01456) |  [code](https://github.com/batistagroup/ChemSpaceAL) 
 
 * **PocketFlow is a data-and-knowledge-driven structure-based molecular generative model** [2024]   
 Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.  
