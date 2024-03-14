@@ -423,9 +423,16 @@ Guan, Jiaqi, Wesley Wei Qian, Wei-Ying Ma, Jianzhu Ma, and Jian Peng.
 
 
 
+
+
+
 ### Diffusion-based Molecular Conformation Generation
 
 
+
+* **Physics-informed generative model for drug-like molecule conformers** [204]   
+David C. Williams, Neil Imana.   
+[	arXiv:2403.07925. (2024)](https://arxiv.org/abs/2403.07925v1) |  [code](https://github.com/nobiastx/diffusion-conformer)   
 
 * **DynamicsDiffusion: Generating and Rare Event Sampling of Molecular Dynamic Trajectories Using Diffusion Models** [2023]   
 Petersen, Magnus, Gemma Roig, and Roberto Covino.   
