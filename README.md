@@ -2175,6 +2175,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+
+
+
 * **PocketFlow is a data-and-knowledge-driven structure-based molecular generative model** [2024]   
 Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.  
 [Nat Mach Intell (2024)](https://doi.org/10.1038/s42256-024-00808-8) |  [Research Square. PREPRINT. (2023)](https://www.researchsquare.com/article/rs-3077992/v1) |  [code](https://github.com/Saoge123/PocketFlow)   
@@ -2210,6 +2213,10 @@ Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.
 * **Conformer Generation for Structure-Based Drug Design: How Many and How Good?** [2023]   
   McNutt, Andrew, Fatimah Bisiriyu, Sophia Song, Ananya Vyas, Geoffrey Hutchison, and David Koes.   
   [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c01245) |  [code](https://github.com/dkoes/conformer_analysis) 
+
+* **AlphaFold accelerates artificial intelligence powered drug discovery: efficient discovery of a novel CDK20 small molecule inhibitor** [2023]   
+  Ren, Feng, Xiao Ding, Min Zheng, Mikhail Korzinkin, Xin Cai, Wei Zhu, Alexey Mantsyzov et al.   
+  [Chemical Science 14.6 (2023)](https://pubs.rsc.org/en/content/articlehtml/2023/sc/d2sc05709c)   
 
 * **Interaction-aware 3D Molecular Generative Framework for Generalizable Structure-based Drug Design** [2023]   
   Woo Youn Kim, Wonho Zhung, and Hyeongwoo Kim.   
