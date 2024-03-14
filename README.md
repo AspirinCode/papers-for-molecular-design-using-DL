@@ -503,6 +503,12 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 
 
+* **Chemistry42: An AI-Driven Platform for Molecular Design and Optimization** [2023]   
+Ivanenkov, Yan A., Daniil Polykovskiy, Dmitry Bezrukov, Bogdan Zagribelnyy, Vladimir Aladinskiy, Petrina Kamya, Alex Aliper, Feng Ren, and Alex Zhavoronkov.   
+[Journal of Chemical Information and Modeling 63.3 (2023)](https://doi.org/10.1021/acs.jcim.2c01191) |  [web](https://cloud.chemistry42.com/login) 
+
+
+
 ### RNN-based
 
 
