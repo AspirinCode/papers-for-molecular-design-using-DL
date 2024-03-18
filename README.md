@@ -695,6 +695,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+* **Enhancing molecular design efficiency: Uniting language models and generative networks with genetic algorithms**  [2024]   
+ Bhowmik, Debsindhu, Pei Zhang, Zachary Fox, Stephan Irle, and John Gounley.   
+  [Patterns (2024)](https://doi.org/10.1016/j.patter.2024.100947) |  [code](https://zenodo.org/records/8387351) 
+
 * **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2024]   
  Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
   [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c01456) |  [code](https://github.com/batistagroup/ChemSpaceAL) 
@@ -1191,6 +1195,10 @@ Li, C., Yamanishi, Y.
 ### GAN-based
 
 
+
+* **Enhancing molecular design efficiency: Uniting language models and generative networks with genetic algorithms**  [2024]   
+ Bhowmik, Debsindhu, Pei Zhang, Zachary Fox, Stephan Irle, and John Gounley.   
+  [Patterns (2024)](https://doi.org/10.1016/j.patter.2024.100947) |  [code](https://zenodo.org/records/8387351) 
 
 * **Automated Generation and Analysis of Molecular Images Using Generative Artificial Intelligence Models** [2024]   
 Zhiwen Zhu, Jiayi Lu, Shaoxuan Yuan, Yu He, Fengru Zheng, Hao Jiang, Yuyi Yan, Qiang Sun.  
@@ -1893,6 +1901,9 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Genetic Algorithm-based
 
 
+* **Enhancing molecular design efficiency: Uniting language models and generative networks with genetic algorithms**  [2024]   
+ Bhowmik, Debsindhu, Pei Zhang, Zachary Fox, Stephan Irle, and John Gounley.   
+  [Patterns (2024)](https://doi.org/10.1016/j.patter.2024.100947) |  [code](https://zenodo.org/records/8387351) 
 
 * **Augmenting Genetic Algorithms with Machine Learning for Inverse Molecular Design** [2024]   
   Kneiding H, Balcells D.   
