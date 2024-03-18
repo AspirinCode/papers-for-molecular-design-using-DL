@@ -103,7 +103,9 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 ## Reviews
 
 
-
+* **Recent Advances in Automated Structure-Based De Novo Drug Design** [2024]   
+ Bai, Qifeng, Jian Ma, and Tingyang Xu.   
+  [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c00247)  
 
 * **AI Deep Learning Generative Models for Drug Discovery** [2024]   
  Bai, Qifeng, Jian Ma, and Tingyang Xu.   
