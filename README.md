@@ -269,6 +269,10 @@ https://github.com/LumosBio/MolData
 
 
 
+* **Benchmarking Study of Deep Generative Models for Inverse Polymer Design** [2024]  
+Yue T, Tao L, Varshney V, Li Y.  
+[chemrxiv-2024-gzq4r (2024)](https://doi.org/10.26434/chemrxiv-2024-gzq4r)   
+
 * **RediscMol: Benchmarking Molecular Generation Models in Biological Properties** [2024]  
 Weng, Gaoqi, Huifeng Zhao, Dou Nie, Haotian Zhang, Liwei Liu, Tingjun Hou, and Yu Kang.  
 [J. Med. Chem. 2024](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01355) |  [code](https://github.com/gaoqiweng/RediscMol) 
