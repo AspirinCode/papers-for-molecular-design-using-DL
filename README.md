@@ -1422,6 +1422,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+* **A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets** [2024]   
+ Huang, L., Xu, T., Yu, Y. et al.    
+  [Nat Commun 15, 2657 (2024)](https://doi.org/10.1038/s41467-024-46569-1)  |  [code](https://github.com/Layne-Huang/PMDM) 
+
 * **3M-Diffusion: Latent Multi-Modal Diffusion for Text-Guided Generation of Molecular Graphs** [2024]   
  Huaisheng Zhu, Teng Xiao, Vasant G Honavar.    
   [	arXiv:2403.07179. (2024)](https://arxiv.org/abs/2403.07179)  |  [code](https://github.com/huaishengzhu/3MDiffusion) 
@@ -2207,6 +2211,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+* **A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets** [2024]   
+ Huang, L., Xu, T., Yu, Y. et al.    
+  [Nat Commun 15, 2657 (2024)](https://doi.org/10.1038/s41467-024-46569-1)  |  [code](https://github.com/Layne-Huang/PMDM)   
 
 * **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2024]   
  Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
