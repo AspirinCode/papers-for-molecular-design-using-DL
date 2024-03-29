@@ -976,6 +976,12 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
+
+
+* **3D molecular generative framework for interaction-guided drug design** [2024]   
+  Zhung, W., Kim, H. & Kim, W.Y.   
+  [Nat Commun 15, 2688 (2024)](https://doi.org/10.1038/s41467-024-47011-2) |  [code](https://github.com/ACE-KAIST/DeepICL) 
+
 * **Attention Based Molecule Generation via Hierarchical Variational Autoencoder** [2024]   
   Divahar Sivanesan.   
   [	arXiv:2402.16854. (2024)](https://arxiv.org/abs/2402.16854) 
@@ -2211,6 +2217,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+* **3D molecular generative framework for interaction-guided drug design** [2024]   
+  Zhung, W., Kim, H. & Kim, W.Y.   
+  [Nat Commun 15, 2688 (2024)](https://doi.org/10.1038/s41467-024-47011-2) |  [code](https://github.com/ACE-KAIST/DeepICL) 
 
 * **A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets** [2024]   
  Huang, L., Xu, T., Yu, Y. et al.    
