@@ -513,8 +513,8 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 
 ## Deep Learning-based design
-* **Reinvent 4: Modern AI–driven generative molecule design** [2024] 
-Hannes H. Loeffler, Jiazhen He, Alessandro Tibo, Jon Paul Janet, Alexey Voronov, Lewis H. Mervin & Ola Engkvist
+* **Reinvent 4: Modern AI–driven generative molecule design** [2024]  
+Hannes H. Loeffler, Jiazhen He, Alessandro Tibo, Jon Paul Janet, Alexey Voronov, Lewis H. Mervin & Ola Engkvist  
 [Journal of Cheminformatics,16(20) (2024)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00812-5) | [code](https://github.com/MolecularAI/REINVENT4)
 
 
