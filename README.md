@@ -1433,6 +1433,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+
+* **De Novo Molecule Generation with Graph Latent Diffusion Model** [2024]   
+ Wang, Conghao, Hiok Hian Ong, Shunsuke Chiba, and Jagath C. Rajapakse.    
+  [ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE (2024)](https://doi.org/10.1109/ICASSP48485.2024.10447480)  
+
 * **A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets** [2024]   
  Huang, L., Xu, T., Yu, Y. et al.    
   [Nat Commun 15, 2657 (2024)](https://doi.org/10.1038/s41467-024-46569-1)  |  [code](https://github.com/Layne-Huang/PMDM) 
