@@ -62,6 +62,10 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 
 ## Recommendations and References
 
+ **Reinvent 4: Modern AI–driven generative molecule design**
+
+ https://github.com/MolecularAI/REINVENT4
+
 
 **Large Language Model for Biomedical Science, Molecule, Protein, Material Discovery**
 
@@ -509,8 +513,9 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 
 ## Deep Learning-based design
-
-
+* **Reinvent 4: Modern AI–driven generative molecule design** [2024] 
+Hannes H. Loeffler, Jiazhen He, Alessandro Tibo, Jon Paul Janet, Alexey Voronov, Lewis H. Mervin & Ola Engkvist
+[Journal of Cheminformatics,16(20) (2024)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00812-5) | [code](https://github.com/MolecularAI/REINVENT4)
 
 
 * **Chemistry42: An AI-Driven Platform for Molecular Design and Optimization** [2023]   
