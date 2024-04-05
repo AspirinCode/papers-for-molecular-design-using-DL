@@ -1908,6 +1908,10 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+* **Generative AI for designing and validating easily synthesizable and structurally novel antibiotics** [2024]   
+  Suzuki, Takamasa, Dian Ma, Nobuaki Yasuo, and Masakazu Sekijima.   
+  [Nat Mach Intell 6, 338–353 (2024)](https://doi.org/10.1038/s42256-024-00809-7) |  [code](https://github.com/swansonk14/SyntheMol) 
+
 * **Mothra: Multi-objective de novo Molecular Generation using Monte Carlo Tree Search** [2024]   
   Suzuki, Takamasa, Dian Ma, Nobuaki Yasuo, and Masakazu Sekijima.   
   [chemrxiv-2024-4719t (2024)](https://doi.org/10.26434/chemrxiv-2024-4719t) |  [code](https://github.com/sekijima-lab/Mothra) 
