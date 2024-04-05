@@ -704,6 +704,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+* **Gotta be SAFE: A New Framework for Molecular Design** [2024]   
+  Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
+  [Digital Discovery (2024)](https://doi.org/10.1039/D4DD00019F) |  [arXiv:2310.10773 (2023)](https://arxiv.org/abs/2310.10773) |  [code](https://github.com/datamol-io/safe)
+
 * **Enhancing molecular design efficiency: Uniting language models and generative networks with genetic algorithms**  [2024]   
  Bhowmik, Debsindhu, Pei Zhang, Zachary Fox, Stephan Irle, and John Gounley.   
   [Patterns (2024)](https://doi.org/10.1016/j.patter.2024.100947) |  [code](https://zenodo.org/records/8387351) 
@@ -740,10 +744,6 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
   Xie, Weixin, Jianhang Zhang, Qin Xie, Chaojun Gong, Youjun Xu, Luhua Lai, and Jianfeng Pei.   
   [arXiv:2401.01059 (2024)](https://arxiv.org/abs/2401.01059) |  [code](http://gitlab.iipharma.cn/zhangjh/transpharmer-repo) 
 
-* **Gotta be SAFE: A New Framework for Molecular Design** [2023]   
-  Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
-  [arXiv:2310.10773 (2023)](https://arxiv.org/abs/2310.10773) |  [code](https://github.com/datamol-io/safe) 
-
 * **A self-improvable Polymer Discovery Framework Based on Conditional Generative Model** [2023]   
   Xiangyun Lei and Weike Ye and Zhenze Yang and Daniel Schweigert and Ha-Kyung Kwon and Arash Khajeh.   
   [	arXiv:2312.04013.  (2023)](https://arxiv.org/abs/2312.04013) 
@@ -775,10 +775,6 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 * **Optimization of binding affinities in chemical space with transformer and deep reinforcement learning** [2023]   
   Xu, Xiaopeng, Juexiao Zhou, Chen Zhu, Qing Zhan, Zhongxiao Li, Ruochi Zhang, Yu Wang, Xingyu Liao, and Xin Gao.   
   [chemrxiv-2023-7v4sw (2023)](https://doi.org/10.26434/chemrxiv-2023-7v4sw) |  [code](https://github.com/charlesxu90/sgpt) 
-
-* **Gotta be SAFE: A New Framework for Molecular Design** [2023]   
-  Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
-  [arXiv:2310.10773 (2023)](https://arxiv.org/abs/2310.10773)
 
 * **Searching for High-Value Molecules Using Reinforcement Learning and Transformers** [2023]   
   Raj Ghugare and Santiago Miret and Adriana Hugessen and Mariano Phielipp and Glen Berseth.   
@@ -2633,14 +2629,13 @@ ZHANG Z, Liu Q.
 ### Fragment-based DMGs
 
 
+* **Gotta be SAFE: A New Framework for Molecular Design** [2024]   
+  Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
+  [Digital Discovery (2024)](https://doi.org/10.1039/D4DD00019F) |  [arXiv:2310.10773 (2023)](https://arxiv.org/abs/2310.10773) |  [code](https://github.com/datamol-io/safe)
 
 * **FREED++: Improving RL Agents for Fragment-Based Molecule Generation by Thorough Reproduction** [2024]   
   Telepov, Alexander, Artem Tsypin, Kuzma Khrabrov, Sergey Yakukhnov, Pavel Strashnov, Petr Zhilyaev, Egor Rumiantsev et al.    
   [arXiv:2401.09840 (2024)](https://arxiv.org/abs/2401.09840) |  [code](https://github.com/AIRI-Institute/FFREED) 
-
-* **Gotta be SAFE: A New Framework for Molecular Design** [2023]   
-  Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
-  [arXiv:2310.10773 (2023)](https://arxiv.org/abs/2310.10773) |  [code](https://github.com/datamol-io/safe) 
 
 * **Geometric Deep Learning for Structure-Based Ligand Design** [2023]   
   Alexander S. Powers, Helen H. Yu, Patricia Suriana, Rohan V. Koodli, Tianyu Lu, Joseph M. Paggi, and Ron O. Dror.   
@@ -2649,10 +2644,6 @@ ZHANG Z, Liu Q.
 * **Autoregressive fragment-based diffusion for pocket-aware ligand design** [2023]   
  Ghorbani, Mahdi, Leo Gendelev, Paul Beroza, and Michael Keiser.    
   [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop.  (2023)](https://openreview.net/forum?id=E3HN48zjam) |  [code](https://github.com/ghorbanimahdi73/autofragdiff) 
-
-* **Gotta be SAFE: A New Framework for Molecular Design** [2023]   
-  Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
-  [arXiv:2310.10773 (2023)](https://arxiv.org/abs/2310.10773)
 
 * **A flexible data-free framework for structure-based de novo drug design with reinforcement learning** [2023]   
   Hongyan Du, Dejun Jiang, Odin Zhang, Zhenxing Wu, Junbo Gao, Xujun Zhang, Xiaorui Wang, Yafeng Deng, Yu Kang, Dan Li, Peichen Pan, Chang-Yu Hsieh, Tingjun Hou.   
