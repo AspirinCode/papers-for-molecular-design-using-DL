@@ -1906,6 +1906,10 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+* **Mothra: Multi-objective de novo Molecular Generation using Monte Carlo Tree Search** [2024]   
+  Suzuki, Takamasa, Dian Ma, Nobuaki Yasuo, and Masakazu Sekijima.   
+  [chemrxiv-2024-4719t (2024)](https://doi.org/10.26434/chemrxiv-2024-4719t) |  [code](https://github.com/sekijima-lab/Mothra) 
+
 * **A flexible data-free framework for structure-based de novo drug design with reinforcement learning** [2023]   
   Hongyan Du, Dejun Jiang, Odin Zhang, Zhenxing Wu, Junbo Gao, Xujun Zhang, Xiaorui Wang, Yafeng Deng, Yu Kang, Dan Li, Peichen Pan, Chang-Yu Hsieh, Tingjun Hou.   
   [Chemical Science (2023)](https://doi.org/10.1039/D3SC04091G) |  [code](https://github.com/Brian-hongyan/3D-MCTS) 
