@@ -1609,7 +1609,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
-
+* **Mol-AIR: Molecular Reinforcement Learning with Adaptive Intrinsic Rewards for Goal-directed Molecular Generation**  [2024]   
+ Park, Jinyeong, Jaegyoon Ahn, Jonghwan Choi, and Jibum Kim.   
+  [arXiv:2403.20109 (2024)](https://arxiv.org/abs/2403.20109) |  [code](https://github.com/DevSlem/Mol-AIR) 
 
 * **Evaluation of Reinforcement Learning in Transformer-based Molecular Design**  [2024]   
  He J, Tibo A, Janet JP, Nittinger E, Tyrchan C, Czechtizky W, et al.   
