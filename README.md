@@ -1434,6 +1434,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+* **MolSnapper: Conditioning Diffusion for Structure Based Drug Design** [2024]   
+ Ziv, Yael, Brian Marsden, and Charlotte Deane.    
+  [bioRxiv (2024)](https://doi.org/10.1101/2024.03.28.586278)  |  [code](https://github.com/oxpig/MolSnapper) 
+
 * **De Novo Molecule Generation with Graph Latent Diffusion Model** [2024]   
  Wang, Conghao, Hiok Hian Ong, Shunsuke Chiba, and Jagath C. Rajapakse.    
   [ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE (2024)](https://doi.org/10.1109/ICASSP48485.2024.10447480)  
@@ -2227,6 +2231,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+* **MolSnapper: Conditioning Diffusion for Structure Based Drug Design** [2024]   
+ Ziv, Yael, Brian Marsden, and Charlotte Deane.    
+  [bioRxiv (2024)](https://doi.org/10.1101/2024.03.28.586278)  |  [code](https://github.com/oxpig/MolSnapper) 
 
 * **3D molecular generative framework for interaction-guided drug design** [2024]   
   Zhung, W., Kim, H. & Kim, W.Y.   
