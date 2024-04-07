@@ -704,6 +704,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+* **DockingGA: enhancing targeted molecule generation using transformer neural network and genetic algorithm with docking simulation**  [2024]   
+ Changnan Gao, Wenjie Bao, Shuang Wang, Jianyang Zheng, Lulu Wang, Yongqi Ren, Linfang Jiao, Jianmin Wang, Xun Wang.   
+  [Briefings in Functional Genomics (2024)](https://doi.org/10.1093/bfgp/elae011) |  [code](https://github.com/Chinafor/DockingGA) 
+
 * **Gotta be SAFE: A New Framework for Molecular Design** [2024]   
   Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
   [Digital Discovery (2024)](https://doi.org/10.1039/D4DD00019F) |  [arXiv:2310.10773 (2023)](https://arxiv.org/abs/2310.10773) |  [code](https://github.com/datamol-io/safe)
@@ -1934,6 +1938,10 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 ### Genetic Algorithm-based
 
+
+* **DockingGA: enhancing targeted molecule generation using transformer neural network and genetic algorithm with docking simulation**  [2024]   
+ Changnan Gao, Wenjie Bao, Shuang Wang, Jianyang Zheng, Lulu Wang, Yongqi Ren, Linfang Jiao, Jianmin Wang, Xun Wang.   
+  [Briefings in Functional Genomics (2024)](https://doi.org/10.1093/bfgp/elae011) |  [code](https://github.com/Chinafor/DockingGA) 
 
 * **Enhancing molecular design efficiency: Uniting language models and generative networks with genetic algorithms**  [2024]   
  Bhowmik, Debsindhu, Pei Zhang, Zachary Fox, Stephan Irle, and John Gounley.   
