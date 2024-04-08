@@ -983,6 +983,10 @@ Li, C., Yamanishi, Y.
 
 
 
+* **GxVAEs: Two Joint VAEs Generate Hit Molecules from Gene Expression Profiles** [2024]   
+  Li, Chen, and Yoshihiro Yamanishi.   
+  [Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 12. (2024)](https://doi.org/10.1609/aaai.v38i12.29248) |  [code](https://github.com/naruto7283/GxVAEs) 
+
 * **3D molecular generative framework for interaction-guided drug design** [2024]   
   Zhung, W., Kim, H. & Kim, W.Y.   
   [Nat Commun 15, 2688 (2024)](https://doi.org/10.1038/s41467-024-47011-2) |  [code](https://github.com/ACE-KAIST/DeepICL) 
