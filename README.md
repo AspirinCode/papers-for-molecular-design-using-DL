@@ -1433,6 +1433,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+* **Sculpting Molecules in Text-3D Space: A Flexible Substructure Aware Framework for Text-Oriented Molecular Optimization** [2024]   
+ Zhang, Kaiwei, Yange Lin, Guangcheng Wu, Yuxiang Ren, Xuecang Zhang, Bo Wang, and Xiao-Yu Zhang.    
+  [Research Square (2024)](https://www.researchsquare.com/article/rs-4023429/v1)  
 
 * **AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design** [2024]   
  Li, Xinze, Penglei Wang, Tianfan Fu, Wenhao Gao, Chengtao Li, Leilei Shi, and Junhong Liu.    
@@ -2247,6 +2250,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+
+
+* **Sculpting Molecules in Text-3D Space: A Flexible Substructure Aware Framework for Text-Oriented Molecular Optimization** [2024]   
+ Zhang, Kaiwei, Yange Lin, Guangcheng Wu, Yuxiang Ren, Xuecang Zhang, Bo Wang, and Xiao-Yu Zhang.    
+  [Research Square (2024)](https://www.researchsquare.com/article/rs-4023429/v1)  
 
 * **AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design** [2024]   
  Li, Xinze, Penglei Wang, Tianfan Fu, Wenhao Gao, Chengtao Li, Leilei Shi, and Junhong Liu.    
