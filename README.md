@@ -1434,6 +1434,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+* **AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design** [2024]   
+ Li, Xinze, Penglei Wang, Tianfan Fu, Wenhao Gao, Chengtao Li, Leilei Shi, and Junhong Liu.    
+  [arXiv:2404.02003 (2024)](https://arxiv.org/html/2404.02003v1)  
+
 * **MolSnapper: Conditioning Diffusion for Structure Based Drug Design** [2024]   
  Ziv, Yael, Brian Marsden, and Charlotte Deane.    
   [bioRxiv (2024)](https://doi.org/10.1101/2024.03.28.586278)  |  [code](https://github.com/oxpig/MolSnapper) 
@@ -2244,7 +2248,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
-
+* **AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design** [2024]   
+ Li, Xinze, Penglei Wang, Tianfan Fu, Wenhao Gao, Chengtao Li, Leilei Shi, and Junhong Liu.    
+  [arXiv:2404.02003 (2024)](https://arxiv.org/html/2404.02003v1)  
 
 * **MolSnapper: Conditioning Diffusion for Structure Based Drug Design** [2024]   
  Ziv, Yael, Brian Marsden, and Charlotte Deane.    
