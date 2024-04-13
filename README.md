@@ -1437,6 +1437,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+* **Equivariant 3D-conditional diffusion model for molecular linker design** [2024]   
+ Igashov, I., Stärk, H., Vignac, C. et al.    
+  [Nat Mach Intell (2024)](https://doi.org/10.1038/s42256-024-00815-9)  |  [code](https://github.com/igashov/DiffLinker) 
+
 * **Sculpting Molecules in Text-3D Space: A Flexible Substructure Aware Framework for Text-Oriented Molecular Optimization** [2024]   
  Zhang, Kaiwei, Yange Lin, Guangcheng Wu, Yuxiang Ren, Xuecang Zhang, Bo Wang, and Xiao-Yu Zhang.    
   [Research Square (2024)](https://www.researchsquare.com/article/rs-4023429/v1)  
@@ -2768,7 +2772,9 @@ ZHANG Z, Liu Q.
 ### Linkers-based DMGs
 
 
-
+* **Equivariant 3D-conditional diffusion model for molecular linker design** [2024]   
+ Igashov, I., Stärk, H., Vignac, C. et al.    
+  [Nat Mach Intell (2024)](https://doi.org/10.1038/s42256-024-00815-9)  |  [code](https://github.com/igashov/DiffLinker) 
 
 * **GRELinker: A Graph-based Generative Model for Molecular Linker Design with Reinforcement and Curriculum Learning** [2024]   
   Zhang, Hao, Jinchao Huang, Junjie Xie, Weifeng Huang, Yuedong Yang, Mingyuan Xu, Jinping Lei, and Hongming Chen.  
