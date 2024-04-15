@@ -1436,6 +1436,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+* **A unified conditional diffusion framework for dual protein targets based bioactive molecule generation**   [2024]   
+ Huang, Lei, Zheng Yuan, Huihui Yan, Rong Sheng, Linjing Liu, Fuzhou Wang, Weidun Xie et al.    
+  [IEEE Transactions on Artificial Intelligence (2024)](https://doi.org/10.1109/TAI.2024.3387402)  |  [arXiv:2306.13957 (2023)](https://arxiv.org/abs/2306.13957) 
 
 * **Equivariant 3D-conditional diffusion model for molecular linker design** [2024]   
  Igashov, I., Stärk, H., Vignac, C. et al.    
@@ -1548,10 +1551,6 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 * **Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D** [2023]   
  Qiang, Bo, Yuxuan Song, Minkai Xu, Jingjing Gong, Bowen Gao, Hao Zhou, Wei-Ying Ma, and Yanyan Lan.    
   [ICML  (2023)](https://proceedings.mlr.press/v202/qiang23a.html) |  [code](https://github.com/qiangbo1222/HierDiff) 
-
-* **DiffDTM: A conditional structure-free framework for bioactive molecules generation targeted for dual proteins**   [2023]   
- Huang, Lei, Zheng Yuan, Huihui Yan, Rong Sheng, Linjing Liu, Fuzhou Wang, Weidun Xie et al.    
-  [arXiv:2306.13957 (2023)](https://arxiv.org/abs/2306.13957) 
 
 * **DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design** [2023]   
  Guan, Jiaqi, Xiangxin Zhou, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, Qiang Liu, Liang Wang, and Quanquan Gu.    
@@ -2259,6 +2258,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+* **A unified conditional diffusion framework for dual protein targets based bioactive molecule generation**  [2024]   
+ Huang, Lei, Zheng Yuan, Huihui Yan, Rong Sheng, Linjing Liu, Fuzhou Wang, Weidun Xie et al.    
+  [IEEE Transactions on Artificial Intelligence (2024)](https://doi.org/10.1109/TAI.2024.3387402)  |  [arXiv:2306.13957 (2023)](https://arxiv.org/abs/2306.13957) 
 
 * **Sculpting Molecules in Text-3D Space: A Flexible Substructure Aware Framework for Text-Oriented Molecular Optimization** [2024]   
  Zhang, Kaiwei, Yange Lin, Guangcheng Wu, Yuxiang Ren, Xuecang Zhang, Bo Wang, and Xiao-Yu Zhang.    
