@@ -1436,6 +1436,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+
+
+* **A Property-Guided Diffusion Model For Generating Molecular Graphs**   [2024]   
+ Ma, Changsheng, Taicheng Guo, Qiang Yang, Xiuying Chen, Xin Gao, Shangsong Liang, Nitesh Chawla, and Xiangliang Zhang.    
+  [ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE (2024)](https://doi.org/10.1109/ICASSP48485.2024.10447350)  
+
 * **A unified conditional diffusion framework for dual protein targets based bioactive molecule generation**   [2024]   
  Huang, Lei, Zheng Yuan, Huihui Yan, Rong Sheng, Linjing Liu, Fuzhou Wang, Weidun Xie et al.    
   [IEEE Transactions on Artificial Intelligence (2024)](https://doi.org/10.1109/TAI.2024.3387402)  |  [arXiv:2306.13957 (2023)](https://arxiv.org/abs/2306.13957) 
