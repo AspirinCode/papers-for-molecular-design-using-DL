@@ -1632,6 +1632,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+* **Augmented Memory: Sample-Efficient Generative Molecular Design with Reinforcement Learning**  [2024]   
+ Guo, Jeff, and Philippe Schwaller.   
+  [JACS Au (2024)](https://doi.org/10.1021/jacsau.4c00066) |  [code](https://github.com/schwallergroup/augmented_memory) 
+
 * **Mol-AIR: Molecular Reinforcement Learning with Adaptive Intrinsic Rewards for Goal-directed Molecular Generation**  [2024]   
  Park, Jinyeong, Jaegyoon Ahn, Jonghwan Choi, and Jibum Kim.   
   [arXiv:2403.20109 (2024)](https://arxiv.org/abs/2403.20109) |  [code](https://github.com/DevSlem/Mol-AIR) 
