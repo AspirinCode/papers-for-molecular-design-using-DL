@@ -62,7 +62,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 
 ## Recommendations and References
 
- **wesome-AI4ProteinConformation-MD**
+ **awesome-AI4ProteinConformation-MD**
 
  https://github.com/AspirinCode/awesome-AI4ProteinConformation-MD
 
@@ -106,6 +106,9 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 ## Reviews
 
+* **Unlocking the Potential of Generative Artificial Intelligence in Drug Discovery** [2024]   
+ Romanelli, Virgilio, Carmen Cerchia, and Antonio Lavecchia.   
+  [Applications of Generative AI (2024)](https://link.springer.com/chapter/10.1007/978-3-031-46238-2_3)  
 
 * **Recent Advances in Automated Structure-Based De Novo Drug Design** [2024]   
  Bai, Qifeng, Jian Ma, and Tingyang Xu.   
