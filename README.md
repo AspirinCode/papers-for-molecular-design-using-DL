@@ -62,9 +62,9 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 
 ## Recommendations and References
 
- **Reinvent 4: Modern AI–driven generative molecule design**
+ **wesome-AI4ProteinConformation-MD**
 
- https://github.com/MolecularAI/REINVENT4
+ https://github.com/AspirinCode/awesome-AI4ProteinConformation-MD
 
 
 **Large Language Model for Biomedical Science, Molecule, Protein, Material Discovery**
