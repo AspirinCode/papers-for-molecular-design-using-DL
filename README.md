@@ -527,8 +527,20 @@ Ivanenkov, Yan A., Daniil Polykovskiy, Dmitry Bezrukov, Bogdan Zagribelnyy, Vlad
 
 
 
+
+
+
+
 ### RNN-based
 
+
+
+
+
+
+* **Prospective de novo drug design with deep interactome learning** [2024]   
+Atz, K., Cotos, L., Isert, C. et al.   
+[Nat Commun 15, 3408 (2024)](https://doi.org/10.1038/s41467-024-47613-w) |  [code](https://github.com/atzkenneth/dragonfly_gen)
 
 * **CNSMolGen: a bidirectional recurrent neural networks based generative model for de novo central nervous system drug design** [2024]   
 Gou, Rongpei, Jingyi Yang, Menghan Guo, Yingjun Chen, and Weiwei Xue.   
@@ -605,6 +617,11 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 
 ### LSTM-based
 
+
+
+* **Prospective de novo drug design with deep interactome learning** [2024]   
+Atz, K., Cotos, L., Isert, C. et al.   
+[Nat Commun 15, 3408 (2024)](https://doi.org/10.1038/s41467-024-47613-w) |  [code](https://github.com/atzkenneth/dragonfly_gen)
 
 * **Computational Drug Discovery on HIV Virus with a Customized LSTM Variational Autoencoder Deep Learning Architecture** [2023]   
   Kutsal, Mucahit, Ferhat Ucar, and Nida Kati.   
@@ -2271,6 +2288,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+* **Prospective de novo drug design with deep interactome learning** [2024]   
+Atz, K., Cotos, L., Isert, C. et al.   
+[Nat Commun 15, 3408 (2024)](https://doi.org/10.1038/s41467-024-47613-w) |  [code](https://github.com/atzkenneth/dragonfly_gen)
 
 * **A unified conditional diffusion framework for dual protein targets based bioactive molecule generation**  [2024]   
  Huang, Lei, Zheng Yuan, Huihui Yan, Rong Sheng, Linjing Liu, Fuzhou Wang, Weidun Xie et al.    
