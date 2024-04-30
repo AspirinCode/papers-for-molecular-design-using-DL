@@ -42,7 +42,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | Menu | Menu | 
 | ------ | ------ | 
 | [Benchmark for Molecular Conformer Ensembles](#benchmark-for-molecular-conformer-ensembles) | [Reviews for Molecular Conformation Generation](#reviews-for-molecular-conformation-generation) | 
-| [VAE-based Molecular Conformation Generation](#vae-based-molecular-conformation-generation) | | 
+| [VAE-based Molecular Conformation Generation](#vae-based-molecular-conformation-generation) | [GAN-based Molecular Conformation Generation](#gan-based-molecular-conformation-generation) | 
 |  [Energy-based Molecular Conformation Generation](#energy-based-molecular-conformation-generation) |   | 
 |  [Diffusion-based Molecular Conformation Generation](#diffusion-based-molecular-conformation-generation) |   | 
 |  [RL-based Molecular Conformation Generation](#rl-based-molecular-conformation-generation) |   | 
@@ -407,6 +407,8 @@ Zhu, Yanqiao, Jeehyun Hwang, Keir Adams, Zhen Liu, Bozhao Nan, Brock Stenfors, Y
 ### VAE-based Molecular Conformation Generation
 
 
+
+
 * **Deep-Learning-Assisted Enhanced Sampling for Exploring Molecular Conformational Changes** [2023]   
 Haohao Fu, Han Liu, Jingya Xing, Tong Zhao, Xueguang Shao, and Wensheng Cai.   
 [J. Phys. Chem. B (2023)](https://doi.org/10.1021/acs.jpcb.3c05284) 
@@ -414,6 +416,26 @@ Haohao Fu, Han Liu, Jingya Xing, Tong Zhao, Xueguang Shao, and Wensheng Cai.
 * **An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming** [2021]   
 Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bombarelli, and Jian Tang.   
 [International Conference on Machine Learning. PMLR (2021)](http://proceedings.mlr.press/v139/xu21f.html) |  [code](https://github.com/MinkaiXu/ConfVAE-ICML21) 
+
+
+
+
+
+
+### GAN-based Molecular Conformation Generation
+
+
+
+
+
+
+
+
+* **Deep-Learning-Assisted Enhanced Sampling for Exploring Molecular Conformational Changes** [2024]   
+Kuznetsov, Maksim, Fedor Ryabov, Roman Schutski, Rim Shayakhmetov, Yen-Chu Lin, Alex Aliper, and Daniil Polykovskiy.   
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c00989) |  [code](https://github.com/insilicomedicine/COSMIC)  
+
+
 
 
 
