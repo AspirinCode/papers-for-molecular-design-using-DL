@@ -746,6 +746,11 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+
+* **TenGAN: Pure Transformer Encoders Make an Efficient Discrete GAN for De Novo Molecular Generation**  [2024]   
+ Li, Chen, and Yoshihiro Yamanishi.   
+  [ International Conference on Artificial Intelligence and Statistics. PMLR (2024)](https://proceedings.mlr.press/v238/li24d.html)   
+
 * **DockingGA: enhancing targeted molecule generation using transformer neural network and genetic algorithm with docking simulation**  [2024]   
  Changnan Gao, Wenjie Bao, Shuang Wang, Jianyang Zheng, Lulu Wang, Yongqi Ren, Linfang Jiao, Jianmin Wang, Xun Wang.   
   [Briefings in Functional Genomics (2024)](https://doi.org/10.1093/bfgp/elae011) |  [code](https://github.com/Chinafor/DockingGA) 
@@ -1256,6 +1261,9 @@ Li, C., Yamanishi, Y.
 ### GAN-based
 
 
+* **TenGAN: Pure Transformer Encoders Make an Efficient Discrete GAN for De Novo Molecular Generation**  [2024]   
+ Li, Chen, and Yoshihiro Yamanishi.   
+  [ International Conference on Artificial Intelligence and Statistics. PMLR (2024)](https://proceedings.mlr.press/v238/li24d.html)   
 
 * **Enhancing molecular design efficiency: Uniting language models and generative networks with genetic algorithms**  [2024]   
  Bhowmik, Debsindhu, Pei Zhang, Zachary Fox, Stephan Irle, and John Gounley.   
