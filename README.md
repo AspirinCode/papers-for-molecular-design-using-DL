@@ -1679,6 +1679,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+* **De novo drug design as GPT language modeling: large chemistry models with supervised and reinforcement learning**  [2024]   
+ Ye, Gavin.   
+  [ Journal of Computer-Aided Molecular Design 38.1 (2024)](https://link.springer.com/article/10.1007/s10822-024-00559-z) |  [code](https://huggingface.co/Coconut104/EfficacyGPT-DrugDesign) 
+
 * **Augmented Memory: Sample-Efficient Generative Molecular Design with Reinforcement Learning**  [2024]   
  Guo, Jeff, and Philippe Schwaller.   
   [JACS Au (2024)](https://doi.org/10.1021/jacsau.4c00066) |  [code](https://github.com/schwallergroup/augmented_memory) 
@@ -2080,7 +2084,9 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Large Language Model-based
 
 
-
+* **De novo drug design as GPT language modeling: large chemistry models with supervised and reinforcement learning**  [2024]   
+ Ye, Gavin.   
+  [ Journal of Computer-Aided Molecular Design 38.1 (2024)](https://link.springer.com/article/10.1007/s10822-024-00559-z) |  [code](https://huggingface.co/Coconut104/EfficacyGPT-DrugDesign) 
 
 * **DrugAssist: A Large Language Model for Molecule Optimization**  [2023]   
  Ye, Geyan, Xibao Cai, Houtim Lai, Xing Wang, Junhong Huang, Longyue Wang, Wei Liu, and Xiangxiang Zeng.   
