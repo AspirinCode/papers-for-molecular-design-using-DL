@@ -1360,6 +1360,11 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 ### Flow-based
 
 
+
+* **Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation** [2024]   
+Dunn, Ian, and David Ryan Koes.  
+[arXiv:2404.19739 (2024)](https://arxiv.org/abs/2404.19739) |  [code](https://github.com/dunni3/FlowMol) 
+
 * **PocketFlow is a data-and-knowledge-driven structure-based molecular generative model** [2024]   
 Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.  
 [Nat Mach Intell (2024)](https://doi.org/10.1038/s42256-024-00808-8) |  [Research Square. PREPRINT. (2023)](https://www.researchsquare.com/article/rs-3077992/v1) |  [code](https://github.com/Saoge123/PocketFlow) 
