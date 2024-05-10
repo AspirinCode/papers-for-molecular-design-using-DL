@@ -106,6 +106,10 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 ## Reviews
 
+* **Deep Lead Optimization: Leveraging Generative AI for Structural Modification** [2024]  
+ Zhang, Odin, Haitao Lin, Hui Zhang, Huifeng Zhao, Yufei Huang, Yuansheng Huang, Dejun Jiang, Chang-yu Hsieh, Peichen Pan, and Tingjun Hou.   
+[arXiv:2404.19230 (2024)](https://arxiv.org/abs/2404.19230)  
+
 * **Unlocking the Potential of Generative Artificial Intelligence in Drug Discovery** [2024]   
  Romanelli, Virgilio, Carmen Cerchia, and Antonio Lavecchia.   
   [Applications of Generative AI (2024)](https://link.springer.com/chapter/10.1007/978-3-031-46238-2_3)  
