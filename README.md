@@ -1033,6 +1033,9 @@ Li, C., Yamanishi, Y.
 
 
 
+* **Leveraging Active Subspaces to Capture Epistemic Model Uncertainty in Deep Generative Models for Molecular Design** [2024]   
+  Abeer, A. N. M., Sanket Jantre, Nathan M. Urban, and Byung-Jun Yoon.   
+  [arXiv:2405.00202 (2024)](https://arxiv.org/abs/2405.00202)  
 
 * **GxVAEs: Two Joint VAEs Generate Hit Molecules from Gene Expression Profiles** [2024]   
   Li, Chen, and Yoshihiro Yamanishi.   
