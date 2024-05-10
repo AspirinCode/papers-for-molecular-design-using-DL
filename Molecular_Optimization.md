@@ -29,6 +29,11 @@ Beck, Hartmut, Tobias Thaler, Daniel Meibom, Mark Meininghaus, Hannah Jörißen
 ## Reviews
 
 
+
+* **Deep Lead Optimization: Leveraging Generative AI for Structural Modification** [2024]  
+ Zhang, Odin, Haitao Lin, Hui Zhang, Huifeng Zhao, Yufei Huang, Yuansheng Huang, Dejun Jiang, Chang-yu Hsieh, Peichen Pan, and Tingjun Hou.   
+[arXiv:2404.19230 (2024)](https://arxiv.org/abs/2404.19230)  
+
 * **Computer-aided multi-objective optimization in small molecule discovery** [2023]  
   Fromer, J. C., & Coley, C. W.   
 [Patterns 4.2 (2023)](https://doi.org/10.1016/j.patter.2023.100678)
