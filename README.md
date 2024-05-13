@@ -749,7 +749,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
-
+* **Exploring Novel Fentanyl Analogues Using a Graph-Based Transformer Model**  [2024]   
+ Zhang, Guangle, Yuan Zhang, Ling Li, Jiaying Zhou, Honglin Chen, Jinwen Ji, Yanru Li, Yue Cao, Zhihui Xu, and Cong Pian.   
+  [Interdisciplinary Sciences: Computational Life Sciences (2024)](https://doi.org/10.1007/s12539-024-00623-0) |  [code](https://github.com/xueyuanyuan0410/fentanyl_data) 
 
 * **TenGAN: Pure Transformer Encoders Make an Efficient Discrete GAN for De Novo Molecular Generation**  [2024]   
  Li, Chen, and Yoshihiro Yamanishi.   
