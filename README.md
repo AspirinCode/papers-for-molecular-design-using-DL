@@ -1500,6 +1500,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **Diff-Shape: A Novel Constrained Diffusion Model for Shape based De Novo Drug Design**   [2024]   
+ Lin, Jie, Mingyuan Xu, and Hongming Chen.   
+  [chemrxiv-2024-km0h1 (2024)](https://doi.org/10.26434/chemrxiv-2024-km0h1)  
+
 * **A Property-Guided Diffusion Model For Generating Molecular Graphs**   [2024]   
  Ma, Changsheng, Taicheng Guo, Qiang Yang, Xiuying Chen, Xin Gao, Shangsong Liang, Nitesh Chawla, and Xiangliang Zhang.    
   [ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE (2024)](https://doi.org/10.1109/ICASSP48485.2024.10447350)  
