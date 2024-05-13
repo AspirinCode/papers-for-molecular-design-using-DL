@@ -23,7 +23,7 @@ Beck, Hartmut, Tobias Thaler, Daniel Meibom, Mark Meininghaus, Hannah Jörißen
 | [RNN-based](#rnn-based) | [LSTM-based](#lstm-based) | [Autoregressive-models](#autoregressive-models) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) |  |
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) |  |
-| [RL-based](#rl-based) | [Active Learning-based](#active-learning-based) | [Contrastive Learning-based](#contrastive-learning-based) |  |
+| [RL-based](#rl-based) | [Active Learning-based](#active-learning-based) | [Contrastive Learning-based](#contrastive-learning-based) |  [Genetic Algorithm-based](#genetic-algorithm-based) |
 | [Text-driven Molecular Optimization](#text-driven-molecular-optimization) | [Large Language Model-based](#large-language-model-based) |  |  |
 
 ## Reviews
@@ -258,6 +258,19 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 
 
+
+
+
+
+### Genetic Algorithm-based
+
+
+
+
+
+* **MolDrug (from Molecule to Drug) is a python package for drug-oriented optimization on the chemical space** [2023]   
+  
+  [code](https://github.com/ale94mleon/MolDrug) 
 
 
 
