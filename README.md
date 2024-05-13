@@ -1977,6 +1977,10 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+* **Optimal Molecular Design: Generative Active Learning Combining REINVENT with Absolute Binding Free Energy Simulations**  [2024]   
+ Loeffler, Hannes, Shunzhou Wan, Marco Klähn, Agastya Bhati, and Peter Coveney.   
+  [chemrxiv-2024-sr1v6 (2024)](https://doi.org/10.26434/chemrxiv-2024-sr1v6) |  [code](https://github.com/MolecularAI/REINVENT4) 
+
 * **ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**  [2024]   
  Kyro, Gregory W., Anton Morgunov, Rafael I. Brent, and Victor S. Batista.   
   [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.3c01456) |  [code](https://github.com/batistagroup/ChemSpaceAL) 
