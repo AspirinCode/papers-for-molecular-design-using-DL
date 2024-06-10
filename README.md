@@ -1502,6 +1502,13 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+* **MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space** [2024]   
+ Qu, Yanru, Keyue Qiu, Yuxuan Song, Jingjing Gong, Jiawei Han, Mingyue Zheng, Hao Zhou, and Wei-Ying Ma.    
+  [ICML (2024)](https://openreview.net/pdf/5026a68b7e1fc7485c73ca919d8dea934394f0d0.pdf)  |  [code](https://github.com/AlgoMole/MolCRAFT) 
+
+* **PILOT: Equivariant diffusion for pocket conditioned de novo ligand generation with multi-objective guidance via importance sampling**   [2024]   
+ Cremer, Julian, Tuan Le, Frank Noé, Djork-Arné Clevert, and Kristof T. Schütt.    
+  [arXiv:2405.14925 (2024)](https://arxiv.org/abs/2405.14925)  
 
 * **Diff-Shape: A Novel Constrained Diffusion Model for Shape based De Novo Drug Design**   [2024]   
  Lin, Jie, Mingyuan Xu, and Hongming Chen.   
