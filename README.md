@@ -2088,8 +2088,8 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
   Jensen, Jan H.    
   [Chemical science 10.12 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc05372c) 
 
-* **DENOPTIM: Software for Computational de Novo Design of Organic and Inorganic Molecules** [2019]
-  Marco Foscato, Vishwesh Venkatraman, and Vidar R. Jensen.
+* **DENOPTIM: Software for Computational de Novo Design of Organic and Inorganic Molecules** [2019]   
+  Marco Foscato, Vishwesh Venkatraman, and Vidar R. Jensen.   
   [J. Chem. Inf. Model. 2019, 59, 10, 4077–4082](https://doi.org/10.1021/acs.jcim.9b00516)
 
 
