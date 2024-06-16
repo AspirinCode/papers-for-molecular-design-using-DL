@@ -2766,6 +2766,9 @@ ZHANG Z, Liu Q.
 
 ### Fragment-based DMGs
 
+* **t-SMILES: a fragment-based molecular representation framework for de novo ligand design** [2024]   
+  Wu, JN., Wang, T., Chen, Y. et al.    
+  [Nat Commun 15, 4993 (2024)](https://doi.org/10.1038/s41467-024-49388-6) |  [code](https://github.com/juanniwu/t-SMILES) 
 
 * **Gotta be SAFE: A New Framework for Molecular Design** [2024]   
   Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
