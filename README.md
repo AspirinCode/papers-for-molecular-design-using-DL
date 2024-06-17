@@ -2360,6 +2360,12 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+* **Structure-based Drug Design Benchmark: Do 3D Methods Really Dominate?** [2024]   
+Zheng, Kangyu, Yingzhou Lu, Zaixi Zhang, Zhongwei Wan, Yao Ma, Marinka Zitnik, and Tianfan Fu.   
+[arXiv-2406 (2024)](https://arxiv.org/abs/2406.03403) |  [code](https://github.com/zkysfls/2024-sbdd-benchmark)
+
 * **Prospective de novo drug design with deep interactome learning** [2024]   
 Atz, K., Cotos, L., Isert, C. et al.   
 [Nat Commun 15, 3408 (2024)](https://doi.org/10.1038/s41467-024-47613-w) |  [code](https://github.com/atzkenneth/dragonfly_gen)
