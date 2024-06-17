@@ -1363,6 +1363,10 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
+* **RGFN: Synthesizable Molecular Generation Using GFlowNets** [2024]   
+Koziarski, Michal, Andrei Rekesh, Dmytro Shevchuk, Almer van der Sloot, Piotr Gai'nski, Yoshua Bengio, Cheng-Hao Liu, Mike Tyers and Robert A. Batey.  
+[	arXiv:2406.08506 (2024)](https://arxiv.org/abs/2406.08506)  
+
 * **Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation** [2024]   
 Dunn, Ian, and David Ryan Koes.  
 [arXiv:2404.19739 (2024)](https://arxiv.org/abs/2404.19739) |  [code](https://github.com/dunni3/FlowMol) 
