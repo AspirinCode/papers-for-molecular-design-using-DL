@@ -1363,6 +1363,12 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
+
+
+* **Efficient 3D Molecular Generation with Flow Matching and Scale Optimal Transport** [2024]   
+Irwin, Ross, Alessandro Tibo, Jon-Paul Janet, and Simon Olsson.  
+[	arXiv:2406.07266 (2024)](https://arxiv.org/abs/2406.07266)  
+
 * **RGFN: Synthesizable Molecular Generation Using GFlowNets** [2024]   
 Koziarski, Michal, Andrei Rekesh, Dmytro Shevchuk, Almer van der Sloot, Piotr Gai'nski, Yoshua Bengio, Cheng-Hao Liu, Mike Tyers and Robert A. Batey.  
 [	arXiv:2406.08506 (2024)](https://arxiv.org/abs/2406.08506)  
