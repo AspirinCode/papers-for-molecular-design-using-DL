@@ -1720,6 +1720,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+* **BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**  [2024]   
+ Zholus, Artem, Maksim Kuznetsov, Roman Schutski, Rim Shayakhmetov, Daniil Polykovskiy, Sarath Chandar, and Alex Zhavoronkov.   
+  [arXiv:2406.03686 (2024)](https://arxiv.org/abs/2406.03686)  
+
 * **De novo drug design as GPT language modeling: large chemistry models with supervised and reinforcement learning**  [2024]   
  Ye, Gavin.   
   [ Journal of Computer-Aided Molecular Design 38.1 (2024)](https://link.springer.com/article/10.1007/s10822-024-00559-z) |  [code](https://huggingface.co/Coconut104/EfficacyGPT-DrugDesign) 
