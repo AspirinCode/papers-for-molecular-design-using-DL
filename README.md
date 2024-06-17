@@ -2364,7 +2364,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **From Theory to Therapy: Reframing SBDD Model Evaluation via Practical Metrics** [2024]   
+Gao, Bowen, Haichuan Tan, Yanwen Huang, Minsi Ren, Xiao Huang, Wei-Ying Ma, Ya-Qin Zhang and Yanyan Lan.   
+[	arXiv:2406.08980 (2024)](https://arxiv.org/abs/2406.08980) |  [code](https://github.com/bowen-gao/sbdd_practical_evaluation)
 
 * **Structure-based Drug Design Benchmark: Do 3D Methods Really Dominate?** [2024]   
 Zheng, Kangyu, Yingzhou Lu, Zaixi Zhang, Zhongwei Wan, Yao Ma, Marinka Zitnik, and Tianfan Fu.   
