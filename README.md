@@ -749,6 +749,11 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+
+* **BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**  [2024]   
+ Zholus, Artem, Maksim Kuznetsov, Roman Schutski, Rim Shayakhmetov, Daniil Polykovskiy, Sarath Chandar, and Alex Zhavoronkov.   
+  [arXiv:2406.03686 (2024)](https://arxiv.org/abs/2406.03686)   
+
 * **Exploring Novel Fentanyl Analogues Using a Graph-Based Transformer Model**  [2024]   
  Zhang, Guangle, Yuan Zhang, Ling Li, Jiaying Zhou, Honglin Chen, Jinwen Ji, Yanru Li, Yue Cao, Zhihui Xu, and Cong Pian.   
   [Interdisciplinary Sciences: Computational Life Sciences (2024)](https://doi.org/10.1007/s12539-024-00623-0) |  [code](https://github.com/xueyuanyuan0410/fentanyl_data) 
