@@ -2190,7 +2190,13 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ## Multi-Target based deep molecular generative models
 
 
+* **Structure-aware dual-target drug design through collaborative learning of pharmacophore combination and molecular simulation** [2024]  
+ Sheng Chen, Junjie Xie, Renlong Ye, David Daqiang Xu and Yuedong Yang*.    
+  [Chem. Sci., (2024)](https://doi.org/10.1039/D4SC00094C) | [code](https://github.com/biomed-AI/AIxFuse) 
 
+* **De novo generation of multi-target compounds using deep generative chemistry** [2024]  
+ Munson, B.P., Chen, M., Bogosian, A. et al.    
+  [Nat Commun 15, 3636 (2024)](https://doi.org/10.1038/s41467-024-47120-y) | [code](https://github.com/bpmunson/polygon) 
 
 * **De novo generation of dual-target ligands using adversarial training and reinforcement learning** [2021]  
  Lu, Fengqing, Mufei Li, Xiaoping Min, Chunyan Li, and Xiangxiang Zeng.    
