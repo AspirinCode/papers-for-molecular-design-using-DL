@@ -2143,6 +2143,10 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Large Language Model-based
 
 
+* **Generative design of compounds with desired potency from target protein sequences using a multimodal biochemical language model**  [2024]   
+ Chen, H., Bajorath, J.   
+  [ J Cheminform 16, 55 (2024)](https://doi.org/10.1186/s13321-024-00852-x) |  [code](https://uni-bonn.sciebo.de/s/Z9O2ZqKoA2cS7B1) 
+
 * **Large Property Models: A New Generative Paradigm for Molecules**  [2024]   
  Jin, Tianfan, Veerupaksh Singla, Hsuan-Hao Hsu, and Brett Savoie.   
   [chemrxiv-2024-v3qww (2024)](https://doi.org/10.26434/chemrxiv-2024-v3qww)  
@@ -2393,6 +2397,18 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+* **Structure-aware dual-target drug design through collaborative learning of pharmacophore combination and molecular simulation** [2024]  
+ Sheng Chen, Junjie Xie, Renlong Ye, David Daqiang Xu and Yuedong Yang*.    
+  [Chem. Sci., (2024)](https://doi.org/10.1039/D4SC00094C) | [code](https://github.com/biomed-AI/AIxFuse) 
+
+* **De novo generation of multi-target compounds using deep generative chemistry** [2024]  
+ Munson, B.P., Chen, M., Bogosian, A. et al.    
+  [Nat Commun 15, 3636 (2024)](https://doi.org/10.1038/s41467-024-47120-y) | [code](https://github.com/bpmunson/polygon) 
+
+* **Generative design of compounds with desired potency from target protein sequences using a multimodal biochemical language model**  [2024]   
+ Chen, H., Bajorath, J.   
+  [ J Cheminform 16, 55 (2024)](https://doi.org/10.1186/s13321-024-00852-x) |  [code](https://uni-bonn.sciebo.de/s/Z9O2ZqKoA2cS7B1) 
 
 * **From Theory to Therapy: Reframing SBDD Model Evaluation via Practical Metrics** [2024]   
 Gao, Bowen, Haichuan Tan, Yanwen Huang, Minsi Ren, Xiao Huang, Wei-Ying Ma, Ya-Qin Zhang and Yanyan Lan.   
