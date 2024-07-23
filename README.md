@@ -2035,6 +2035,11 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+
+* **DrugSynthMC: an atom based generation of drug-like molecules with Monte Carlo Search** [2024]   
+  Roucairol, Milo, Alexios Georgiou, Tristan Cazenave, Filippo Prischi, and Olivier E. Pardo   
+  [chemrxiv-2024-l2969 (2024)](https://doi.org/10.26434/chemrxiv-2024-l2969) |  [code](https://github.com/RoucairolMilo/DrugSynthMC)
+
 * **Generative AI for designing and validating easily synthesizable and structurally novel antibiotics** [2024]   
   Suzuki, Takamasa, Dian Ma, Nobuaki Yasuo, and Masakazu Sekijima.   
   [Nat Mach Intell 6, 338–353 (2024)](https://doi.org/10.1038/s42256-024-00809-7) |  [code](https://github.com/swansonk14/SyntheMol) 
@@ -2137,6 +2142,10 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 ### Large Language Model-based
 
+
+* **Large Property Models: A New Generative Paradigm for Molecules**  [2024]   
+ Jin, Tianfan, Veerupaksh Singla, Hsuan-Hao Hsu, and Brett Savoie.   
+  [chemrxiv-2024-v3qww (2024)](https://doi.org/10.26434/chemrxiv-2024-v3qww)  
 
 * **De novo drug design as GPT language modeling: large chemistry models with supervised and reinforcement learning**  [2024]   
  Ye, Gavin.   
