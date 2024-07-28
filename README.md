@@ -1040,6 +1040,13 @@ Li, C., Yamanishi, Y.
 
 
 
+
+
+
+* **Structure-Based Drug Design with a Deep Hierarchical Generative Model** [2024]   
+  Weller, Jesse A., and Remo Rohs.   
+  [J. Chem. Inf. Model. (2024)](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c01193) |  [code](https://github.com/jssweller/DrugHIVE) 
+
 * **Leveraging Active Subspaces to Capture Epistemic Model Uncertainty in Deep Generative Models for Molecular Design** [2024]   
   Abeer, A. N. M., Sanket Jantre, Nathan M. Urban, and Byung-Jun Yoon.   
   [arXiv:2405.00202 (2024)](https://arxiv.org/abs/2405.00202)  
@@ -2397,6 +2404,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+
+* **Structure-Based Drug Design with a Deep Hierarchical Generative Model** [2024]   
+  Weller, Jesse A., and Remo Rohs.   
+  [J. Chem. Inf. Model. (2024)](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c01193) |  [code](https://github.com/jssweller/DrugHIVE) 
 
 * **Structure-aware dual-target drug design through collaborative learning of pharmacophore combination and molecular simulation** [2024]  
  Sheng Chen, Junjie Xie, Renlong Ye, David Daqiang Xu and Yuedong Yang*.    
