@@ -469,6 +469,10 @@ Guan, Jiaqi, Wesley Wei Qian, Wei-Ying Ma, Jianzhu Ma, and Jian Peng.
 
 
 
+* **DrugDiff - small molecule diffusion model with flexible guidance towards molecular properties** [204]   
+Marie Oestreich, Erinc Merdivan, Michael Lee, Joachim L. Schultze, Marie Piraud, Matthias Becker.   
+[bioRxiv 2024.07.17.603873 (2024)](https://doi.org/10.1101/2024.07.17.603873) |  [code](https://github.com/MarieOestreich/DrugDiff)
+
 * **Diffusion-based generative AI for exploring transition states from 2D molecular graphs** [204]   
 Kim, S., Woo, J. & Kim, W.Y.   
 [Nat Commun 15, 341 (2024)](https://doi.org/10.1038/s41467-023-44629-6) |  [code](https://github.com/seonghann/tsdiff)
