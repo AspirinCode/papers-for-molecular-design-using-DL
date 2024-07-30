@@ -2215,6 +2215,9 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 ## Multi-Target based deep molecular generative models
 
+* **Generation of Dual-Target Compounds Using a Transformer Chemical Language Model** [2024]  
+ Srinivasan, Sanjana, and Jürgen Bajorath.    
+  [chemrxiv-2024-8qj17 (2024)](https://doi.org/10.26434/chemrxiv-2024-8qj17)  
 
 * **Structure-aware dual-target drug design through collaborative learning of pharmacophore combination and molecular simulation** [2024]  
  Sheng Chen, Junjie Xie, Renlong Ye, David Daqiang Xu and Yuedong Yang*.    
@@ -2410,7 +2413,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
-
+* **Generation of Dual-Target Compounds Using a Transformer Chemical Language Model** [2024]  
+ Srinivasan, Sanjana, and Jürgen Bajorath.    
+  [chemrxiv-2024-8qj17 (2024)](https://doi.org/10.26434/chemrxiv-2024-8qj17)  
 
 * **Structure-Based Drug Design with a Deep Hierarchical Generative Model** [2024]   
   Weller, Jesse A., and Remo Rohs.   
