@@ -1536,6 +1536,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space** [204]   
+Ketata, Mohamed Amine, Nicholas Gao, Johanna Sommer, Tom Wollschläger, and Stephan Günnemann.   
+[arXiv:2406.10513 (2024)](https://arxiv.org/abs/2406.10513)  
+
 * **Decomposed Direct Preference Optimization for Structure-Based Drug Design** [204]   
 Cheng, Xiwei, Xiangxin Zhou, Yuwei Yang, Yu Bao, and Quanquan Gu.   
 [arXiv:2407.13981 (2024)](https://arxiv.org/abs/2407.13981)  
