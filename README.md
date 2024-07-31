@@ -1385,7 +1385,9 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
-
+* **Cell Morphology-Guided Small Molecule Generation with GFlowNets** [2024]   
+Lu, Stephen Zhewen, Ziqing Lu, Ehsan Hajiramezanali, Tommaso Biancalani, Yoshua Bengio, Gabriele Scalia, and Michał Koziarski.  
+[ ICML 2024 Workshop on Structured Probabilistic Inference & Generative Modeling (2024)](https://openreview.net/forum?id=KmSlN13Xk3)   
 
 * **Efficient 3D Molecular Generation with Flow Matching and Scale Optimal Transport** [2024]   
 Irwin, Ross, Alessandro Tibo, Jon-Paul Janet, and Simon Olsson.  
@@ -1532,6 +1534,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+
+
+* **Decomposed Direct Preference Optimization for Structure-Based Drug Design** [204]   
+Cheng, Xiwei, Xiangxin Zhou, Yuwei Yang, Yu Bao, and Quanquan Gu.   
+[arXiv:2407.13981 (2024)](https://arxiv.org/abs/2407.13981)  
 
 * **PIDiff: Physics informed diffusion model for protein pocket-specific 3D molecular generation** [204]   
 Choi, Seungyeon, Sangmin Seo, Byung Ju Kim, Chihyun Park, and Sanghyun Park.   
@@ -2167,6 +2174,14 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Large Language Model-based
 
 
+* **Token-Mol 1.0: Tokenized drug design with large language model**  [2024]   
+ Wang, Jike, Rui Qin, Mingyang Wang, Meijing Fang, Yangyang Zhang, Yuchen Zhu, Qun Su et al.   
+  [arXiv:2407.07930 (2024)](https://arxiv.org/abs/2407.07930) |  [code](https://arxiv.org/abs/2407.07930) 
+
+* **3D Molecular Pocket-based Generation with Token-only Large Language Model** [204]   
+Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen, C., You, Z. and Wan, X.   
+[chemrxiv-2024-0ckgt (2024)](https://doi.org/10.26434/chemrxiv-2024-0ckgt)  
+
 * **Navigating Ultra-Large Virtual Chemical Spaces with Product-of-Experts Chemical Language Models**  [2024]   
  Nakata, Shuya, Yoshiharu Mori, and Shigenori Tanaka.   
   [chemrxiv-2024-0bcn5 (2024)](https://doi.org/10.26434/chemrxiv-2024-0bcn5) |  [code](https://github.com/shuyana/poeclm/) 
@@ -2428,6 +2443,16 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+
+
+* **Decomposed Direct Preference Optimization for Structure-Based Drug Design** [204]   
+Cheng, Xiwei, Xiangxin Zhou, Yuwei Yang, Yu Bao, and Quanquan Gu.   
+[arXiv:2407.13981 (2024)](https://arxiv.org/abs/2407.13981)  
+
+* **3D Molecular Pocket-based Generation with Token-only Large Language Model** [204]   
+Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen, C., You, Z. and Wan, X.   
+chemrxiv-2024-0ckgt (2024)](https://doi.org/10.26434/chemrxiv-2024-0ckgt)  
 
 * **PIDiff: Physics informed diffusion model for protein pocket-specific 3D molecular generation** [204]   
 Choi, Seungyeon, Sangmin Seo, Byung Ju Kim, Chihyun Park, and Sanghyun Park.   
