@@ -2156,6 +2156,10 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Large Language Model-based
 
 
+* **Navigating Ultra-Large Virtual Chemical Spaces with Product-of-Experts Chemical Language Models**  [2024]   
+ Nakata, Shuya, Yoshiharu Mori, and Shigenori Tanaka.   
+  [chemrxiv-2024-0bcn5 (2024)](https://doi.org/10.26434/chemrxiv-2024-0bcn5) |  [code](https://github.com/shuyana/poeclm/) 
+
 * **Generative design of compounds with desired potency from target protein sequences using a multimodal biochemical language model**  [2024]   
  Chen, H., Bajorath, J.   
   [ J Cheminform 16, 55 (2024)](https://doi.org/10.1186/s13321-024-00852-x) |  [code](https://uni-bonn.sciebo.de/s/Z9O2ZqKoA2cS7B1) 
