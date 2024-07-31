@@ -564,7 +564,9 @@ Ivanenkov, Yan A., Daniil Polykovskiy, Dmitry Bezrukov, Bogdan Zagribelnyy, Vlad
 
 
 
-
+* **Transcriptionally Conditional Recurrent Neural Network for De Novo Drug Design** [2024]   
+Matsukiyo, Y., Tengeiji, A., Li, C. and Yamanishi, Y.   
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c00531) |  [code](https://yamanishi.cs.i.nagoya-u.ac.jp/gxrnn/)
 
 * **Prospective de novo drug design with deep interactome learning** [2024]   
 Atz, K., Cotos, L., Isert, C. et al.   
@@ -751,6 +753,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+
+* **Transformer Graph Variational Autoencoder for Generative Molecular Design** [2024]   
+  Nguyen, Trieu, and Aleksandra Karolak.   
+  [bioRxiv (2024)](https://doi.org/10.1101/2024.07.22.604603)  
 
 * **BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**  [2024]   
  Zholus, Artem, Maksim Kuznetsov, Roman Schutski, Rim Shayakhmetov, Daniil Polykovskiy, Sarath Chandar, and Alex Zhavoronkov.   
@@ -1043,7 +1049,9 @@ Li, C., Yamanishi, Y.
 
 
 
-
+* **Transformer Graph Variational Autoencoder for Generative Molecular Design** [2024]   
+  Nguyen, Trieu, and Aleksandra Karolak.   
+  [bioRxiv (2024)](https://doi.org/10.1101/2024.07.22.604603)  
 
 * **Structure-Based Drug Design with a Deep Hierarchical Generative Model** [2024]   
   Weller, Jesse A., and Remo Rohs.   
