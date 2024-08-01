@@ -290,7 +290,9 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 ### Large Language Model-based
 
 
-
+* **Small Molecule Optimization with Large Language Models**  [2024]   
+ Guevorguian, Philipp, Menua Bedrosian, Tigran Fahradyan, Gayane Chilingaryan, Hrant Khachatrian, and Armen Aghajanyan.   
+  [ arXiv:2407.18897 (2024)](https://arxiv.org/abs/2407.18897) |  [code](https://github.com/yerevann/chemlactica)
 
 * **DrugAssist: A Large Language Model for Molecule Optimization**  [2023]   
  Ye, Geyan, Xibao Cai, Houtim Lai, Xing Wang, Junhong Huang, Longyue Wang, Wei Liu, and Xiangxiang Zeng.   
