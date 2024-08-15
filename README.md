@@ -1,7 +1,7 @@
 [![License: GPL](https://img.shields.io/badge/License-GPL-yellow)](https://github.com/AspirinCode/papers-for-molecular-design-using-DL)
 [![contributing](https://img.shields.io/badge/contributions-welcome-brightgreen)](https://github.com/AspirinCode/papers-for-molecular-design-using-DL)
 
-# List of molecular design (molecular conformation generation) using Generative AI and Deep Learning 
+# List of Molecular and Material design (molecular conformation generation) using Generative AI and Deep Learning 
 
 
 related to  **Generative AI** and **Deep Learning** for  **molecular/drug design** and **molecular conformation generation**. 
@@ -17,7 +17,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 
 ## Menu
 
-**Molecular Design Using Generative Artificial Intelligence and Deep Learning**
+**Molecular(drug) Design Using Generative Artificial Intelligence and Deep Learning**
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
@@ -51,7 +51,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 |  [GNN-based Molecular Conformation Generation](#gnn-based-molecular-conformation-generation) |   | 
 
 
-  - [Deep Learning-based design](#deep-learning-based-design)
+  - [Deep Learning-based drug design](#deep-learning-based-drug-design)
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
@@ -60,6 +60,20 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) | [Active Learning DMGs](#active-learning-dmgs) |
 | [RL-based](#rl-based) | [Multi-task DMGs](#multi-task-dmgs) | [Monte Carlo Tree Search](#monte-carlo-tree-search) | [Genetic Algorithm-based](#genetic-algorithm-based) |
 | [Evolutionary Algorithm-based](#evolutionary-algorithm-based) | [Large Language Model-based](#large-language-model-based)  |  |  |
+
+
+
+**Material Design Using Generative Artificial Intelligence and Deep Learning**
+
+  - [Deep Learning-based material design](#deep-learning-based-material-design)
+
+| Menu | Menu | Menu | Menu |
+| ------ | :---------- | ------ | ------ |
+|  |  |  |  |
+
+
+
+
 
 
 ## Recommendations and References
@@ -545,7 +559,7 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 
 
-## Deep Learning-based design
+## Deep Learning-based drug design
 
 
 
