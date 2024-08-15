@@ -3288,7 +3288,15 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 ## Deep Learning-based material design
 
 
+ 
 
+* **Scaling deep learning for materials discovery**  [2023]   
+ Merchant, A., Batzner, S., Schoenholz, S.S. et al.   
+  [Nature 624, 80–85 (2023)](https://doi.org/10.1038/s41586-023-06735-9) |  [code](https://github.com/google-deepmind/materials_discovery)  
+
+* **MatterGen: a generative model for inorganic materials design**  [2023]   
+ Zeni, C., Pinsler, R., Zügner, D., Fowler, A., Horton, M., Fu, X., Shysheya, S., Crabbé, J., Sun, L., Smith, J. and Tomioka, R.   
+  [arXiv:2312.03687 (2023)](https://arxiv.org/abs/2312.03687)  
 
 
 
