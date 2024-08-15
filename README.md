@@ -17,6 +17,8 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 
 ## Menu
 
+**Molecular Design Using Generative Artificial Intelligence and Deep Learning**
+
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
 | [ Generative AI for Scientific Discovery](#generative-ai-for-scientific-discovery) | [ Reviews](#reviews) | [ Datasets and Benchmarks](#datasets-and-benchmarks) | [ Drug-likeness and Evaluation metrics](#drug-likeness-and-evaluation-metrics) |
