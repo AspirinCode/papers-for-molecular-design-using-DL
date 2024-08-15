@@ -544,14 +544,21 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 
 ## Deep Learning-based design
+
+
+
+
+* **Accelerated Discovery of Carbamate Cbl-b Inhibitors Using Generative AI Models and Structure-Based Drug Design** [2024]  
+Quinn, T.R., Giblin, K.A., Thomson, C., Boerth, J.A., Bommakanti, G., Braybrooke, E., Chan, C., Chinn, A.J., Code, E., Cui, C. and Fan, Y.    
+[J. Med. Chem. (2024)](https://doi.org/10.1021/acs.jmedchem.4c01034) | [code](https://github.com/MolecularAI/REINVENT4)  
+
 * **Reinvent 4: Modern AI–driven generative molecule design** [2024]  
 Hannes H. Loeffler, Jiazhen He, Alessandro Tibo, Jon Paul Janet, Alexey Voronov, Lewis H. Mervin & Ola Engkvist  
-[Journal of Cheminformatics,16(20) (2024)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00812-5) | [code](https://github.com/MolecularAI/REINVENT4)
-
+[Journal of Cheminformatics,16(20) (2024)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00812-5) | [code](https://github.com/MolecularAI/REINVENT4)  
 
 * **Chemistry42: An AI-Driven Platform for Molecular Design and Optimization** [2023]   
 Ivanenkov, Yan A., Daniil Polykovskiy, Dmitry Bezrukov, Bogdan Zagribelnyy, Vladimir Aladinskiy, Petrina Kamya, Alex Aliper, Feng Ren, and Alex Zhavoronkov.   
-[Journal of Chemical Information and Modeling 63.3 (2023)](https://doi.org/10.1021/acs.jcim.2c01191) |  [web](https://cloud.chemistry42.com/login) 
+[Journal of Chemical Information and Modeling 63.3 (2023)](https://doi.org/10.1021/acs.jcim.2c01191) |  [web](https://cloud.chemistry42.com/login)  
 
 
 
