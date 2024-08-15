@@ -2039,6 +2039,10 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+* **Human-in-the-loop active learning for goal-oriented molecule generation**  [2024]   
+ Nahal, Y., Menke, J., Martinelli, J., Heinonen, M., Kabeshov, M., Janet, J.P., Nittinger, E., Engkvist, O. and Kaski, S.   
+  [chemrxiv-2024-623lx (2024)](https://doi.org/10.26434/chemrxiv-2024-623lx) |  [code](https://github.com/yasminenahal/HITL_AL_GoalOrientedMolGen)  
+
 * **Optimal Molecular Design: Generative Active Learning Combining REINVENT with Absolute Binding Free Energy Simulations**  [2024]   
  Loeffler, Hannes, Shunzhou Wan, Marco Klähn, Agastya Bhati, and Peter Coveney.   
   [chemrxiv-2024-sr1v6 (2024)](https://doi.org/10.26434/chemrxiv-2024-sr1v6) |  [code](https://github.com/MolecularAI/REINVENT4) 
