@@ -1564,7 +1564,7 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 * **Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space** [204]   
 Ketata, Mohamed Amine, Nicholas Gao, Johanna Sommer, Tom Wollschläger, and Stephan Günnemann.   
-[arXiv:2406.10513 (2024)](https://arxiv.org/abs/2406.10513)  
+[arXiv:2406.10513 (2024)](https://arxiv.org/abs/2406.10513)   |  [code](https://github.com/ketatam/SyCo)  
 
 * **Decomposed Direct Preference Optimization for Structure-Based Drug Design** [204]   
 Cheng, Xiwei, Xiangxin Zhou, Yuwei Yang, Yu Bao, and Quanquan Gu.   
@@ -1572,7 +1572,7 @@ Cheng, Xiwei, Xiangxin Zhou, Yuwei Yang, Yu Bao, and Quanquan Gu.
 
 * **PIDiff: Physics informed diffusion model for protein pocket-specific 3D molecular generation** [204]   
 Choi, Seungyeon, Sangmin Seo, Byung Ju Kim, Chihyun Park, and Sanghyun Park.   
-[Computers in Biology and Medicine 180 (2024)](https://doi.org/10.1016/j.compbiomed.2024.108865) |  [code](https://github.com/hello-maker/PIDiff)
+[Computers in Biology and Medicine 180 (2024)](https://doi.org/10.1016/j.compbiomed.2024.108865) |  [code](https://github.com/hello-maker/PIDiff)  
 
 * **DrugDiff - small molecule diffusion model with flexible guidance towards molecular properties** [204]   
 Marie Oestreich, Erinc Merdivan, Michael Lee, Joachim L. Schultze, Marie Piraud, Matthias Becker.   
