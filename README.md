@@ -2191,11 +2191,13 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
-
+* **Integration of Genetic Algorithms and Deep Learning for the Generation and Bioactivity Prediction of Novel Tyrosine Kinase Inhibitors**  [2024]   
+ Romero, Ricardo.   
+  [arXiv:2408.07155 (2024)](https://arxiv.org/abs/2408.07155) |  [code](https://github.com/ricardo-romero-ochoa/bio-deep-learning)  
 
 * **Combining Evolutionary Algorithms with Reaction Rules Towards Focused Molecular Design**  [2023]   
  Correia, João, Vítor Pereira, and Miguel Rocha.   
-  [Proceedings of the Genetic and Evolutionary Computation Conference (2023)](https://doi.org/10.1145/3583131.3590413) |  [code](https://github.com/BioSystemsUM/ReactEA) 
+  [Proceedings of the Genetic and Evolutionary Computation Conference (2023)](https://doi.org/10.1145/3583131.3590413) |  [code](https://github.com/BioSystemsUM/ReactEA)  
 
 * **LEADD: Lamarckian evolutionary algorithm for de novo drug design**  [2022]   
  Kerstjens, A., De Winter, H.   
