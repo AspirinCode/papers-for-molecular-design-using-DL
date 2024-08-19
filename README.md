@@ -3301,7 +3301,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 ## Deep Learning-based material design
 
 
- 
+* **AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence**  [2024]   
+ Ghafarollahi, Alireza, and Markus J. Buehler.   
+  [arXiv:2407.10022 (2024)](https://arxiv.org/abs/2407.10022) |  [code](https://github.com/lamm-mit/AtomAgents)   
 
 * **Scaling deep learning for materials discovery**  [2023]   
  Merchant, A., Batzner, S., Schoenholz, S.S. et al.   
