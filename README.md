@@ -2208,6 +2208,11 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Large Language Model-based
 
 
+
+* **Conversational Drug Editing Using Retrieval and Domain Feedback**  [2024]   
+ Liu, Shengchao, Jiongxiao Wang, Yijin Yang, Chengpeng Wang, Ling Liu, Hongyu Guo, and Chaowei Xiao.   
+  [The Twelfth International Conference on Learning Representations (2024)](https://openreview.net/forum?id=yRrPfKyJQ2) |  [code](https://github.com/chao1224/ChatDrug) 
+
 * **Token-Mol 1.0: Tokenized drug design with large language model**  [2024]   
  Wang, Jike, Rui Qin, Mingyang Wang, Meijing Fang, Yangyang Zhang, Yuchen Zhu, Qun Su et al.   
   [arXiv:2407.07930 (2024)](https://arxiv.org/abs/2407.07930) |  [code](https://arxiv.org/abs/2407.07930) 
