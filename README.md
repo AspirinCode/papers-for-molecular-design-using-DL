@@ -2236,7 +2236,9 @@ Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen
  Ye, Geyan, Xibao Cai, Houtim Lai, Xing Wang, Junhong Huang, Longyue Wang, Wei Liu, and Xiangxiang Zeng.   
   [arXiv:2401.10334 (2023)](https://arxiv.org/abs/2401.10334) |  [code](https://github.com/blazerye/DrugAssist) 
 
-
+* **Multi-modal molecule structure–text model for text-based retrieval and editing** [2023]   
+ Liu, S., Nie, W., Wang, C. et al.    
+  [Nat Mach Intell 5, 1447–1457 (2023)]( https://doi.org/10.1038/s42256-023-00759-6) |  [code](https://github.com/chao1224/MoleculeSTM) 
 
 
 
@@ -2252,6 +2254,10 @@ Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen
 * **Exploring the potential of AI-Chatbots in organic chemistry: An assessment of ChatGPT and bard** [2023]   
  Hallal, K., Hamdan, R. and Tlais, S.    
   [Computers and Education: Artificial Intelligence (2023)](https://doi.org/10.1016/j.caeai.2023.100170) 
+
+* **Multi-modal molecule structure–text model for text-based retrieval and editing** [2023]   
+ Liu, S., Nie, W., Wang, C. et al.    
+  [Nat Mach Intell 5, 1447–1457 (2023)]( https://doi.org/10.1038/s42256-023-00759-6) |  [code](https://github.com/chao1224/MoleculeSTM) 
 
 * **Generating Novel Leads for Drug Discovery using LLMs with Logical Feedback** [2023]   
  Shreyas Bhat Brahmavar, Ashwin Srinivasan, Tirtharaj Dash, Sowmya R Krishnan, Lovekesh Vig, Arijit Roy, Raviprasad Aduri    
