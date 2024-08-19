@@ -2488,8 +2488,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
-
-
+* **What Ails Generative Structure-based Drug Design: Too Little or Too Much Expressivity?** [204]   
+Karczewski, Rafał, Samuel Kaski, Markus Heinonen, and Vikas Garg.   
+[arXiv:2408.06050 (2024)](https://arxiv.org/abs/2408.06050)   |  [code](https://github.com/rafalkarczewski/SimpleSBDD)  
 
 * **Decomposed Direct Preference Optimization for Structure-Based Drug Design** [204]   
 Cheng, Xiwei, Xiangxin Zhou, Yuwei Yang, Yu Bao, and Quanquan Gu.   
@@ -2501,7 +2502,7 @@ chemrxiv-2024-0ckgt (2024)](https://doi.org/10.26434/chemrxiv-2024-0ckgt)
 
 * **PIDiff: Physics informed diffusion model for protein pocket-specific 3D molecular generation** [204]   
 Choi, Seungyeon, Sangmin Seo, Byung Ju Kim, Chihyun Park, and Sanghyun Park.   
-[Computers in Biology and Medicine 180 (2024)](https://doi.org/10.1016/j.compbiomed.2024.108865) |  [code](https://github.com/hello-maker/PIDiff)
+[Computers in Biology and Medicine 180 (2024)](https://doi.org/10.1016/j.compbiomed.2024.108865) |  [code](https://github.com/hello-maker/PIDiff)  
 
 * **Generation of Dual-Target Compounds Using a Transformer Chemical Language Model** [2024]  
  Srinivasan, Sanjana, and Jürgen Bajorath.    
