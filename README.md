@@ -1530,7 +1530,9 @@ Gnaneshwar, Dwaraknath, et al.
 
 
 
-
+* **Unsupervised Discovery of Steerable Factors When Graph Deep Generative Models Are Entangled**   [2024]   
+Liu, Shengchao, Chengpeng Wang, Jiarui Lu, Weili Nie, Hanchen Wang, Zhuoxinran Li, Bolei Zhou, and Jian Tang.   
+[Transactions on Machine Learning Research (2024)](https://openreview.net/forum?id=wyU3Q4gahM) |  [code](https://github.com/chao1224/GraphCG)  
 
 * **Molecular design with automated quantum computing-based deep learning and optimization**   [2023]   
 Ajagekar, Akshay, and Fengqi You.   
