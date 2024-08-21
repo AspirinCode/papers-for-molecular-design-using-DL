@@ -198,6 +198,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ### Diffusion-based
 
 
+
+
+* **Fragment-Masked Molecular Optimization** [2024]   
+ Kun Li and Xiantao Cai and Jia Wu and Bo Du and Wenbin Hu.    
+  [arXiv:2408.09106 (2024)](https://arxiv.org/abs/2408.09106)   
+
 * **Diffusing on Two Levels and Optimizing for Multiple Properties: A Novel Approach to Generating Molecules with Desirable Properties** [2023]   
  Guo, Siyuan, Jihong Guan, and Shuigeng Zhou.    
   [arXiv:2310.04463 (2023)](https://arxiv.org/abs/2310.04463) 
@@ -336,6 +342,11 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 ### Fragment-based Molecular Optimization
 
 
+
+
+* **Fragment-Masked Molecular Optimization** [2024]   
+ Kun Li and Xiantao Cai and Jia Wu and Bo Du and Wenbin Hu.    
+  [arXiv:2408.09106 (2024)](https://arxiv.org/abs/2408.09106)  
 
 * **FOMO: A Fragment-based Objective Molecule Optimization Framework** [2023]   
 Ma, Cong, Zeqi Zhang, Min Xu, and Haimin Zhang.  
