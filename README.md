@@ -2222,6 +2222,10 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
+* **Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models**  [2024]   
+ Cong Fu and Xiner Li and Blake Olson and Heng Ji and Shuiwang Ji.   
+  [arXiv:2408.09730 (2024)](https://arxiv.org/abs/2408.09730)  
+
 * **Conversational Drug Editing Using Retrieval and Domain Feedback**  [2024]   
  Liu, Shengchao, Jiongxiao Wang, Yijin Yang, Chengpeng Wang, Ling Liu, Hongyu Guo, and Chaowei Xiao.   
   [The Twelfth International Conference on Learning Representations (2024)](https://openreview.net/forum?id=yRrPfKyJQ2) |  [code](https://github.com/chao1224/ChatDrug) 
@@ -2509,6 +2513,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+
+* **Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models**  [2024]   
+ Cong Fu and Xiner Li and Blake Olson and Heng Ji and Shuiwang Ji.   
+  [arXiv:2408.09730 (2024)](https://arxiv.org/abs/2408.09730)  
 
 * **What Ails Generative Structure-based Drug Design: Too Little or Too Much Expressivity?** [204]   
 Karczewski, Rafał, Samuel Kaski, Markus Heinonen, and Vikas Garg.   
@@ -2959,6 +2967,11 @@ ZHANG Z, Liu Q.
 
 
 ### Fragment-based DMGs
+
+
+* **Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models**  [2024]   
+ Cong Fu and Xiner Li and Blake Olson and Heng Ji and Shuiwang Ji.   
+  [arXiv:2408.09730 (2024)](https://arxiv.org/abs/2408.09730)  
 
 * **t-SMILES: a fragment-based molecular representation framework for de novo ligand design** [2024]   
   Wu, JN., Wang, T., Chen, Y. et al.    
