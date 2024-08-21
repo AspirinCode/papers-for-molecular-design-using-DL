@@ -358,9 +358,18 @@ https://github.com/AspirinCode/DrugAI_Drug-Likeness
 **Retrosynthetic accessibility score (RAscore) – rapid machine learned synthesizability classification from AI driven retrosynthetic planning**  
 [Chemical Science 12.9 (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc05401a) |  [code](https://github.com/reymond-group/RAscore) 
 
+
+
+
 ### Evaluation metrics
 
 
+
+
+
+* **Hamiltonian diversity: effectively measuring molecular diversity by shortest Hamiltonian circuits** [2024]   
+Hu, X., Liu, G., Yao, Q. et al.   
+[ J Cheminform 16, 94 (2024)](https://doi.org/10.1186/s13321-024-00883-4) |  [code](https://github.com/HXYfighter/HamDiv)  
 
 * **Spacial Score – A Comprehensive Topological Indicator for Small Molecule Complexity** [2023]   
 Krzyzanowski, Adrian, Axel Pahl, Michael Grigalunas, and Herbert Waldmann.   
@@ -2251,10 +2260,19 @@ Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen
 
 
 
+
+
+
 ## Text-driven molecular generation models
 
 
 
+
+
+
+* **Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model** [204]   
+Yuran Xiang and Haiteng Zhao and Chang Ma and Zhi-Hong Deng.   
+[	arXiv:2408.09896 (2024)](https://arxiv.org/abs/2408.09896)  |  [code](https://github.com/ran1812/UTGDiff)  
 
 * **Text-Guided Molecule Generation with Diffusion Language Model** [2024]   
  Gong, Haisong, Qiang Liu, Shu Wu, and Liang Wang.    
