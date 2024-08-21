@@ -1560,7 +1560,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model** [204]   
+Yuran Xiang and Haiteng Zhao and Chang Ma and Zhi-Hong Deng.   
+[	arXiv:2408.09896 (2024)](https://arxiv.org/abs/2408.09896)  |  [code](https://github.com/ran1812/UTGDiff)  
 
 * **Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space** [204]   
 Ketata, Mohamed Amine, Nicholas Gao, Johanna Sommer, Tom Wollschläger, and Stephan Günnemann.   
