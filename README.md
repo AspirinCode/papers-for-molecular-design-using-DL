@@ -1575,6 +1575,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+
+* **3M-Diffusion: Latent Multi-Modal Diffusion for Language-Guided Molecular Structure Generation** [204]   
+Zhu, Huaisheng, Teng Xiao, and Vasant G. Honavar.   
+[First Conference on Language Modeling (2024)](https://openreview.net/forum?id=DomBynQsqt#discussion)  |  [code](https://github.com/huaishengzhu/3MDiffusion)  
+
 * **Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model** [204]   
 Yuran Xiang and Haiteng Zhao and Chang Ma and Zhi-Hong Deng.   
 [	arXiv:2408.09896 (2024)](https://arxiv.org/abs/2408.09896)  |  [code](https://github.com/ran1812/UTGDiff)  
@@ -2224,9 +2229,17 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
+
+
 ### Large Language Model-based
 
 
+
+
+
+* **3M-Diffusion: Latent Multi-Modal Diffusion for Language-Guided Molecular Structure Generation** [204]   
+Zhu, Huaisheng, Teng Xiao, and Vasant G. Honavar.   
+[First Conference on Language Modeling (2024)](https://openreview.net/forum?id=DomBynQsqt#discussion)  |  [code](https://github.com/huaishengzhu/3MDiffusion) 
 
 * **Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models**  [2024]   
  Cong Fu and Xiner Li and Blake Olson and Heng Ji and Shuiwang Ji.   
