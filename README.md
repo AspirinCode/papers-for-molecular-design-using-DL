@@ -786,6 +786,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+
+
+* **Exhaustive local chemical space exploration using a transformer model**  [2024]   
+ Tibo, A., He, J., Janet, J.P. et al.   
+  [INat Commun 15, 7315 (2024)](https://doi.org/10.1038/s41467-024-51672-4) |  [code](https://github.com/MolecularAI/exahustive_search_mol2mol) 
+
 * **Transformer Graph Variational Autoencoder for Generative Molecular Design** [2024]   
   Nguyen, Trieu, and Aleksandra Karolak.   
   [bioRxiv (2024)](https://doi.org/10.1101/2024.07.22.604603)  
