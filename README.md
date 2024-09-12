@@ -3356,7 +3356,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 ## Deep Learning-based material design
 
 
-
+* **Generative AI model trained by molecular dynamics for rapid mechanical design of architected graphene** [2024]  
+Milad Masrouri, Kamalendu Paul, Zhao Qin.   
+[Extreme Mechanics Letters (2024)](https://doi.org/10.1016/j.eml.2024.102230)  
 
 * **Design of functional and sustainable polymers assisted by artificial intelligence**  [2024]   
  Tran, H., Gurnani, R., Kim, C. et al.   
