@@ -742,7 +742,9 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 ### Autoregressive-models
 
-
+* **Enabling target-aware molecule generation to follow multi objectives with Pareto MCTS** [2024]   
+Yang, Y., Chen, G., Li, J. et al.  
+[Commun Biol 7, 1074 (2024)](https://doi.org/10.1038/s42003-024-06746-w) | [code](https://github.com/CNDOTA/ParetoDrug) 
 
 * **PocketFlow is a data-and-knowledge-driven structure-based molecular generative model** [2024]   
 Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.  
@@ -2118,10 +2120,19 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+
+
+
+
 ### Monte Carlo Tree Search
 
 
 
+
+
+* **Enabling target-aware molecule generation to follow multi objectives with Pareto MCTS** [2024]   
+Yang, Y., Chen, G., Li, J. et al.  
+[Commun Biol 7, 1074 (2024)](https://doi.org/10.1038/s42003-024-06746-w) | [code](https://github.com/CNDOTA/ParetoDrug) 
 
 * **DrugSynthMC: an atom based generation of drug-like molecules with Monte Carlo Search** [2024]   
   Roucairol, Milo, Alexios Georgiou, Tristan Cazenave, Filippo Prischi, and Olivier E. Pardo   
@@ -2532,6 +2543,12 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+
+
+
+* **Enabling target-aware molecule generation to follow multi objectives with Pareto MCTS** [2024]   
+Yang, Y., Chen, G., Li, J. et al.  
+[Commun Biol 7, 1074 (2024)](https://doi.org/10.1038/s42003-024-06746-w) | [code](https://github.com/CNDOTA/ParetoDrug) 
 
 * **Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models**  [2024]   
  Cong Fu and Xiner Li and Blake Olson and Heng Ji and Shuiwang Ji.   
