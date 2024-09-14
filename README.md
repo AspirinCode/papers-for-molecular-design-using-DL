@@ -1578,6 +1578,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **PILOT: equivariant diffusion for pocket-conditioned de novo ligand generation with multi-objective guidance via importance sampling** [204]   
+Cremer, Julian, Tuan Le, Frank Noé, Djork-Arné Clevert, and Kristof T. Schütt.   
+[Chem. Sci. (2024)](https://doi.org/10.1039/D4SC03523B)  
+
 * **3M-Diffusion: Latent Multi-Modal Diffusion for Language-Guided Molecular Structure Generation** [204]   
 Zhu, Huaisheng, Teng Xiao, and Vasant G. Honavar.   
 [First Conference on Language Modeling (2024)](https://openreview.net/forum?id=DomBynQsqt#discussion)  |  [code](https://github.com/huaishengzhu/3MDiffusion)  
@@ -2545,6 +2550,12 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+
+* **PILOT: equivariant diffusion for pocket-conditioned de novo ligand generation with multi-objective guidance via importance sampling** [204]   
+Cremer, Julian, Tuan Le, Frank Noé, Djork-Arné Clevert, and Kristof T. Schütt.   
+[Chem. Sci. (2024)](https://doi.org/10.1039/D4SC03523B)  
 
 * **Enabling target-aware molecule generation to follow multi objectives with Pareto MCTS** [2024]   
 Yang, Y., Chen, G., Li, J. et al.  
