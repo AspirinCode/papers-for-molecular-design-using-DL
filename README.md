@@ -754,6 +754,10 @@ Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.
 Sattari, Kianoosh, Dawei Li, Bhupalee Kalita, Yunchao Xie, Fatemeh Barmaleki Lighvan, Olexandr Isayev, and Jian Lin.  
 [Digital Discovery (2024)](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d3dd00210a) |  [code](https://github.com/linresearchgroup/RRCGAN_Molecules_Ehl) 
 
+* **Symphony: Symmetry-Equivariant Point-Centered Spherical Harmonics for 3D Molecule Generation** [2024]   
+Ameya Daigavane and Song Eun Kim and Mario Geiger and Tess Smidt.  
+[ICLR (2024)](https://openreview.net/forum?id=MIEnYtlGyv) |  [code](https://github.com/atomicarchitects/symphony) 
+
 * **Autoregressive fragment-based diffusion for pocket-aware ligand design** [2023]   
  Ghorbani, Mahdi, Leo Gendelev, Paul Beroza, and Michael Keiser.    
   [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop.  (2023)](https://openreview.net/forum?id=E3HN48zjam) |  [code](https://github.com/ghorbanimahdi73/autofragdiff) 
