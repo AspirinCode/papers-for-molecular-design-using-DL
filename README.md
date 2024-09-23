@@ -3385,8 +3385,18 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+
+
+
+
 ## Deep Learning-based material design
 
+
+
+
+* **A prompt-engineered large language model, deep learning workflow for materials classification**  [2024]   
+ Liu, Siyu, Tongqi Wen, ASL Subrahmanyam Pattamatta, and David J. Srolovitz.   
+  [Materials Today (2024)](https://doi.org/10.1016/j.mattod.2024.08.028) |  [code](https://github.com/Grenzlinie/MgBERT_LLM_Classification_for_Materials_Science)   
 
 * **Generative AI model trained by molecular dynamics for rapid mechanical design of architected graphene** [2024]  
 Milad Masrouri, Kamalendu Paul, Zhao Qin.   
