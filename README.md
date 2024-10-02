@@ -120,7 +120,17 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
+
+
+
 ## Reviews
+
+
+
+
+* **Diffusion Models in De Novo Drug Design** [204]   
+Alakhdar, Amira, Barnabas Poczos, and Newell Washburn.   
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01107) 
 
 * **Deep Lead Optimization: Leveraging Generative AI for Structural Modification** [2024]  
  Zhang, Odin, Haitao Lin, Hui Zhang, Huifeng Zhao, Yufei Huang, Yuansheng Huang, Dejun Jiang, Chang-yu Hsieh, Peichen Pan, and Tingjun Hou.   
@@ -1582,6 +1592,13 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+
+
+* **Diffusion Models in De Novo Drug Design** [204]   
+Alakhdar, Amira, Barnabas Poczos, and Newell Washburn.   
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01107)  
 
 * **PILOT: equivariant diffusion for pocket-conditioned de novo ligand generation with multi-objective guidance via importance sampling** [204]   
 Cremer, Julian, Tuan Le, Frank Noé, Djork-Arné Clevert, and Kristof T. Schütt.   
