@@ -2114,6 +2114,11 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+
+* **Traversing chemical space with active deep learning for low-data drug discovery**  [2024]   
+ van Tilborg, D., Grisoni, F.   
+  [Nat Comput Sci (2024)](https://doi.org/10.1038/s43588-024-00697-2) |  [code](https://zenodo.org/records/13337648)  
+
 * **Human-in-the-loop active learning for goal-oriented molecule generation**  [2024]   
  Nahal, Y., Menke, J., Martinelli, J., Heinonen, M., Kabeshov, M., Janet, J.P., Nittinger, E., Engkvist, O. and Kaski, S.   
   [chemrxiv-2024-623lx (2024)](https://doi.org/10.26434/chemrxiv-2024-623lx) |  [code](https://github.com/yasminenahal/HITL_AL_GoalOrientedMolGen)  
