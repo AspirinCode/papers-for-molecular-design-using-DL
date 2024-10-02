@@ -1539,7 +1539,9 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 ### Score-Based
 
 
-
+* **Equivariant score-based generative diffusion framework for 3D molecules** [204]   
+Zhang, H., Liu, Y., Liu, X. et al.   
+[BMC Bioinformatics 25, 203 (2024)](https://doi.org/10.1186/s12859-024-05810-w)  |  [code](https://github.com/nclabhzhang/EMDS)  
 
 * **Exploring Chemical Space with Score-based Out-of-distribution Generation** [2023]   
  Lee, Seul, Jaehyeong Jo, and Sung Ju Hwang.    
@@ -1594,7 +1596,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Equivariant score-based generative diffusion framework for 3D molecules** [204]   
+Zhang, H., Liu, Y., Liu, X. et al.   
+[BMC Bioinformatics 25, 203 (2024)](https://doi.org/10.1186/s12859-024-05810-w)  |  [code](https://github.com/nclabhzhang/EMDS)  
 
 * **Diffusion Models in De Novo Drug Design** [204]   
 Alakhdar, Amira, Barnabas Poczos, and Newell Washburn.   
