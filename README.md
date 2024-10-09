@@ -3423,6 +3423,13 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+* **dZiner: Rational Inverse Design of Materials with AI Agents**  [2024]   
+ Ansari, Mehrad, Jeffrey Watchorn, Carla E. Brown and Joseph S. Brown.   
+  [	arXiv:2410.03963 (2024)](https://arxiv.org/abs/2410.03963) |  [code](https://github.com/mehradans92/dZiner)   
+
+* **A prompt-engineered large language model, deep learning workflow for materials classification**  [2024]   
+ Liu, Siyu, Tongqi Wen, ASL Subrahmanyam Pattamatta, and David J. Srolovitz.   
+  [Materials Today (2024)](https://doi.org/10.1016/j.mattod.2024.08.028) |  [code](https://github.com/Grenzlinie/MgBERT_LLM_Classification_for_Materials_Science)   
 
 * **A prompt-engineered large language model, deep learning workflow for materials classification**  [2024]   
  Liu, Siyu, Tongqi Wen, ASL Subrahmanyam Pattamatta, and David J. Srolovitz.   
