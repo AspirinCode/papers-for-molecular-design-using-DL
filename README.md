@@ -802,11 +802,13 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
-
+* **Graph Diffusion Transformers for Multi-Conditional Molecular Generation**  [2024]   
+ Liu, Gang, Jiaxin Xu, Te Luo and Meng Jiang.   
+  [NeurIPS 2024 (Oral). (2024)](https://arxiv.org/abs/2401.13858) |  [code](https://github.com/liugangcode/Graph-DiT)  
 
 * **Exhaustive local chemical space exploration using a transformer model**  [2024]   
  Tibo, A., He, J., Janet, J.P. et al.   
-  [INat Commun 15, 7315 (2024)](https://doi.org/10.1038/s41467-024-51672-4) |  [code](https://github.com/MolecularAI/exahustive_search_mol2mol) 
+  [Nat Commun 15, 7315 (2024)](https://doi.org/10.1038/s41467-024-51672-4) |  [code](https://github.com/MolecularAI/exahustive_search_mol2mol)  
 
 * **Transformer Graph Variational Autoencoder for Generative Molecular Design** [2024]   
   Nguyen, Trieu, and Aleksandra Karolak.   
@@ -1594,7 +1596,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Graph Diffusion Transformers for Multi-Conditional Molecular Generation**  [2024]   
+ Liu, Gang, Jiaxin Xu, Te Luo and Meng Jiang.   
+  [NeurIPS 2024 (Oral). (2024)](https://arxiv.org/abs/2401.13858) |  [code](https://github.com/liugangcode/Graph-DiT)  
 
 * **Equivariant score-based generative diffusion framework for 3D molecules** [204]   
 Zhang, H., Liu, Y., Liu, X. et al.   
