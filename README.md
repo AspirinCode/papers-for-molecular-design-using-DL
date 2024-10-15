@@ -1598,6 +1598,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **Systems-Structure-Based Drug Design**  [2024]   
+ Vincent D. Zaballa, Elliot E. Hui.   
+  [	arXiv:2410.10108 (2024)](https://arxiv.org/abs/2410.10108)  
+
 * **Graph Diffusion Transformers for Multi-Conditional Molecular Generation**  [2024]   
  Liu, Gang, Jiaxin Xu, Te Luo and Meng Jiang.   
   [NeurIPS 2024 (Oral). (2024)](https://arxiv.org/abs/2401.13858) |  [code](https://github.com/liugangcode/Graph-DiT)  
@@ -1838,8 +1843,18 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+
 ### RL-based
 
+
+
+
+
+
+* **Diversity-Aware Reinforcement Learning for de novo Drug Design**  [2024]   
+ Hampus Gummesson Svensson, Christian Tyrchan, Ola Engkvist, Morteza Haghir Chehreghani.   
+[	arXiv:2410.10431 (2024)](https://arxiv.org/abs/2410.10431)  
 
 * **BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**  [2024]   
  Zholus, Artem, Maksim Kuznetsov, Roman Schutski, Rim Shayakhmetov, Daniil Polykovskiy, Sarath Chandar, and Alex Zhavoronkov.   
@@ -2587,7 +2602,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **Systems-Structure-Based Drug Design**  [2024]   
+ Vincent D. Zaballa, Elliot E. Hui.   
+  [	arXiv:2410.10108 (2024)](https://arxiv.org/abs/2410.10108)  
 
 * **PILOT: equivariant diffusion for pocket-conditioned de novo ligand generation with multi-objective guidance via importance sampling** [204]   
 Cremer, Julian, Tuan Le, Frank Noé, Djork-Arné Clevert, and Kristof T. Schütt.   
