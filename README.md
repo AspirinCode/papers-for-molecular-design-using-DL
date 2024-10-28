@@ -1866,11 +1866,13 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
-
+* **It Takes Two to Tango: Directly Optimizing for Constrained Synthesizability in Generative Molecular Design**  [2024]   
+ Jeff Guo, Philippe Schwaller.   
+  [arXiv:2410.11527 (2024)](https://arxiv.org/abs/2410.11527) |  [code](https://github.com/schwallergroup/saturn)  
 
 * **Saturn: Sample-efficient Generative Molecular Design using Memory Manipulation**  [2024]   
  Jeff Guo, Philippe Schwaller.   
-  [	arXiv:2405.17066 (2024)](https://arxiv.org/abs/2405.17066) |  [code](https://github.com/schwallergroup/saturn)  
+  [arXiv:2405.17066 (2024)](https://arxiv.org/abs/2405.17066) |  [code](https://github.com/schwallergroup/saturn)  
 
 * **Diversity-Aware Reinforcement Learning for de novo Drug Design**  [2024]   
  Hampus Gummesson Svensson, Christian Tyrchan, Ola Engkvist, Morteza Haghir Chehreghani.   
