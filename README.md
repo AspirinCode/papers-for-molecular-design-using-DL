@@ -809,8 +809,18 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+
 ###  Transformer-based
 
+
+
+
+
+* **SE(3) Equivariant Topologies for Structure-based Drug Discovery** [2024]   
+Prat A, Abdel Aty H, Pabrinkis A, Bastas O, Paquet T, Kamuntavičius G, et al.  
+[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-5q7ts)  
 
 * **Graph Diffusion Transformers for Multi-Conditional Molecular Generation**  [2024]   
  Liu, Gang, Jiaxin Xu, Te Luo and Meng Jiang.   
@@ -2614,11 +2624,13 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
-
+* **SE(3) Equivariant Topologies for Structure-based Drug Discovery** [2024]   
+Prat A, Abdel Aty H, Pabrinkis A, Bastas O, Paquet T, Kamuntavičius G, et al.  
+[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-5q7ts)  
 
 * **Systems-Structure-Based Drug Design**  [2024]   
  Vincent D. Zaballa, Elliot E. Hui.   
-  [	arXiv:2410.10108 (2024)](https://arxiv.org/abs/2410.10108)  
+ [arXiv:2410.10108 (2024)](https://arxiv.org/abs/2410.10108)  
 
 * **PILOT: equivariant diffusion for pocket-conditioned de novo ligand generation with multi-objective guidance via importance sampling** [204]   
 Cremer, Julian, Tuan Le, Frank Noé, Djork-Arné Clevert, and Kristof T. Schütt.   
