@@ -1615,7 +1615,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model** [2024]   
+ Yida Xiong, Kun Li, Weiwei Liu, Jia Wu, Bo Du, Shirui Pan, Wenbin Hu.    
+  [arXiv:2410.13597 (2024)](https://arxiv.org/abs/2410.13597)   
 
 * **Systems-Structure-Based Drug Design**  [2024]   
  Vincent D. Zaballa, Elliot E. Hui.   
