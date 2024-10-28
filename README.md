@@ -1868,6 +1868,13 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+
+
+
+* **Balancing Exploration and Exploitation in de-novo Drug Design**  [2024]   
+ Langevin, Maxime, Marc Bianciotto, and Rodolphe Vuilleumier.   
+  [Digital Discovery (2024)](https://doi.org/10.1039/D4DD00105B) |  [code](https://github.com/maxime-langevin/diverse_molecule_generation)  
+
 * **It Takes Two to Tango: Directly Optimizing for Constrained Synthesizability in Generative Molecular Design**  [2024]   
  Jeff Guo, Philippe Schwaller.   
   [arXiv:2410.11527 (2024)](https://arxiv.org/abs/2410.11527) |  [code](https://github.com/schwallergroup/saturn)  
