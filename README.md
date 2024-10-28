@@ -1461,6 +1461,10 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
+* **FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling** [2024]   
+Zaixi Zhang, Mengdi Wang, Qi Liu.  
+[arXiv:2409.19645 (2024)](https://arxiv.org/abs/2409.19645)   
+
 * **Cell Morphology-Guided Small Molecule Generation with GFlowNets** [2024]   
 Lu, Stephen Zhewen, Ziqing Lu, Ehsan Hajiramezanali, Tommaso Biancalani, Yoshua Bengio, Gabriele Scalia, and Michał Koziarski.  
 [ ICML 2024 Workshop on Structured Probabilistic Inference & Generative Modeling (2024)](https://openreview.net/forum?id=KmSlN13Xk3)   
@@ -2634,6 +2638,13 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+
+
+
+
+* **FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling** [2024]   
+Zaixi Zhang, Mengdi Wang, Qi Liu.  
+[arXiv:2409.19645 (2024)](https://arxiv.org/abs/2409.19645)   
 
 * **SE(3) Equivariant Topologies for Structure-based Drug Discovery** [2024]   
 Prat A, Abdel Aty H, Pabrinkis A, Bastas O, Paquet T, Kamuntavičius G, et al.  
