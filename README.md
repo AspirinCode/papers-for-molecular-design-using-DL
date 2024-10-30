@@ -1875,6 +1875,11 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+* **NGT: Generative AI with Synthesizability Guarantees Discovers MC2R Inhibitors from a Tera-Scale Virtual Screen**  [2024]   
+ Saulo H. P de Oliveira, Aryan Pedawi, Victor Kenyon, and Henry van den Bedem.   
+  [J. Med. Chem. (2024)](https://doi.org/10.1021/acs.jmedchem.4c01763)  
+
 * **Balancing Exploration and Exploitation in de-novo Drug Design**  [2024]   
  Langevin, Maxime, Marc Bianciotto, and Rodolphe Vuilleumier.   
   [Digital Discovery (2024)](https://doi.org/10.1039/D4DD00105B) |  [code](https://github.com/maxime-langevin/diverse_molecule_generation)  
