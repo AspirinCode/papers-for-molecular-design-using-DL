@@ -816,6 +816,11 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+* **Leveraging Tree-Transformer VAE with fragment tokenization for high-performance large chemical generative model**  [2024]   
+ Inukai T, Yamato A, Akiyama M, Sakakibara Y.   
+  [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-77vhr-v3) |  [code](https://github.com/slab-it/FRATTVAE)  
+
 * **A deep learning approach for rational ligand generation with toxicity control via reactive building blocks**  [2024]   
  Li, P., Zhang, K., Liu, T. et al.   
   [Nat Comput Sci (2024)](https://doi.org/10.1038/s43588-024-00718-0) |  [code](https://github.com/BioChemAI/DeepBlock)  
@@ -1129,7 +1134,9 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
-
+* **Leveraging Tree-Transformer VAE with fragment tokenization for high-performance large chemical generative model**  [2024]   
+ Inukai T, Yamato A, Akiyama M, Sakakibara Y.   
+  [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-77vhr-v3) |  [code](https://github.com/slab-it/FRATTVAE)  
 
 * **Transformer Graph Variational Autoencoder for Generative Molecular Design** [2024]   
   Nguyen, Trieu, and Aleksandra Karolak.   
