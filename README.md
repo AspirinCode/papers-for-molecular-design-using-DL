@@ -2651,7 +2651,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
-
+* **Rag2Mol: Structure-based drug design based on Retrieval Augmented Generation**  [2024]   
+ Peidong Zhang, Xingang Peng, Rong Han, Ting Chen, Jianzhu Ma.   
+  [bioRxiv (2024)](https://doi.org/10.1101/2024.10.20.619266) |  [code](https://github.com/CQ-zhang-2016/Rag2Mol)  
 
 * **A deep learning approach for rational ligand generation with toxicity control via reactive building blocks**  [2024]   
  Li, P., Zhang, K., Liu, T. et al.   
