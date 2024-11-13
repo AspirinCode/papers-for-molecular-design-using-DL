@@ -816,7 +816,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **A Foundation Model for Chemical Design and Property Prediction**  [2024]   
+ Cai, F., Zhu, T., Tzeng, T.R., Duan, Y., Liu, L., Pilla, S., Li, G. and Luo, F.   
+  [arXiv:2410.21422 (2024)](https://arxiv.org/abs/2410.21422) |  [code](https://github.com/TheLuoFengLab/ChemFM)  
 
 * **SE(3) Equivariant Topologies for Structure-based Drug Discovery** [2024]   
 Prat A, Abdel Aty H, Pabrinkis A, Bastas O, Paquet T, Kamuntavičius G, et al.  
@@ -2473,7 +2475,9 @@ Yuran Xiang and Haiteng Zhao and Chang Ma and Zhi-Hong Deng.
 ## Ligand-based deep molecular generative models
 
 
-
+* **A Foundation Model for Chemical Design and Property Prediction**  [2024]   
+ Cai, F., Zhu, T., Tzeng, T.R., Duan, Y., Liu, L., Pilla, S., Li, G. and Luo, F.   
+  [arXiv:2410.21422 (2024)](https://arxiv.org/abs/2410.21422) |  [code](https://github.com/TheLuoFengLab/ChemFM)  
 
 * **Tree-Invent: A Novel Multipurpose Molecular Generative Model Constrained with a Topological Tree** [2023]   
   Mingyuan Xu, Hongming Chen.   
