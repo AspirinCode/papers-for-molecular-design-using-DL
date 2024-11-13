@@ -816,6 +816,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+* **A deep learning approach for rational ligand generation with toxicity control via reactive building blocks**  [2024]   
+ Li, P., Zhang, K., Liu, T. et al.   
+  [Nat Comput Sci (2024)](https://doi.org/10.1038/s43588-024-00718-0) |  [code](https://github.com/BioChemAI/DeepBlock)  
+
 * **A Foundation Model for Chemical Design and Property Prediction**  [2024]   
  Cai, F., Zhu, T., Tzeng, T.R., Duan, Y., Liu, L., Pilla, S., Li, G. and Luo, F.   
   [arXiv:2410.21422 (2024)](https://arxiv.org/abs/2410.21422) |  [code](https://github.com/TheLuoFengLab/ChemFM)  
@@ -2649,7 +2653,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **A deep learning approach for rational ligand generation with toxicity control via reactive building blocks**  [2024]   
+ Li, P., Zhang, K., Liu, T. et al.   
+  [Nat Comput Sci (2024)](https://doi.org/10.1038/s43588-024-00718-0) |  [code](https://github.com/BioChemAI/DeepBlock)  
 
 * **FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling** [2024]   
 Zaixi Zhang, Mengdi Wang, Qi Liu.  
