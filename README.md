@@ -693,9 +693,15 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 
 
 
+
+
+* **DigFrag as a digital fragmentation method used for artificial intelligence-based drug design** [2024]   
+Yang, R., Zhou, H., Wang, F. et al.   
+[Commun Chem 7, 258 (2024)](https://doi.org/10.1038/s42004-024-01346-5) |  [code](https://github.com/yang1rq/MolFrag)  
+
 * **Prospective de novo drug design with deep interactome learning** [2024]   
 Atz, K., Cotos, L., Isert, C. et al.   
-[Nat Commun 15, 3408 (2024)](https://doi.org/10.1038/s41467-024-47613-w) |  [code](https://github.com/atzkenneth/dragonfly_gen)
+[Nat Commun 15, 3408 (2024)](https://doi.org/10.1038/s41467-024-47613-w) |  [code](https://github.com/atzkenneth/dragonfly_gen)  
 
 * **Computational Drug Discovery on HIV Virus with a Customized LSTM Variational Autoencoder Deep Learning Architecture** [2023]   
   Kutsal, Mucahit, Ferhat Ucar, and Nida Kati.   
@@ -815,7 +821,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
-
+* **Diffusion-based generative drug-like molecular editing with chemical natural language**  [2024]   
+ Jianmin Wang, Peng Zhou, Zixu Wang, Wei Long, Yangyang Chen, Kyoung Tai No, Dongsheng Ouyang*，Jiashun Mao* and Xiangxiang Zeng*.   
+  [J. Pharm. Anal. (2024)](https://doi.org/10.1016/j.jpha.2024.101137) |  [code](https://github.com/AspirinCode/DiffIUPAC)  
 
 * **Leveraging Tree-Transformer VAE with fragment tokenization for high-performance large chemical generative model**  [2024]   
  Inukai T, Yamato A, Akiyama M, Sakakibara Y.   
@@ -1631,6 +1639,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+
+
+* **Diffusion-based generative drug-like molecular editing with chemical natural language**  [2024]   
+ Jianmin Wang, Peng Zhou, Zixu Wang, Wei Long, Yangyang Chen, Kyoung Tai No, Dongsheng Ouyang*，Jiashun Mao* and Xiangxiang Zeng*.   
+  [J. Pharm. Anal. (2024)](https://doi.org/10.1016/j.jpha.2024.101137) |  [code](https://github.com/AspirinCode/DiffIUPAC)  
 
 * **Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model** [2024]   
  Yida Xiong, Kun Li, Weiwei Liu, Jia Wu, Bo Du, Shirui Pan, Wenbin Hu.    
@@ -3140,6 +3153,10 @@ ZHANG Z, Liu Q.
 
 ### Fragment-based DMGs
 
+
+* **DigFrag as a digital fragmentation method used for artificial intelligence-based drug design** [2024]   
+Yang, R., Zhou, H., Wang, F. et al.   
+[Commun Chem 7, 258 (2024)](https://doi.org/10.1038/s42004-024-01346-5) |  [code](https://github.com/yang1rq/MolFrag)  
 
 * **Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models**  [2024]   
  Cong Fu and Xiner Li and Blake Olson and Heng Ji and Shuiwang Ji.   
