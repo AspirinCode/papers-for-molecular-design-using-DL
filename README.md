@@ -1389,6 +1389,11 @@ Li, C., Yamanishi, Y.
 ### GAN-based
 
 
+
+* **Interface-aware molecular generative framework for protein-protein interaction modulators** [2024]   
+Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Heqi Sun, Kyoung Tai No, Tao Song, Xiangxiang Zeng    
+[J. Cheminform. (2024)](https://doi.org/10.1186/s13321-024-00930-0) |  [bioRxiv (2023)](https://doi.org/10.1101/2023.10.10.557742) |  [code](https://github.com/AspirinCode/GENiPPI)  
+
 * **TenGAN: Pure Transformer Encoders Make an Efficient Discrete GAN for De Novo Molecular Generation**  [2024]   
  Li, Chen, and Yoshihiro Yamanishi.   
   [ International Conference on Artificial Intelligence and Statistics. PMLR (2024)](https://proceedings.mlr.press/v238/li24d.html)   
@@ -1407,11 +1412,7 @@ Sattari, Kianoosh, Dawei Li, Bhupalee Kalita, Yunchao Xie, Fatemeh Barmaleki Lig
 
 * **STAGAN: An approach for improve the stability of molecular graph generation based on generative adversarial networks** [2023]   
 Zou, Jinping, Jialin Yu, Pengwei Hu, Long Zhao, and Shaoping Shi.    
-[Computers in Biology and Medicine (2023)](https://doi.org/10.1016/j.compbiomed.2023.107691) |  [code](https://github.com/JinPing1025/STAGAN) 
-
-* **An interface-based molecular generative framework for protein-protein interaction inhibitors** [2023]   
-Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Heqi Sun, Kyoung Tai No, Tao Song, Xiangxiang Zeng    
-[bioRxiv (2023)](https://doi.org/10.1101/2023.10.10.557742) |  [code](https://github.com/AspirinCode/GENiPPI) 
+[Computers in Biology and Medicine (2023)](https://doi.org/10.1016/j.compbiomed.2023.107691) |  [code](https://github.com/JinPing1025/STAGAN)  
 
 * **A Reverse-Transformer GAN Generates Scaffold-Constrained Molecules with Property Optimization.** [2023]   
 Li, C., Yamanishi, Y.    
@@ -2671,6 +2672,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+
+* **Interface-aware molecular generative framework for protein-protein interaction modulators** [2024]   
+Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Heqi Sun, Kyoung Tai No, Tao Song, Xiangxiang Zeng    
+[J. Cheminform. (2024)](https://doi.org/10.1186/s13321-024-00930-0) |  [bioRxiv (2023)](https://doi.org/10.1101/2023.10.10.557742) |  [code](https://github.com/AspirinCode/GENiPPI)  
+
 * **Rag2Mol: Structure-based drug design based on Retrieval Augmented Generation**  [2024]   
  Peidong Zhang, Xingang Peng, Rong Han, Ting Chen, Jianzhu Ma.   
   [bioRxiv (2024)](https://doi.org/10.1101/2024.10.20.619266) |  [code](https://github.com/CQ-zhang-2016/Rag2Mol)  
@@ -2826,10 +2832,6 @@ Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.
 * **A flexible data-free framework for structure-based de novo drug design with reinforcement learning** [2023]   
   Hongyan Du, Dejun Jiang, Odin Zhang, Zhenxing Wu, Junbo Gao, Xujun Zhang, Xiaorui Wang, Yafeng Deng, Yu Kang, Dan Li, Peichen Pan, Chang-Yu Hsieh, Tingjun Hou.   
   [Chemical Science (2023)](https://doi.org/10.1039/D3SC04091G) |  [code](https://github.com/Brian-hongyan/3D-MCTS) 
-
-* **An interface-based molecular generative framework for protein-protein interaction inhibitors** [2023]   
-Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Heqi Sun, Kyoung Tai No, Tao Song, Xiangxiang Zeng    
-[bioRxiv (2023)](https://doi.org/10.1101/2023.10.10.557742) |  [code](https://github.com/AspirinCode/GENiPPI) 
 
 * **DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion** [2023]   
  Xie, Junjie, Sheng Chen, Jinping Lei, and Yuedong Yang.    
