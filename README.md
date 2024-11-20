@@ -1642,6 +1642,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design**  [2024]   
+ Keir Adams, Kento Abeywardane, Jenna Fromer, Connor W. Coley.   
+  [	arXiv:2411.04130 (2024)](https://arxiv.org/abs/2411.04130) |  [code](https://github.com/coleygroup/shepherd)  
+
 * **Diffusion-based generative drug-like molecular editing with chemical natural language**  [2024]   
  Jianmin Wang, Peng Zhou, Zixu Wang, Wei Long, Yangyang Chen, Kyoung Tai No, Dongsheng Ouyang*，Jiashun Mao* and Xiangxiang Zeng*.   
   [J. Pharm. Anal. (2024)](https://doi.org/10.1016/j.jpha.2024.101137) |  [code](https://github.com/AspirinCode/DiffIUPAC)  
