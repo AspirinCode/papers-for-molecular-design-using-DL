@@ -1906,9 +1906,13 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+* **DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback** [2024]   
+Mahsa Sheikholeslami, Navid Mazrouei, Yousof Gheisari, Afshin Fasihi, Matin Irajpour, Ali Motahharynia.   
+[	arXiv:2411.14157 (2024)](https://arxiv.org/abs/2411.14157) |  [code](https://github.com/mahsasheikh/DrugGen)  
 
-
-
+* **ClickGen: Directed exploration of synthesizable chemical space via modular reactions and reinforcement learning** [2024]   
+Wang, M., Li, S., Wang, J. et al.   
+[Nat Commun 15, 10127 (2024)](https://doi.org/10.1038/s41467-024-54456-y) |  [code](https://github.com/mywang1994/cligen_gen)  
 
 * **NGT: Generative AI with Synthesizability Guarantees Discovers MC2R Inhibitors from a Tera-Scale Virtual Screen**  [2024]   
  Saulo H. P de Oliveira, Aryan Pedawi, Victor Kenyon, and Henry van den Bedem.   
@@ -2380,7 +2384,9 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
-
+* **DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback** [2024]   
+Mahsa Sheikholeslami, Navid Mazrouei, Yousof Gheisari, Afshin Fasihi, Matin Irajpour, Ali Motahharynia.   
+[	arXiv:2411.14157 (2024)](https://arxiv.org/abs/2411.14157) |  [code](https://github.com/mahsasheikh/DrugGen)  
 
 * **3M-Diffusion: Latent Multi-Modal Diffusion for Language-Guided Molecular Structure Generation** [204]   
 Zhu, Huaisheng, Teng Xiao, and Vasant G. Honavar.   
