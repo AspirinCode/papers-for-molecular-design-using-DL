@@ -693,7 +693,9 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 
 
 
-
+* **ClickGen: Directed exploration of synthesizable chemical space via modular reactions and reinforcement learning** [2024]   
+Wang, M., Li, S., Wang, J. et al.   
+[Nat Commun 15, 10127 (2024)](https://doi.org/10.1038/s41467-024-54456-y) |  [code](https://github.com/mywang1994/cligen_gen)  
 
 * **DigFrag as a digital fragmentation method used for artificial intelligence-based drug design** [2024]   
 Yang, R., Zhou, H., Wang, F. et al.   
