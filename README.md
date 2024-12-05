@@ -1643,7 +1643,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **BInD: Bond and Interaction-generating Diffusion Model for Multi-objective Structure-based Drug Design**  [2024]   
+ Joongwon Lee, Wonho Zhung, Jisu Seo, Woo Youn Kim.   
+  [arXiv:2405.16861 (2024)](https://arxiv.org/abs/2405.16861) |  [code](https://github.com/lee-jwon/BInD)  
 
 * **ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design**  [2024]   
  Keir Adams, Kento Abeywardane, Jenna Fromer, Connor W. Coley.   
@@ -2685,6 +2687,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+
+
+* **BInD: Bond and Interaction-generating Diffusion Model for Multi-objective Structure-based Drug Design**  [2024]   
+ Joongwon Lee, Wonho Zhung, Jisu Seo, Woo Youn Kim.   
+  [arXiv:2405.16861 (2024)](https://arxiv.org/abs/2405.16861) |  [code](https://github.com/lee-jwon/BInD)  
 
 * **Interface-aware molecular generative framework for protein-protein interaction modulators** [2024]   
 Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Heqi Sun, Kyoung Tai No, Tao Song, Xiangxiang Zeng    
