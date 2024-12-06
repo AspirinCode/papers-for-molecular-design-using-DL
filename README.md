@@ -1591,6 +1591,11 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 ### Score-Based
 
 
+
+* **Score-based 3D molecule generation with neural fields** [204]   
+Kirchmeyer, Matthieu, Pedro O. Pinheiro, and Saeed Saremi.   
+[NeurIPS 2024 (2024)](https://neurips.cc/virtual/2024/poster/96296)  |  [code](https://github.com/prescient-design/funcmol)  
+
 * **Equivariant score-based generative diffusion framework for 3D molecules** [204]   
 Zhang, H., Liu, Y., Liu, X. et al.   
 [BMC Bioinformatics 25, 203 (2024)](https://doi.org/10.1186/s12859-024-05810-w)  |  [code](https://github.com/nclabhzhang/EMDS)  
