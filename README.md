@@ -1658,7 +1658,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Unified Guidance for Geometry-Conditioned Molecular Generation**  [2024]   
+ Ayadi, Sirine, Leon Hetzel, Johanna Sommer, Fabian J. Theis, and Stephan Günnemann.   
+  [NeurIPS 2024. (2024)](https://openreview.net/forum?id=HeoRsnaD44)   
 
 * **DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding**  [2024]   
  Lin, Haitao, Yufei Huang, Meng Liu, Xuan Cindy Li, Shuiwang Ji and Stan Z. Li.   
