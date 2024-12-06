@@ -1650,6 +1650,14 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+
+
+
+
+* **DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding**  [2024]   
+ Lin, Haitao, Yufei Huang, Meng Liu, Xuan Cindy Li, Shuiwang Ji and Stan Z. Li.   
+  [Chemical Science (2024)](https://doi.org/10.1039/D4SC06864E) |  [code](http://www.manimer.com/moleculeformation/index)  
+
 * **BInD: Bond and Interaction-generating Diffusion Model for Multi-objective Structure-based Drug Design**  [2024]   
  Joongwon Lee, Wonho Zhung, Jisu Seo, Woo Youn Kim.   
   [arXiv:2405.16861 (2024)](https://arxiv.org/abs/2405.16861) |  [code](https://github.com/lee-jwon/BInD)  
@@ -2393,6 +2401,11 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
+
+* **3DSMILES-GPT: 3D Molecular Pocket-based Generation with Token-only Large Language Model**  [2024]   
+ Wang, Jike, Hao Luo, Rui Qin, Mingyang Wang, Meijing Fang, Odin Zhang, Qiaolin Gou et al.   
+  [Chemical Science (2024)](https://doi.org/10.1039/D4SC06864E) |  [code](https://github.com/ashipiling/GPT_3DSMILES)  
+
 * **DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback** [2024]   
 Mahsa Sheikholeslami, Navid Mazrouei, Yousof Gheisari, Afshin Fasihi, Matin Irajpour, Ali Motahharynia.   
 [	arXiv:2411.14157 (2024)](https://arxiv.org/abs/2411.14157) |  [code](https://github.com/mahsasheikh/DrugGen)  
@@ -2695,6 +2708,13 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+* **3DSMILES-GPT: 3D Molecular Pocket-based Generation with Token-only Large Language Model**  [2024]   
+ Wang, Jike, Hao Luo, Rui Qin, Mingyang Wang, Meijing Fang, Odin Zhang, Qiaolin Gou et al.   
+  [Chemical Science (2024)](https://doi.org/10.1039/D4SC06864E) |  [code](https://github.com/ashipiling/GPT_3DSMILES)  
+
+* **DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding**  [2024]   
+ Lin, Haitao, Yufei Huang, Meng Liu, Xuan Cindy Li, Shuiwang Ji and Stan Z. Li.   
+  [Chemical Science (2024)](https://doi.org/10.1039/D4SC06864E) |  [code](http://www.manimer.com/moleculeformation/index)  
 
 * **BInD: Bond and Interaction-generating Diffusion Model for Multi-objective Structure-based Drug Design**  [2024]   
  Joongwon Lee, Wonho Zhung, Jisu Seo, Woo Youn Kim.   
