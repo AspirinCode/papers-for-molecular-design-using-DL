@@ -468,7 +468,9 @@ Xu, Minkai, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bom
 
 
 
-
+* **Generation of molecular conformations using generative adversarial neural networks** [2024]   
+Xu, Congsheng, Xiaomei Deng, Yi Lu, and Peiyuan Yu.   
+[Digital Discovery (2024)](https://doi.org/10.1039/D4DD00179F) |  [code](https://github.com/xucongs/ConfGAN)  
 
 * **COSMIC: Molecular Conformation Space Modeling in Internal Coordinates with an Adversarial Framework** [2024]   
 Kuznetsov, Maksim, Fedor Ryabov, Roman Schutski, Rim Shayakhmetov, Yen-Chu Lin, Alex Aliper, and Daniil Polykovskiy.   
