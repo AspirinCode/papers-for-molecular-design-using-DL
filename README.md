@@ -2329,6 +2329,11 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Genetic Algorithm-based
 
 
+
+* **TargetSA: Adaptive Simulated Annealing for Target-Specific Drug Design**  [2024]   
+ Zhe Xue, Chenwei Sun, Wenhao Zheng, Jiancheng Lv, Xianggen Liu.   
+  [ Bioinformatics (2024)](https://doi.org/10.1093/bioinformatics/btae730) |  [code](https://github.com/XueZhe-Zachary/TargetSA)  
+
 * **Saturn: Sample-efficient Generative Molecular Design using Memory Manipulation**  [2024]   
  Jeff Guo, Philippe Schwaller.   
   [	arXiv:2405.17066 (2024)](https://arxiv.org/abs/2405.17066) |  [code](https://github.com/schwallergroup/saturn)  
@@ -2385,7 +2390,9 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Evolutionary Algorithm-based
 
 
-
+* **TargetSA: Adaptive Simulated Annealing for Target-Specific Drug Design**  [2024]   
+ Zhe Xue, Chenwei Sun, Wenhao Zheng, Jiancheng Lv, Xianggen Liu.   
+  [ Bioinformatics (2024)](https://doi.org/10.1093/bioinformatics/btae730) |  [code](https://github.com/XueZhe-Zachary/TargetSA)  
 
 * **Integration of Genetic Algorithms and Deep Learning for the Generation and Bioactivity Prediction of Novel Tyrosine Kinase Inhibitors**  [2024]   
  Romero, Ricardo.   
@@ -2715,6 +2722,12 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+
+
+
+* **TargetSA: Adaptive Simulated Annealing for Target-Specific Drug Design**  [2024]   
+ Zhe Xue, Chenwei Sun, Wenhao Zheng, Jiancheng Lv, Xianggen Liu.   
+  [ Bioinformatics (2024)](https://doi.org/10.1093/bioinformatics/btae730) |  [code](https://github.com/XueZhe-Zachary/TargetSA)  
 
 * **3DSMILES-GPT: 3D Molecular Pocket-based Generation with Token-only Large Language Model**  [2024]   
  Wang, Jike, Hao Luo, Rui Qin, Mingyang Wang, Meijing Fang, Odin Zhang, Qiaolin Gou et al.   
