@@ -2724,6 +2724,13 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+* **How Good are Current Pocket-Based 3D Generative Models?: The Benchmark Set and Evaluation of Protein Pocket-Based 3D Molecular Generative Models**  [2024]   
+ Liu, Haoyang, Yifei Qin, Zhangming Niu, Mingyuan Xu, Jiaqiang Wu, Xianglu Xiao, Jinping Lei, Ting Ran, and Hongming Chen.  
+  [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01598) |  [code](hhttps://github.com/haoyang9688/POKMOL3D/tree/master)  
+
+* **Interface-aware molecular generative framework for protein-protein interaction modulators** [2024]   
+Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Heqi Sun, Kyoung Tai No, Tao Song, Xiangxiang Zeng    
+[J. Cheminform. (2024)](https://doi.org/10.1186/s13321-024-00930-0) |  [bioRxiv (2023)](https://doi.org/10.1101/2023.10.10.557742) |  [code](https://github.com/AspirinCode/GENiPPI)  
 
 * **TargetSA: Adaptive Simulated Annealing for Target-Specific Drug Design**  [2024]   
  Zhe Xue, Chenwei Sun, Wenhao Zheng, Jiancheng Lv, Xianggen Liu.   
@@ -2740,10 +2747,6 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 * **BInD: Bond and Interaction-generating Diffusion Model for Multi-objective Structure-based Drug Design**  [2024]   
  Joongwon Lee, Wonho Zhung, Jisu Seo, Woo Youn Kim.   
   [arXiv:2405.16861 (2024)](https://arxiv.org/abs/2405.16861) |  [code](https://github.com/lee-jwon/BInD)  
-
-* **Interface-aware molecular generative framework for protein-protein interaction modulators** [2024]   
-Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Heqi Sun, Kyoung Tai No, Tao Song, Xiangxiang Zeng    
-[J. Cheminform. (2024)](https://doi.org/10.1186/s13321-024-00930-0) |  [bioRxiv (2023)](https://doi.org/10.1101/2023.10.10.557742) |  [code](https://github.com/AspirinCode/GENiPPI)  
 
 * **Rag2Mol: Structure-based drug design based on Retrieval Augmented Generation**  [2024]   
  Peidong Zhang, Xingang Peng, Rong Han, Ting Chen, Jianzhu Ma.   
