@@ -1656,7 +1656,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **Structure-based Drug Design with Equivariant Diffusion Models** [2024]  
+Schneuing, A., Harris, C., Du, Y. et al.   
+[Nat Comput Sci (2024))](https://doi.org/10.1038/s43588-024-00737-x) |  [arXiv:2210.13695 (2022)](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD) 
 
 * **Unified Guidance for Geometry-Conditioned Molecular Generation**  [2024]   
  Ayadi, Sirine, Leon Hetzel, Johanna Sommer, Fabian J. Theis, and Stephan Günnemann.   
@@ -1889,10 +1891,6 @@ Marie Oestreich, Erinc Merdivan, Michael Lee, Joachim L. Schultze, Marie Piraud,
 * **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction** [2023]   
   Guan, Jiaqi, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, and Jianzhu Ma.   
   [ICLR (2023)](https://openreview.net/forum?id=kJqXEPXMsE0) |  [code](https://github.com/guanjq/targetdiff) 
-
-* **Structure-based Drug Design with Equivariant Diffusion Models** [2023]  
-Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correia, B.   
-[arXiv:2210.13695 (2022)](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD) 
 
 * **Equivariant 3D-Conditional Diffusion Models for Molecular Linker Desig** [2023]  
 Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., Bronstein, M. and Correia, B.,   
@@ -2724,6 +2722,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+* **Structure-based Drug Design with Equivariant Diffusion Models** [2024]  
+Schneuing, A., Harris, C., Du, Y. et al.   
+[Nat Comput Sci (2024))](https://doi.org/10.1038/s43588-024-00737-x) |  [arXiv:2210.13695 (2022)](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD) 
+
 * **How Good are Current Pocket-Based 3D Generative Models?: The Benchmark Set and Evaluation of Protein Pocket-Based 3D Molecular Generative Models**  [2024]   
  Liu, Haoyang, Yifei Qin, Zhangming Niu, Mingyuan Xu, Jiaqiang Wu, Xianglu Xiao, Jinping Lei, Ting Ran, and Hongming Chen.  
   [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01598) |  [code](hhttps://github.com/haoyang9688/POKMOL3D/tree/master)  
@@ -3019,10 +3021,6 @@ Yangyang Chen, Zixu Wang, Lei Wang, Jianmin Wang, Pengyong Li, Dongsheng Cao, Xi
 * **Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks** [2023]     
   Ünlü, Atabey, Elif Çevrim, Ahmet Sarıgün, Hayriye Çelikbilek, Heval Ataş Güvenilir, Altay Koyaş, Deniz Cansen Kahraman, Ahmet Rifaioğlu, and Abdurrahman Olğaç.   
   [arXiv:2302.07868 (2023)](https://arxiv.org/abs/2302.07868)
-
-* **Structure-based Drug Design with Equivariant Diffusion Models** [2023]  
-Schneuing, A., Du, Y., Harris, C., Jamasb, A., Igashov, I., Du, W., ... & Correia, B.   
-[arXiv:2210.13695 (2022)](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD) 
 
 * **Icolos: a workflow manager for structure-based post-processing of de novo generated small molecules**  [2022]   
  Moore, J. Harry, Matthias R. Bauer, Jeff Guo, Atanas Patronov, Ola Engkvist, and Christian Margreitter.   
