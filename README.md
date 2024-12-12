@@ -1656,6 +1656,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+
+
+* **Geometry-complete diffusion for 3D molecule generation and optimization**  [2024]   
+ Morehead, A., Cheng, J.   
+  [Commun Chem 7, 150 (2024)](https://doi.org/10.1038/s42004-024-01233-z) |  [code](https://github.com/BioinfoMachineLearning/Bio-Diffusion)  
+
 * **Structure-based Drug Design with Equivariant Diffusion Models** [2024]  
 Schneuing, A., Harris, C., Du, Y. et al.   
 [Nat Comput Sci (2024))](https://doi.org/10.1038/s43588-024-00737-x) |  [arXiv:2210.13695 (2022)](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD) 
