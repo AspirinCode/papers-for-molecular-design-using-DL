@@ -2300,11 +2300,13 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
-
+* **DrugSynthMC: An Atom-Based Generation of Drug-like Molecules with Monte Carlo Search** [2024]   
+Roucairol, Milo, Alexios Georgiou, Tristan Cazenave, Filippo Prischi, and Olivier E. Pardo.  
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01451) | [code](https://github.com/RoucairolMilo/DrugSynthMC)  
 
 * **Enabling target-aware molecule generation to follow multi objectives with Pareto MCTS** [2024]   
 Yang, Y., Chen, G., Li, J. et al.  
-[Commun Biol 7, 1074 (2024)](https://doi.org/10.1038/s42003-024-06746-w) | [code](https://github.com/CNDOTA/ParetoDrug) 
+[Commun Biol 7, 1074 (2024)](https://doi.org/10.1038/s42003-024-06746-w) | [code](https://github.com/CNDOTA/ParetoDrug)  
 
 * **DrugSynthMC: an atom based generation of drug-like molecules with Monte Carlo Search** [2024]   
   Roucairol, Milo, Alexios Georgiou, Tristan Cazenave, Filippo Prischi, and Olivier E. Pardo   
