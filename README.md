@@ -695,6 +695,10 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 
 
 
+* **Stereochemistry-aware string-based molecular generation** [2024]   
+Tom G, Yu E, Yoshikawa N, Jorner K, Aspuru-Guzik A.   
+[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-tkjr1) |  [code](https://github.com/aspuru-guzik-group/stereogeneration)  
+
 * **ClickGen: Directed exploration of synthesizable chemical space via modular reactions and reinforcement learning** [2024]   
 Wang, M., Li, S., Wang, J. et al.   
 [Nat Commun 15, 10127 (2024)](https://doi.org/10.1038/s41467-024-54456-y) |  [code](https://github.com/mywang1994/cligen_gen)  
@@ -1935,6 +1939,11 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+
+* **Stereochemistry-aware string-based molecular generation** [2024]   
+Tom G, Yu E, Yoshikawa N, Jorner K, Aspuru-Guzik A.   
+[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-tkjr1) |  [code](https://github.com/aspuru-guzik-group/stereogeneration)  
+
 * **DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback** [2024]   
 Mahsa Sheikholeslami, Navid Mazrouei, Yousof Gheisari, Afshin Fasihi, Matin Irajpour, Ali Motahharynia.   
 [	arXiv:2411.14157 (2024)](https://arxiv.org/abs/2411.14157) |  [code](https://github.com/mahsasheikh/DrugGen)  
@@ -2553,6 +2562,11 @@ Yuran Xiang and Haiteng Zhao and Chang Ma and Zhi-Hong Deng.
 
 ## Ligand-based deep molecular generative models
 
+
+
+* **Stereochemistry-aware string-based molecular generation** [2024]   
+Tom G, Yu E, Yoshikawa N, Jorner K, Aspuru-Guzik A.   
+[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-tkjr1) |  [code](https://github.com/aspuru-guzik-group/stereogeneration)  
 
 * **A Foundation Model for Chemical Design and Property Prediction**  [2024]   
  Cai, F., Zhu, T., Tzeng, T.R., Duan, Y., Liu, L., Pilla, S., Li, G. and Luo, F.   
