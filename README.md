@@ -829,7 +829,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
-
+* **Molecular Generation with State Space Sequence Models**  [2024]   
+ Anri Lombard, Shane Acton, Ulrich Armel Mbou Sob, Jan Buys.   
+  [NeurIPS 2024 Workshop on AI for New Drug Modalities (2024)](https://openreview.net/forum?id=1ib5oyTQIb) |  [code](https://github.com/Anri-Lombard/Mamba-SAFE)  
 
 * **3DSMILES-GPT: 3D Molecular Pocket-based Generation with Token-only Large Language Model**  [2024]   
  Wang, Jike, Hao Luo, Rui Qin, Mingyang Wang, Meijing Fang, Odin Zhang, Qiaolin Gou et al.   
