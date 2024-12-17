@@ -3622,6 +3622,11 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+
+* **A materials discovery framework based on conditional generative models applied to the design of polymer electrolytes**  [2024]   
+ Khajeh, Arash, Xiangyun Lei, Weike Ye, Zhenze Yang, Linda Hung, Daniel Schweigert, and Ha-Kyung Kwon.   
+  [Digital Discovery (2024)](https://doi.org/10.1039/D4DD00293H) |  [code](https://github.com/TRI-AMDD/PolyGen)   
+
 * **dZiner: Rational Inverse Design of Materials with AI Agents**  [2024]   
  Ansari, Mehrad, Jeffrey Watchorn, Carla E. Brown and Joseph S. Brown.   
   [	arXiv:2410.03963 (2024)](https://arxiv.org/abs/2410.03963) |  [code](https://github.com/mehradans92/dZiner)   
