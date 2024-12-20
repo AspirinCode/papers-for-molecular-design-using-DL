@@ -2750,9 +2750,14 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+* **Durian: A Comprehensive Benchmark for Structure-Based 3D Molecular Generation** [2024]  
+Dou Nie, Huifeng Zhao, Odin Zhang, Gaoqi Weng, Hui Zhang, Jieyu Jin, Haitao Lin, Yufei Huang, Liwei Liu, Dan Li, Tingjun Hou, and Yu Kang.   
+[J. Chem. Inf. Model. (2024))](https://doi.org/10.1021/acs.jcim.4c02232) |  [code](https://github.com/19990210nd/Durian)  
+
 * **Structure-based Drug Design with Equivariant Diffusion Models** [2024]  
 Schneuing, A., Harris, C., Du, Y. et al.   
-[Nat Comput Sci (2024))](https://doi.org/10.1038/s43588-024-00737-x) |  [arXiv:2210.13695 (2022)](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD) 
+[Nat Comput Sci (2024))](https://doi.org/10.1038/s43588-024-00737-x) |  [arXiv:2210.13695 (2022)](https://openreview.net/forum?id=uKmuzIuVl8z) |  [code](https://github.com/arneschneuing/DiffSBDD)  
 
 * **How Good are Current Pocket-Based 3D Generative Models?: The Benchmark Set and Evaluation of Protein Pocket-Based 3D Molecular Generative Models**  [2024]   
  Liu, Haoyang, Yifei Qin, Zhangming Niu, Mingyuan Xu, Jiaqiang Wu, Xianglu Xiao, Jinping Lei, Ting Ran, and Hongming Chen.  
