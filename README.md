@@ -506,6 +506,10 @@ Guan, Jiaqi, Wesley Wei Qian, Wei-Ying Ma, Jianzhu Ma, and Jian Peng.
 
 
 
+* **Improving Structural Plausibility in 3D Molecule Generation via Property-Conditioned Training with Distorted Molecules** [2024]   
+Lucy Vost, Vijil Chenthamarakshan, Payel Das, Charlotte M. Deane.   
+[bioRxiv. (2024)](https://doi.org/10.1101/2024.09.17.613136)  
+
 * **AGDIFF: Attention-Enhanced Diffusion for Molecular Geometry Prediction** [204]   
 Kim, S., Woo, J. & Kim, W.Y.   
 [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-wrvr4) |  [code](https://github.com/ADicksonLab/AGDIFF)  
