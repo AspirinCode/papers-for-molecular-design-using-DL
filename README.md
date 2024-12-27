@@ -1581,11 +1581,13 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 
 
 
-
+* **Leveraging language model for advanced multiproperty molecular optimization via prompt engineering** [2024]   
+  Wu, Z., Zhang, O., Wang, X. et al.   
+  [Nat Mach Intell 6, 1359–1369 (2024)](https://doi.org/10.1038/s42256-024-00916-5)  |  [code](https://github.com/wzxxxx/Prompt-MolOpt)  
 
 * **PromptSMILES: Prompting for scaffold decoration and fragment linking in chemical language models** [2024]   
   Thomas, Morgan, Mazen Ahmad, Gary Tresadern, and Gianni de Fabritiis.   
-  [chemrxiv-2024-z5jnt (2024)](https://doi.org/10.26434/chemrxiv-2024-z5jnt)  |  [code](https://github.com/compsciencelab/PromptSMILES) 
+  [chemrxiv-2024-z5jnt (2024)](https://doi.org/10.26434/chemrxiv-2024-z5jnt)  |  [code](https://github.com/compsciencelab/PromptSMILES)  
 
 * **Dual-Space Optimization: Improved Molecule Sequence Design by Latent Prompt Transformer** [2024]   
   Deqian Kong and Yuhao Huang and Jianwen Xie and Edouardo Honig and Ming Xu and Shuanghong Xue and Pei Lin and Sanping Zhou and Sheng Zhong and Nanning Zheng and Ying Nian Wu.   
