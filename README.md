@@ -1666,7 +1666,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **ECloudGen: Leveraging Electron Clouds as a Latent Variable to Scale Up Structure-based Molecular Design**  [2024]   
+ Odin Zhang, Jieyu Jin, Zhenxing Wu, Jintu Zhang, Po Yuan, Haitao Lin, Haiyang Zhong, Xujun Zhang, Chenqing Hua, Zhengshuo Zhang, Weibo Zhao, Kejun Ying, Yufei Huang, Yuntao Yu, Huifeng Zhao, Yu Kang, Peichen Pan, Jike Wang, Dong Guo, Shuangjia Zheng, Chang-Yu Hsieh, Tingjun Hou.   
+  [bioRxiv. (2024)](https://doi.org/10.1101/2024.06.03.597263) |  [code](https://github.com/HaotianZhangAI4Science/ECloudGen)  
 
 * **Geometry-complete diffusion for 3D molecule generation and optimization**  [2024]   
  Morehead, A., Cheng, J.   
@@ -2756,7 +2758,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **ECloudGen: Leveraging Electron Clouds as a Latent Variable to Scale Up Structure-based Molecular Design**  [2024]   
+ Odin Zhang, Jieyu Jin, Zhenxing Wu, Jintu Zhang, Po Yuan, Haitao Lin, Haiyang Zhong, Xujun Zhang, Chenqing Hua, Zhengshuo Zhang, Weibo Zhao, Kejun Ying, Yufei Huang, Yuntao Yu, Huifeng Zhao, Yu Kang, Peichen Pan, Jike Wang, Dong Guo, Shuangjia Zheng, Chang-Yu Hsieh, Tingjun Hou.   
+[bioRxiv. (2024)](https://doi.org/10.1101/2024.06.03.597263) |  [code](https://github.com/HaotianZhangAI4Science/ECloudGen)  
 
 * **FragGen: towards 3D geometry reliable fragment-based molecular generation** [2024]   
 Zhang, Odin, Yufei Huang, Shichen Cheng, Mengyao Yu, Xujun Zhang, Haitao Lin, Yundian Zeng et al.   
