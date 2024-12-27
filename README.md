@@ -1955,6 +1955,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+* **Targeted Molecular Generation With Latent Reinforcement Learning** [2024]   
+Haddad R, Litsa E, Liu Z, Yu X, Burkhardt D, Reidenbach D, et al.  
+[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-8k8gr)  
+
 * **Stereochemistry-aware string-based molecular generation** [2024]   
 Tom G, Yu E, Yoshikawa N, Jorner K, Aspuru-Guzik A.   
 [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-tkjr1) |  [code](https://github.com/aspuru-guzik-group/stereogeneration)  
