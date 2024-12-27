@@ -1668,6 +1668,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+
+* **Functional-group-based diffusion for pocket-specific molecule generation and elaboration.**  [2024]   
+ Lin, Haitao, Yufei Huang, Odin Zhang, Yunfan Liu, Lirong Wu, Siyuan Li, Zhiyuan Chen, and Stan Z. Li.   
+  [Neural Information Processing Systems 36 (2024)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6cdd4ce9330025967dd1ed0bed3010f5-Abstract-Conference.html)  
+
 * **ECloudGen: Leveraging Electron Clouds as a Latent Variable to Scale Up Structure-based Molecular Design**  [2024]   
  Odin Zhang, Jieyu Jin, Zhenxing Wu, Jintu Zhang, Po Yuan, Haitao Lin, Haiyang Zhong, Xujun Zhang, Chenqing Hua, Zhengshuo Zhang, Weibo Zhao, Kejun Ying, Yufei Huang, Yuntao Yu, Huifeng Zhao, Yu Kang, Peichen Pan, Jike Wang, Dong Guo, Shuangjia Zheng, Chang-Yu Hsieh, Tingjun Hou.   
   [bioRxiv. (2024)](https://doi.org/10.1101/2024.06.03.597263) |  [code](https://github.com/HaotianZhangAI4Science/ECloudGen)  
@@ -3298,9 +3303,13 @@ Yang, R., Zhou, H., Wang, F. et al.
  Cong Fu and Xiner Li and Blake Olson and Heng Ji and Shuiwang Ji.   
   [arXiv:2408.09730 (2024)](https://arxiv.org/abs/2408.09730)  
 
+* **Deep Geometry Handling and Fragment-wise Molecular 3D Graph Generation** [2024]   
+  Odin Zhang, Yufei Huang, Shichen Cheng, Mengyao Yu, Xujun Zhang, Haitao Lin, Yundian Zeng, Mingyang Wang, Zhenxing Wu, Huifeng Zhao, Zaixi Zhang, Chenqing Hua, Yu Kang, Sunliang Cui, Peichen Pan, Chang-Yu Hsieh, Tingjun Hou.    
+  [arXiv:2404.00014 (2024)](https://arxiv.org/abs/2404.00014) |  [code](https://github.com/HaotianZhangAI4Science/FragGen)  
+
 * **t-SMILES: a fragment-based molecular representation framework for de novo ligand design** [2024]   
   Wu, JN., Wang, T., Chen, Y. et al.    
-  [Nat Commun 15, 4993 (2024)](https://doi.org/10.1038/s41467-024-49388-6) |  [code](https://github.com/juanniwu/t-SMILES) 
+  [Nat Commun 15, 4993 (2024)](https://doi.org/10.1038/s41467-024-49388-6) |  [code](https://github.com/juanniwu/t-SMILES)  
 
 * **Gotta be SAFE: A New Framework for Molecular Design** [2024]   
   Noutahi, Emmanuel, Cristian Gabellini, Michael Craig, Jonathan SC Lim, and Prudencio Tossou.   
