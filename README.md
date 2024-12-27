@@ -2918,9 +2918,17 @@ Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.
   Xia, Yingce, Kehan Wu, Pan Deng, Renhe Liu, Yuan Zhang, Han Guo, Yumeng Cui et al.   
   [bioRxiv (2024)](https://doi.org/10.1101/2024.01.08.574635) 
 
+* **SurfGen: Learning on Topological Surface and Geometric Structure for 3D Molecular Generation** [2023]   
+ Odin Zhang*, Tianyue Wang*, Gaoqi Weng, ..., Chang-yu Hsieh, Tingjun Hou.   
+  [Nat. Compt. Sci, (2023)](https://doi.org/10.1038/s43588-023-00530-2)  |  [code](https://github.com/HaotianZhangAI4Science/SurfGen)  
+
+* **ResGen: Learning the Interaction Patterns through Multiscale Modeling and SE(3)-Framework for 3D-Pocket Molecular Generation** [2023]   
+ Odin Zhang, Jintu Zhang, Xujun Zhang, ..., Chang-yu Hsieh, Tingjun Hou.  
+  [Nat. Mach. Intell. (2023)](https://doi.org/10.1038/s42256-023-00712-7)  |  [code](https://github.com/HaotianZhangAI4Science/ResGen)  
+
 * **KGDiff: towards explainable target-aware molecule generation with knowledge guidance** [2023]   
  Hao Qian, Wenjing Huang, Shikui Tu, Lei Xu.    
-  [Briefings in Bioinformatics.  (2023)](https://doi.org/10.1093/bib/bbad435)  |  [code](https://github.com/CMACH508/KGDiff) 
+  [Briefings in Bioinformatics.  (2023)](https://doi.org/10.1093/bib/bbad435)  |  [code](https://github.com/CMACH508/KGDiff)  
 
 * **Geometric Deep Learning for Structure-Based Ligand Design** [2023]   
   Alexander S. Powers, Helen H. Yu, Patricia Suriana, Rohan V. Koodli, Tianyu Lu, Joseph M. Paggi, and Ron O. Dror.   
