@@ -2755,6 +2755,13 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+
+* **FragGen: towards 3D geometry reliable fragment-based molecular generation** [2024]   
+Zhang, Odin, Yufei Huang, Shichen Cheng, Mengyao Yu, Xujun Zhang, Haitao Lin, Yundian Zeng et al.   
+[Chemical science (2024)](https://doi.org/10.1039/D4SC04620J) |  [code](https://github.com/HaotianZhangAI4Science/FragGen)  
+
 * **Durian: A Comprehensive Benchmark for Structure-Based 3D Molecular Generation** [2024]  
 Dou Nie, Huifeng Zhao, Odin Zhang, Gaoqi Weng, Hui Zhang, Jieyu Jin, Haitao Lin, Yufei Huang, Liwei Liu, Dan Li, Tingjun Hou, and Yu Kang.   
 [J. Chem. Inf. Model. (2024))](https://doi.org/10.1021/acs.jcim.4c02232) |  [code](https://github.com/19990210nd/Durian)  
@@ -3261,6 +3268,13 @@ ZHANG Z, Liu Q.
 
 ### Fragment-based DMGs
 
+
+
+
+
+* **FragGen: towards 3D geometry reliable fragment-based molecular generation** [2024]   
+Zhang, Odin, Yufei Huang, Shichen Cheng, Mengyao Yu, Xujun Zhang, Haitao Lin, Yundian Zeng et al.   
+[Chemical science (2024)](https://doi.org/10.1039/D4SC04620J) |  [code](https://github.com/HaotianZhangAI4Science/FragGen)  
 
 * **DigFrag as a digital fragmentation method used for artificial intelligence-based drug design** [2024]   
 Yang, R., Zhou, H., Wang, F. et al.   
