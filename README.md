@@ -1668,6 +1668,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+* **GenMol: A Drug Discovery Generalist with Discrete Diffusion**  [2025]  
+ Seul Lee, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach, Yuxing Peng, Saee Paliwal, Weili Nie, Arash Vahdat   
+  [arXiv:2501.06158 (2025)](https://arxiv.org/abs/2501.06158)  
 
 * **Functional-group-based diffusion for pocket-specific molecule generation and elaboration.**  [2024]   
  Lin, Haitao, Yufei Huang, Odin Zhang, Yunfan Liu, Lirong Wu, Siyuan Li, Zhiyuan Chen, and Stan Z. Li.   
