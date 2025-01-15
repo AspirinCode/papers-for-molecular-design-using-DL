@@ -1676,6 +1676,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
  Gu, Siyi, Minkai Xu, Alexander S. Powers, Weili Nie, Tomas Geffner, Karsten Kreis, Jure Leskovec, Arash Vahdat, and Stefano Ermon.   
   [NeuIPS 2024. (2024)](https://openreview.net/forum?id=EWcvxXtzNu) |  [code](https://github.com/MinkaiXu/AliDif)  
 
+* **Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation**  [2024]   
+ Zhilin Huang, Ling Yang, Xiangxin Zhou, Chujun Qin, Yijie Yu, Xiawu Zheng, Zikun Zhou, Wentao Zhang, Yu Wang, Wenming Yang.    
+  [ICML 2024. (2024)](https://openreview.net/forum?id=eejhD9FCP3) |  [code](https://github.com/YangLing0818/IRDiff)  
+
 * **Functional-group-based diffusion for pocket-specific molecule generation and elaboration.**  [2024]   
  Lin, Haitao, Yufei Huang, Odin Zhang, Yunfan Liu, Lirong Wu, Siyuan Li, Zhiyuan Chen, and Stan Z. Li.   
   [Neural Information Processing Systems 36 (2024)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6cdd4ce9330025967dd1ed0bed3010f5-Abstract-Conference.html)  
@@ -2773,6 +2777,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+* **Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation**  [2024]   
+ Zhilin Huang, Ling Yang, Xiangxin Zhou, Chujun Qin, Yijie Yu, Xiawu Zheng, Zikun Zhou, Wentao Zhang, Yu Wang, Wenming Yang.    
+  [ICML 2024. (2024)](https://openreview.net/forum?id=eejhD9FCP3) |  [code](https://github.com/YangLing0818/IRDiff)  
 
 * **Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization**  [2024]   
  Gu, Siyi, Minkai Xu, Alexander S. Powers, Weili Nie, Tomas Geffner, Karsten Kreis, Jure Leskovec, Arash Vahdat, and Stefano Ermon.   
