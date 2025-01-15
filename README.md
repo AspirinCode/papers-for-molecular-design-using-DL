@@ -1672,6 +1672,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
  Seul Lee, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach, Yuxing Peng, Saee Paliwal, Weili Nie, Arash Vahdat   
   [arXiv:2501.06158 (2025)](https://arxiv.org/abs/2501.06158)  
 
+* **Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization**  [2024]   
+ Gu, Siyi, Minkai Xu, Alexander S. Powers, Weili Nie, Tomas Geffner, Karsten Kreis, Jure Leskovec, Arash Vahdat, and Stefano Ermon.   
+  [NeuIPS 2024. (2024)](https://openreview.net/forum?id=EWcvxXtzNu) |  [code](https://github.com/MinkaiXu/AliDif)  
+
 * **Functional-group-based diffusion for pocket-specific molecule generation and elaboration.**  [2024]   
  Lin, Haitao, Yufei Huang, Odin Zhang, Yunfan Liu, Lirong Wu, Siyuan Li, Zhiyuan Chen, and Stan Z. Li.   
   [Neural Information Processing Systems 36 (2024)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6cdd4ce9330025967dd1ed0bed3010f5-Abstract-Conference.html)  
@@ -2770,7 +2774,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization**  [2024]   
+ Gu, Siyi, Minkai Xu, Alexander S. Powers, Weili Nie, Tomas Geffner, Karsten Kreis, Jure Leskovec, Arash Vahdat, and Stefano Ermon.   
+  [NeuIPS 2024. (2024)](https://openreview.net/forum?id=EWcvxXtzNu) |  [code](https://github.com/MinkaiXu/AliDif)  
 
 * **ECloudGen: Leveraging Electron Clouds as a Latent Variable to Scale Up Structure-based Molecular Design**  [2024]   
  Odin Zhang, Jieyu Jin, Zhenxing Wu, Jintu Zhang, Po Yuan, Haitao Lin, Haiyang Zhong, Xujun Zhang, Chenqing Hua, Zhengshuo Zhang, Weibo Zhao, Kejun Ying, Yufei Huang, Yuntao Yu, Huifeng Zhao, Yu Kang, Peichen Pan, Jike Wang, Dong Guo, Shuangjia Zheng, Chang-Yu Hsieh, Tingjun Hou.   
