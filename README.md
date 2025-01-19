@@ -3696,7 +3696,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 ## Deep Learning-based material design
 
 
-
+* **A generative model for inorganic materials design**  [2025]   
+ Zeni, C., Pinsler, R., Zügner, D. et al.   
+  [Nature (2025)](https://doi.org/10.1038/s41586-025-08628-5) |  [code](https://github.com/microsoft/mattergen)   
 
 * **dZiner: Rational Inverse Design of Materials with AI Agents**  [2024]   
  Ansari, Mehrad, Jeffrey Watchorn, Carla E. Brown and Joseph S. Brown.   
