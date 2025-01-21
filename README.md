@@ -312,7 +312,7 @@ Yue T, Tao L, Varshney V, Li Y.
 
 * **RediscMol: Benchmarking Molecular Generation Models in Biological Properties** [2024]  
 Weng, Gaoqi, Huifeng Zhao, Dou Nie, Haotian Zhang, Liwei Liu, Tingjun Hou, and Yu Kang.  
-[J. Med. Chem. 2024](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01355) |  [code](https://github.com/gaoqiweng/RediscMol) 
+[J. Med. Chem. 2024](https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.3c02051) |  [code](https://github.com/gaoqiweng/RediscMol) 
 
 * **Generative Models Should at Least Be Able to Design Molecules That Dock Well: A New Benchmark** [2023]  
 Ciepliński, Tobiasz, Tomasz Danel, Sabina Podlewska, and Stanisław Jastrzȩbski.  
