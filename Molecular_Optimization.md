@@ -298,6 +298,10 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 ### Large Language Model-based
 
 
+* **Efficient Evolutionary Search Over Chemical Space with Large Language Models**  [2025]   
+Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.  
+  [ICLR 2025 (2025)](https://openreview.net/forum?id=awWiNvQwf3) |  [code](https://github.com/zoom-wang112358/MOLLEO)  
+
 * **Small Molecule Optimization with Large Language Models**  [2024]   
  Guevorguian, Philipp, Menua Bedrosian, Tigran Fahradyan, Gayane Chilingaryan, Hrant Khachatrian, and Armen Aghajanyan.   
   [ arXiv:2407.18897 (2024)](https://arxiv.org/abs/2407.18897) |  [code](https://github.com/yerevann/chemlactica)
