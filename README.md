@@ -2439,6 +2439,12 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Evolutionary Algorithm-based
 
 
+
+
+* **Efficient Evolutionary Search Over Chemical Space with Large Language Models**  [2025]   
+Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.  
+  [ICLR 2025 (2025)](https://openreview.net/forum?id=awWiNvQwf3) |  [code](https://github.com/zoom-wang112358/MOLLEO)  
+
 * **TargetSA: Adaptive Simulated Annealing for Target-Specific Drug Design**  [2024]   
  Zhe Xue, Chenwei Sun, Wenhao Zheng, Jiancheng Lv, Xianggen Liu.   
   [ Bioinformatics (2024)](https://doi.org/10.1093/bioinformatics/btae730) |  [code](https://github.com/XueZhe-Zachary/TargetSA)  
@@ -2464,7 +2470,9 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Large Language Model-based
 
 
-
+* **Efficient Evolutionary Search Over Chemical Space with Large Language Models**  [2025]   
+Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.  
+  [ICLR 2025 (2025)](https://openreview.net/forum?id=awWiNvQwf3) |  [code](https://github.com/zoom-wang112358/MOLLEO)  
 
 * **3DSMILES-GPT: 3D Molecular Pocket-based Generation with Token-only Large Language Model**  [2024]   
  Wang, Jike, Hao Luo, Rui Qin, Mingyang Wang, Meijing Fang, Odin Zhang, Qiaolin Gou et al.   
