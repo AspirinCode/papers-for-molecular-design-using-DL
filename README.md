@@ -3318,7 +3318,9 @@ ZHANG Z, Liu Q.
 
 
 
-
+* **Drug Discovery with Dynamic Goal-aware Fragments** [2024]   
+Seul Lee, Seanie Lee, Kenji Kawaguchi, Sung Ju Hwang.   
+[ICML 2024 (2024)](https://arxiv.org/abs/2310.00841) |  [code](https://github.com/SeulLee05/GEAM)  
 
 * **FragGen: towards 3D geometry reliable fragment-based molecular generation** [2024]   
 Zhang, Odin, Yufei Huang, Shichen Cheng, Mengyao Yu, Xujun Zhang, Haitao Lin, Yundian Zeng et al.   
