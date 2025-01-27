@@ -3706,6 +3706,11 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 ## Deep Learning-based material design
 
 
+
+* **Inverse design of promising electrocatalysts for CO2 reduction via generative models and bird swarm algorithm**  [2025]   
+ Song, Z., Fan, L., Lu, S. et al.   
+  [Nat Commun 16, 1053 (2025)](https://doi.org/10.1038/s41467-024-55613-z) |  [code](https://github.com/szl666/CO2RR-inverse-design)   
+
 * **A generative model for inorganic materials design**  [2025]   
  Zeni, C., Pinsler, R., Zügner, D. et al.   
   [Nature (2025)](https://doi.org/10.1038/s41586-025-08628-5) |  [code](https://github.com/microsoft/mattergen)   
