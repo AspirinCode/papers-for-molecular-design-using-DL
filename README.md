@@ -699,6 +699,12 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 
 
 
+
+
+* **Going beyond SMILES enumeration for generative deep learning in low data regimes** [2025]   
+Brinkmann, Helena, Antoine Argante, Hugo ter Steege, and Francesca Grisoni.   
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-fdnnq) |  [code](https://github.com/molML/fantasticSMILESaugmentation)  
+
 * **Stereochemistry-aware string-based molecular generation** [2024]   
 Tom G, Yu E, Yoshikawa N, Jorner K, Aspuru-Guzik A.   
 [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-tkjr1) |  [code](https://github.com/aspuru-guzik-group/stereogeneration)  
