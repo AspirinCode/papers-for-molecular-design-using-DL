@@ -121,9 +121,16 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+
+
+
+* **A Zero-Shot Single-point Molecule Optimization Model: Mimicking Medicinal Chemists’ Expertise** [2025]   
+  Dai Z, Zhang J, Zhong S, Fu J, Deng Y, Zhang D, et al.   
+  [chemrxiv-2025-m82r5 (2025)](https://doi.org/10.26434/chemrxiv-2025-m82r5) |  [code](https://github.com/DonaldDai/new_paper_code)  
+
 * **Molecular generation strategy and optimization based on A2C reinforcement learning in de novo drug design** [2023]   
   Wang, Qian, Zhiqiang Wei, Xiaotong Hu, Zhuoya Wang, Yujie Dong, and Hao Liu.   
-  [Bioinformatics: btad693.  (2023)](https://doi.org/10.1093/bioinformatics/btad693) |  [code](https://github.com/wq-sunshine/MomdTDSRL) 
+  [Bioinformatics: btad693.  (2023)](https://doi.org/10.1093/bioinformatics/btad693) |  [code](https://github.com/wq-sunshine/MomdTDSRL)  
 
 * **CFOM: Lead Optimization For Drug Discovery With Limited Data** [2023]  
   Kaminsky, Natan, Uriel Singer, and Kira Radinsky.  
