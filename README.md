@@ -839,6 +839,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+
+
+* **A Zero-Shot Single-point Molecule Optimization Model: Mimicking Medicinal Chemists’ Expertise** [2025]   
+  Dai Z, Zhang J, Zhong S, Fu J, Deng Y, Zhang D, et al.   
+  [chemrxiv-2025-m82r5 (2025)](https://doi.org/10.26434/chemrxiv-2025-m82r5) |  [code](https://github.com/DonaldDai/new_paper_code)  
+
 * **Molecular Generation with State Space Sequence Models**  [2024]   
  Anri Lombard, Shane Acton, Ulrich Armel Mbou Sob, Jan Buys.   
   [NeurIPS 2024 Workshop on AI for New Drug Modalities (2024)](https://openreview.net/forum?id=1ib5oyTQIb) |  [code](https://github.com/Anri-Lombard/Mamba-SAFE)  
