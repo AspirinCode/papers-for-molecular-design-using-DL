@@ -839,7 +839,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
-
+* **Expanding Chemical Space: Developing a Compound Generative Pre-trained Transformer for De Novo Drug Design** [2025]   
+  Dai Z, Zhang J, Zhong S, Fu J, Deng Y, Zhang D, et al.   
+  [bioRxiv. (2025)](https://doi.org/10.1101/2025.01.24.634665) |  [code](https://github.com/Charliefff/CompoundGPT)  
 
 * **A Zero-Shot Single-point Molecule Optimization Model: Mimicking Medicinal Chemists’ Expertise** [2025]   
   Dai Z, Zhang J, Zhong S, Fu J, Deng Y, Zhang D, et al.   
