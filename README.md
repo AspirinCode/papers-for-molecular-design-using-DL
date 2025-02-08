@@ -699,7 +699,9 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 
 
 
-
+* **RFL: Simplifying Chemical Structure Recognition with Ring-Free Language** [2025]   
+Chang, Q., Chen, M., Pi, C., Hu, P., Zhang, Z., Ma, J., ... & Hu, J.   
+[AAAI 2025 Oral. (2025)](https://doi.org/10.26434/chemrxiv-2025-fdnnq) |  [code](https://github.com/JingMog/RFL-MSD)  
 
 * **Going beyond SMILES enumeration for generative deep learning in low data regimes** [2025]   
 Brinkmann, Helena, Antoine Argante, Hugo ter Steege, and Francesca Grisoni.   
