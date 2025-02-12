@@ -840,6 +840,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+* **Molecular optimization using a conditional transformer for reaction-aware compound exploration with reinforcement learning** [2025]   
+ Nakamura, S., Yasuo, N. & Sekijima, M.   
+  [Commun Chem 8, 40 (2025)](https://doi.org/10.1038/s42004-025-01437-x) |  [code](https://github.com/sekijima-lab/TRACER)  
 
 * **Expanding Chemical Space: Developing a Compound Generative Pre-trained Transformer for De Novo Drug Design** [2025]   
   Dai Z, Zhang J, Zhong S, Fu J, Deng Y, Zhang D, et al.   
@@ -1981,6 +1984,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+
+* **Molecular optimization using a conditional transformer for reaction-aware compound exploration with reinforcement learning** [2025]   
+ Nakamura, S., Yasuo, N. & Sekijima, M.  
+  [Commun Chem 8, 40 (2025)](https://doi.org/10.1038/s42004-025-01437-x) |  [code](https://github.com/sekijima-lab/TRACER)  
 
 * **Targeted Molecular Generation With Latent Reinforcement Learning** [2024]   
 Haddad R, Litsa E, Liu Z, Yu X, Burkhardt D, Reidenbach D, et al.  
