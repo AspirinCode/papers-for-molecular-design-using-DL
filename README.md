@@ -504,15 +504,13 @@ Guan, Jiaqi, Wesley Wei Qian, Wei-Ying Ma, Jianzhu Ma, and Jian Peng.
 
 ### Diffusion-based Molecular Conformation Generation
 
-
+* **AGDIFF: Attention-Enhanced Diffusion for Molecular Geometry Prediction** [2025]   
+André Brasil Vieira Wyzykowski, Fatemeh Fathi Niazi, and Alex Dickson.   
+[ J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.4c01896) |[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-wrvr4) |  [code](https://github.com/ADicksonLab/AGDIFF)  
 
 * **Improving Structural Plausibility in 3D Molecule Generation via Property-Conditioned Training with Distorted Molecules** [2024]   
 Lucy Vost, Vijil Chenthamarakshan, Payel Das, Charlotte M. Deane.   
 [bioRxiv. (2024)](https://doi.org/10.1101/2024.09.17.613136)  
-
-* **AGDIFF: Attention-Enhanced Diffusion for Molecular Geometry Prediction** [204]   
-Kim, S., Woo, J. & Kim, W.Y.   
-[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-wrvr4) |  [code](https://github.com/ADicksonLab/AGDIFF)  
 
 * **Diffusion-based generative AI for exploring transition states from 2D molecular graphs** [204]   
 Kim, S., Woo, J. & Kim, W.Y.   
