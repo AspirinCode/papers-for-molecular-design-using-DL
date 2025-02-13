@@ -3780,6 +3780,11 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+### Diffusion-based Materials Discovery
 
+
+* **Multi-modal conditional diffusion model using signed distance functions for metal-organic frameworks generation**  [2025]   
+ Park, J., Lee, Y. & Kim, J.   
+  [Nat Commun 16, 34 (2025)](https://doi.org/10.1038/s41467-024-55390-9) |  [code](https://github.com/parkjunkil/MOFFUSION)   
 
 
