@@ -126,11 +126,13 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 ## Reviews
 
 
+* **Diffusion Models for Molecules: A Survey of Methods and Tasks** [2025]   
+Liang Wang, Chao Song, Zhiyuan Liu, Yu Rong, Qiang Liu, Shu Wu, Liang Wang.   
+[arXiv:2502.09511 (2025)](https://arxiv.org/abs/2502.09511) | [code](https://github.com/AzureLeon1/awesome-molecular-diffusion-models)   
 
-
-* **Diffusion Models in De Novo Drug Design** [204]   
+* **Diffusion Models in De Novo Drug Design** [2024]   
 Alakhdar, Amira, Barnabas Poczos, and Newell Washburn.   
-[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01107) 
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01107)  
 
 * **Deep Lead Optimization: Leveraging Generative AI for Structural Modification** [2024]  
  Zhang, Odin, Haitao Lin, Hui Zhang, Huifeng Zhao, Yufei Huang, Yuansheng Huang, Dejun Jiang, Chang-yu Hsieh, Peichen Pan, and Tingjun Hou.   
