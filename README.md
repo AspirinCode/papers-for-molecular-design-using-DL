@@ -840,6 +840,11 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+
+* **3DMolFormer: A Dual-channel Framework for Structure-based Drug Discovery** [2025]   
+ Xiuyuan Hu, Guoqing Liu, Can Chen, Yang Zhao, Hao Zhang, Xue Liu.   
+  [arXiv:2502.05107 (2025)](https://arxiv.org/abs/2502.05107) |  [code](https://github.com/HXYfighter/3DMolFormer)  
+
 * **Molecular optimization using a conditional transformer for reaction-aware compound exploration with reinforcement learning** [2025]   
  Nakamura, S., Yasuo, N. & Sekijima, M.   
   [Commun Chem 8, 40 (2025)](https://doi.org/10.1038/s42004-025-01437-x) |  [code](https://github.com/sekijima-lab/TRACER)  
@@ -2814,6 +2819,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+
+* **3DMolFormer: A Dual-channel Framework for Structure-based Drug Discovery** [2025]   
+ Xiuyuan Hu, Guoqing Liu, Can Chen, Yang Zhao, Hao Zhang, Xue Liu.   
+  [arXiv:2502.05107 (2025)](https://arxiv.org/abs/2502.05107) |  [code](https://github.com/HXYfighter/3DMolFormer)  
 
 * **Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation**  [2024]   
  Zhilin Huang, Ling Yang, Xiangxin Zhou, Chujun Qin, Yijie Yu, Xiawu Zheng, Zikun Zhou, Wentao Zhang, Yu Wang, Wenming Yang.    
