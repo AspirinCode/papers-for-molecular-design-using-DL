@@ -3553,6 +3553,10 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
 
 
 
+* **Expediting hit-to-lead progression in drug discovery through reaction prediction and multi-objective molecular optimization** [2025]   
+Nippa DF, Atz K, Stenzhorn Y, Müller AT, Tosstorff A, Benz J, et al.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-0lxhw-v2) |  [code](https://github.com/ETHmodlab/minisci)  
+
 * **Integrating Reaction Schemes, Reagent Databases, and Virtual Libraries into Fragment-Based Design by Reinforcement Learning**  [2023]   
  Sauer, Susanne, Hans Matter, Gerhard Hessler, and Christoph Grebner.   
   [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00735) |  [code](https://github.com/Sanofi-Public/IDD-papers-fragrl) 
