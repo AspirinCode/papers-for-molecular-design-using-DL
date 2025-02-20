@@ -290,7 +290,7 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 
 
-## Text-driven Molecular Optimization
+### Text-driven Molecular Optimization
 
 
 
@@ -363,7 +363,7 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 * **FOMO: A Fragment-based Objective Molecule Optimization Framework** [2023]   
 Ma, Cong, Zeqi Zhang, Min Xu, and Haimin Zhang.  
-[Research Square. PREPRINT. (2023)](https://doi.org/10.21203/rs.3.rs-3180492/v1) |  [code](https://github.com/Davezqq/FOMO)
+[Research Square. PREPRINT. (2023)](https://doi.org/10.21203/rs.3.rs-3180492/v1) |  [code](https://github.com/Davezqq/FOMO)  
 
 * **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization** [2023]   
 Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
@@ -381,6 +381,17 @@ Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung J
   Chen, Benson, Xiang Fu, Regina Barzilay, and Tommi Jaakkola.  
   [Paper](https://openreview.net/forum?id=E_Slr0JVvuC) 
 
+
+
+
+### Chemical Reaction-driven Molecular Optimization
+
+
+
+
+* **Expediting hit-to-lead progression in drug discovery through reaction prediction and multi-objective molecular optimization** [2025]   
+Nippa DF, Atz K, Stenzhorn Y, Müller AT, Tosstorff A, Benz J, et al.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-0lxhw-v2) |  [code](https://github.com/ETHmodlab/minisci)  
 
 
 
@@ -411,4 +422,4 @@ Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung J
   [Paper](https://pubs.rsc.org/en/content/articlehtml/2019/sc/c9sc01928f) |  [code](https://github.com/jrwnter/mso) 
 
 
-Chemical Reaction-driven Molecular Optimization
+
