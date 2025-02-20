@@ -1687,6 +1687,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+
+
+* **Generating 3D Binding Molecules Using Shape-Conditioned Diffusion Models with Guidance**  [2025]   
+ Ziqi Chen, Bo Peng, Tianhua Zhai, Daniel Adu-Ampratwum, Xia Ning.   
+  [Nat. Mach. Intell. (2025)](https://arxiv.org/abs/2502.06027) |  [code](https://github.com/ninglab/DiffSMol)  
+
 * **GenMol: A Drug Discovery Generalist with Discrete Diffusion**  [2025]  
  Seul Lee, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach, Yuxing Peng, Saee Paliwal, Weili Nie, Arash Vahdat   
   [arXiv:2501.06158 (2025)](https://arxiv.org/abs/2501.06158)  
