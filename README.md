@@ -2819,7 +2819,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
-
+* **Deep lead optimization enveloped in protein pocket and its application in designing potent and selective ligands targeting LTK protein** [2025]   
+ Chen, S., Zhang, O., Jiang, C. et al.  
+  [Nat Mach Intell (2025)](https://doi.org/10.1038/s42256-025-00997-w) |  [code](https://github.com/HaotianZhangAI4Science/Delete)  
 
 * **3DMolFormer: A Dual-channel Framework for Structure-based Drug Discovery** [2025]   
  Xiuyuan Hu, Guoqing Liu, Can Chen, Yang Zhao, Hao Zhang, Xue Liu.   
