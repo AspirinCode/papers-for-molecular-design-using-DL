@@ -305,6 +305,11 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 ### Large Language Model-based
 
 
+
+* **DrugImproverGPT: A Large Language Model for Drug Optimization with Fine-Tuning via Structured Policy Optimization**  [2025]  
+Xuefeng Liu, Songhao Jiang, Siyu Chen, Zhuoran Yang, Yuxin Chen, Ian Foster, Rick Stevens.  
+  [arXiv:2502.07237 (2025)](https://arxiv.org/abs/2502.07237) |  [code](https://github.com/xuefeng-cs/DrugImproverGPT)  
+
 * **Efficient Evolutionary Search Over Chemical Space with Large Language Models**  [2025]   
 Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.  
   [ICLR 2025 (2025)](https://openreview.net/forum?id=awWiNvQwf3) |  [code](https://github.com/zoom-wang112358/MOLLEO)  
