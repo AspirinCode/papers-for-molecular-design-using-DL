@@ -1697,7 +1697,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **CoDNet: Controlled Diffusion Network for Structure Based Drug Design**  [2025]   
+ Fahmi Kazi Md, Shahil Yasar Haque, Eashrat Jahan, Latin Chakma, Tamanna Shermin, Asif Uddin Ahmed, Salekul Islam, Swakkhar Shatabda, Riasat Azim.   
+  [Bioinformatics Advances. (2025)](https://doi.org/10.1093/bioadv/vbaf031) |  [code](https://github.com/CoDNet1/EDM_Custom)  
 
 * **Generating 3D Binding Molecules Using Shape-Conditioned Diffusion Models with Guidance**  [2025]   
  Ziqi Chen, Bo Peng, Tianhua Zhai, Daniel Adu-Ampratwum, Xia Ning.   
@@ -2832,6 +2834,12 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+
+
+
+* **CoDNet: Controlled Diffusion Network for Structure Based Drug Design**  [2025]   
+ Fahmi Kazi Md, Shahil Yasar Haque, Eashrat Jahan, Latin Chakma, Tamanna Shermin, Asif Uddin Ahmed, Salekul Islam, Swakkhar Shatabda, Riasat Azim.   
+  [Bioinformatics Advances. (2025)](https://doi.org/10.1093/bioadv/vbaf031) |  [code](https://github.com/CoDNet1/EDM_Custom)  
 
 * **Deep lead optimization enveloped in protein pocket and its application in designing potent and selective ligands targeting LTK protein** [2025]   
  Chen, S., Zhang, O., Jiang, C. et al.  
