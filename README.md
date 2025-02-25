@@ -1996,6 +1996,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+* **Mol-AIR: Molecular Reinforcement Learning with Adaptive Intrinsic Rewards for Goal-Directed Molecular Generation** [2025]   
+ Jinyeong Park, Jaegyoon Ahn, Jonghwan Choi, and Jibum Kim.  
+  [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.4c01669) |  [code](https://github.com/DevSlem/Mol-AIR)  
+
 * **Molecular optimization using a conditional transformer for reaction-aware compound exploration with reinforcement learning** [2025]   
  Nakamura, S., Yasuo, N. & Sekijima, M.  
   [Commun Chem 8, 40 (2025)](https://doi.org/10.1038/s42004-025-01437-x) |  [code](https://github.com/sekijima-lab/TRACER)  
