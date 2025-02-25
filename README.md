@@ -1186,6 +1186,11 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
+
+* **MolGene-E: Inverse Molecular Design to Modulate Single Cell Transcriptomics**  [2025]  
+ Rahul Ohlan, Raswanth Murugan, Li Xie, Mohammedsadeq Mottaqi, Shuo Zhang, Lei Xie.  
+  [bioRxiv. (2025)](https://doi.org/10.1101/2025.02.19.638723) |  [code](https://zenodo.org/records/7041849)  
+
 * **Leveraging Tree-Transformer VAE with fragment tokenization for high-performance large chemical generative model**  [2024]   
  Inukai T, Yamato A, Akiyama M, Sakakibara Y.   
   [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-77vhr-v3) |  [code](https://github.com/slab-it/FRATTVAE)  
@@ -3612,6 +3617,10 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 ## Omics-based deep molecular generative models
 
 
+
+* **MolGene-E: Inverse Molecular Design to Modulate Single Cell Transcriptomics**  [2025]  
+ Rahul Ohlan, Raswanth Murugan, Li Xie, Mohammedsadeq Mottaqi, Shuo Zhang, Lei Xie.  
+  [bioRxiv. (2025)](https://doi.org/10.1101/2025.02.19.638723) |  [code](https://zenodo.org/records/7041849)  
 
 * **Cross-modal Generation of Hit-like Molecules via Foundation Model Encoding of Gene Expression Signatures** [2023]   
   Jiabei Cheng, Xiaoyong Pan, Kaiyuan Yang, Shenghao Cao, Bin Liu, Ye Yuan.   
