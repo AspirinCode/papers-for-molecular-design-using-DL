@@ -3838,3 +3838,37 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
   [Nat Commun 16, 34 (2025)](https://doi.org/10.1038/s41467-024-55390-9) |  [code](https://github.com/parkjunkil/MOFFUSION)   
 
 
+
+
+
+
+### Active Learning-based Materials Discovery
+
+
+
+
+* **Active Learning for Conditional Inverse Design with Crystal Generation and Foundation Atomic Models**  [2025]  
+ Zhuoyuan Li, Siyu Liu, Beilin Ye, David J. Srolovitz, Tongqi Wen.   
+  [arXiv:2502.16984 (2025)](https://arxiv.org/abs/2502.16984)  
+
+
+
+
+
+
+### Large Language Model-based Materials Discovery
+
+
+
+
+* **Inverse Materials Design by Large Language Model-Assisted Generative Framework**  [2025]   
+ Yun Hao, Che Fan, Beilin Ye, Wenhao Lu, Zhen Lu, Peilin Zhao, Zhifeng Gao, Qingyao Wu, Yanhui Liu, Tongqi Wen.   
+  [arXiv:2502.18127 (2025)](https://arxiv.org/abs/2502.18127) |  [code](https://github.com/photon-git/AlloyGAN)   
+
+
+
+
+
+
+
+
