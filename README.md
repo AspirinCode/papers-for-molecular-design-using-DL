@@ -3820,6 +3820,13 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+### Materials-Datasets-Benchmarks
+
+
+* **Benchmarking study of deep generative models for inverse polymer design**  [2025]   
+ Yue, Tianle, Lei Tao, Vikas Varshney, and Ying Li.  
+  [Digital Discovery (2025)](https://doi.org/10.1039/D4DD00395K) |  [code](https://github.com/ytl0410/Polymer-Generative-Models-Benchmark)   
+
 
 ### Transformer-based Materials Discovery
 
