@@ -1709,6 +1709,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
  Seul Lee, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach, Yuxing Peng, Saee Paliwal, Weili Nie, Arash Vahdat   
   [arXiv:2501.06158 (2025)](https://arxiv.org/abs/2501.06158)  
 
+* **TAGMol: Target-Aware Gradient-guided Molecule Generation**  [2024]   
+ Dorna, V., Subhalingam, D., Kolluru, K., Tuli, S., Singh, M., Singal, S., Krishnan, N.A. and Ranu, S.   
+  [ICML'24 Workshop ML for Life and Material Science: From Theory to Industry Applications. (2024)](https://openreview.net/forum?id=tTtHBSGikn) |  [code](https://github.com/MoleculeAI/TAGMol)  
+
 * **Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization**  [2024]   
  Gu, Siyi, Minkai Xu, Alexander S. Powers, Weili Nie, Tomas Geffner, Karsten Kreis, Jure Leskovec, Arash Vahdat, and Stefano Ermon.   
   [NeuIPS 2024. (2024)](https://openreview.net/forum?id=EWcvxXtzNu) |  [code](https://github.com/MinkaiXu/AliDif)  
