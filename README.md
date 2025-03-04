@@ -865,6 +865,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
  Wang, Jike, Hao Luo, Rui Qin, Mingyang Wang, Meijing Fang, Odin Zhang, Qiaolin Gou et al.   
   [Chemical Science (2024)](https://doi.org/10.1039/D4SC06864E) |  [code](https://github.com/ashipiling/GPT_3DSMILES)  
 
+* **Generative Artificial Intelligence for Navigating Synthesizable Chemical Space**  [2024]   
+ Wenhao Gao, Shitong Luo, Connor W. Coley.   
+  [arXiv:2410.03494 (2024)](https://arxiv.org/abs/2410.03494) |  [code](https://github.com/wenhao-gao/synformer)  
+
 * **Diffusion-based generative drug-like molecular editing with chemical natural language**  [2024]   
  Jianmin Wang, Peng Zhou, Zixu Wang, Wei Long, Yangyang Chen, Kyoung Tai No, Dongsheng Ouyang*，Jiashun Mao* and Xiangxiang Zeng*.   
   [J. Pharm. Anal. (2024)](https://doi.org/10.1016/j.jpha.2024.101137) |  [code](https://github.com/AspirinCode/DiffIUPAC)  
