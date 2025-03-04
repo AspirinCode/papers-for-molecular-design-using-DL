@@ -1534,7 +1534,9 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 ### Flow-based
 
-
+* **SemlaFlow -- Efficient 3D Molecular Generation with Latent Attention and Equivariant Flow Matching** [2025]  
+Ross Irwin, Alessandro Tibo, Jon Paul Janet, Simon Olsson.  
+[arXiv:2406.07266 (2025)](https://arxiv.org/abs/2406.07266)  
 
 * **FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling** [2024]   
 Zaixi Zhang, Mengdi Wang, Qi Liu.  
