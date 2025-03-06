@@ -1702,6 +1702,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+* **DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra** [2025]  
+ Montgomery Bohde, Mrunali Manjrekar, Runzhong Wang, Shuiwang Ji, Connor W. Coley.   
+  [arXiv:2502.09571 (2025)](https://arxiv.org/abs/2502.09571) |  [code](https://github.com/coleygroup/DiffMS)  
 
 * **CoDNet: Controlled Diffusion Network for Structure Based Drug Design**  [2025]   
  Fahmi Kazi Md, Shahil Yasar Haque, Eashrat Jahan, Latin Chakma, Tamanna Shermin, Asif Uddin Ahmed, Salekul Islam, Swakkhar Shatabda, Riasat Azim.   
@@ -3746,11 +3749,13 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 ### Mass Spectra-based
 
-
+* **DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra** [2025]  
+ Montgomery Bohde, Mrunali Manjrekar, Runzhong Wang, Shuiwang Ji, Connor W. Coley.   
+  [arXiv:2502.09571 (2025)](https://arxiv.org/abs/2502.09571) |  [code](https://github.com/coleygroup/DiffMS)  
 
 * **Deep Learning-Enabled MS/MS Spectrum Prediction Facilitates Automated Identification Of Novel Psychoactive Substances** [2023]   
  Wang, Fei, Daniel Pasin, Michael A. Skinnider, Jaanus Liigand, Jan-Niklas Kleis, David Brown, Eponine Oler et al.   
-  [Anal. Chem. (2023)](https://doi.org/10.1021/acs.analchem.3c02413) |  [data](https://nps-ms.ca/) 
+  [Anal. Chem. (2023)](https://doi.org/10.1021/acs.analchem.3c02413) |  [data](https://nps-ms.ca/)  
 
 * **MIST-CF: Chemical formula inference from tandem mass spectra** [2023]   
  Litsa, E.E., Chenthamarakshan, V., Das, P. et al.   
@@ -3758,11 +3763,11 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 * **An end-to-end deep learning framework for translating mass spectra to de-novo molecules** [2023]   
  Litsa, E.E., Chenthamarakshan, V., Das, P. et al.   
-  [Commun Chem 6, 132 (2023)](https://doi.org/10.1038/s42004-023-00932-3) |  [code](https://github.com/KavrakiLab/Spec2Mol)
+  [Commun Chem 6, 132 (2023)](https://doi.org/10.1038/s42004-023-00932-3) |  [code](https://github.com/KavrakiLab/Spec2Mol)  
 
 * **MSNovelist: de novo structure generation from mass spectra**  [2022]   
  Stravs, M.A., Dührkop, K., Böcker, S. et al   
-  [Nat Methods 19, 865–870 (2022)](https://doi.org/10.1038/s41592-022-01486-3) |  [code](https://github.com/meowcat/MSNovelist) 
+  [Nat Methods 19, 865–870 (2022)](https://doi.org/10.1038/s41592-022-01486-3) |  [code](https://github.com/meowcat/MSNovelist)  
 
 
 
