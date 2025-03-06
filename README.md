@@ -3390,6 +3390,9 @@ ZHANG Z, Liu Q.
 ### Fragment-based DMGs
 
 
+* **Growing and Linking Optimizers: Synthesis-driven Molecule Design** [2025]  
+Descamps C, Bouttier V, Sanz García J, Perron Q, Tajmouati H.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-64bhb)  
 
 * **Drug Discovery with Dynamic Goal-aware Fragments** [2024]   
 Seul Lee, Seanie Lee, Kenji Kawaguchi, Sung Ju Hwang.   
@@ -3527,6 +3530,10 @@ Yang, R., Zhou, H., Wang, F. et al.
 
 ### Linkers-based DMGs
 
+
+* **Growing and Linking Optimizers: Synthesis-driven Molecule Design** [2025]  
+Descamps C, Bouttier V, Sanz García J, Perron Q, Tajmouati H.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-64bhb)  
 
 * **Equivariant 3D-conditional diffusion model for molecular linker design** [2024]   
  Igashov, I., Stärk, H., Vignac, C. et al.    
