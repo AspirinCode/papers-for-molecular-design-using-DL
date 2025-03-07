@@ -3405,6 +3405,10 @@ Seul Lee, Seanie Lee, Kenji Kawaguchi, Sung Ju Hwang.
 Zhang, Odin, Yufei Huang, Shichen Cheng, Mengyao Yu, Xujun Zhang, Haitao Lin, Yundian Zeng et al.   
 [Chemical science (2024)](https://doi.org/10.1039/D4SC04620J) |  [code](https://github.com/HaotianZhangAI4Science/FragGen)  
 
+* **CReM-dock: de novo design of synthetically feasible compounds guided by molecular docking** [2024]  
+Minibaeva G, Polishchuk P.  
+[ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-fpzqb-v3) |  [code](https://github.com/ci-lab-cz/crem-dock)  
+
 * **DigFrag as a digital fragmentation method used for artificial intelligence-based drug design** [2024]   
 Yang, R., Zhou, H., Wang, F. et al.   
 [Commun Chem 7, 258 (2024)](https://doi.org/10.1038/s42004-024-01346-5) |  [code](https://github.com/yang1rq/MolFrag)  
