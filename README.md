@@ -840,6 +840,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+* **Accelerating discovery of bioactive ligands with pharmacophore-informed generative models** [2025]   
+ Xie, W., Zhang, J., Xie, Q. et al.   
+  [Nat Commun 16, 2391 (2025)](https://doi.org/10.1038/s41467-025-56349-0) |  [code](https://github.com/iipharma/transpharmer-repo)  
 
 * **3DMolFormer: A Dual-channel Framework for Structure-based Drug Discovery** [2025]   
  Xiuyuan Hu, Guoqing Liu, Can Chen, Yang Zhao, Hao Zhang, Xue Liu.   
