@@ -1537,6 +1537,10 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 ### Flow-based
 
+* **Integrating Protein Dynamics into Structure-Based Drug Design via Full-Atom Stochastic Flows** [2025]  
+Xiangxin Zhou, Yi Xiao, Haowei Lin, Xinheng He, Jiaqi Guan, Yang Wang, Qiang Liu, Feng Zhou, Liang Wang, Jianzhu Ma.  
+[ICLR (2025)](https://arxiv.org/abs/2503.03989)  
+
 * **SemlaFlow -- Efficient 3D Molecular Generation with Latent Attention and Equivariant Flow Matching** [2025]  
 Ross Irwin, Alessandro Tibo, Jon Paul Janet, Simon Olsson.  
 [arXiv:2406.07266 (2025)](https://arxiv.org/abs/2406.07266)  
