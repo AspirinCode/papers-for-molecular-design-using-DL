@@ -2535,6 +2535,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 ### Large Language Model-based
 
 
+* **Pushing the boundaries of Structure-Based Drug Design through Collaboration with Large Language Models**  [2025]  
+Bowen Gao, Yanwen Huang, Yiqiao Liu, Wenxuan Xie, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan.  
+  [arXiv:2503.01376 (2025)](https://arxiv.org/abs/2503.01376)  
 
 * **DrugImproverGPT: A Large Language Model for Drug Optimization with Fine-Tuning via Structured Policy Optimization**  [2025]  
 Xuefeng Liu, Songhao Jiang, Siyu Chen, Zhuoran Yang, Yuxin Chen, Ian Foster, Rick Stevens.  
@@ -2855,7 +2858,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
-
+* **Pushing the boundaries of Structure-Based Drug Design through Collaboration with Large Language Models**  [2025]  
+Bowen Gao, Yanwen Huang, Yiqiao Liu, Wenxuan Xie, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan.  
+  [arXiv:2503.01376 (2025)](https://arxiv.org/abs/2503.01376)  
 
 * **CoDNet: Controlled Diffusion Network for Structure Based Drug Design**  [2025]   
  Fahmi Kazi Md, Shahil Yasar Haque, Eashrat Jahan, Latin Chakma, Tamanna Shermin, Asif Uddin Ahmed, Salekul Islam, Swakkhar Shatabda, Riasat Azim.   
