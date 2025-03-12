@@ -1709,8 +1709,15 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+
+
+
+* **Molecule Generation for Target Protein Binding with Hierarchical Consistency Diffusion Model** [2025]  
+ Guanlue Li, Chenran Jiang, Ziqi Gao, Yu Liu, Chenyang Liu, Jiean Chen, Yong Huang, Jia Li.  
+  [arXiv:2503.00975 (2025)](https://arxiv.org/abs/2503.00975) |  [code](https://github.com/guanlueli/AMDiff)  
+
 * **DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra** [2025]  
- Montgomery Bohde, Mrunali Manjrekar, Runzhong Wang, Shuiwang Ji, Connor W. Coley.   
+ Montgomery Bohde, Mrunali Manjrekar, Runzhong Wang, Shuiwang Ji, Connor W. Coley.  
   [arXiv:2502.09571 (2025)](https://arxiv.org/abs/2502.09571) |  [code](https://github.com/coleygroup/DiffMS)  
 
 * **CoDNet: Controlled Diffusion Network for Structure Based Drug Design**  [2025]   
@@ -2857,6 +2864,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 ## Structure-based deep molecular generative models
 
+
+
+* **Molecule Generation for Target Protein Binding with Hierarchical Consistency Diffusion Model** [2025]  
+ Guanlue Li, Chenran Jiang, Ziqi Gao, Yu Liu, Chenyang Liu, Jiean Chen, Yong Huang, Jia Li.  
+  [arXiv:2503.00975 (2025)](https://arxiv.org/abs/2503.00975) |  [code](https://github.com/guanlueli/AMDiff)  
 
 * **Pushing the boundaries of Structure-Based Drug Design through Collaboration with Large Language Models**  [2025]  
 Bowen Gao, Yanwen Huang, Yiqiao Liu, Wenxuan Xie, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan.  
