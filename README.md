@@ -3828,6 +3828,11 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+
+* **Leveraging high-throughput molecular simulations and machine learning for the design of chemical mixtures**  [2025]   
+ Chew, A.K., Afzal, M.A.F., Kaplan, Z. et al.   
+  [npj Comput Mater 11, 72 (2025)](https://doi.org/10.1038/s41524-025-01552-2) |  [code](https://www.schrodinger.com/platform/materials-science)   
+
 * **Inverse design of promising electrocatalysts for CO2 reduction via generative models and bird swarm algorithm**  [2025]   
  Song, Z., Fan, L., Lu, S. et al.   
   [Nat Commun 16, 1053 (2025)](https://doi.org/10.1038/s41467-024-55613-z) |  [code](https://github.com/szl666/CO2RR-inverse-design)   
