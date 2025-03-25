@@ -1712,7 +1712,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **GraphXForm: graph transformer for computer-aided molecular design** [2025]  
+ Pirnay, Jonathan, Jan Rittig, Alexander Wolf, Martin Grohe, Jakob Burger, Alexander Mitsos, and Dominik Grimm.  
+  [Digital Discovery (2025)](https://doi.org/10.1039/D4DD00339J) |  [code](https://github.com/grimmlab/graphxform)  
 
 * **Molecule Generation for Target Protein Binding with Hierarchical Consistency Diffusion Model** [2025]  
  Guanlue Li, Chenran Jiang, Ziqi Gao, Yu Liu, Chenyang Liu, Jiean Chen, Yong Huang, Jia Li.  
