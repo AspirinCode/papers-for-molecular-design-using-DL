@@ -117,6 +117,12 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
 
 
 
+* **UniGenX: Unified Generation of Sequence and Structure with Autoregressive Diffusion** [2025]   
+Zhang, Gongbo, Yanting Li, Renqian Luo, Pipi Hu, Zeru Zhao, Lingbo Li, Guoqing Liu et al.  
+[arXiv:2503.06687 (2025)](https://arxiv.org/abs/2503.06687)  
+
+
+
 
 ## Generative AI for Scientific Discovery
 
@@ -124,10 +130,6 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
 * **Accelerating Material Design with the Generative Toolkit for Scientific Discovery**  
 Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish and Born, Jannis and Clarke, Dean and Teukam, Yves Gaetan Nana and Hoffman, Samuel C and Buchan, Matthew and Chenthamarakshan, Vijil and others  
 [npj Comput Mater 9, 69 (2023)](https://www.nature.com/articles/s41524-023-01028-1) |  [code](https://github.com/GT4SD/gt4sd-core) 
-
-
-
-
 
 
 
