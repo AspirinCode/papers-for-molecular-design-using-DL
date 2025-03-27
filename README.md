@@ -21,6 +21,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
+| [ Unified Deep Molecular Generative Model](#unified-deep-molecular-generative-model) |  |  |  |
 | [ Generative AI for Scientific Discovery](#generative-ai-for-scientific-discovery) | [ Reviews](#reviews) | [ Datasets and Benchmarks](#datasets-and-benchmarks) | [ Drug-likeness and Evaluation metrics](#drug-likeness-and-evaluation-metrics) |
 | [Deep Learning-based design](#deep-learning-based-design) | [Text-driven molecular generation models](#text-driven-molecular-generation-models) | [Multi-Target based deep molecular generative models](#multi-Target-based-deep-molecular-generative-models) | [Ligand-based deep molecular generative models](#ligand-based-deep-molecular-generative-models) |
 | [Pharmacophore-based deep molecular generative models](#pharmacophore-based-deep-molecular-generative-models) | [Structure-based deep molecular generative models](#structure-based-deep-molecular-generative-models) | [Fragment-based deep molecular generative models](#fragment-based-deep-molecular-generative-models) | [Scaffold-based DMGs](#scaffold-based-dmgs) |
@@ -110,12 +111,23 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
 
 
 
+
+## Unified Deep Molecular Generative Model
+
+
+
+
+
 ## Generative AI for Scientific Discovery
 
 
 * **Accelerating Material Design with the Generative Toolkit for Scientific Discovery**  
 Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish and Born, Jannis and Clarke, Dean and Teukam, Yves Gaetan Nana and Hoffman, Samuel C and Buchan, Matthew and Chenthamarakshan, Vijil and others  
 [npj Comput Mater 9, 69 (2023)](https://www.nature.com/articles/s41524-023-01028-1) |  [code](https://github.com/GT4SD/gt4sd-core) 
+
+
+
+
 
 
 
