@@ -140,6 +140,10 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 ## Reviews
 
 
+* **Generative deep learning for de novo drug design – a chemical space odyssey** [2025]   
+Özçelik R, Brinkmann H, Criscuolo E, Grisoni F.   
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-1zs8j)  
+
 * **Diffusion Models for Molecules: A Survey of Methods and Tasks** [2025]   
 Liang Wang, Chao Song, Zhiyuan Liu, Yu Rong, Qiang Liu, Shu Wu, Liang Wang.   
 [arXiv:2502.09511 (2025)](https://arxiv.org/abs/2502.09511) | [code](https://github.com/AzureLeon1/awesome-molecular-diffusion-models)   
