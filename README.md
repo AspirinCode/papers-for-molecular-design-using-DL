@@ -1731,6 +1731,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+* **Improving structural plausibility in diffusion-based 3D molecule generation via property-conditioned training with distorted molecules** [2025]  
+ Vost, Lucy, Vijil Chenthamarakshan, Payel Das, and Charlotte Mary Deane.  
+  [Digital Discovery (2025)](https://doi.org/10.1039/D4DD00331D) |  [code](https://github.com/lucyvost/distorted_diffusion)  
+
 * **Enhancing Diffusion Models Efficiency by Disentangling Total-Variance and Signal-to-Noise Ratio** [2025]  
  Khaled Kahouli, Winfried Ripken, Stefan Gugler, Oliver T. Unke, Klaus-Robert Müller, Shinichi Nakajima.  
   [arXiv:2502.08598 (2025)](https://www.arxiv.org/abs/2502.08598) |  [code](https://github.com/khaledkah/tv-snr-diffusion)  
