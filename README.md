@@ -1730,6 +1730,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+
+* **Enhancing Diffusion Models Efficiency by Disentangling Total-Variance and Signal-to-Noise Ratio** [2025]  
+ Khaled Kahouli, Winfried Ripken, Stefan Gugler, Oliver T. Unke, Klaus-Robert Müller, Shinichi Nakajima.  
+  [arXiv:2502.08598 (2025)](https://www.arxiv.org/abs/2502.08598) |  [code](https://github.com/khaledkah/tv-snr-diffusion)  
+
 * **GraphXForm: graph transformer for computer-aided molecular design** [2025]  
  Pirnay, Jonathan, Jan Rittig, Alexander Wolf, Martin Grohe, Jakob Burger, Alexander Mitsos, and Dominik Grimm.  
   [Digital Discovery (2025)](https://doi.org/10.1039/D4DD00339J) |  [code](https://github.com/grimmlab/graphxform)  
