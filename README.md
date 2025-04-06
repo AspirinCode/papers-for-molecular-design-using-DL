@@ -1732,7 +1732,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
-
+* **DiffMC-Gen: A Dual Denoising Diffusion Model for Multi-Conditional Molecular Generation** [2025]  
+ Y. Yang, S. Gu, B. Liu, X. Gong, R. Lu, J. Qiu, X. Yao, H. Liu.  
+  [Adv. Sci. (2025)](https://doi.org/10.1002/advs.202417726)  
 
 * **Improving structural plausibility in diffusion-based 3D molecule generation via property-conditioned training with distorted molecules** [2025]  
  Vost, Lucy, Vijil Chenthamarakshan, Payel Das, and Charlotte Mary Deane.  
