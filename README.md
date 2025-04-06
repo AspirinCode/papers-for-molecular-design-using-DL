@@ -114,10 +114,11 @@ https://github.com/3146830058/Geometry-Deep-Learning-for-Drug-Discovery-and-Life
 
 ## Unified Deep Molecular Generative Model
 
-* **All-atom Diffusion Transformers: Unified generative modelling of molecules and materials** [2025]
-Chaitanya K. Joshi, Xiang Fu, Yi-Lun Liao, Vahe Gharakhanyan, Benjamin Kurt Miller, Anuroop Sriram, Zachary W. Ulissi.
-[arXiv:2503.03965 (2025)](https://www.arxiv.org/abs/2503.03965)  
 
+
+* **All-atom Diffusion Transformers: Unified generative modelling of molecules and materials** [2025]  
+Chaitanya K. Joshi, Xiang Fu, Yi-Lun Liao, Vahe Gharakhanyan, Benjamin Kurt Miller, Anuroop Sriram, Zachary W. Ulissi.  
+[arXiv:2503.03965 (2025)](https://www.arxiv.org/abs/2503.03965)  
 
 * **UniGenX: Unified Generation of Sequence and Structure with Autoregressive Diffusion** [2025]   
 Zhang, Gongbo, Yanting Li, Renqian Luo, Pipi Hu, Zeru Zhao, Lingbo Li, Guoqing Liu et al.  
