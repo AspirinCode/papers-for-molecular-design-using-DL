@@ -3719,11 +3719,15 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 * **MolGene-E: Inverse Molecular Design to Modulate Single Cell Transcriptomics**  [2025]  
  Rahul Ohlan, Raswanth Murugan, Li Xie, Mohammedsadeq Mottaqi, Shuo Zhang, Lei Xie.  
-  [bioRxiv. (2025)](https://doi.org/10.1101/2025.02.19.638723) |  [code](https://zenodo.org/records/7041849)  
+  [bioRxiv. (2025)](https://doi.org/10.1101/2025.02.19.638723) | [code](https://zenodo.org/records/7041849)  
+
+* **Gx2Mol: De Novo Generation of Hit-like Molecules from Gene Expression Profiles via Deep Learning** [2024]  
+  Chen Li, Yuki Matsukiyo, Yoshihiro Yamanishi.   
+  [arXiv:2412.19422 (2024)](https://arxiv.org/abs/2412.19422) | [code](https://github.com/naruto7283/gx2mol)  
 
 * **Cross-modal Generation of Hit-like Molecules via Foundation Model Encoding of Gene Expression Signatures** [2023]   
   Jiabei Cheng, Xiaoyong Pan, Kaiyuan Yang, Shenghao Cao, Bin Liu, Ye Yuan.   
-  [bioRxiv 2023.11.11.566725.  (2023)](https://doi.org/10.1101/2023.11.11.566725) |  [code](https://github.com/Bunnybeibei/GexMolGen) 
+  [bioRxiv 2023.11.11.566725.  (2023)](https://doi.org/10.1101/2023.11.11.566725) | [code](https://github.com/Bunnybeibei/GexMolGen)  
 
 * **De novo drug design based on patient gene expression profiles via deep learning**  [2023]   
  Yamanaka, Chikashige, Shunya Uki, Kazuma Kaitoh, Michio Iwata, and Yoshihiro Yamanishi.   
