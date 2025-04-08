@@ -2580,6 +2580,11 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 ### Large Language Model-based
 
 
+
+* **Large language models open new way of AI-assisted molecule design for chemists**  [2025]  
+Ishida, S., Sato, T., Honma, T. et al.  
+  [J Cheminform 17, 36 (2025)](https://doi.org/10.1186/s13321-025-00984-8) |  [code](https://github.com/molecule-generator-collection/ChatChemTS)  
+
 * **Pushing the boundaries of Structure-Based Drug Design through Collaboration with Large Language Models**  [2025]  
 Bowen Gao, Yanwen Huang, Yiqiao Liu, Wenxuan Xie, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan.  
   [arXiv:2503.01376 (2025)](https://arxiv.org/abs/2503.01376)  
