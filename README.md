@@ -1571,6 +1571,11 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 ### Flow-based
 
+
+* **SynFlowNet: Design of Diverse and Novel Molecules with Synthesis Constraints** [2025]  
+Miruna Cretu, Charles Harris, Ilia Igashov, Arne Schneuing, Marwin Segler, Bruno Correia, Julien Roy, Emmanuel Bengio, Pietro Lio.  
+[ICLR (2025)](https://openreview.net/forum?id=uvHmnahyp1) |  [code](https://github.com/mirunacrt/synflownet)  
+
 * **Integrating Protein Dynamics into Structure-Based Drug Design via Full-Atom Stochastic Flows** [2025]  
 Xiangxin Zhou, Yi Xiao, Haowei Lin, Xinheng He, Jiaqi Guan, Yang Wang, Qiang Liu, Feng Zhou, Liang Wang, Jianzhu Ma.  
 [ICLR (2025)](https://arxiv.org/abs/2503.03989)  
