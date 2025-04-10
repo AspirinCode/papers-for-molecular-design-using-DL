@@ -863,8 +863,14 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+
+
 * **Accelerating discovery of bioactive ligands with pharmacophore-informed generative models** [2025]   
- Xie, W., Zhang, J., Xie, Q. et al.   
+ Li Y, Lin X, Hao Y, Zhang J, Gao YQ.  
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-v4758) |  [code](https://github.com/egg5154/MolSculptor)  
+
+* **Accelerating discovery of bioactive ligands with pharmacophore-informed generative models** [2025]   
+ Xie, W., Zhang, J., Xie, Q. et al.  
   [Nat Commun 16, 2391 (2025)](https://doi.org/10.1038/s41467-025-56349-0) |  [code](https://github.com/iipharma/transpharmer-repo)  
 
 * **3DMolFormer: A Dual-channel Framework for Structure-based Drug Discovery** [2025]   
@@ -1731,6 +1737,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 ### Diffusion-based
+
+
+
+* **Accelerating discovery of bioactive ligands with pharmacophore-informed generative models** [2025]   
+ Li Y, Lin X, Hao Y, Zhang J, Gao YQ.  
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-v4758) |  [code](https://github.com/egg5154/MolSculptor)  
 
 * **DiffMC-Gen: A Dual Denoising Diffusion Model for Multi-Conditional Molecular Generation** [2025]  
  Y. Yang, S. Gu, B. Liu, X. Gong, R. Lu, J. Qiu, X. Yao, H. Liu.  
@@ -2702,6 +2714,12 @@ Yuran Xiang and Haiteng Zhao and Chang Ma and Zhi-Hong Deng.
 
 
 ## Multi-Target based deep molecular generative models
+
+
+
+* **Accelerating discovery of bioactive ligands with pharmacophore-informed generative models** [2025]   
+ Li Y, Lin X, Hao Y, Zhang J, Gao YQ.  
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-v4758) |  [code](https://github.com/egg5154/MolSculptor)  
 
 * **Generation of Dual-Target Compounds Using a Transformer Chemical Language Model** [2024]  
  Srinivasan, Sanjana, and Jürgen Bajorath.    
