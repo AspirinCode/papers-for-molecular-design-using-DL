@@ -807,9 +807,14 @@ Santana, M.V.S., Silva-Jr, F.P.
 ### Autoregressive-models
 
 
+
+* **Versatile Molecular Editing via Multimodal and Group-optimized Generative Learning**  [2024]   
+ Lin X, Xia Y, Huang Y, Liu S, Zhang J, Gao YQ.  
+  [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2023-j2n6l-v2) |  [code](https://github.com/issacAzazel/MolEdit)  
+
 * **Saturn: Sample-efficient Generative Molecular Design using Memory Manipulation**  [2024]   
  Jeff Guo, Philippe Schwaller.   
-  [	arXiv:2405.17066 (2024)](https://arxiv.org/abs/2405.17066) |  [code](https://github.com/schwallergroup/saturn)  
+  [arXiv:2405.17066 (2024)](https://arxiv.org/abs/2405.17066) |  [code](https://github.com/schwallergroup/saturn)  
 
 * **Enabling target-aware molecule generation to follow multi objectives with Pareto MCTS** [2024]   
 Yang, Y., Chen, G., Li, J. et al.  
@@ -1680,6 +1685,11 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 ### Score-Based
 
 
+
+
+* **Versatile Molecular Editing via Multimodal and Group-optimized Generative Learning**  [2024]   
+ Lin X, Xia Y, Huang Y, Liu S, Zhang J, Gao YQ.  
+  [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2023-j2n6l-v2) |  [code](https://github.com/issacAzazel/MolEdit)  
 
 * **Score-based 3D molecule generation with neural fields** [204]   
 Kirchmeyer, Matthieu, Pedro O. Pinheiro, and Saeed Saremi.   
