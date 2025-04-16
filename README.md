@@ -870,6 +870,11 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+* **ScaffoldGPT: A Scaffold-based GPT Model for Drug Optimization** [2025]   
+ Xuefeng Liu, Songhao Jiang, Ian Foster, Jinbo Xu, Rick Stevens.  
+  [arXiv:2502.06891 (2025)](https://arxiv.org/abs/2502.06891) |  [code](https://github.com/Chicago-Trio/SCAFFOLDGPT)  
+
 * **Accelerating discovery of bioactive ligands with pharmacophore-informed generative models** [2025]   
  Li Y, Lin X, Hao Y, Zhang J, Gao YQ.  
   [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-v4758) |  [code](https://github.com/egg5154/MolSculptor)  
