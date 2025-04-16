@@ -1578,7 +1578,9 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
-
+* **FLOWR: Flow Matching for Structure-Aware De Novo, Interaction- and Fragment-Based Ligand Generation** [2025]  
+Julian Cremer, Ross Irwin, Alessandro Tibot, Jon Paul Janet, Simon Olsson, Djork-Arné Clevert.  
+[arXiv:2504.10564 (2025)](https://doi.org/10.48550/arXiv.2504.10564)  
 
 * **Compositional Flows for 3D Molecule and Synthesis Pathway Co-design** [2025]  
 Tony Shen, Seonghwan Seo, Ross Irwin, Kieran Didi, Simon Olsson, Woo Youn Kim, Martin Ester.  
@@ -2953,6 +2955,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+* **FLOWR: Flow Matching for Structure-Aware De Novo, Interaction- and Fragment-Based Ligand Generation** [2025]  
+Julian Cremer, Ross Irwin, Alessandro Tibot, Jon Paul Janet, Simon Olsson, Djork-Arné Clevert.  
+[arXiv:2504.10564 (2025)](https://doi.org/10.48550/arXiv.2504.10564)  
 
 * **Molecule Generation for Target Protein Binding with Hierarchical Consistency Diffusion Model** [2025]  
  Guanlue Li, Chenran Jiang, Ziqi Gao, Yu Liu, Chenyang Liu, Jiean Chen, Yong Huang, Jia Li.  
@@ -3504,6 +3509,10 @@ ZHANG Z, Liu Q.
 
 ### Fragment-based DMGs
 
+
+* **FLOWR: Flow Matching for Structure-Aware De Novo, Interaction- and Fragment-Based Ligand Generation** [2025]  
+Julian Cremer, Ross Irwin, Alessandro Tibot, Jon Paul Janet, Simon Olsson, Djork-Arné Clevert.  
+[arXiv:2504.10564 (2025)](https://doi.org/10.48550/arXiv.2504.10564)  
 
 * **Growing and Linking Optimizers: Synthesis-driven Molecule Design** [2025]  
 Descamps C, Bouttier V, Sanz García J, Perron Q, Tajmouati H.  
