@@ -1577,6 +1577,13 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 ### Flow-based
 
 
+
+
+
+* **Compositional Flows for 3D Molecule and Synthesis Pathway Co-design** [2025]  
+Tony Shen, Seonghwan Seo, Ross Irwin, Kieran Didi, Simon Olsson, Woo Youn Kim, Martin Ester.  
+[arXiv:2504.08051 (2025)](https://doi.org/10.48550/arXiv.2504.08051) |  [code](https://github.com/tonyshen1997/CGFlow)  
+
 * **SynFlowNet: Design of Diverse and Novel Molecules with Synthesis Constraints** [2025]  
 Miruna Cretu, Charles Harris, Ilia Igashov, Arne Schneuing, Marwin Segler, Bruno Correia, Julien Roy, Emmanuel Bengio, Pietro Lio.  
 [ICLR (2025)](https://openreview.net/forum?id=uvHmnahyp1) |  [code](https://github.com/mirunacrt/synflownet)  
