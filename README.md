@@ -3928,7 +3928,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 ## Deep Learning-based material design
 
 
-
+* **Uni-Electrolyte: An Artificial Intelligence Platform for Designing Electrolyte Molecules for Rechargeable Batteries**  [2025]  
+ Xiang Chen,  Mingkang Liu,  Shiqiu Yin,  Yu-Chen Gao,  Nan Yao,  Qiang Zhang.  
+  [Angew. Chem. Int. Ed. (2025)](https://doi.org/10.1002/anie.202503105)  
 
 * **Leveraging high-throughput molecular simulations and machine learning for the design of chemical mixtures**  [2025]   
  Chew, A.K., Afzal, M.A.F., Kaplan, Z. et al.   
