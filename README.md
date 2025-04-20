@@ -2620,6 +2620,13 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 ### Large Language Model-based
 
+
+
+
+* **SynLlama: Generating Synthesizable Molecules and Their Analogs with Large Language Models**  [2025]  
+Kunyang Sun, Dorian Bagni, Joseph M. Cavanagh, Yingze Wang, Jacob M. Sawyer, Andrew Gritsevskiy, Teresa Head-Gordon.  
+  [arXiv:2503.12602 (2025)](https://arxiv.org/abs/2503.12602) |  [code](https://github.com/THGLab/SynLlama)  
+
 * **Chemical Language Model Linker: blending text and molecules with modular adapters**  [2025]  
 Yifan Deng, Spencer S. Ericksen, Anthony Gitter.  
   [arXiv:2410.20182 (2025)](https://arxiv.org/abs/2410.20182) |  [code](https://github.com/gitter-lab/ChemLML)  
@@ -3726,6 +3733,10 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
 
 
 
+* **SynLlama: Generating Synthesizable Molecules and Their Analogs with Large Language Models**  [2025]  
+Kunyang Sun, Dorian Bagni, Joseph M. Cavanagh, Yingze Wang, Jacob M. Sawyer, Andrew Gritsevskiy, Teresa Head-Gordon.  
+  [arXiv:2503.12602 (2025)](https://arxiv.org/abs/2503.12602) |  [code](https://github.com/THGLab/SynLlama)  
+
 * **Expediting hit-to-lead progression in drug discovery through reaction prediction and multi-objective molecular optimization** [2025]   
 Nippa DF, Atz K, Stenzhorn Y, Müller AT, Tosstorff A, Benz J, et al.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-0lxhw-v2) |  [code](https://github.com/ETHmodlab/minisci)  
@@ -3820,7 +3831,13 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+
+
 ## Multi-Objective deep molecular generative models
+
+
+
+
 
 * **GENERA: A Combined Genetic/Deep-Learning Algorithm for Multiobjective Target-Oriented De Novo Design** [2023]   
   Lamanna, Giuseppe, Pietro Delre, Gilles Marcou, Michele Saviano, Alexandre Varnek, Dragos Horvath, and Giuseppe Felice Mangiatordi.   
@@ -3860,6 +3877,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 ## Quantum deep molecular generative models
 
+
+
+
 * **Quantum computing for near-term applications in generative chemistry and drug discovery** [2023]   
  Pyrkov, Alexey, Alex Aliper, Dmitry Bezrukov, Yen-Chu Lin, Daniil Polykovskiy, Petrina Kamya, Feng Ren, and Alex Zhavoronkov.   
   [Drug Discovery Today (2023)](https://doi.org/10.1016/j.drudis.2023.103675) 
@@ -3881,6 +3901,8 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 ### Mass Spectra-based
+
+
 
 * **DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra** [2025]  
  Montgomery Bohde, Mrunali Manjrekar, Runzhong Wang, Shuiwang Ji, Connor W. Coley.   
