@@ -2620,7 +2620,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 ### Large Language Model-based
 
-
+* **Chemical Language Model Linker: blending text and molecules with modular adapters**  [2025]  
+Yifan Deng, Spencer S. Ericksen, Anthony Gitter.  
+  [arXiv:2410.20182 (2025)](https://arxiv.org/abs/2410.20182) |  [code](https://github.com/gitter-lab/ChemLML)  
 
 * **Large language models open new way of AI-assisted molecule design for chemists**  [2025]  
 Ishida, S., Sato, T., Honma, T. et al.  
@@ -2700,7 +2702,9 @@ Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen
 
 
 
-
+* **Chemical Language Model Linker: blending text and molecules with modular adapters**  [2025]  
+Yifan Deng, Spencer S. Ericksen, Anthony Gitter.  
+  [arXiv:2410.20182 (2025)](https://arxiv.org/abs/2410.20182) |  [code](https://github.com/gitter-lab/ChemLML)  
 
 * **Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model** [204]   
 Yuran Xiang and Haiteng Zhao and Chang Ma and Zhi-Hong Deng.   
