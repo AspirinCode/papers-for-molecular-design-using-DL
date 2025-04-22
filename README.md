@@ -2107,6 +2107,13 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+
+
+* **DrugGen enhances drug discovery with large language models and reinforcement learning** [2025]   
+ Sheikholeslami, M., Mazrouei, N., Gheisari, Y. et al.  
+  [Sci Rep 15, 13445 (2025)](https://doi.org/10.1038/s41598-025-98629-1) |  [code](https://github.com/mahsasheikh/DrugGen)  
+
 * **Mol-AIR: Molecular Reinforcement Learning with Adaptive Intrinsic Rewards for Goal-Directed Molecular Generation** [2025]   
  Jinyeong Park, Jaegyoon Ahn, Jonghwan Choi, and Jibum Kim.  
   [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.4c01669) |  [code](https://github.com/DevSlem/Mol-AIR)  
@@ -2618,10 +2625,21 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
+
+
+
+
+
 ### Large Language Model-based
 
 
 
+
+
+
+* **DrugGen enhances drug discovery with large language models and reinforcement learning** [2025]   
+ Sheikholeslami, M., Mazrouei, N., Gheisari, Y. et al.  
+  [Sci Rep 15, 13445 (2025)](https://doi.org/10.1038/s41598-025-98629-1) |  [code](https://github.com/mahsasheikh/DrugGen)  
 
 * **SynLlama: Generating Synthesizable Molecules and Their Analogs with Large Language Models**  [2025]  
 Kunyang Sun, Dorian Bagni, Joseph M. Cavanagh, Yingze Wang, Jacob M. Sawyer, Andrew Gritsevskiy, Teresa Head-Gordon.  
