@@ -1768,6 +1768,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+* **MolSnapper: Conditioning Diffusion for Structure Based Drug Design** [2025]  
+ Yael Ziv, Fergus Imrie, Brian Marsden, and Charlotte M. Deane.   
+  [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.4c02008)  |  [bioRxiv (2024)](https://doi.org/10.1101/2024.03.28.586278)  |  [code](https://github.com/oxpig/MolSnapper)  
 
 * **Accelerating discovery of bioactive ligands with pharmacophore-informed generative models** [2025]   
  Li Y, Lin X, Hao Y, Zhang J, Gao YQ.  
@@ -1936,10 +1939,6 @@ Marie Oestreich, Erinc Merdivan, Michael Lee, Joachim L. Schultze, Marie Piraud,
 * **AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design** [2024]   
  Li, Xinze, Penglei Wang, Tianfan Fu, Wenhao Gao, Chengtao Li, Leilei Shi, and Junhong Liu.    
   [arXiv:2404.02003 (2024)](https://arxiv.org/html/2404.02003v1)  
-
-* **MolSnapper: Conditioning Diffusion for Structure Based Drug Design** [2024]   
- Ziv, Yael, Brian Marsden, and Charlotte Deane.    
-  [bioRxiv (2024)](https://doi.org/10.1101/2024.03.28.586278)  |  [code](https://github.com/oxpig/MolSnapper) 
 
 * **De Novo Molecule Generation with Graph Latent Diffusion Model** [2024]   
  Wang, Conghao, Hiok Hian Ong, Shunsuke Chiba, and Jagath C. Rajapakse.    
@@ -2984,6 +2983,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+* **MolSnapper: Conditioning Diffusion for Structure Based Drug Design** [2025]  
+ Yael Ziv, Fergus Imrie, Brian Marsden, and Charlotte M. Deane.   
+  [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.4c02008)  |  [bioRxiv (2024)](https://doi.org/10.1101/2024.03.28.586278)  |  [code](https://github.com/oxpig/MolSnapper)  
+
 * **FLOWR: Flow Matching for Structure-Aware De Novo, Interaction- and Fragment-Based Ligand Generation** [2025]  
 Julian Cremer, Ross Irwin, Alessandro Tibot, Jon Paul Janet, Simon Olsson, Djork-Arné Clevert.  
 [arXiv:2504.10564 (2025)](https://doi.org/10.48550/arXiv.2504.10564) |  [code](https://github.com/jule-c/flowr)  
@@ -3145,12 +3149,8 @@ Atz, K., Cotos, L., Isert, C. et al.
   [Research Square (2024)](https://www.researchsquare.com/article/rs-4023429/v1)  
 
 * **AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design** [2024]   
- Li, Xinze, Penglei Wang, Tianfan Fu, Wenhao Gao, Chengtao Li, Leilei Shi, and Junhong Liu.    
+ Li, Xinze, Penglei Wang, Tianfan Fu, Wenhao Gao, Chengtao Li, Leilei Shi, and Junhong Liu.   
   [arXiv:2404.02003 (2024)](https://arxiv.org/html/2404.02003v1)  
-
-* **MolSnapper: Conditioning Diffusion for Structure Based Drug Design** [2024]   
- Ziv, Yael, Brian Marsden, and Charlotte Deane.    
-  [bioRxiv (2024)](https://doi.org/10.1101/2024.03.28.586278)  |  [code](https://github.com/oxpig/MolSnapper) 
 
 * **3D molecular generative framework for interaction-guided drug design** [2024]   
   Zhung, W., Kim, H. & Kim, W.Y.   
