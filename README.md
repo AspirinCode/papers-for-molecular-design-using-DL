@@ -1769,6 +1769,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+* **D4: Distance Diffusion for a Truly Equivariant Molecular Design** [2025]  
+ Samuel Cognolato, Davide Rigoni, Marco Ballarini, Luciano Serafini, Stefano Moro, Alessandro Sperduti.  
+  [ESANN (2025)](https://www.esann.org/sites/default/files/proceedings/2025/ES2025-80.pdf) |  [code](https://github.com/MrcBalla/D4-code)  
+
 * **Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space** [2025]   
 Ketata, Mohamed Amine, Nicholas Gao, Johanna Sommer, Tom Wollschläger, and Stephan Günnemann.   
 [ICLR (2025)](https://openreview.net/forum?id=uNomADvF3s)   |  [arXiv:2406.10513 (2024)](https://arxiv.org/abs/2406.10513)   |  [code](https://github.com/ketatam/SyCo)  
