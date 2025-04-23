@@ -1768,6 +1768,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+
+* **Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space** [2025]   
+Ketata, Mohamed Amine, Nicholas Gao, Johanna Sommer, Tom Wollschläger, and Stephan Günnemann.   
+[ICLR (2025)](https://openreview.net/forum?id=uNomADvF3s)   |  [arXiv:2406.10513 (2024)](https://arxiv.org/abs/2406.10513)   |  [code](https://github.com/ketatam/SyCo)  
+
 * **MolSnapper: Conditioning Diffusion for Structure Based Drug Design** [2025]  
  Yael Ziv, Fergus Imrie, Brian Marsden, and Charlotte M. Deane.   
   [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.4c02008)  |  [bioRxiv (2024)](https://doi.org/10.1101/2024.03.28.586278)  |  [code](https://github.com/oxpig/MolSnapper)  
@@ -1891,10 +1896,6 @@ Zhu, Huaisheng, Teng Xiao, and Vasant G. Honavar.
 * **Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model** [204]   
 Yuran Xiang and Haiteng Zhao and Chang Ma and Zhi-Hong Deng.   
 [	arXiv:2408.09896 (2024)](https://arxiv.org/abs/2408.09896)  |  [code](https://github.com/ran1812/UTGDiff)  
-
-* **Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space** [204]   
-Ketata, Mohamed Amine, Nicholas Gao, Johanna Sommer, Tom Wollschläger, and Stephan Günnemann.   
-[arXiv:2406.10513 (2024)](https://arxiv.org/abs/2406.10513)   |  [code](https://github.com/ketatam/SyCo)  
 
 * **Decomposed Direct Preference Optimization for Structure-Based Drug Design** [204]   
 Cheng, Xiwei, Xiangxin Zhou, Yuwei Yang, Yu Bao, and Quanquan Gu.   
