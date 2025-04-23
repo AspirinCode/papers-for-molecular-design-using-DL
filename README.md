@@ -2535,6 +2535,11 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
+
+* **TargetSA: Adaptive Simulated Annealing for Target-Specific Drug Design**  [2025]   
+ Chen, LY., Li, YP.   
+  [Nat Commun 16, 3262 (2025](https://doi.org/10.1093/bioinformatics/btae730) |  [code](https://zenodo.org/records/14729023)  
+
 * **TargetSA: Adaptive Simulated Annealing for Target-Specific Drug Design**  [2024]   
  Zhe Xue, Chenwei Sun, Wenhao Zheng, Jiancheng Lv, Xianggen Liu.   
   [ Bioinformatics (2024)](https://doi.org/10.1093/bioinformatics/btae730) |  [code](https://github.com/XueZhe-Zachary/TargetSA)  
