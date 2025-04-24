@@ -60,7 +60,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [ Prompt-based](#prompt-based)|
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) | [Active Learning DMGs](#active-learning-dmgs) |
 | [RL-based](#rl-based) | [Multi-task DMGs](#multi-task-dmgs) | [Monte Carlo Tree Search](#monte-carlo-tree-search) | [Genetic Algorithm-based](#genetic-algorithm-based) |
-| [Evolutionary Algorithm-based](#evolutionary-algorithm-based) | [Large Language Model-based](#large-language-model-based)  |  |  |
+| [Evolutionary Algorithm-based](#evolutionary-algorithm-based) | [Large Language Model-based](#large-language-model-based)  | [Flow Matching-based](#flow-matching-based) |  |
 
 
 
@@ -1665,6 +1665,21 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 
 
 
+
+### Flow Matching-based
+
+
+* **Multi-domain Distribution Learning for De Novo Drug Design** [2025]  
+Arne Schneuing, Ilia Igashov, Adrian W. Dobbelstein, Thomas Castiglione, Michael M. Bronstein, Bruno Correia.  
+[ICLR (2025)](https://openreview.net/forum?id=g3VCIM94ke) |  [code](https://github.com/LPDI-EPFL/DrugFlow)  
+
+* **FLOWR: Flow Matching for Structure-Aware De Novo, Interaction- and Fragment-Based Ligand Generation** [2025]  
+Julian Cremer, Ross Irwin, Alessandro Tibot, Jon Paul Janet, Simon Olsson, Djork-Arné Clevert.  
+[arXiv:2504.10564 (2025)](https://doi.org/10.48550/arXiv.2504.10564) |  [code](https://github.com/jule-c/flowr)  
+
+* **SemlaFlow -- Efficient 3D Molecular Generation with Latent Attention and Equivariant Flow Matching** [2025]  
+Ross Irwin, Alessandro Tibo, Jon Paul Janet, Simon Olsson.  
+[arXiv:2406.07266 (2025)](https://arxiv.org/abs/2406.07266)  
 
 
 
