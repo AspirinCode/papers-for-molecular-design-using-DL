@@ -2112,7 +2112,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
-
+* **Activity cliff-aware reinforcement learning for de novo drug design** [2025]   
+ Hu, X., Liu, G., Zhao, Y. et al.  
+  [J Cheminform 17, 54 (2025)](https://doi.org/10.1186/s13321-025-01006-3) |  [code](https://github.com/HXYfighter/ACARL)  
 
 * **DrugGen enhances drug discovery with large language models and reinforcement learning** [2025]   
  Sheikholeslami, M., Mazrouei, N., Gheisari, Y. et al.  
