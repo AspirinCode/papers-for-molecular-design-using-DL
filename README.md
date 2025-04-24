@@ -2507,6 +2507,12 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+
+
+* **Procedural Synthesis of Synthesizable Molecules** [2025]   
+Michael Sun, Alston Lo, Minghao Guo, Jie Chen, Connor W. Coley, Wojciech Matusik.  
+[ICLR (2025)](https://openreview.net/forum?id=OGfyzExd69) | [code](https://github.com/shiningsunnyday/SynthesisNet)  
+
 * **Symmetry-Constrained Generation of Diverse Low-Bandgap Molecules with Monte Carlo Tree Search** [2024]   
 Akshay Subramanian, James Damewood, Juno Nam, Kevin P. Greenman, Avni P. Singhal, Rafael Gómez-Bombarelli.  
 [	arXiv:2410.08833 (2024)](https://arxiv.org/abs/2410.08833) | [code](https://github.com/learningmatter-mit/symmetry-mcts)  
@@ -3785,6 +3791,10 @@ Kunyang Sun, Dorian Bagni, Joseph M. Cavanagh, Yingze Wang, Jacob M. Sawyer, And
 * **Expediting hit-to-lead progression in drug discovery through reaction prediction and multi-objective molecular optimization** [2025]   
 Nippa DF, Atz K, Stenzhorn Y, Müller AT, Tosstorff A, Benz J, et al.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-0lxhw-v2) |  [code](https://github.com/ETHmodlab/minisci)  
+
+* **Procedural Synthesis of Synthesizable Molecules** [2025]   
+Michael Sun, Alston Lo, Minghao Guo, Jie Chen, Connor W. Coley, Wojciech Matusik.  
+[ICLR (2025)](https://openreview.net/forum?id=OGfyzExd69) | [code](https://github.com/shiningsunnyday/SynthesisNet)  
 
 * **Integrating Reaction Schemes, Reagent Databases, and Virtual Libraries into Fragment-Based Design by Reinforcement Learning**  [2023]   
  Sauer, Susanne, Hans Matter, Gerhard Hessler, and Christoph Grebner.   
