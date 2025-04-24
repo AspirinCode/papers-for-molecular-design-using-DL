@@ -4105,7 +4105,9 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 ### Large Language Model-based Materials Discovery
 
 
-
+* **Introducing PolySea: An LLM-Based Polymer Smart Evolution Agent**  [2025]   
+  Qiu H, Zhao J, Jing E, Hu W, Lv Y, Li X, et al.   
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-zw65g)  
 
 * **Inverse Materials Design by Large Language Model-Assisted Generative Framework**  [2025]   
  Yun Hao, Che Fan, Beilin Ye, Wenhao Lu, Zhen Lu, Peilin Zhao, Zhifeng Gao, Qingyao Wu, Yanhui Liu, Tongqi Wen.   
