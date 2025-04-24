@@ -1574,9 +1574,16 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
+
+
+
 ### Flow-based
 
 
+
+* **Flow-Based Fragment Identification via Contrastive Learning of Binding Site-Specific Latent Representations** [2025]  
+Rebecca Manuela Neeser, Ilia Igashov, Arne Schneuing, Michael M. Bronstein, Philippe Schwaller, Bruno Correia.  
+[ICLR 2025 Workshop AI4MAT (2025)](https://doi.org/10.48550/arXiv.2504.10564) |  [code](https://openreview.net/forum?id=bZW1HLT1gI)  
 
 * **FLOWR: Flow Matching for Structure-Aware De Novo, Interaction- and Fragment-Based Ligand Generation** [2025]  
 Julian Cremer, Ross Irwin, Alessandro Tibot, Jon Paul Janet, Simon Olsson, Djork-Arné Clevert.  
@@ -3571,6 +3578,15 @@ ZHANG Z, Liu Q.
 
 ### Fragment-based DMGs
 
+
+
+
+
+
+
+* **Flow-Based Fragment Identification via Contrastive Learning of Binding Site-Specific Latent Representations** [2025]  
+Rebecca Manuela Neeser, Ilia Igashov, Arne Schneuing, Michael M. Bronstein, Philippe Schwaller, Bruno Correia.  
+[ICLR 2025 Workshop AI4MAT (2025)](https://doi.org/10.48550/arXiv.2504.10564) |  [code](https://openreview.net/forum?id=bZW1HLT1gI)  
 
 * **FLOWR: Flow Matching for Structure-Aware De Novo, Interaction- and Fragment-Based Ligand Generation** [2025]  
 Julian Cremer, Ross Irwin, Alessandro Tibot, Jon Paul Janet, Simon Olsson, Djork-Arné Clevert.  
