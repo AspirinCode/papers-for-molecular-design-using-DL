@@ -4092,6 +4092,20 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+
+
+### VAE-based Materials Discovery
+
+
+
+
+* **A Deep Generative Model for the Inverse Design of Transition Metal Ligands and Complexes**  [2025]   
+ Magnus Strandgaard, Trond Linjordet, Hannes Kneiding, Arron L. Burnage, Ainara Nova, Jan Halborg Jensen, and David Balcells.   
+  [JACS Au (2025)](https://doi.org/10.1021/jacsau.5c00242) |  [code](https://github.com/uiocompcat/tmcinvdes)  
+
+
+
+
 ### Diffusion-based Materials Discovery
 
 
