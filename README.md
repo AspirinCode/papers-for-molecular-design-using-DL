@@ -391,6 +391,15 @@ https://github.com/AspirinCode/DrugAI_Drug-Likeness
 **Retrosynthetic accessibility score (RAscore) – rapid machine learned synthesizability classification from AI driven retrosynthetic planning**  
 [Chemical Science 12.9 (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc05401a) |  [code](https://github.com/reymond-group/RAscore) 
 
+### SCScore
+**SCScore: Synthetic Complexity Learned from a Reaction Corpus**  
+[J. Chem. Inf. Model. (2018)](https://doi.org/10.1021/acs.jcim.7b00622) |  [code](https://github.com/connorcoley/scscore)  
+
+### SYBA
+**SCScore: Synthetic Complexity Learned from a Reaction Corpus**  
+[ J Cheminform 12, 35 (2020)](https://doi.org/10.1186/s13321-020-00439-2) | [code](https://github.com/lich-uct/syba)  
+
+
 
 
 
