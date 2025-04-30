@@ -878,7 +878,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
-
+* **Graph Generative Pre-trained Transformer** [2025]  
+ Xiaohui Chen, Yinkai Wang, Jiaxing He, Yuanqi Du, Soha Hassoun, Xiaolin Xu, Li-Ping Liu.  
+  [arXiv:2501.01073 (2025)](https://doi.org/10.48550/arXiv.2501.01073)  
 
 * **ScaffoldGPT: A Scaffold-based GPT Model for Drug Optimization** [2025]   
  Xuefeng Liu, Songhao Jiang, Ian Foster, Jinbo Xu, Rick Stevens.  
