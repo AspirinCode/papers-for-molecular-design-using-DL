@@ -1802,6 +1802,13 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+
+* **JTreeformer: Graph-Transformer via Latent-Diffusion Model for Molecular Generation** [2025]  
+ Ji Shi, Chengxun Xie, Zhonghao Li, Xinming Zhang, Miao Zhang.  
+  [arXiv:2504.20770 (2025)](https://arxiv.org/abs/2504.20770) |  [code](https://anonymous.4open.science/r/JTreeformer-C74C/README.md)  
+
 * **D4: Distance Diffusion for a Truly Equivariant Molecular Design** [2025]  
  Samuel Cognolato, Davide Rigoni, Marco Ballarini, Luciano Serafini, Stefano Moro, Alessandro Sperduti.  
   [ESANN (2025)](https://www.esann.org/sites/default/files/proceedings/2025/ES2025-80.pdf) |  [code](https://github.com/MrcBalla/D4-code)  
