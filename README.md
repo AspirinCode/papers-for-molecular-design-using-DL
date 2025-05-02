@@ -877,6 +877,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+* **BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**  [2025]   
+ Zholus, Artem, Maksim Kuznetsov, Roman Schutski, Rim Shayakhmetov, Daniil Polykovskiy, Sarath Chandar, and Alex Zhavoronkov.   
+  [AAAI-25 Technical Tracks (2025)](https://doi.org/10.1609/aaai.v39i24.34804) |  [arXiv:2406.03686 (2024)](https://arxiv.org/abs/2406.03686)  
 
 * **Graph Generative Pre-trained Transformer** [2025]  
  Xiaohui Chen, Yinkai Wang, Jiaxing He, Yuanqi Du, Soha Hassoun, Xiaolin Xu, Li-Ping Liu.  
@@ -953,10 +956,6 @@ Prat A, Abdel Aty H, Pabrinkis A, Bastas O, Paquet T, Kamuntavičius G, et al.
 * **Transformer Graph Variational Autoencoder for Generative Molecular Design** [2024]   
   Nguyen, Trieu, and Aleksandra Karolak.   
   [bioRxiv (2024)](https://doi.org/10.1101/2024.07.22.604603)  
-
-* **BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**  [2024]   
- Zholus, Artem, Maksim Kuznetsov, Roman Schutski, Rim Shayakhmetov, Daniil Polykovskiy, Sarath Chandar, and Alex Zhavoronkov.   
-  [arXiv:2406.03686 (2024)](https://arxiv.org/abs/2406.03686)   
 
 * **Exploring Novel Fentanyl Analogues Using a Graph-Based Transformer Model**  [2024]   
  Zhang, Guangle, Yuan Zhang, Ling Li, Jiaying Zhou, Honglin Chen, Jinwen Ji, Yanru Li, Yue Cao, Zhihui Xu, and Cong Pian.   
@@ -2150,7 +2149,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
-
+* **BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**  [2025]   
+ Zholus, Artem, Maksim Kuznetsov, Roman Schutski, Rim Shayakhmetov, Daniil Polykovskiy, Sarath Chandar, and Alex Zhavoronkov.   
+  [AAAI-25 Technical Tracks (2025)](https://doi.org/10.1609/aaai.v39i24.34804) |  [arXiv:2406.03686 (2024)](https://arxiv.org/abs/2406.03686)  
 
 * **Activity cliff-aware reinforcement learning for de novo drug design** [2025]   
  Hu, X., Liu, G., Zhao, Y. et al.  
@@ -2203,10 +2204,6 @@ Wang, M., Li, S., Wang, J. et al.
 * **Diversity-Aware Reinforcement Learning for de novo Drug Design**  [2024]   
  Hampus Gummesson Svensson, Christian Tyrchan, Ola Engkvist, Morteza Haghir Chehreghani.   
 [	arXiv:2410.10431 (2024)](https://arxiv.org/abs/2410.10431)  
-
-* **BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**  [2024]   
- Zholus, Artem, Maksim Kuznetsov, Roman Schutski, Rim Shayakhmetov, Daniil Polykovskiy, Sarath Chandar, and Alex Zhavoronkov.   
-  [arXiv:2406.03686 (2024)](https://arxiv.org/abs/2406.03686)  
 
 * **De novo drug design as GPT language modeling: large chemistry models with supervised and reinforcement learning**  [2024]   
  Ye, Gavin.   
