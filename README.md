@@ -1591,6 +1591,12 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
+
+
+* **Generative Flows on Synthetic Pathway for Drug Design** [2025]  
+Seonghwan Seo, Minsu Kim, Tony Shen, Martin Ester, Jinkyoo Park, Sungsoo Ahn, Woo Youn Kim.  
+[ICLR2025 (2025)](https://arxiv.org/abs/2410.04542) |  [code](https://github.com/SeonghwanSeo/RxnFlow)  
+
 * **Flow-Based Fragment Identification via Contrastive Learning of Binding Site-Specific Latent Representations** [2025]  
 Rebecca Manuela Neeser, Ilia Igashov, Arne Schneuing, Michael M. Bronstein, Philippe Schwaller, Bruno Correia.  
 [ICLR 2025 Workshop AI4MAT (2025)](https://doi.org/10.48550/arXiv.2504.10564) |  [code](https://openreview.net/forum?id=bZW1HLT1gI)  
@@ -3814,6 +3820,12 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
 ## Chemical Reaction-based deep molecular generative models
 
 
+
+
+
+* **Generative Flows on Synthetic Pathway for Drug Design** [2025]  
+Seonghwan Seo, Minsu Kim, Tony Shen, Martin Ester, Jinkyoo Park, Sungsoo Ahn, Woo Youn Kim.  
+[ICLR2025 (2025)](https://arxiv.org/abs/2410.04542) |  [code](https://github.com/SeonghwanSeo/RxnFlow)  
 
 * **SynLlama: Generating Synthesizable Molecules and Their Analogs with Large Language Models**  [2025]  
 Kunyang Sun, Dorian Bagni, Joseph M. Cavanagh, Yingze Wang, Jacob M. Sawyer, Andrew Gritsevskiy, Teresa Head-Gordon.  
