@@ -4052,6 +4052,11 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 ## Deep Learning-based material design
 
 
+
+* **A modular artificial intelligence framework to facilitate fluorophore design**  [2025]  
+ Zhu, Y., Fang, J., Ahmed, S.A.H. et al.  
+  [Nat Commun 16, 3598 (2025)](https://doi.org/10.1038/s41467-025-58881-5)  
+
 * **Uni-Electrolyte: An Artificial Intelligence Platform for Designing Electrolyte Molecules for Rechargeable Batteries**  [2025]  
  Xiang Chen,  Mingkang Liu,  Shiqiu Yin,  Yu-Chen Gao,  Nan Yao,  Qiang Zhang.  
   [Angew. Chem. Int. Ed. (2025)](https://doi.org/10.1002/anie.202503105)  
