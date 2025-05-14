@@ -60,7 +60,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [ Prompt-based](#prompt-based)|
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) | [Active Learning DMGs](#active-learning-dmgs) |
 | [RL-based](#rl-based) | [Multi-task DMGs](#multi-task-dmgs) | [Monte Carlo Tree Search](#monte-carlo-tree-search) | [Genetic Algorithm-based](#genetic-algorithm-based) |
-| [Evolutionary Algorithm-based](#evolutionary-algorithm-based) | [Large Language Model-based](#large-language-model-based)  | [Flow Matching-based](#flow-matching-based) |  |
+| [Evolutionary Algorithm-based](#evolutionary-algorithm-based) | [Large Language Model-based](#large-language-model-based)  | [-based](#flow-matching-based) |  |
 
 
 
@@ -1601,10 +1601,6 @@ Seonghwan Seo, Minsu Kim, Tony Shen, Martin Ester, Jinkyoo Park, Sungsoo Ahn, Wo
 Rebecca Manuela Neeser, Ilia Igashov, Arne Schneuing, Michael M. Bronstein, Philippe Schwaller, Bruno Correia.  
 [ICLR 2025 Workshop AI4MAT (2025)](https://doi.org/10.48550/arXiv.2504.10564) |  [code](https://openreview.net/forum?id=bZW1HLT1gI)  
 
-* **FLOWR: Flow Matching for Structure-Aware De Novo, Interaction- and Fragment-Based Ligand Generation** [2025]  
-Julian Cremer, Ross Irwin, Alessandro Tibot, Jon Paul Janet, Simon Olsson, Djork-Arné Clevert.  
-[arXiv:2504.10564 (2025)](https://doi.org/10.48550/arXiv.2504.10564) |  [code](https://github.com/jule-c/flowr)  
-
 * **Compositional Flows for 3D Molecule and Synthesis Pathway Co-design** [2025]  
 Tony Shen, Seonghwan Seo, Ross Irwin, Kieran Didi, Simon Olsson, Woo Youn Kim, Martin Ester.  
 [arXiv:2504.08051 (2025)](https://doi.org/10.48550/arXiv.2504.08051) |  [code](https://github.com/tonyshen1997/CGFlow)  
@@ -1617,10 +1613,6 @@ Miruna Cretu, Charles Harris, Ilia Igashov, Arne Schneuing, Marwin Segler, Bruno
 Xiangxin Zhou, Yi Xiao, Haowei Lin, Xinheng He, Jiaqi Guan, Yang Wang, Qiang Liu, Feng Zhou, Liang Wang, Jianzhu Ma.  
 [ICLR (2025)](https://arxiv.org/abs/2503.03989)  
 
-* **SemlaFlow -- Efficient 3D Molecular Generation with Latent Attention and Equivariant Flow Matching** [2025]  
-Ross Irwin, Alessandro Tibo, Jon Paul Janet, Simon Olsson.  
-[arXiv:2406.07266 (2025)](https://arxiv.org/abs/2406.07266)  
-
 * **FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling** [2024]   
 Zaixi Zhang, Mengdi Wang, Qi Liu.  
 [arXiv:2409.19645 (2024)](https://arxiv.org/abs/2409.19645)   
@@ -1629,17 +1621,9 @@ Zaixi Zhang, Mengdi Wang, Qi Liu.
 Lu, Stephen Zhewen, Ziqing Lu, Ehsan Hajiramezanali, Tommaso Biancalani, Yoshua Bengio, Gabriele Scalia, and Michał Koziarski.  
 [ ICML 2024 Workshop on Structured Probabilistic Inference & Generative Modeling (2024)](https://openreview.net/forum?id=KmSlN13Xk3)   
 
-* **Efficient 3D Molecular Generation with Flow Matching and Scale Optimal Transport** [2024]   
-Irwin, Ross, Alessandro Tibo, Jon-Paul Janet, and Simon Olsson.  
-[	arXiv:2406.07266 (2024)](https://arxiv.org/abs/2406.07266)  
-
 * **RGFN: Synthesizable Molecular Generation Using GFlowNets** [2024]   
 Koziarski, Michal, Andrei Rekesh, Dmytro Shevchuk, Almer van der Sloot, Piotr Gai'nski, Yoshua Bengio, Cheng-Hao Liu, Mike Tyers and Robert A. Batey.  
 [	arXiv:2406.08506 (2024)](https://arxiv.org/abs/2406.08506)  
-
-* **Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation** [2024]   
-Dunn, Ian, and David Ryan Koes.  
-[arXiv:2404.19739 (2024)](https://arxiv.org/abs/2404.19739) |  [code](https://github.com/dunni3/FlowMol) 
 
 * **PocketFlow is a data-and-knowledge-driven structure-based molecular generative model** [2024]   
 Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.  
@@ -1692,6 +1676,11 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 ### Flow Matching-based
 
 
+
+* **Efficient Generation of Molecular Clusters with Dual-Scale Equivariant Flow Matching** [2025]  
+Akshay Subramanian, Shuhui Qu, Cheol Woo Park, Sulin Liu, Janghwan Lee, Rafael Gómez-Bombarelli.  
+[arXiv:2410.07539 (2025)](https://arxiv.org/abs/2410.07539)  
+
 * **Multi-domain Distribution Learning for De Novo Drug Design** [2025]  
 Arne Schneuing, Ilia Igashov, Adrian W. Dobbelstein, Thomas Castiglione, Michael M. Bronstein, Bruno Correia.  
 [ICLR (2025)](https://openreview.net/forum?id=g3VCIM94ke) |  [code](https://github.com/LPDI-EPFL/DrugFlow)  
@@ -1703,6 +1692,22 @@ Julian Cremer, Ross Irwin, Alessandro Tibot, Jon Paul Janet, Simon Olsson, Djork
 * **SemlaFlow -- Efficient 3D Molecular Generation with Latent Attention and Equivariant Flow Matching** [2025]  
 Ross Irwin, Alessandro Tibo, Jon Paul Janet, Simon Olsson.  
 [arXiv:2406.07266 (2025)](https://arxiv.org/abs/2406.07266)  
+
+* **FLOWR: Flow Matching for Structure-Aware De Novo, Interaction- and Fragment-Based Ligand Generation** [2025]  
+Julian Cremer, Ross Irwin, Alessandro Tibot, Jon Paul Janet, Simon Olsson, Djork-Arné Clevert.  
+[arXiv:2504.10564 (2025)](https://doi.org/10.48550/arXiv.2504.10564) |  [code](https://github.com/jule-c/flowr)  
+
+* **SemlaFlow -- Efficient 3D Molecular Generation with Latent Attention and Equivariant Flow Matching** [2025]  
+Ross Irwin, Alessandro Tibo, Jon Paul Janet, Simon Olsson.  
+[arXiv:2406.07266 (2025)](https://arxiv.org/abs/2406.07266)  
+
+* **Efficient 3D Molecular Generation with Flow Matching and Scale Optimal Transport** [2024]   
+Irwin, Ross, Alessandro Tibo, Jon-Paul Janet, and Simon Olsson.  
+[	arXiv:2406.07266 (2024)](https://arxiv.org/abs/2406.07266)  
+
+* **Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation** [2024]   
+Dunn, Ian, and David Ryan Koes.  
+[arXiv:2404.19739 (2024)](https://arxiv.org/abs/2404.19739) |  [code](https://github.com/dunni3/FlowMol) 
 
 
 
