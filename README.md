@@ -2702,7 +2702,7 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 * **Token-Mol 1.0: tokenized drug design with large language models**  [2025]   
  Wang, Jike, Rui Qin, Mingyang Wang, Meijing Fang, Yangyang Zhang, Yuchen Zhu, Qun Su et al.   
-   [Nat Commun 16, 4416 (2025)](https://doi.org/10.1038/s41467-025-59628-y) |  [arXiv:2407.07930 (2024)](https://arxiv.org/abs/2407.07930) |  [code](https://arxiv.org/abs/2407.07930) 
+   [Nat Commun 16, 4416 (2025)](https://doi.org/10.1038/s41467-025-59628-y) |  [arXiv:2407.07930 (2024)](https://arxiv.org/abs/2407.07930) |  [code](https://github.com/jkwang93/Token-Mol) 
 
 * **DrugGen enhances drug discovery with large language models and reinforcement learning** [2025]   
  Sheikholeslami, M., Mazrouei, N., Gheisari, Y. et al.  
