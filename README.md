@@ -2700,7 +2700,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
-
+* **Token-Mol 1.0: tokenized drug design with large language models**  [2025]   
+ Wang, Jike, Rui Qin, Mingyang Wang, Meijing Fang, Yangyang Zhang, Yuchen Zhu, Qun Su et al.   
+   [Nat Commun 16, 4416 (2025)](https://doi.org/10.1038/s41467-025-59628-y) |  [arXiv:2407.07930 (2024)](https://arxiv.org/abs/2407.07930) |  [code](https://arxiv.org/abs/2407.07930) 
 
 * **DrugGen enhances drug discovery with large language models and reinforcement learning** [2025]   
  Sheikholeslami, M., Mazrouei, N., Gheisari, Y. et al.  
@@ -2749,10 +2751,6 @@ Zhu, Huaisheng, Teng Xiao, and Vasant G. Honavar.
 * **Conversational Drug Editing Using Retrieval and Domain Feedback**  [2024]   
  Liu, Shengchao, Jiongxiao Wang, Yijin Yang, Chengpeng Wang, Ling Liu, Hongyu Guo, and Chaowei Xiao.   
   [The Twelfth International Conference on Learning Representations (2024)](https://openreview.net/forum?id=yRrPfKyJQ2) |  [code](https://github.com/chao1224/ChatDrug) 
-
-* **Token-Mol 1.0: Tokenized drug design with large language model**  [2024]   
- Wang, Jike, Rui Qin, Mingyang Wang, Meijing Fang, Yangyang Zhang, Yuchen Zhu, Qun Su et al.   
-  [arXiv:2407.07930 (2024)](https://arxiv.org/abs/2407.07930) |  [code](https://arxiv.org/abs/2407.07930) 
 
 * **3D Molecular Pocket-based Generation with Token-only Large Language Model** [204]   
 Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen, C., You, Z. and Wan, X.   
