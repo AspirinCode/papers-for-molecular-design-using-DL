@@ -1808,7 +1808,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Generating 3D small binding molecules using shape-conditioned diffusion models with guidance** [2025]  
+ Chen, Z., Peng, B., Zhai, T. et al.  
+  [Nat Mach Intell (2025)](https://doi.org/10.1038/s42256-025-01030-w) |  [code](https://github.com/ninglab/DiffSMol)  
 
 * **JTreeformer: Graph-Transformer via Latent-Diffusion Model for Molecular Generation** [2025]  
  Ji Shi, Chengxun Xie, Zhonghao Li, Xinming Zhang, Miao Zhang.  
