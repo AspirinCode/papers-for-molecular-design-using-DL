@@ -1807,6 +1807,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+* **UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design** [2025]  
+ Xiangzhe Kong, Zishen Zhang, Ziting Zhang, Rui Jiao, Jianzhu Ma, Wenbing Huang, Kai Liu, Yang Liu.  
+  [ICML 2025 (2025)](https://arxiv.org/abs/2503.19300) |  [code](https://github.com/kxz18/UniMoMo)  
 
 * **Generating 3D small binding molecules using shape-conditioned diffusion models with guidance** [2025]  
  Chen, Z., Peng, B., Zhai, T. et al.  
