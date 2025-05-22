@@ -1813,6 +1813,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+* **MedSAGE: Bridging Generative AI and Medicinal Chemistry for Structure-Based Design of Small Molecule Drugs** [2025]  
+ Alexander S. Powers, Tianyu Lu, Rohan V. Koodli, Minkai Xu, Siyi Gu, Masha Karelina, Ron O. Dror.  
+  [bioRxiv. (2025)](https://doi.org/10.1101/2025.05.10.653107)  
+
 * **UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design** [2025]  
  Xiangzhe Kong, Zishen Zhang, Ziting Zhang, Rui Jiao, Jianzhu Ma, Wenbing Huang, Kai Liu, Yang Liu.  
   [ICML 2025 (2025)](https://arxiv.org/abs/2503.19300) |  [code](https://github.com/kxz18/UniMoMo)  
@@ -3059,6 +3063,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+* **MedSAGE: Bridging Generative AI and Medicinal Chemistry for Structure-Based Design of Small Molecule Drugs** [2025]  
+ Alexander S. Powers, Tianyu Lu, Rohan V. Koodli, Minkai Xu, Siyi Gu, Masha Karelina, Ron O. Dror.  
+  [bioRxiv. (2025)](https://doi.org/10.1101/2025.05.10.653107)  
+
 * **MolSnapper: Conditioning Diffusion for Structure Based Drug Design** [2025]  
  Yael Ziv, Fergus Imrie, Brian Marsden, and Charlotte M. Deane.   
   [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.4c02008)  |  [bioRxiv (2024)](https://doi.org/10.1101/2024.03.28.586278)  |  [code](https://github.com/oxpig/MolSnapper)  
@@ -3617,7 +3625,9 @@ ZHANG Z, Liu Q.
 
 
 
-
+* **MedSAGE: Bridging Generative AI and Medicinal Chemistry for Structure-Based Design of Small Molecule Drugs** [2025]  
+ Alexander S. Powers, Tianyu Lu, Rohan V. Koodli, Minkai Xu, Siyi Gu, Masha Karelina, Ron O. Dror.  
+  [bioRxiv. (2025)](https://doi.org/10.1101/2025.05.10.653107)  
 
 * **Flow-Based Fragment Identification via Contrastive Learning of Binding Site-Specific Latent Representations** [2025]  
 Rebecca Manuela Neeser, Ilia Igashov, Arne Schneuing, Michael M. Bronstein, Philippe Schwaller, Bruno Correia.  
