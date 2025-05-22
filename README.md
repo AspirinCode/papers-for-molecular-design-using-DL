@@ -2165,6 +2165,11 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+
+* **SyntheMol-RL: a flexible reinforcement learning framework for designing novel and synthesizable antibiotics**  [2025]   
+ Kyle Swanson, Gary Liu, Denise B. Catacutan, Stewart McLellan, Autumn Arnold, Megan M. Tu, Eric D. Brown, James Zou, Jonathan M. Stokes.   
+  [bioRxiv. (2025)](https://doi.org/10.1101/2025.05.17.654017) |  [code](https://github.com/swansonk14/SyntheMol)  
+
 * **BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**  [2025]   
  Zholus, Artem, Maksim Kuznetsov, Roman Schutski, Rim Shayakhmetov, Daniil Polykovskiy, Sarath Chandar, and Alex Zhavoronkov.   
   [AAAI-25 Technical Tracks (2025)](https://doi.org/10.1609/aaai.v39i24.34804) |  [arXiv:2406.03686 (2024)](https://arxiv.org/abs/2406.03686)  
