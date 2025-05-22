@@ -642,6 +642,7 @@ Ivanenkov, Yan A., Daniil Polykovskiy, Dmitry Bezrukov, Bogdan Zagribelnyy, Vlad
 ### RNN-based
 
 
+
 * **A data-driven generative strategy to avoid reward hacking in multi-objective molecular design**  [2025]   
 Yoshizawa, T., Ishida, S., Sato, T. et al.  
   [Nat Commun 16, 2409 (2025)](https://doi.org/10.1038/s41467-025-57582-3) |  [code](https://github.com/ycu-iil/DyRAMO)  
