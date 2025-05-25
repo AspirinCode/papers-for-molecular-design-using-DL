@@ -1813,6 +1813,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **PMODiff: Physics-Informed Multi-Objective Optimization Diffusion Model for Protein-Specific 3D Molecule Generation** [2025]  
+ Yaoxiang Zhang, Shuang Wang, Junteng Ma, Ze Zhang, and Tao Song.  
+  [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00591) |  [code](https://github.com/zhangyaoxiang/PMODiff)  
+
 * **MedSAGE: Bridging Generative AI and Medicinal Chemistry for Structure-Based Design of Small Molecule Drugs** [2025]  
  Alexander S. Powers, Tianyu Lu, Rohan V. Koodli, Minkai Xu, Siyi Gu, Masha Karelina, Ron O. Dror.  
   [bioRxiv. (2025)](https://doi.org/10.1101/2025.05.10.653107)  
