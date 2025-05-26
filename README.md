@@ -2175,6 +2175,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+* **Generative Molecular Design with Steerable and Granular Synthesizability Control** [2025]   
+ Jeff Guo, Víctor Sabanza-Gil, Zlatko Jončev, Jeremy S. Luterbacher, Philippe Schwaller.  
+  [arXiv:2505.08774 (2025)](https://doi.org/10.48550/arXiv.2505.08774) |  [code](https://github.com/schwallergroup/saturn)  
 
 * **SyntheMol-RL: a flexible reinforcement learning framework for designing novel and synthesizable antibiotics**  [2025]   
  Kyle Swanson, Gary Liu, Denise B. Catacutan, Stewart McLellan, Autumn Arnold, Megan M. Tu, Eric D. Brown, James Zou, Jonathan M. Stokes.   
@@ -2718,7 +2721,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 ### Large Language Model-based
 
 
-
+* **Generative Molecular Design with Steerable and Granular Synthesizability Control** [2025]   
+ Jeff Guo, Víctor Sabanza-Gil, Zlatko Jončev, Jeremy S. Luterbacher, Philippe Schwaller.  
+  [arXiv:2505.08774 (2025)](https://doi.org/10.48550/arXiv.2505.08774) |  [code](https://github.com/schwallergroup/saturn)  
 
 * **Token-Mol 1.0: tokenized drug design with large language models**  [2025]   
  Wang, Jike, Rui Qin, Mingyang Wang, Meijing Fang, Yangyang Zhang, Yuchen Zhu, Qun Su et al.   
@@ -3850,7 +3855,9 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
 
 
 
-
+* **Generative Molecular Design with Steerable and Granular Synthesizability Control** [2025]   
+ Jeff Guo, Víctor Sabanza-Gil, Zlatko Jončev, Jeremy S. Luterbacher, Philippe Schwaller.  
+  [arXiv:2505.08774 (2025)](https://doi.org/10.48550/arXiv.2505.08774) |  [code](https://github.com/schwallergroup/saturn)  
 
 * **Generative Flows on Synthetic Pathway for Drug Design** [2025]  
 Seonghwan Seo, Minsu Kim, Tony Shen, Martin Ester, Jinkyoo Park, Sungsoo Ahn, Woo Youn Kim.  
