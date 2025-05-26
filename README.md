@@ -1812,7 +1812,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **TarMGDif: Target-specific Molecular Graphs Generation Based on Diffusion Model** [2025]  
+ S. Wang, Y. Zhang, D. Liang, K. Dong and T. Song.  
+  [IEEE Journal of Biomedical and Health Informatics (2025)](https://doi.org/10.1109/JBHI.2025.3569105)  
 
 * **PMODiff: Physics-Informed Multi-Objective Optimization Diffusion Model for Protein-Specific 3D Molecule Generation** [2025]  
  Yaoxiang Zhang, Shuang Wang, Junteng Ma, Ze Zhang, and Tao Song.  
