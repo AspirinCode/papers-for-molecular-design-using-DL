@@ -143,6 +143,10 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 ## Reviews
 
 
+* **A Survey of Large Language Models for Text-Guided Molecular Discovery: from Molecule Generation to Optimization** [2025]  
+Ziqing Wang, Kexin Zhang, Zihan Zhao, Yibo Wen, Abhishek Pandey, Han Liu, Kaize Ding.  
+[arXiv:2505.16094 (2025)](https://doi.org/10.48550/arXiv.2505.16094) | [code](https://github.com/REAL-Lab-NU/Awesome-LLM-Centric-Molecular-Discovery)   
+
 * **Generative deep learning for de novo drug design – a chemical space odyssey** [2025]   
 Özçelik R, Brinkmann H, Criscuolo E, Grisoni F.   
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-1zs8j)  
