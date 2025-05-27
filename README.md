@@ -4233,6 +4233,21 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+### RL-based Materials Discovery
+
+
+
+
+* **Generating High-Temperature Polymer Dielectrics with a Graph Convolution and Reinforcement Learning Framework**  [2025]  
+ Di-Fan Liu, Wen-Zhuo Dong, Xin-Jie Wang, Shao-Long Zhong, and Zhi-Min Dang.  
+  [J. Phys. Chem. C (2025)](https://doi.org/10.1021/acs.jpcc.5c02310)  
+
+
+
+
+
+
+
 ### Large Language Model-based Materials Discovery
 
 
