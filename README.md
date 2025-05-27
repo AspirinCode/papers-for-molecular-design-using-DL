@@ -823,6 +823,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
+
+* **MolMiner: Towards Controllable, 3D-Aware, Fragment-Based Molecular Design** [2025]  
+Raul Ortega-Ochoa, Tejs Vegge, Jes Frellsen.  
+[arXiv:2411.06608 (2025)](https://doi.org/10.48550/arXiv.2411.06608) |  [code](https://github.com/raulorteg/molminer)  
+
 * **Scalable Autoregressive 3D Molecule Generation**  [2025]  
  Austin H. Cheng, Chong Sun, Alán Aspuru-Guzik.  
   [arXiv:2505.13791 (2025)](https://doi.org/10.48550/arXiv.2505.13791)  
@@ -3690,7 +3695,9 @@ ZHANG Z, Liu Q.
 
 
 
-
+* **MolMiner: Towards Controllable, 3D-Aware, Fragment-Based Molecular Design** [2025]  
+Raul Ortega-Ochoa, Tejs Vegge, Jes Frellsen.  
+[arXiv:2411.06608 (2025)](https://doi.org/10.48550/arXiv.2411.06608) |  [code](https://github.com/raulorteg/molminer)  
 
 * **MedSAGE: Bridging Generative AI and Medicinal Chemistry for Structure-Based Design of Small Molecule Drugs** [2025]  
  Alexander S. Powers, Tianyu Lu, Rohan V. Koodli, Minkai Xu, Siyi Gu, Masha Karelina, Ron O. Dror.  
