@@ -1822,7 +1822,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules** [2025]  
+ Manuel Ruiz-Botella, Marta Sales-Pardo, Roger Guimerà.  
+  [arXiv:2505.16365 (2025)](https://doi.org/10.48550/arXiv.2505.16365) |  [web](https://cocograph.seeslab.net/)  
 
 * **Learning Flexible Forward Trajectories for Masked Molecular Diffusion** [2025]  
  Hyunjin Seo, Taewon Kim, Sihyun Yu, SungSoo Ahn.  
