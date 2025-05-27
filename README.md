@@ -1248,6 +1248,12 @@ Li, C., Yamanishi, Y.
 
 
 
+
+
+* **Expanding Molecular Design with Graph Variational Autoencoders: A Comparative Study of Pair-Encoding and Character Tokenization**  [2025]  
+ Nguyen T, Karolak A.  
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-j1p93) |  [code](https://github.com/Molecular-AI-Group/TrieuNguyen)  
+
 * **MolGene-E: Inverse Molecular Design to Modulate Single Cell Transcriptomics**  [2025]  
  Rahul Ohlan, Raswanth Murugan, Li Xie, Mohammedsadeq Mottaqi, Shuo Zhang, Lei Xie.  
   [bioRxiv. (2025)](https://doi.org/10.1101/2025.02.19.638723) |  [code](https://zenodo.org/records/7041849)  
