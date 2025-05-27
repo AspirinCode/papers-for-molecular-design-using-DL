@@ -887,6 +887,14 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 ###  Transformer-based
 
+
+
+
+
+* **Improving Targeted Molecule Generation through Language Model Fine-Tuning Via Reinforcement Learning** [2025]  
+ Salma J. Ahmed, Emad A. Mohammed.  
+  [arXiv:2405.06836 (2025)](https://doi.org/10.48550/arXiv.2405.06836)  
+
 * **BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**  [2025]   
  Zholus, Artem, Maksim Kuznetsov, Roman Schutski, Rim Shayakhmetov, Daniil Polykovskiy, Sarath Chandar, and Alex Zhavoronkov.   
   [AAAI-25 Technical Tracks (2025)](https://doi.org/10.1609/aaai.v39i24.34804) |  [arXiv:2406.03686 (2024)](https://arxiv.org/abs/2406.03686)  
@@ -2207,6 +2215,11 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+* **Improving Targeted Molecule Generation through Language Model Fine-Tuning Via Reinforcement Learning** [2025]  
+ Salma J. Ahmed, Emad A. Mohammed.  
+  [arXiv:2405.06836 (2025)](https://doi.org/10.48550/arXiv.2405.06836)  
+
 * **PURE: Policy-guided Unbiased REpresentations for structure-constrained molecular generation** [2025]   
  Abhor Gupta, Barathi Lenin, Sean Current, Rohit Batra, Balaraman Ravindran, Karthik Raman, Srinivasan Parthasarathy.  
   [bioRxiv. (2025)](https://doi.org/10.1101/2025.05.21.655002) |  [code](https://github.com/MrScabbyCreature/ReactionRL)  
@@ -3109,7 +3122,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **Improving Targeted Molecule Generation through Language Model Fine-Tuning Via Reinforcement Learning** [2025]  
+ Salma J. Ahmed, Emad A. Mohammed.  
+  [arXiv:2405.06836 (2025)](https://doi.org/10.48550/arXiv.2405.06836)  
 
 * **PURE: Policy-guided Unbiased REpresentations for structure-constrained molecular generation** [2025]   
  Abhor Gupta, Barathi Lenin, Sean Current, Rohit Batra, Balaraman Ravindran, Karthik Raman, Srinivasan Parthasarathy.  
