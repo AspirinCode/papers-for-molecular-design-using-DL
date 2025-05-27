@@ -1827,6 +1827,10 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+* **E(3)-equivariant models cannot learn chirality: Field-based molecular generation** [2025]  
+ Dumitrescu, Alexandru, Dani Korpela, Markus Heinonen, Yogesh Verma, Valerii Iakovlev, Vikas Garg, and Harri Lähdesmäki.  
+  [ICLR 2025  (2025)](https://openreview.net/forum?id=mXHTifc1Fn) |  [code](https://github.com/Dumitrescu-Alexandru/FMG)  
+
 * **A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules** [2025]  
  Manuel Ruiz-Botella, Marta Sales-Pardo, Roger Guimerà.  
   [arXiv:2505.16365 (2025)](https://doi.org/10.48550/arXiv.2505.16365) |  [web](https://cocograph.seeslab.net/)  
