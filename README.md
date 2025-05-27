@@ -822,6 +822,11 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
+
+* **Scalable Autoregressive 3D Molecule Generation**  [2025]  
+ Austin H. Cheng, Chong Sun, Alán Aspuru-Guzik.  
+  [arXiv:2505.13791 (2025)](https://doi.org/10.48550/arXiv.2505.13791)  
+
 * **Versatile Molecular Editing via Multimodal and Group-optimized Generative Learning**  [2024]   
  Lin X, Xia Y, Huang Y, Liu S, Zhang J, Gao YQ.  
   [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2023-j2n6l-v2) |  [code](https://github.com/issacAzazel/MolEdit)  
