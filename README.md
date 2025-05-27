@@ -2193,6 +2193,13 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+
+
+
+* **PURE: Policy-guided Unbiased REpresentations for structure-constrained molecular generation** [2025]   
+ Abhor Gupta, Barathi Lenin, Sean Current, Rohit Batra, Balaraman Ravindran, Karthik Raman, Srinivasan Parthasarathy.  
+  [bioRxiv. (2025)](https://doi.org/10.1101/2025.05.21.655002) |  [code](https://github.com/MrScabbyCreature/ReactionRL)  
+
 * **Generative Molecular Design with Steerable and Granular Synthesizability Control** [2025]   
  Jeff Guo, Víctor Sabanza-Gil, Zlatko Jončev, Jeremy S. Luterbacher, Philippe Schwaller.  
   [arXiv:2505.08774 (2025)](https://doi.org/10.48550/arXiv.2505.08774) |  [code](https://github.com/schwallergroup/saturn)  
@@ -3090,6 +3097,12 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+
+
+* **PURE: Policy-guided Unbiased REpresentations for structure-constrained molecular generation** [2025]   
+ Abhor Gupta, Barathi Lenin, Sean Current, Rohit Batra, Balaraman Ravindran, Karthik Raman, Srinivasan Parthasarathy.  
+  [bioRxiv. (2025)](https://doi.org/10.1101/2025.05.21.655002) |  [code](https://github.com/MrScabbyCreature/ReactionRL)  
 
 * **MedSAGE: Bridging Generative AI and Medicinal Chemistry for Structure-Based Design of Small Molecule Drugs** [2025]  
  Alexander S. Powers, Tianyu Lu, Rohan V. Koodli, Minkai Xu, Siyi Gu, Masha Karelina, Ron O. Dror.  
