@@ -1840,6 +1840,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+
+
+* **MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning** [2025]  
+ Yuanxin Zhuang, Dazhong Shen, Ying Sun.  
+  [arXiv:2505.20131 (2025)](https://doi.org/10.48550/arXiv.2505.20131)  
+
 * **E(3)-equivariant models cannot learn chirality: Field-based molecular generation** [2025]  
  Dumitrescu, Alexandru, Dani Korpela, Markus Heinonen, Yogesh Verma, Valerii Iakovlev, Vikas Garg, and Harri Lähdesmäki.  
   [ICLR 2025  (2025)](https://openreview.net/forum?id=mXHTifc1Fn) |  [code](https://github.com/Dumitrescu-Alexandru/FMG)  
