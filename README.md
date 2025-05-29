@@ -2225,7 +2225,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
-
+* **MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning** [2025]  
+ Yuanxin Zhuang, Dazhong Shen, Ying Sun.  
+  [arXiv:2505.20131 (2025)](https://doi.org/10.48550/arXiv.2505.20131)  
 
 * **Improving Targeted Molecule Generation through Language Model Fine-Tuning Via Reinforcement Learning** [2025]  
  Salma J. Ahmed, Emad A. Mohammed.  
