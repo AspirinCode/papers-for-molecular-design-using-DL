@@ -1842,7 +1842,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **Equivariant diffusion for structure-based de novo ligand generation with latent-conditioning** [2025]  
+ Le, T., Cremer, J., Clevert, DA. et al.  
+  [J Cheminform 17, 90 (2025)](https://doi.org/10.1186/s13321-025-01028-x) |  [code](https://github.com/pfizer-opensource/e3moldiffusion/tree/poligenX)  
 
 * **MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning** [2025]  
  Yuanxin Zhuang, Dazhong Shen, Ying Sun.  
