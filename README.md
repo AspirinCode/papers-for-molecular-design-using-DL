@@ -623,7 +623,9 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 ## Deep Learning-based drug design
 
 
-
+* **ADMETrix: ADMET-Driven De Novo Molecular Generation** [2025]   
+  Mourdoukoutas N, Korfiati A, Pitsikalis V.   
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-3x5nq)  
 
 * **Accelerated Discovery of Carbamate Cbl-b Inhibitors Using Generative AI Models and Structure-Based Drug Design** [2024]  
 Quinn, T.R., Giblin, K.A., Thomson, C., Boerth, J.A., Bommakanti, G., Braybrooke, E., Chan, C., Chinn, A.J., Code, E., Cui, C. and Fan, Y.    
@@ -4043,11 +4045,13 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
-
+* **ADMETrix: ADMET-Driven De Novo Molecular Generation** [2025]   
+  Mourdoukoutas N, Korfiati A, Pitsikalis V.   
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-3x5nq)  
 
 * **GENERA: A Combined Genetic/Deep-Learning Algorithm for Multiobjective Target-Oriented De Novo Design** [2023]   
   Lamanna, Giuseppe, Pietro Delre, Gilles Marcou, Michele Saviano, Alexandre Varnek, Dragos Horvath, and Giuseppe Felice Mangiatordi.   
-  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00963) |  [code](https://github.com/GiuseppeLamanna/GENERA) 
+  [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c00963) |  [code](https://github.com/GiuseppeLamanna/GENERA)  
 
 * **Multi-Objective and Many-Objective Optimisation: Present and Future in de novo Drug Design**  [2023]   
  Angelo, Jaqueline S., Isabella Alvim Guedes, Helio JC Barbosa, and Laurent E. Dardenne.   
