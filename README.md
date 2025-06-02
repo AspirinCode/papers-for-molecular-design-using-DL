@@ -3139,6 +3139,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+* **Equivariant diffusion for structure-based de novo ligand generation with latent-conditioning** [2025]  
+ Le, T., Cremer, J., Clevert, DA. et al.  
+  [J Cheminform 17, 90 (2025)](https://doi.org/10.1186/s13321-025-01028-x) |  [code](https://github.com/pfizer-opensource/e3moldiffusion/tree/poligenX)  
+
 * **Improving Targeted Molecule Generation through Language Model Fine-Tuning Via Reinforcement Learning** [2025]  
  Salma J. Ahmed, Emad A. Mohammed.  
   [arXiv:2405.06836 (2025)](https://doi.org/10.48550/arXiv.2405.06836)  
