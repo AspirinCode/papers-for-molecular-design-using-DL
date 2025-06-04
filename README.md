@@ -2277,9 +2277,9 @@ Haddad R, Litsa E, Liu Z, Yu X, Burkhardt D, Reidenbach D, et al.
 Tom G, Yu E, Yoshikawa N, Jorner K, Aspuru-Guzik A.   
 [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2024-tkjr1) |  [code](https://github.com/aspuru-guzik-group/stereogeneration)  
 
-* **DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback** [2024]   
+* **DrugGen enhances drug discovery with large language models and reinforcement learning** [2025]   
 Mahsa Sheikholeslami, Navid Mazrouei, Yousof Gheisari, Afshin Fasihi, Matin Irajpour, Ali Motahharynia.   
-[	arXiv:2411.14157 (2024)](https://arxiv.org/abs/2411.14157) |  [code](https://github.com/mahsasheikh/DrugGen)  
+[	Sci Rep 15, 13445 (2025)](https://doi.org/10.1038/s41598-025-98629-1) |  [code](https://huggingface.co/alimotahharynia/DrugGen)  
 
 * **ClickGen: Directed exploration of synthesizable chemical space via modular reactions and reinforcement learning** [2024]   
 Wang, M., Li, S., Wang, J. et al.   
@@ -2827,9 +2827,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
  Wang, Jike, Hao Luo, Rui Qin, Mingyang Wang, Meijing Fang, Odin Zhang, Qiaolin Gou et al.   
   [Chemical Science (2024)](https://doi.org/10.1039/D4SC06864E) |  [code](https://github.com/ashipiling/GPT_3DSMILES)  
 
-* **DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback** [2024]   
+* **DrugGen enhances drug discovery with large language models and reinforcement learning** [2025]   
 Mahsa Sheikholeslami, Navid Mazrouei, Yousof Gheisari, Afshin Fasihi, Matin Irajpour, Ali Motahharynia.   
-[	arXiv:2411.14157 (2024)](https://arxiv.org/abs/2411.14157) |  [code](https://github.com/mahsasheikh/DrugGen)  
+[	Sci Rep 15, 13445 (2025)](https://doi.org/10.1038/s41598-025-98629-1) |  [code](https://huggingface.co/alimotahharynia/DrugGen)  
 
 * **3M-Diffusion: Latent Multi-Modal Diffusion for Language-Guided Molecular Structure Generation** [204]   
 Zhu, Huaisheng, Teng Xiao, and Vasant G. Honavar.   
