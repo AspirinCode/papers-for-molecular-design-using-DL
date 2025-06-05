@@ -2787,6 +2787,15 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 ### Large Language Model-based
 
 
+
+
+
+
+
+* **Large Language Models for Controllable Multi-property Multi-objective Molecule Optimization** [2025]   
+ Dey, Vishal, Xiao Hu, and Xia Ning.  
+  [arXiv:2505.23987 (2025)](https://arxiv.org/abs/2505.23987) |  [code](https://github.com/ninglab/GeLLMO-C)  
+
 * **Generative Molecular Design with Steerable and Granular Synthesizability Control** [2025]   
  Jeff Guo, Víctor Sabanza-Gil, Zlatko Jončev, Jeremy S. Luterbacher, Philippe Schwaller.  
   [arXiv:2505.08774 (2025)](https://doi.org/10.48550/arXiv.2505.08774) |  [code](https://github.com/schwallergroup/saturn)  
