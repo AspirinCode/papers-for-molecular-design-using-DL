@@ -306,6 +306,10 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 
 
+* **Large Language Models for Controllable Multi-property Multi-objective Molecule Optimization** [2025]   
+ Dey, Vishal, Xiao Hu, and Xia Ning.  
+  [arXiv:2505.23987 (2025)](https://arxiv.org/abs/2505.23987) |  [code](https://github.com/ninglab/GeLLMO-C)  
+
 * **DrugImproverGPT: A Large Language Model for Drug Optimization with Fine-Tuning via Structured Policy Optimization**  [2025]  
 Xuefeng Liu, Songhao Jiang, Siyu Chen, Zhuoran Yang, Yuxin Chen, Ian Foster, Rick Stevens.  
   [arXiv:2502.07237 (2025)](https://arxiv.org/abs/2502.07237) |  [code](https://github.com/xuefeng-cs/DrugImproverGPT)  
