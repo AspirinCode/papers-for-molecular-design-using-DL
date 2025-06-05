@@ -1842,6 +1842,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+
+
+* **A 3D generation framework using diffusion model and reinforcement learning to generate multi-target compounds with desired properties** [2025]  
+ Yuan, Y., Pan, X., Li, X. et al.  
+  [J Cheminform 17, 93 (2025)](https://doi.org/10.1186/s13321-025-01035-y) |  [code](https://github.com/Xinol1024/MDRL)  
+
 * **Equivariant diffusion for structure-based de novo ligand generation with latent-conditioning** [2025]  
  Le, T., Cremer, J., Clevert, DA. et al.  
   [J Cheminform 17, 90 (2025)](https://doi.org/10.1186/s13321-025-01028-x) |  [code](https://github.com/pfizer-opensource/e3moldiffusion/tree/poligenX)  
@@ -2938,6 +2944,10 @@ Yuran Xiang and Haiteng Zhao and Chang Ma and Zhi-Hong Deng.
 
 
 
+* **A 3D generation framework using diffusion model and reinforcement learning to generate multi-target compounds with desired properties** [2025]  
+ Yuan, Y., Pan, X., Li, X. et al.  
+  [J Cheminform 17, 93 (2025)](https://doi.org/10.1186/s13321-025-01035-y) |  [code](https://github.com/Xinol1024/MDRL)  
+
 * **Accelerating discovery of bioactive ligands with pharmacophore-informed generative models** [2025]   
  Li Y, Lin X, Hao Y, Zhang J, Gao YQ.  
   [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-v4758) |  [code](https://github.com/egg5154/MolSculptor)  
@@ -3147,6 +3157,12 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+
+
+* **A 3D generation framework using diffusion model and reinforcement learning to generate multi-target compounds with desired properties** [2025]  
+ Yuan, Y., Pan, X., Li, X. et al.  
+  [J Cheminform 17, 93 (2025)](https://doi.org/10.1186/s13321-025-01035-y) |  [code](https://github.com/Xinol1024/MDRL)  
 
 * **Equivariant diffusion for structure-based de novo ligand generation with latent-conditioning** [2025]  
  Le, T., Cremer, J., Clevert, DA. et al.  
