@@ -2592,6 +2592,9 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+* **Active Learning on Synthons for Molecular Design**  [2025]  
+ Grigg, Tom George, Mason Burlage, Oliver Brook Scott, Adam Taouil, Dominique Sydow, and Liam Wilbraham.  
+  [arXiv:2505.12913 (2025)](https://doi.org/10.48550/arXiv.2505.12913)  
 
 * **Traversing chemical space with active deep learning for low-data drug discovery**  [2024]   
  van Tilborg, D., Grisoni, F.   
