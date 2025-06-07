@@ -1842,7 +1842,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design** [2025]  
+ Alakhdar, Amira, Barnabas Poczos, and Newell Washburn.  
+  [arXiv:2505.10545 (2025)](https://doi.org/10.48550/arXiv.2505.10545)  
 
 * **A 3D generation framework using diffusion model and reinforcement learning to generate multi-target compounds with desired properties** [2025]  
  Yuan, Y., Pan, X., Li, X. et al.  
