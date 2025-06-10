@@ -3761,6 +3761,10 @@ Julian Cremer, Ross Irwin, Alessandro Tibot, Jon Paul Janet, Simon Olsson, Djork
 Descamps C, Bouttier V, Sanz García J, Perron Q, Tajmouati H.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-64bhb)  
 
+* **Improving Fragment-Based Deep Molecular Generative Models** [2024]   
+Taleongpong, Panukorn, and Brooks Paige.   
+[ICML 2024 Workshop ML4LMS (2024)](https://openreview.net/forum?id=y8GIpqoZRj) |  [code](https://github.com/panukorn17/DEFRAGMO)  
+
 * **Drug Discovery with Dynamic Goal-aware Fragments** [2024]   
 Seul Lee, Seanie Lee, Kenji Kawaguchi, Sung Ju Hwang.   
 [ICML 2024 (2024)](https://arxiv.org/abs/2310.00841) |  [code](https://github.com/SeulLee05/GEAM)  
