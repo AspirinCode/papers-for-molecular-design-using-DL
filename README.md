@@ -1954,6 +1954,10 @@ Ketata, Mohamed Amine, Nicholas Gao, Johanna Sommer, Tom Wollschläger, and Step
  Gu, Siyi, Minkai Xu, Alexander S. Powers, Weili Nie, Tomas Geffner, Karsten Kreis, Jure Leskovec, Arash Vahdat, and Stefano Ermon.   
   [NeuIPS 2024. (2024)](https://openreview.net/forum?id=EWcvxXtzNu) |  [code](https://github.com/MinkaiXu/AliDif)  
 
+* **General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design**  [2024]   
+ Jian, Yue, Curtis Wu, Danny Reidenbach, and Aditi S. Krishnapriyan.    
+  [arXiv:2406.16821 (2024)](https://arxiv.org/abs/2406.16821) |  [code](https://github.com/ASK-Berkeley/BADGER-SBDD)  
+
 * **Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation**  [2024]   
  Zhilin Huang, Ling Yang, Xiangxin Zhou, Chujun Qin, Yijie Yu, Xiawu Zheng, Zikun Zhou, Wentao Zhang, Yu Wang, Wenming Yang.    
   [ICML 2024. (2024)](https://openreview.net/forum?id=eejhD9FCP3) |  [code](https://github.com/YangLing0818/IRDiff)  
