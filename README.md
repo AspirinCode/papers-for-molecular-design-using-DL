@@ -163,9 +163,13 @@ Du, Y., Jamasb, A.R., Guo, J. et al.
 Alakhdar, Amira, Barnabas Poczos, and Newell Washburn.   
 [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01107)  
 
+* **Navigating the frontier of drug-like chemical space with cutting-edge generative AI models** [2024]  
+ Zhang, Odin, Haitao Lin, Hui Zhang, Huifeng Zhao, Yufei Huang, Yuansheng Huang, Dejun Jiang, Chang-yu Hsieh, Peichen Pan, and Tingjun Hou.   
+[Drug Discovery Today (2024)](https://doi.org/10.1016/j.drudis.2024.104133)  
+
 * **Deep Lead Optimization: Leveraging Generative AI for Structural Modification** [2024]  
  Zhang, Odin, Haitao Lin, Hui Zhang, Huifeng Zhao, Yufei Huang, Yuansheng Huang, Dejun Jiang, Chang-yu Hsieh, Peichen Pan, and Tingjun Hou.   
-[arXiv:2404.19230 (2024)](https://arxiv.org/abs/2404.19230)  
+[J. Am. Chem. Soc. (2024)](https://doi.org/10.1021/jacs.4c11686) | [arXiv:2404.19230 (2024)](https://arxiv.org/abs/2404.19230)  
 
 * **Unlocking the Potential of Generative Artificial Intelligence in Drug Discovery** [2024]   
  Romanelli, Virgilio, Carmen Cerchia, and Antonio Lavecchia.   
