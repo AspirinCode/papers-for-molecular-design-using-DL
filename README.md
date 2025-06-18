@@ -175,6 +175,10 @@ Alakhdar, Amira, Barnabas Poczos, and Newell Washburn.
  Bai, Qifeng, Jian Ma, and Tingyang Xu.   
   [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c00247)  
 
+* **A comprehensive review of molecular optimization in artificial intelligence‐based drug discovery** [2024]   
+ Xia, Yuhang, Yongkang Wang, Zhiwei Wang, and Wen Zhang.   
+  [Quantitative Biology 12.1 (2024)](https://doi.org/10.1002/qub2.30)  
+
 * **AI Deep Learning Generative Models for Drug Discovery** [2024]   
  Bai, Qifeng, Jian Ma, and Tingyang Xu.   
   [Applications of Generative AI. Cham: Springer International Publishing (2024)](https://link.springer.com/chapter/10.1007/978-3-031-46238-2_23)  
