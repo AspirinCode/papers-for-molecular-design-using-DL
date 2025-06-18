@@ -1316,7 +1316,11 @@ Li, C., Yamanishi, Y.
 
 * **Attention Based Molecule Generation via Hierarchical Variational Autoencoder** [2024]   
   Divahar Sivanesan.   
-  [	arXiv:2402.16854. (2024)](https://arxiv.org/abs/2402.16854) 
+  [arXiv:2402.16854. (2024)](https://arxiv.org/abs/2402.16854) 
+
+* **Multi-objective latent space optimization of generative molecular design models** [2024]  
+  Abeer, A N M Nafiz et al.   
+  [Patterns 5.10 (2024)](https://doi.org/10.1016/j.patter.2024.101042) |  [code](https://github.com/nafizabeer/GMD-MO-LSO)  
 
 * **A novel molecule generative model of VAE combined with Transformer** [2024]   
   Yasuhiro Yoshikai and Tadahaya Mizuno and Shumpei Nemoto and Hiroyuki Kusuhara.   
