@@ -155,6 +155,10 @@ Ziqing Wang, Kexin Zhang, Zihan Zhao, Yibo Wen, Abhishek Pandey, Han Liu, Kaize 
 Liang Wang, Chao Song, Zhiyuan Liu, Yu Rong, Qiang Liu, Shu Wu, Liang Wang.   
 [arXiv:2502.09511 (2025)](https://arxiv.org/abs/2502.09511) | [code](https://github.com/AzureLeon1/awesome-molecular-diffusion-models)   
 
+* **Machine learning-aided generative molecular design** [2024]   
+Du, Y., Jamasb, A.R., Guo, J. et al.    
+[Nat Mach Intell 6, 589–604 (2024)](https://doi.org/10.1038/s42256-024-00843-5)  
+
 * **Diffusion Models in De Novo Drug Design** [2024]   
 Alakhdar, Amira, Barnabas Poczos, and Newell Washburn.   
 [J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c01107)  
