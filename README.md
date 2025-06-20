@@ -2821,7 +2821,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
-
+* **SMI-Editor: Edit-based SMILES Language Model with Fragment-level Supervision** [2025]  
+ Zheng, K., Liang, S., Yang, J., Feng, B., Liu, Z., Ju, W., ... & Zhang, M.  
+  [ICLR 2025 (2025)](https://openreview.net/forum?id=M29nUGozPa) |  [code](https://github.com/zhengkangjie/smi-editor)  
 
 * **Large Language Models for Controllable Multi-property Multi-objective Molecule Optimization** [2025]   
  Dey, Vishal, Xiao Hu, and Xia Ning.  
