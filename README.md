@@ -961,6 +961,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
  Wang, Jike, Hao Luo, Rui Qin, Mingyang Wang, Meijing Fang, Odin Zhang, Qiaolin Gou et al.   
   [Chemical Science (2024)](https://doi.org/10.1039/D4SC06864E) |  [code](https://github.com/ashipiling/GPT_3DSMILES)  
 
+* **GP-MoLFormer: A Foundation Model For Molecular Generation**  [2024]   
+ Ross, Jerret, Brian Belgodere, Samuel C. Hoffman, Vijil Chenthamarakshan, Jiri Navratil, Youssef Mroueh, and Payel Das.   
+  [arXiv:2405.04912 (2024)](https://doi.org/10.48550/arXiv.2405.04912) |  [code](https://github.com/IBM/gp-molformer)  
+
 * **Generative Artificial Intelligence for Navigating Synthesizable Chemical Space**  [2024]   
  Wenhao Gao, Shitong Luo, Connor W. Coley.   
   [arXiv:2410.03494 (2024)](https://arxiv.org/abs/2410.03494) |  [code](https://github.com/wenhao-gao/synformer)  
