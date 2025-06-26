@@ -540,12 +540,23 @@ Kuznetsov, Maksim, Fedor Ryabov, Roman Schutski, Rim Shayakhmetov, Yen-Chu Lin, 
 
 
 
+
+
 * **Energy-inspired molecular conformation optimization** [2022]   
 Guan, Jiaqi, Wesley Wei Qian, Wei-Ying Ma, Jianzhu Ma, and Jian Peng.   
 [International Conference on Learning Representations. (2022)](https://openreview.net/forum?id=7QfLW-XZTl) |  [code](https://github.com/guanjq/confopt_officialf) 
 
 
+
+
+
+
+
 ### Flow Matching-based Molecular Conformation Generation
+
+
+
+
 
 * **Template-Guided 3D Molecular Pose Generation via Flow Matching and Differentiable Optimization** [2025]  
 Bergues, Noémie, Arthur Carré, Paul Join-Lambert, Brice Hoffmann, Arnaud Blondel, and Hamza Tajmouati..  
@@ -553,7 +564,17 @@ Bergues, Noémie, Arthur Carré, Paul Join-Lambert, Brice Hoffmann, Arnaud Blond
 
 
 
+
+
+
 ### Diffusion-based Molecular Conformation Generation
+
+
+
+
+* **Sampling 3D Molecular Conformers with Diffusion Transformers** [2025]   
+Frank, J. T., Ripken, W., Lied, G., MÃžller, K. R., Unke, O. T., & Chmiela, S.   
+[arXiv:2506.15378 (2025)](https://arxiv.org/abs/2506.15378) |  [code](https://github.com/ML4MolSim/dit_mc)  
 
 * **AGDIFF: Attention-Enhanced Diffusion for Molecular Geometry Prediction** [2025]   
 André Brasil Vieira Wyzykowski, Fatemeh Fathi Niazi, and Alex Dickson.   
@@ -563,11 +584,11 @@ André Brasil Vieira Wyzykowski, Fatemeh Fathi Niazi, and Alex Dickson.
 Lucy Vost, Vijil Chenthamarakshan, Payel Das, Charlotte M. Deane.   
 [bioRxiv. (2024)](https://doi.org/10.1101/2024.09.17.613136)  
 
-* **Diffusion-based generative AI for exploring transition states from 2D molecular graphs** [204]   
+* **Diffusion-based generative AI for exploring transition states from 2D molecular graphs** [2024]   
 Kim, S., Woo, J. & Kim, W.Y.   
 [Nat Commun 15, 341 (2024)](https://doi.org/10.1038/s41467-023-44629-6) |  [code](https://github.com/seonghann/tsdiff)  
 
-* **Physics-informed generative model for drug-like molecule conformers** [204]   
+* **Physics-informed generative model for drug-like molecule conformers** [2024]   
 David C. Williams, Neil Imana.   
 [	arXiv:2403.07925. (2024)](https://arxiv.org/abs/2403.07925v1) |  [code](https://github.com/nobiastx/diffusion-conformer)   
 
