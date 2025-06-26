@@ -46,10 +46,11 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | ------ | ------ | 
 | [Benchmark for Molecular Conformer Ensembles](#benchmark-for-molecular-conformer-ensembles) | [Reviews for Molecular Conformation Generation](#reviews-for-molecular-conformation-generation) | 
 | [VAE-based Molecular Conformation Generation](#vae-based-molecular-conformation-generation) | [GAN-based Molecular Conformation Generation](#gan-based-molecular-conformation-generation) | 
-|  [Energy-based Molecular Conformation Generation](#energy-based-molecular-conformation-generation) |   | 
+|  [Energy-based Molecular Conformation Generation](#energy-based-molecular-conformation-generation) |  [Flow Matching-based Molecular Conformation Generation](#flow-matching-based-molecular-conformation-generation) | 
 |  [Diffusion-based Molecular Conformation Generation](#diffusion-based-molecular-conformation-generation) |   | 
 |  [RL-based Molecular Conformation Generation](#rl-based-molecular-conformation-generation) |   | 
 |  [GNN-based Molecular Conformation Generation](#gnn-based-molecular-conformation-generation) |   | 
+
 
 
   - [Deep Learning-based drug design](#deep-learning-based-drug-design)
@@ -544,9 +545,11 @@ Guan, Jiaqi, Wesley Wei Qian, Wei-Ying Ma, Jianzhu Ma, and Jian Peng.
 [International Conference on Learning Representations. (2022)](https://openreview.net/forum?id=7QfLW-XZTl) |  [code](https://github.com/guanjq/confopt_officialf) 
 
 
+### Flow Matching-based Molecular Conformation Generation
 
-
-
+* **Template-Guided 3D Molecular Pose Generation via Flow Matching and Differentiable Optimization** [2025]  
+Bergues, Noémie, Arthur Carré, Paul Join-Lambert, Brice Hoffmann, Arnaud Blondel, and Hamza Tajmouati..  
+[arXiv:2506.06305 (2025)](https://doi.org/10.48550/arXiv.2506.06305) |  [code](https://zenodo.org/records/15395813)  
 
 
 
