@@ -4255,6 +4255,11 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+
+* **Graph-based intermolecular interaction prediction enables rational design of co-crystals**  [2025]  
+ Yang, Xiurong and Wang, Ying and Pan, Linhu and Wang, Ruihui and Wang, Yi and Xia, Honglei and Song, Siwei and Zhang, Qinghua.  
+  [	J. Mater. Chem. A (2025)](https://doi.org/10.1039/D5TA02975A) |  [code](https://github.com/rong-yang-tech/gnn/tree/master)  
+
 * **A modular artificial intelligence framework to facilitate fluorophore design**  [2025]  
  Zhu, Y., Fang, J., Ahmed, S.A.H. et al.  
   [Nat Commun 16, 3598 (2025)](https://doi.org/10.1038/s41467-025-58881-5)  
