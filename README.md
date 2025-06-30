@@ -1886,6 +1886,14 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+
+
+
+
+* **Guided multi-objective generative AI to enhance structure-based drug design** [2025]  
+ Kadan, Amit and Ryczko, Kevin and Lloyd, Erika and Roitberg, Adrian and Yamazaki, Takeshi.  
+  [Chem. Sci. (2025)](https://doi.org/10.1039/D5SC01778E) |  [code](https://github.com/sandbox-quantum/idolpro)  
+
 * **Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design** [2025]  
  Alakhdar, Amira, Barnabas Poczos, and Newell Washburn.  
   [arXiv:2505.10545 (2025)](https://doi.org/10.48550/arXiv.2505.10545)  
