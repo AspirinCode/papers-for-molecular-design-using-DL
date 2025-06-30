@@ -1308,7 +1308,9 @@ Li, C., Yamanishi, Y.
 
 
 
-
+* **Multi-objective drug design with a scaffold-aware variational autoencoder** [2025]   
+  Dong, Tiejun, Linlin You, and Calvin Yu-Chian Chen.   
+  [Chem. Sci. (2025)](https://doi.org/10.1039/D4SC08736D) |  [code](https://github.com/tiejundong/ScafVAE)  
 
 * **Expanding Molecular Design with Graph Variational Autoencoders: A Comparative Study of Pair-Encoding and Character Tokenization**  [2025]  
  Nguyen T, Karolak A.  
@@ -3698,9 +3700,16 @@ Yangyang Chen, Zixu Wang, Lei Wang, Jianmin Wang, Pengyong Li, Dongsheng Cao, Xi
 ### Scaffold-based DMGs
 
 
+
+
+
+* **Multi-objective drug design with a scaffold-aware variational autoencoder** [2025]   
+  Dong, Tiejun, Linlin You, and Calvin Yu-Chian Chen.   
+  [Chem. Sci. (2025)](https://doi.org/10.1039/D4SC08736D) |  [code](https://github.com/tiejundong/ScafVAE)  
+
 * **REINVENT4: Modern AI–Driven Generative Molecule Design** [2023]   
   Loeffler H, He J, Tibo A, Janet JP, Voronov A, Mervin L, et al.   
-  [chemrxiv-2023-xt65x  (2023)](https://doi.org/10.26434/chemrxiv-2023-xt65x) |  [code](https://github.com/MolecularAI/REINVENT4) 
+  [chemrxiv-2023-xt65x  (2023)](https://doi.org/10.26434/chemrxiv-2023-xt65x) |  [code](https://github.com/MolecularAI/REINVENT4)  
 
 * **DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion** [2023]   
  Xie, Junjie, Sheng Chen, Jinping Lei, and Yuedong Yang.    
