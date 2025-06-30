@@ -3223,6 +3223,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+* **Guided multi-objective generative AI to enhance structure-based drug design** [2025]  
+ Kadan, Amit and Ryczko, Kevin and Lloyd, Erika and Roitberg, Adrian and Yamazaki, Takeshi.  
+  [Chem. Sci. (2025)](https://doi.org/10.1039/D5SC01778E) |  [code](https://github.com/sandbox-quantum/idolpro)  
+
 * **A 3D generation framework using diffusion model and reinforcement learning to generate multi-target compounds with desired properties** [2025]  
  Yuan, Y., Pan, X., Li, X. et al.  
   [J Cheminform 17, 93 (2025)](https://doi.org/10.1186/s13321-025-01035-y) |  [code](https://github.com/Xinol1024/MDRL)  
