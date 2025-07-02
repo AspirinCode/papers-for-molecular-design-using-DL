@@ -4357,7 +4357,9 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 ### VAE-based Materials Discovery
 
 
-
+* **Exploring Optimized Organic Fluorophore Search through Experimental Data-Driven Adaptive β-VAE**  [2025]   
+ Yuzhi Xu, Yongrui Luo, Bo Li, Weikang Jiang, Jinyu Zhang, Jiangbo Wei, Hanzhi Bai, Zhiqiang Wang, Jiankai Ge, Ruiming Lin, Zehan Mi, Haozhe Zhang, Yifeng Tang, Michael S. Jones, Xiaotian Li, John Z.H. Zhang, and Cheng-Wei Ju.   
+  [JACS Au (2025)](https://doi.org/10.1021/jacsau.5c00052) |  [code](https://codeocean.com/capsule/7686798/tree/v1)  
 
 * **A Deep Generative Model for the Inverse Design of Transition Metal Ligands and Complexes**  [2025]   
  Magnus Strandgaard, Trond Linjordet, Hannes Kneiding, Arron L. Burnage, Ainara Nova, Jan Halborg Jensen, and David Balcells.   
