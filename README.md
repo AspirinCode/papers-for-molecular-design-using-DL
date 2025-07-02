@@ -2293,7 +2293,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
-
+* **Identification of nanomolar adenosine A2A receptor ligands using reinforcement learning and structure-based drug design** [2025]   
+ Thomas, M., Matricon, P.G., Gillespie, R.J. et al.  
+  [Nat Commun 16, 5485 (2025)](https://doi.org/10.1038/s41467-025-60629-0) |  [code](https://github.com/MorganCThomas/SMILES-RNN)  
 
 * **MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning** [2025]  
  Yuanxin Zhuang, Dazhong Shen, Ying Sun.  
@@ -3223,7 +3225,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **Identification of nanomolar adenosine A2A receptor ligands using reinforcement learning and structure-based drug design** [2025]   
+ Thomas, M., Matricon, P.G., Gillespie, R.J. et al.  
+  [Nat Commun 16, 5485 (2025)](https://doi.org/10.1038/s41467-025-60629-0) |  [code](https://github.com/MorganCThomas/SMILES-RNN)  
 
 * **Guided multi-objective generative AI to enhance structure-based drug design** [2025]  
  Kadan, Amit and Ryczko, Kevin and Lloyd, Erika and Roitberg, Adrian and Yamazaki, Takeshi.  
