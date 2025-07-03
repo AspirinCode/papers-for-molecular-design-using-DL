@@ -1890,7 +1890,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Zero shot molecular generation via similarity kernels** [2025]  
+ Elijošius, R., Zills, F., Batatia, I. et al.  
+  [Nat Commun 16, 5991 (2025)](https://doi.org/10.1038/s41467-025-60963-3) |  [code](https://github.com/RokasEl/simgen)  
 
 * **Guided multi-objective generative AI to enhance structure-based drug design** [2025]  
  Kadan, Amit and Ryczko, Kevin and Lloyd, Erika and Roitberg, Adrian and Yamazaki, Takeshi.  
