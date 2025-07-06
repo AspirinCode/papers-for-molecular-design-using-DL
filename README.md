@@ -2717,7 +2717,9 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
-
+* **Accelerating fragment-based drug discovery using grand canonical nonequilibrium candidate Monte Carlo** [2025]   
+Poole, W.G., Samways, M.L., Branduardi, D. et al.  
+[Nat Commun 16, 6198 (2025)](https://doi.org/10.1038/s41467-025-60561-3) | [code](https://github.com/essex-lab/grand-lig)  
 
 * **Procedural Synthesis of Synthesizable Molecules** [2025]   
 Michael Sun, Alston Lo, Minghao Guo, Jie Chen, Connor W. Coley, Wojciech Matusik.  
@@ -3832,6 +3834,11 @@ ZHANG Z, Liu Q.
 ### Fragment-based DMGs
 
 
+
+
+* **Accelerating fragment-based drug discovery using grand canonical nonequilibrium candidate Monte Carlo** [2025]   
+Poole, W.G., Samways, M.L., Branduardi, D. et al.  
+[Nat Commun 16, 6198 (2025)](https://doi.org/10.1038/s41467-025-60561-3) | [code](https://github.com/essex-lab/grand-lig)  
 
 * **MolMiner: Towards Controllable, 3D-Aware, Fragment-Based Molecular Design** [2025]  
 Raul Ortega-Ochoa, Tejs Vegge, Jes Frellsen.  
