@@ -1888,7 +1888,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **In-silico 3D molecular editing through physics-informed and preference-aligned generative foundation models** [2025]  
+ Lin, X., Xia, Y., Li, Y. et al.  
+  [Nat Commun 16, 6043 (2025)](https://doi.org/10.1038/s41467-025-61323-x) |  [code](https://github.com/issacAzazel/MolEdit)  
 
 * **Zero shot molecular generation via similarity kernels** [2025]  
  Elijošius, R., Zills, F., Batatia, I. et al.  
