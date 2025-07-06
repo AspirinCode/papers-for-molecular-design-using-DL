@@ -4068,6 +4068,12 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
 
 
 
+
+
+* **Synthesizable by Design: A Retrosynthesis-Guided Framework for Molecular Analog Generation** [2025]   
+ Shuan Chen, Gunwook Nam, Yousung Jung.  
+  [arXiv:2507.02752 (2025)](https://doi.org/10.48550/arXiv.2507.02752)  
+
 * **Generative Molecular Design with Steerable and Granular Synthesizability Control** [2025]   
  Jeff Guo, Víctor Sabanza-Gil, Zlatko Jončev, Jeremy S. Luterbacher, Philippe Schwaller.  
   [arXiv:2505.08774 (2025)](https://doi.org/10.48550/arXiv.2505.08774) |  [code](https://github.com/schwallergroup/saturn)  
