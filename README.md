@@ -1308,6 +1308,12 @@ Li, C., Yamanishi, Y.
 
 
 
+
+
+* **A genotype-to-drug diffusion model for generation of tailored anti-cancer small molecules** [2025]   
+  Kim, H., Bae, B., Park, M. et al.   
+  [Nat Commun 16, 5628 (2025)](https://doi.org/10.1038/s41467-025-60763-9) |  [code](https://github.com/GIST-CSBL/G2D-Diff)  
+
 * **Multi-objective drug design with a scaffold-aware variational autoencoder** [2025]   
   Dong, Tiejun, Linlin You, and Calvin Yu-Chian Chen.   
   [Chem. Sci. (2025)](https://doi.org/10.1039/D4SC08736D) |  [code](https://github.com/tiejundong/ScafVAE)  
@@ -1887,6 +1893,13 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 ### Diffusion-based
 
+
+
+
+
+* **A genotype-to-drug diffusion model for generation of tailored anti-cancer small molecules** [2025]   
+  Kim, H., Bae, B., Park, M. et al.   
+  [Nat Commun 16, 5628 (2025)](https://doi.org/10.1038/s41467-025-60763-9) |  [code](https://github.com/GIST-CSBL/G2D-Diff)  
 
 * **In-silico 3D molecular editing through physics-informed and preference-aligned generative foundation models** [2025]  
  Lin, X., Xia, Y., Li, Y. et al.  
