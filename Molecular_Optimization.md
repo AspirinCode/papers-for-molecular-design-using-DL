@@ -74,6 +74,14 @@ https://pubchem.ncbi.nlm.nih.gov/
 
 
 
+
+* **Finding Balance: Multi-Objective Optimization in Molecular Generative Modeling** [2025]  
+  Landolfi L, Catalanotti B, Janet JP.  
+  [ChemRxiv. (2025)](https://doi.org/10.1016/j.eswa.2023.120592)  
+
+
+
+
 ### RNN-based
 
 
