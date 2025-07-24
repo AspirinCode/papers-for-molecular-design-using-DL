@@ -894,7 +894,7 @@ Sattari, Kianoosh, Dawei Li, Bhupalee Kalita, Yunchao Xie, Fatemeh Barmaleki Lig
 Ameya Daigavane and Song Eun Kim and Mario Geiger and Tess Smidt.  
 [ICLR (2024)](https://openreview.net/forum?id=MIEnYtlGyv) |  [code](https://github.com/atomicarchitects/symphony) 
 
-* **Autoregressive fragment-based diffusion for pocket-aware ligand design** [2023]   
+* **Autoregressive fragment-based  for pocket-aware ligand design** [2023]   
  Ghorbani, Mahdi, Leo Gendelev, Paul Beroza, and Michael Keiser.    
   [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop.  (2023)](https://openreview.net/forum?id=E3HN48zjam) |  [code](https://github.com/ghorbanimahdi73/autofragdiff) 
 
@@ -1895,7 +1895,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **ProtoBind-Diff: A Structure-Free Diffusion Language Model for Protein Sequence-Conditioned Ligand Design** [2025]   
+  Lukia Mistryukova, Vladimir Manuilov, Konstantin Avchaciov, Peter O. Fedichev.   
+  [bioRxiv (2025)](https://doi.org/10.1101/2025.06.16.659955) |  [code](https://github.com/gero-science/ProtoBind-Diff)  
 
 * **A genotype-to-drug diffusion model for generation of tailored anti-cancer small molecules** [2025]   
   Kim, H., Bae, B., Park, M. et al.   
@@ -3243,6 +3245,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+
+* **ProtoBind-Diff: A Structure-Free Diffusion Language Model for Protein Sequence-Conditioned Ligand Design** [2025]   
+  Lukia Mistryukova, Vladimir Manuilov, Konstantin Avchaciov, Peter O. Fedichev.   
+  [bioRxiv (2025)](https://doi.org/10.1101/2025.06.16.659955) |  [code](https://github.com/gero-science/ProtoBind-Diff)  
 
 * **Identification of nanomolar adenosine A2A receptor ligands using reinforcement learning and structure-based drug design** [2025]   
  Thomas, M., Matricon, P.G., Gillespie, R.J. et al.  
