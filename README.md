@@ -1308,7 +1308,9 @@ Li, C., Yamanishi, Y.
 
 
 
-
+* **Generative molecule evolution using 3D pharmacophore for efficient Structure-Based Drug Design** [2025]   
+  Yi He, Ailun Wang, Zhi Wang, Yu Liu, Xingyuan Xu, Wen Yan.  
+  [arXiv:2507.20130 (2025)](https://doi.org/10.48550/arXiv.2507.20130)  
 
 * **A genotype-to-drug diffusion model for generation of tailored anti-cancer small molecules** [2025]   
   Kim, H., Bae, B., Park, M. et al.   
@@ -1894,6 +1896,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+
+
+* **Generative molecule evolution using 3D pharmacophore for efficient Structure-Based Drug Design** [2025]   
+  Yi He, Ailun Wang, Zhi Wang, Yu Liu, Xingyuan Xu, Wen Yan.  
+  [arXiv:2507.20130 (2025)](https://doi.org/10.48550/arXiv.2507.20130)  
 
 * **ProtoBind-Diff: A Structure-Free Diffusion Language Model for Protein Sequence-Conditioned Ligand Design** [2025]   
   Lukia Mistryukova, Vladimir Manuilov, Konstantin Avchaciov, Peter O. Fedichev.   
@@ -3250,6 +3257,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+
+* **Generative molecule evolution using 3D pharmacophore for efficient Structure-Based Drug Design** [2025]   
+  Yi He, Ailun Wang, Zhi Wang, Yu Liu, Xingyuan Xu, Wen Yan.  
+  [arXiv:2507.20130 (2025)](https://doi.org/10.48550/arXiv.2507.20130)  
 
 * **RosettaAMRLD: A Reaction-Driven Approach for Structure-Based Drug Design from Combinatorial Libraries with Monte Carlo Metropolis Algorithms** [2025]  
 Yidan Tang, Rocco Moretti, and Jens Meiler.  
