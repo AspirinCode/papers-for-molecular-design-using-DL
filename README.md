@@ -60,7 +60,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | [RNN-based](#rnn-based) | [LSTM-based](#lstm-based) | [Autoregressive-models](#autoregressive-models) | [Transformer-based](#transformer-based) |
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [ Prompt-based](#prompt-based)|
 | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) | [Active Learning DMGs](#active-learning-dmgs) |
-| [RL-based](#rl-based) | [Multi-task DMGs](#multi-task-dmgs) | [Monte Carlo Tree Search](#monte-carlo-tree-search) | [Genetic Algorithm-based](#genetic-algorithm-based) |
+| [RL-based](#rl-based) | [Multi-task DMGs](#multi-task-dmgs) | [ Tree Search](#monte-carlo-tree-search) | [Genetic Algorithm-based](#genetic-algorithm-based) |
 | [Evolutionary Algorithm-based](#evolutionary-algorithm-based) | [Large Language Model-based](#large-language-model-based)  | [Flow matching-based](#flow-matching-based) |  |
 
 
@@ -1462,7 +1462,7 @@ Li, C., Yamanishi, Y.
  Zhung W, Kim H, Kim WY.   
   [chemrxiv-2023-jsjwx](https://doi.org/10.26434/chemrxiv-2023-jsjwx) |  [code](https://github.com/ACE-KAIST/DeepICL) 
 
-* **VGAE-MCTS: a New Molecular Generative Model combining Variational Graph Auto-Encoder and Monte Carlo Tree Search** [2023]  
+* **VGAE-MCTS: a New Molecular Generative Model combining Variational Graph Auto-Encoder and  Tree Search** [2023]  
  Iwata, Hiroaki, Taichi Nakai, Takuto Koyama, Shigeyuki Matsumoto, Ryosuke Kojima, and Yasushi Okuno.   
    [J. Chem. Inf. Model. (2023)](https://doi.org/10.1021/acs.jcim.3c01220) | [chemrxiv-2023-q8419-v2](https://doi.org/10.26434/chemrxiv-2023-q8419-v2)  |  [code](https://github.com/clinfo/VGAE-MCTS) 
 
@@ -2719,6 +2719,11 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+
+* **RosettaAMRLD: A Reaction-Driven Approach for Structure-Based Drug Design from Combinatorial Libraries with Monte Carlo Metropolis Algorithms** [2025]  
+Yidan Tang, Rocco Moretti, and Jens Meiler.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00497) | [code](https://github.com/RosettaCommons/rosetta/tree/main/source/src/protocols/drug_design)  
+
 * **Accelerating fragment-based drug discovery using grand canonical nonequilibrium candidate Monte Carlo** [2025]   
 Poole, W.G., Samways, M.L., Branduardi, D. et al.  
 [Nat Commun 16, 6198 (2025)](https://doi.org/10.1038/s41467-025-60561-3) | [code](https://github.com/essex-lab/grand-lig)  
@@ -3246,6 +3251,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+* **RosettaAMRLD: A Reaction-Driven Approach for Structure-Based Drug Design from Combinatorial Libraries with Monte Carlo Metropolis Algorithms** [2025]  
+Yidan Tang, Rocco Moretti, and Jens Meiler.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00497) | [code](https://github.com/RosettaCommons/rosetta/tree/main/source/src/protocols/drug_design)  
 
 * **ProtoBind-Diff: A Structure-Free Diffusion Language Model for Protein Sequence-Conditioned Ligand Design** [2025]   
   Lukia Mistryukova, Vladimir Manuilov, Konstantin Avchaciov, Peter O. Fedichev.   
