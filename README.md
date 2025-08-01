@@ -2319,6 +2319,12 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+
+
+* **Scaffold Hopping with Generative Reinforcement Learning** [2025]   
+ Luke Rossen, Finton Sirockin, Nadine Schneider, and Francesca Grisoni.  
+  [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00029) |  [code](https://github.com/molML/RUSH)  
+
 * **Identification of nanomolar adenosine A2A receptor ligands using reinforcement learning and structure-based drug design** [2025]   
  Thomas, M., Matricon, P.G., Gillespie, R.J. et al.  
   [Nat Commun 16, 5485 (2025)](https://doi.org/10.1038/s41467-025-60629-0) |  [code](https://github.com/MorganCThomas/SMILES-RNN)  
