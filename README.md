@@ -1898,6 +1898,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **Semantic Substructure Guided Multiple Objective Molecular Generation with Discrete Diffusion Probabilistic Model** [2025]   
+  Chen, Shugao, Bosheng Song, Ruizhe Chen, Lin Liu, Guifei Zhou, and Sisi Yuan.   
+  [Neurocomputing (2025)](https://doi.org/10.1016/j.neucom.2025.131086)  
+
 * **Generative molecule evolution using 3D pharmacophore for efficient Structure-Based Drug Design** [2025]   
   Yi He, Ailun Wang, Zhi Wang, Yu Liu, Xingyuan Xu, Wen Yan.  
   [arXiv:2507.20130 (2025)](https://doi.org/10.48550/arXiv.2507.20130)  
