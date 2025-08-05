@@ -2024,7 +2024,7 @@ Ketata, Mohamed Amine, Nicholas Gao, Johanna Sommer, Tom Wollschläger, and Step
 
 * **GenMol: A Drug Discovery Generalist with Discrete Diffusion**  [2025]  
  Seul Lee, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach, Yuxing Peng, Saee Paliwal, Weili Nie, Arash Vahdat   
-  [arXiv:2501.06158 (2025)](https://arxiv.org/abs/2501.06158)  
+  [arXiv:2501.06158 (2025)](https://arxiv.org/abs/2501.06158) |  [code](https://github.com/NVIDIA-Digital-Bio/genmol)    
 
 * **TAGMol: Target-Aware Gradient-guided Molecule Generation**  [2024]   
  Dorna, V., Subhalingam, D., Kolluru, K., Tuli, S., Singh, M., Singal, S., Krishnan, N.A. and Ranu, S.   
