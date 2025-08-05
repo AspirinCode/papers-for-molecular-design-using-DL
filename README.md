@@ -4349,6 +4349,10 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+* **Atomate2: modular workflows for materials science**  [2025]   
+ Ganose, Alex M., Hrushikesh Sahasrabuddhe, Mark Asta, Kevin Beck, Tathagata Biswas, Alexander Bonkowski, Joana Bustamante et al.   
+  [Digital Discovery (2025)](https://doi.org/10.1039/D5DD00019J) |  [code](https://github.com/materialsproject/atomate2)   
+
 * **Graph-based intermolecular interaction prediction enables rational design of co-crystals**  [2025]  
  Yang, Xiurong and Wang, Ying and Pan, Linhu and Wang, Ruihui and Wang, Yi and Xia, Honglei and Song, Siwei and Zhang, Qinghua.  
   [	J. Mater. Chem. A (2025)](https://doi.org/10.1039/D5TA02975A) |  [code](https://github.com/rong-yang-tech/gnn/tree/master)  
