@@ -4349,6 +4349,13 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+
+
+
+* **Generative AI for design of nanoporous materials: review and future prospects**  [2025]   
+ Xie, Evan, Xijun Wang, Joern Ilja Siepmann, Haoyuan Chen, and Randall Q. Snurr.   
+  [Digital Discovery (2025)](https://doi.org/10.1039/D5DD00221D)   
+
 * **Atomate2: modular workflows for materials science**  [2025]   
  Ganose, Alex M., Hrushikesh Sahasrabuddhe, Mark Asta, Kevin Beck, Tathagata Biswas, Alexander Bonkowski, Joana Bustamante et al.   
   [Digital Discovery (2025)](https://doi.org/10.1039/D5DD00019J) |  [code](https://github.com/materialsproject/atomate2)   
