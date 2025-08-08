@@ -934,6 +934,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+* **Leveraging tree-transformer VAE with fragment tokenization for high-performance large chemical model generation** [2025]   
+ Inukai, T., Yamato, A., Akiyama, M. et al.   
+  [Commun Chem 8, 228 (2025)](https://doi.org/10.1038/s42004-025-01640-w) |  [code](https://github.com/slab-it/FRATTVAE)  
+
 * **Improving Targeted Molecule Generation through Language Model Fine-Tuning Via Reinforcement Learning** [2025]  
  Salma J. Ahmed, Emad A. Mohammed.  
   [arXiv:2405.06836 (2025)](https://doi.org/10.48550/arXiv.2405.06836)  
@@ -1307,6 +1313,13 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
+
+
+
+
+* **Leveraging tree-transformer VAE with fragment tokenization for high-performance large chemical model generation** [2025]   
+ Inukai, T., Yamato, A., Akiyama, M. et al.   
+  [Commun Chem 8, 228 (2025)](https://doi.org/10.1038/s42004-025-01640-w) |  [code](https://github.com/slab-it/FRATTVAE)  
 
 * **Generative molecule evolution using 3D pharmacophore for efficient Structure-Based Drug Design** [2025]   
   Yi He, Ailun Wang, Zhi Wang, Yu Liu, Xingyuan Xu, Wen Yan.  
@@ -3873,6 +3886,11 @@ ZHANG Z, Liu Q.
 
 
 
+
+
+* **Leveraging tree-transformer VAE with fragment tokenization for high-performance large chemical model generation** [2025]   
+ Inukai, T., Yamato, A., Akiyama, M. et al.   
+  [Commun Chem 8, 228 (2025)](https://doi.org/10.1038/s42004-025-01640-w) |  [code](https://github.com/slab-it/FRATTVAE)  
 
 * **Accelerating fragment-based drug discovery using grand canonical nonequilibrium candidate Monte Carlo** [2025]   
 Poole, W.G., Samways, M.L., Branduardi, D. et al.  
