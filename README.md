@@ -1315,7 +1315,9 @@ Li, C., Yamanishi, Y.
 
 
 
-
+* **Optimizing drug design by merging generative AI with a physics-based active learning framework** [2025]   
+ Filella-Merce, I., Molina, A., Díaz, L. et al.  
+  [Commun Chem 8, 238 (2025)](https://doi.org/10.1038/s42004-025-01635-7) |  [code](https://github.com/IFilella/ALGen-1)  
 
 * **Leveraging tree-transformer VAE with fragment tokenization for high-performance large chemical model generation** [2025]   
  Inukai, T., Yamato, A., Akiyama, M. et al.   
@@ -2699,6 +2701,12 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 ### Active Learning DMGs
 
 
+
+
+
+* **Optimizing drug design by merging generative AI with a physics-based active learning framework** [2025]   
+ Filella-Merce, I., Molina, A., Díaz, L. et al.  
+  [Commun Chem 8, 238 (2025)](https://doi.org/10.1038/s42004-025-01635-7) |  [code](https://github.com/IFilella/ALGen-1)  
 
 * **Active Learning on Synthons for Molecular Design**  [2025]  
  Grigg, Tom George, Mason Burlage, Oliver Brook Scott, Adam Taouil, Dominique Sydow, and Liam Wilbraham.  
