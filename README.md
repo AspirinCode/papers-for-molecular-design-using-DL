@@ -1910,7 +1910,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **BInD: Bond and Interaction-generating Diffusion Model for Multi-objective Structure-based Drug Design**  [2025]   
+ Joongwon Lee, Wonho Zhung, Jisu Seo, Woo Youn Kim.   
+  [Advanced Science (2025)](https://doi.org/10.1002/advs.202502702) |  [arXiv:2405.16861 (2024)](https://arxiv.org/abs/2405.16861) |  [code](https://github.com/lee-jwon/BInD)  
 
 * **Semantic Substructure Guided Multiple Objective Molecular Generation with Discrete Diffusion Probabilistic Model** [2025]   
   Chen, Shugao, Bosheng Song, Ruizhe Chen, Lin Liu, Guifei Zhou, and Sisi Yuan.   
@@ -2083,10 +2085,6 @@ Schneuing, A., Harris, C., Du, Y. et al.
 * **DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding**  [2024]   
  Lin, Haitao, Yufei Huang, Meng Liu, Xuan Cindy Li, Shuiwang Ji and Stan Z. Li.   
   [Chemical Science (2024)](https://doi.org/10.1039/D4SC06864E) |  [code](http://www.manimer.com/moleculeformation/index)  
-
-* **BInD: Bond and Interaction-generating Diffusion Model for Multi-objective Structure-based Drug Design**  [2024]   
- Joongwon Lee, Wonho Zhung, Jisu Seo, Woo Youn Kim.   
-  [arXiv:2405.16861 (2024)](https://arxiv.org/abs/2405.16861) |  [code](https://github.com/lee-jwon/BInD)  
 
 * **ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design**  [2024]   
  Keir Adams, Kento Abeywardane, Jenna Fromer, Connor W. Coley.   
@@ -3283,6 +3281,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+* **BInD: Bond and Interaction-generating Diffusion Model for Multi-objective Structure-based Drug Design**  [2025]   
+ Joongwon Lee, Wonho Zhung, Jisu Seo, Woo Youn Kim.   
+  [Advanced Science (2025)](https://doi.org/10.1002/advs.202502702) |  [arXiv:2405.16861 (2024)](https://arxiv.org/abs/2405.16861) |  [code](https://github.com/lee-jwon/BInD)  
+
 * **Generative molecule evolution using 3D pharmacophore for efficient Structure-Based Drug Design** [2025]   
   Yi He, Ailun Wang, Zhi Wang, Yu Liu, Xingyuan Xu, Wen Yan.  
   [arXiv:2507.20130 (2025)](https://doi.org/10.48550/arXiv.2507.20130)  
@@ -3394,10 +3397,6 @@ Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zix
 * **DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding**  [2024]   
  Lin, Haitao, Yufei Huang, Meng Liu, Xuan Cindy Li, Shuiwang Ji and Stan Z. Li.   
   [Chemical Science (2024)](https://doi.org/10.1039/D4SC06864E) |  [code](http://www.manimer.com/moleculeformation/index)  
-
-* **BInD: Bond and Interaction-generating Diffusion Model for Multi-objective Structure-based Drug Design**  [2024]   
- Joongwon Lee, Wonho Zhung, Jisu Seo, Woo Youn Kim.   
-  [arXiv:2405.16861 (2024)](https://arxiv.org/abs/2405.16861) |  [code](https://github.com/lee-jwon/BInD)  
 
 * **Rag2Mol: Structure-based drug design based on Retrieval Augmented Generation**  [2024]   
  Peidong Zhang, Xingang Peng, Rong Han, Ting Chen, Jianzhu Ma.   
