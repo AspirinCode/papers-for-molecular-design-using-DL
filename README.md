@@ -1691,7 +1691,9 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
-
+* **MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow** [2025]  
+Md Atik Ahamed, Qiang Ye, Qiang Cheng.  
+[arXiv:2508.05411 (2025)](https://doi.org/10.48550/arXiv.2508.05411)  
 
 * **Generative Flows on Synthetic Pathway for Drug Design** [2025]  
 Seonghwan Seo, Minsu Kim, Tony Shen, Martin Ester, Jinkyoo Park, Sungsoo Ahn, Woo Youn Kim.  
