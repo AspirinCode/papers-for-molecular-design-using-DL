@@ -1315,6 +1315,10 @@ Li, C., Yamanishi, Y.
 
 
 
+* **A generative deep learning approach to de novoantibiotic design** [2025]  
+ Aarti Krishnan, Melis N. Anahtar, Jacqueline A. Valeri, ..., Connor W. Coley, Felix Wong, James J. Collins.  
+  [Cell (2025)](https://doi.org/10.1016/j.cell.2025.07.033) |  [code](https://github.com/aartikrish/de-novo-antibiotics)  
+
 * **Optimizing drug design by merging generative AI with a physics-based active learning framework** [2025]   
  Filella-Merce, I., Molina, A., Díaz, L. et al.  
   [Commun Chem 8, 238 (2025)](https://doi.org/10.1038/s42004-025-01635-7) |  [code](https://github.com/IFilella/ALGen-1)  
@@ -2885,6 +2889,10 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Evolutionary Algorithm-based
 
 
+* **A generative deep learning approach to de novoantibiotic design** [2025]  
+ Aarti Krishnan, Melis N. Anahtar, Jacqueline A. Valeri, ..., Connor W. Coley, Felix Wong, James J. Collins.  
+  [Cell (2025)](https://doi.org/10.1016/j.cell.2025.07.033) |  [code](https://github.com/aartikrish/de-novo-antibiotics)  
+
 * **A data-driven generative strategy to avoid reward hacking in multi-objective molecular design**  [2025]   
 Yoshizawa, T., Ishida, S., Sato, T. et al.  
   [Nat Commun 16, 2409 (2025)](https://doi.org/10.1038/s41467-025-57582-3) |  [code](https://github.com/ycu-iil/DyRAMO)  
@@ -3896,6 +3904,10 @@ ZHANG Z, Liu Q.
 
 
 
+
+* **A generative deep learning approach to de novoantibiotic design** [2025]  
+ Aarti Krishnan, Melis N. Anahtar, Jacqueline A. Valeri, ..., Connor W. Coley, Felix Wong, James J. Collins.  
+  [Cell (2025)](https://doi.org/10.1016/j.cell.2025.07.033) |  [code](https://github.com/aartikrish/de-novo-antibiotics)  
 
 * **Leveraging tree-transformer VAE with fragment tokenization for high-performance large chemical model generation** [2025]   
  Inukai, T., Yamato, A., Akiyama, M. et al.   
