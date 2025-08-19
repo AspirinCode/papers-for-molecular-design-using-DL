@@ -1918,6 +1918,17 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+
+
+
+
+
+* **One Small Step with Fingerprints, One Giant Leap for De Novo Molecule Generation from Mass Spectra** [2025]  
+ Neng Kai Nigel Neo, Lim Jing, Ngoui Yong Zhau Preston, Koh Xue Ting Serene, Bingquan Shen.   
+  [arXiv:2508.04180 (2025)](https://doi.org/10.48550/arXiv.2508.04180) |  [code](https://github.com/coleygroup/DiffMS)  
+
 * **BInD: Bond and Interaction-generating Diffusion Model for Multi-objective Structure-based Drug Design**  [2025]   
  Joongwon Lee, Wonho Zhung, Jisu Seo, Woo Youn Kim.   
   [Advanced Science (2025)](https://doi.org/10.1002/advs.202502702) |  [arXiv:2405.16861 (2024)](https://arxiv.org/abs/2405.16861) |  [code](https://github.com/lee-jwon/BInD)  
@@ -4335,6 +4346,13 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 ### Mass Spectra-based
 
 
+
+
+
+
+* **One Small Step with Fingerprints, One Giant Leap for De Novo Molecule Generation from Mass Spectra** [2025]  
+ Neng Kai Nigel Neo, Lim Jing, Ngoui Yong Zhau Preston, Koh Xue Ting Serene, Bingquan Shen.   
+  [arXiv:2508.04180 (2025)](https://doi.org/10.48550/arXiv.2508.04180) |  [code](https://github.com/coleygroup/DiffMS)  
 
 * **DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra** [2025]  
  Montgomery Bohde, Mrunali Manjrekar, Runzhong Wang, Shuiwang Ji, Connor W. Coley.   
