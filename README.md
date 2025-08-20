@@ -4407,7 +4407,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
-
+* **The Rise of Generative AI for Metal-Organic Framework Design and Synthesis**  [2025]   
+ Chenru Duan, Aditya Nandy, Shyam Chand Pal, Xin Yang, Wenhao Gao, Yuanqi Du, Hendrik Kraß, Yeonghun Kang, Varinia Bernales, Zuyang Ye, Tristan Pyle, Ray Yang, Zeqi Gu, Philippe Schwaller, Shengqian Ma, Shijing Sun, Alán Aspuru-Guzik, Seyed Mohamad Moosavi, Robert Wexler, Zhiling Zheng.   
+  [arXiv:2508.13197 (2025)](https://doi.org/10.48550/arXiv.2508.13197)   
 
 * **Generative AI for design of nanoporous materials: review and future prospects**  [2025]   
  Xie, Evan, Xijun Wang, Joern Ilja Siepmann, Haoyuan Chen, and Randall Q. Snurr.   
