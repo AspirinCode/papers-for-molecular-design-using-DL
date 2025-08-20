@@ -1790,7 +1790,7 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 
 * **FlowMol3: Flow Matching for 3D De Novo Small-Molecule Generation** [2025]  
 Ian Dunn, David R. Koes.  
-[arXiv:2508.12629 (2025)](https://doi.org/10.48550/arXiv.2508.12629)  
+[arXiv:2508.12629 (2025)](https://doi.org/10.48550/arXiv.2508.12629) |  [code](https://github.com/dunni3/FlowMol)  
 
 * **Efficient Generation of Molecular Clusters with Dual-Scale Equivariant Flow Matching** [2025]  
 Akshay Subramanian, Shuhui Qu, Cheol Woo Park, Sulin Liu, Janghwan Lee, Rafael Gómez-Bombarelli.  
