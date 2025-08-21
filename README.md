@@ -1313,7 +1313,9 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
-
+* **Electron-density-informed effective and reliable de novo molecular design and optimization with ED2Mol** [2025]  
+ Li, M., Song, K., He, J. et al.  
+  [Nat Mach Intell 7, 1355–1368 (2025)](https://doi.org/10.1038/s42256-025-01095-7) |  [code](https://github.com/pineappleK/ED2Mol)  
 
 * **A generative deep learning approach to de novoantibiotic design** [2025]  
  Aarti Krishnan, Melis N. Anahtar, Jacqueline A. Valeri, ..., Connor W. Coley, Felix Wong, James J. Collins.  
@@ -3319,6 +3321,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+* **Electron-density-informed effective and reliable de novo molecular design and optimization with ED2Mol** [2025]  
+ Li, M., Song, K., He, J. et al.  
+  [Nat Mach Intell 7, 1355–1368 (2025)](https://doi.org/10.1038/s42256-025-01095-7) |  [code](https://github.com/pineappleK/ED2Mol)  
 
 * **BInD: Bond and Interaction-generating Diffusion Model for Multi-objective Structure-based Drug Design**  [2025]   
  Joongwon Lee, Wonho Zhung, Jisu Seo, Woo Youn Kim.   
