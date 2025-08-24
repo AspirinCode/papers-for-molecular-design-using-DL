@@ -1934,7 +1934,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **NExT-Mol: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation** [2025]  
+ Zhiyuan Liu, Yanchen Luo, Han Huang, Enzhi Zhang, Sihang Li, Junfeng Fang, Yaorui Shi, Xiang Wang, Kenji Kawaguchi, Tat-Seng Chua.  
+  [ICLR 2025 (2025)](https://doi.org/10.48550/arXiv.2502.12638) |  [code](https://github.com/acharkq/NExT-Mol)  
 
 * **One Small Step with Fingerprints, One Giant Leap for De Novo Molecule Generation from Mass Spectra** [2025]  
  Neng Kai Nigel Neo, Lim Jing, Ngoui Yong Zhau Preston, Koh Xue Ting Serene, Bingquan Shen.   
