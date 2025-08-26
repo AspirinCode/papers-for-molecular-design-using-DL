@@ -1932,7 +1932,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Target-aware 3D molecular generation based on guided equivariant diffusion** [2025]  
+ Hu, Q., Sun, C., He, H. et al.  
+  [Nat Commun 16, 7928 (2025)](https://doi.org/10.1038/s41467-025-63245-0) |  [code](https://github.com/QiaoyuHu89/DiffGui)  
 
 * **NExT-Mol: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation** [2025]  
  Zhiyuan Liu, Yanchen Luo, Han Huang, Enzhi Zhang, Sihang Li, Junfeng Fang, Yaorui Shi, Xiang Wang, Kenji Kawaguchi, Tat-Seng Chua.  
@@ -3323,6 +3325,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+* **Target-aware 3D molecular generation based on guided equivariant diffusion** [2025]  
+ Hu, Q., Sun, C., He, H. et al.  
+  [Nat Commun 16, 7928 (2025)](https://doi.org/10.1038/s41467-025-63245-0) |  [code](https://github.com/QiaoyuHu89/DiffGui)  
 
 * **Electron-density-informed effective and reliable de novo molecular design and optimization with ED2Mol** [2025]  
  Li, M., Song, K., He, J. et al.  
