@@ -1930,7 +1930,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Pharmacophore-oriented 3D molecular generation toward efficient feature-customized drug discovery** [2025]  
+ Peng, J., Yu, JL., Yang, ZB. et al.  
+  [Nat Comput Sci (2025)](https://doi.org/10.1038/s43588-025-00850-5) |  [code](https://github.com/ppjian19/PhoreGen)  
 
 * **Target-aware 3D molecular generation based on guided equivariant diffusion** [2025]  
  Hu, Q., Sun, C., He, H. et al.  
