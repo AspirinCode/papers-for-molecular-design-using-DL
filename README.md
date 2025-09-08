@@ -144,6 +144,13 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 ## Reviews
 
 
+
+
+
+* **In Search of Beautiful Molecules: A Perspective on Generative Modeling for Drug Design** [2025]   
+Remco L. van den Broek, Shivam Patel, Gerard J. P. van Westen, Willem Jespers, and Woody Sherman.   
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01203)  
+
 * **A Survey of Large Language Models for Text-Guided Molecular Discovery: from Molecule Generation to Optimization** [2025]  
 Ziqing Wang, Kexin Zhang, Zihan Zhao, Yibo Wen, Abhishek Pandey, Han Liu, Kaize Ding.  
 [arXiv:2505.16094 (2025)](https://doi.org/10.48550/arXiv.2505.16094) | [code](https://github.com/REAL-Lab-NU/Awesome-LLM-Centric-Molecular-Discovery)   
