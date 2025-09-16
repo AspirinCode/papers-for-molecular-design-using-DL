@@ -941,7 +941,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **Target-specific de novo design of drug candidate molecules with graph-transformer-based generative adversarial networks** [2025]   
+ Ünlü, A., Çevrim, E., Yiğit, M.G. et al.   
+  [Nat Mach Intell (2025)](https://doi.org/10.1038/s42256-025-01082-y) |  [code](https://github.com/HUBioDataLab/DrugGEN)  
 
 * **Leveraging tree-transformer VAE with fragment tokenization for high-performance large chemical model generation** [2025]   
  Inukai, T., Yamato, A., Akiyama, M. et al.   
@@ -1607,6 +1609,11 @@ Li, C., Yamanishi, Y.
 ### GAN-based
 
 
+
+
+* **Target-specific de novo design of drug candidate molecules with graph-transformer-based generative adversarial networks** [2025]   
+ Ünlü, A., Çevrim, E., Yiğit, M.G. et al.   
+  [Nat Mach Intell (2025)](https://doi.org/10.1038/s42256-025-01082-y) |  [code](https://github.com/HUBioDataLab/DrugGEN)  
 
 * **Interface-aware molecular generative framework for protein-protein interaction modulators** [2024]   
 Jianmin Wang, Jiashun Mao, Chunyan Li, Hongxin Xiang, Xun Wang, Shuang Wang, Zixu Wang, Yangyang Chen, Yuquan Li, Heqi Sun, Kyoung Tai No, Tao Song, Xiangxiang Zeng    
