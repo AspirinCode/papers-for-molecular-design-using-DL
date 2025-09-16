@@ -4550,6 +4550,17 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+### Flow-based Materials Discovery
+
+
+* **Efficient Symmetry-Aware Materials Generation via Hierarchical Generative Flow Networks**  [2024]   
+ Tri Minh Nguyen, Sherif Abdulkader Tawfik, Truyen Tran, Sunil Gupta, Santu Rana, Svetha Venkatesh.   
+  [arXiv:2411.04323 (2024)](https://doi.org/10.48550/arXiv.2507.09466)  
+
+
+
+
+
 ### Diffusion-based Materials Discovery
 
 
