@@ -939,7 +939,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **FragmentGPT: A Unified GPT Model for Fragment Growing, Linking, and Merging in Molecular Design** [2025]  
+ Xuefeng Liu, Songhao Jiang, Qinan Huang, Tinson Xu, Ian Foster, Mengdi Wang, Hening Lin, Jinbo Xu, Rick Stevens.  
+  [arXiv:2509.11044 (2025)](https://doi.org/10.48550/arXiv.2509.11044)  
 
 * **Target-specific de novo design of drug candidate molecules with graph-transformer-based generative adversarial networks** [2025]   
  Ünlü, A., Çevrim, E., Yiğit, M.G. et al.   
