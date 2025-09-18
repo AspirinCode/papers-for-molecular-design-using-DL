@@ -1946,6 +1946,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **Composable Score-based Graph Diffusion Model for Multi-Conditional Molecular Generation** [2025]  
+ Anjie Qiao, Zhen Wang, Chuan Chen, DeFu Lian, Enhong Chen.  
+  [arXiv:2509.09451 (2025)](https://doi.org/10.48550/arXiv.2509.09451)  
+
 * **Pharmacophore-oriented 3D molecular generation toward efficient feature-customized drug discovery** [2025]  
  Peng, J., Yu, JL., Yang, ZB. et al.  
   [Nat Comput Sci (2025)](https://doi.org/10.1038/s43588-025-00850-5) |  [code](https://github.com/ppjian19/PhoreGen)  
