@@ -145,7 +145,9 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
-
+* **Improving the Reliability of Molecular String Representations for Generative Chemistry** [2025]  
+Etienne Reboul, Zoe Wefers, Harish Prabakaran, Jérôme Waldispühl, and Antoine Taly.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.4c02261) | [code](https://github.com/EtienneReboul/ClearSMILES)   
 
 * **In Search of Beautiful Molecules: A Perspective on Generative Modeling for Drug Design** [2025]   
 Remco L. van den Broek, Shivam Patel, Gerard J. P. van Westen, Willem Jespers, and Woody Sherman.   
