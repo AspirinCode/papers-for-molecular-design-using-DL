@@ -1947,7 +1947,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **MSIDiff: Multi-Stage Interaction-Aware Diffusion Model for Protein-Specific 3D Molecule Generation** [2025]  
+ Zhang, Y., Ma, J., Zhang, Z., Dong, Z., & Wang, S.  
+  [Expert Systems with Applications (2025)](https://doi.org/10.1016/j.eswa.2025.129820) |  [code](https://github.com/zhangyaoxiang/MSIDiff)  
 
 * **Composable Score-based Graph Diffusion Model for Multi-Conditional Molecular Generation** [2025]  
  Anjie Qiao, Zhen Wang, Chuan Chen, DeFu Lian, Enhong Chen.  
@@ -4571,7 +4573,9 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 ### Diffusion-based Materials Discovery
 
 
-
+* **Structural constraint integration in a generative model for the discovery of quantum materials**  [2025]   
+ Okabe, R., Cheng, M., Chotrattanapituk, A. et al.   
+  [Nat. Mater. (2025)](https://doi.org/10.1038/s41563-025-02355-y) |  [code](https://github.com/RyotaroOKabe/SCIGEN)   
 
 * **Mining Chemical Space with Generative Models for Battery Materials**  [2025]   
  Parida C, Roy D, Garcia Lastra JM, Bhowmik A.   
