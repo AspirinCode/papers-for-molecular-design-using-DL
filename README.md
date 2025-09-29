@@ -941,6 +941,11 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+* **TABASCO: A Fast, Simplified Model for Molecular Generation with Improved Physical Quality** [2025]   
+ Carlos Vonessen and Charles Harris and Miruna Cretu and Pietro Liò.   
+  [arXiv:2507.00899 (2025)](https://arxiv.org/abs/2507.00899) |  [code](https://github.com/carlosinator/tabasco)  
+
 * **FragmentGPT: A Unified GPT Model for Fragment Growing, Linking, and Merging in Molecular Design** [2025]  
  Xuefeng Liu, Songhao Jiang, Qinan Huang, Tinson Xu, Ian Foster, Mengdi Wang, Hening Lin, Jinbo Xu, Rick Stevens.  
   [arXiv:2509.11044 (2025)](https://doi.org/10.48550/arXiv.2509.11044)  
