@@ -2398,6 +2398,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+* **A deep reinforcement learning platform for antibiotic discovery** [2025]   
+ Hanqun Cao, Marcelo D. T. Torres, Jingjie Zhang, Zijun Gao, Fang Wu, Chunbin Gu, Jure Leskovec, Yejin Choi, Cesar de la Fuente-Nunez, Guangyong Chen, Pheng-Ann Heng.  
+  [bioRxiv (2025)](https://doi.org/10.1101/2025.09.23.678086) |  [code](https://gitlab.com/chq1155/AMPGen_Product.git)  
+
 * **Scaffold Hopping with Generative Reinforcement Learning** [2025]   
  Luke Rossen, Finton Sirockin, Nadine Schneider, and Francesca Grisoni.  
   [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00029) |  [code](https://github.com/molML/RUSH)  
