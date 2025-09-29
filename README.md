@@ -1743,13 +1743,17 @@ Xiangxin Zhou, Yi Xiao, Haowei Lin, Xinheng He, Jiaqi Guan, Yang Wang, Qiang Liu
 Zaixi Zhang, Mengdi Wang, Qi Liu.  
 [arXiv:2409.19645 (2024)](https://arxiv.org/abs/2409.19645)   
 
+* **TacoGFN: Target Conditioned GFlowNet for Structure-based Drug Design** [2024]   
+Shen, Tony, Seonghwan Seo, Grayson Lee, Mohit Pandey, Jason R. Smith, Artem Cherkasov, Woo Youn Kim, and Martin Ester.  
+[TMLR2024 (2024)](https://openreview.net/forum?id=N8cPv95zOU) |  [code](https://github.com/tsa87/tacogfn)   
+
 * **Cell Morphology-Guided Small Molecule Generation with GFlowNets** [2024]   
 Lu, Stephen Zhewen, Ziqing Lu, Ehsan Hajiramezanali, Tommaso Biancalani, Yoshua Bengio, Gabriele Scalia, and Michał Koziarski.  
-[ ICML 2024 Workshop on Structured Probabilistic Inference & Generative Modeling (2024)](https://openreview.net/forum?id=KmSlN13Xk3)   
+[ICML 2024 Workshop on Structured Probabilistic Inference & Generative Modeling (2024)](https://openreview.net/forum?id=KmSlN13Xk3)   
 
 * **RGFN: Synthesizable Molecular Generation Using GFlowNets** [2024]   
 Koziarski, Michal, Andrei Rekesh, Dmytro Shevchuk, Almer van der Sloot, Piotr Gai'nski, Yoshua Bengio, Cheng-Hao Liu, Mike Tyers and Robert A. Batey.  
-[	arXiv:2406.08506 (2024)](https://arxiv.org/abs/2406.08506)  
+[arXiv:2406.08506 (2024)](https://arxiv.org/abs/2406.08506)  
 
 * **PocketFlow is a data-and-knowledge-driven structure-based molecular generative model** [2024]   
 Shengyong Yang, Yuanyuan Jiang, Guo Zhang et al.  
@@ -3451,6 +3455,10 @@ Bowen Gao, Yanwen Huang, Yiqiao Liu, Wenxuan Xie, Wei-Ying Ma, Ya-Qin Zhang, Yan
 * **FragGen: towards 3D geometry reliable fragment-based molecular generation** [2024]   
 Zhang, Odin, Yufei Huang, Shichen Cheng, Mengyao Yu, Xujun Zhang, Haitao Lin, Yundian Zeng et al.   
 [Chemical science (2024)](https://doi.org/10.1039/D4SC04620J) |  [code](https://github.com/HaotianZhangAI4Science/FragGen)  
+
+* **TacoGFN: Target Conditioned GFlowNet for Structure-based Drug Design** [2024]   
+Shen, Tony, Seonghwan Seo, Grayson Lee, Mohit Pandey, Jason R. Smith, Artem Cherkasov, Woo Youn Kim, and Martin Ester.  
+[TMLR2024 (2024)](https://openreview.net/forum?id=N8cPv95zOU) |  [code](https://github.com/tsa87/tacogfn)   
 
 * **Durian: A Comprehensive Benchmark for Structure-Based 3D Molecular Generation** [2024]  
 Dou Nie, Huifeng Zhao, Odin Zhang, Gaoqi Weng, Hui Zhang, Jieyu Jin, Haitao Lin, Yufei Huang, Liwei Liu, Dan Li, Tingjun Hou, and Yu Kang.   
