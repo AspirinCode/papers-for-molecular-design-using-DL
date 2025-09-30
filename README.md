@@ -942,6 +942,11 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+* **CNSGT: Generative Transformer for De Novo Drug Design Targeting the Central Nervous System** [2025]   
+ Yingjun Chen, Ding Luo, Shengneng Chen, Tingting Hou, Chao Huang, and Weiwei Xue.   
+  [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01541) |  [code](https://github.com/xueww/CNSGT)  
+
 * **TABASCO: A Fast, Simplified Model for Molecular Generation with Improved Physical Quality** [2025]   
  Carlos Vonessen and Charles Harris and Miruna Cretu and Pietro Liò.   
   [arXiv:2507.00899 (2025)](https://arxiv.org/abs/2507.00899) |  [code](https://github.com/carlosinator/tabasco)  
@@ -1330,6 +1335,12 @@ Li, C., Yamanishi, Y.
 
 ### VAE-based
 
+
+
+
+* **CNSGT: Generative Transformer for De Novo Drug Design Targeting the Central Nervous System** [2025]   
+ Yingjun Chen, Ding Luo, Shengneng Chen, Tingting Hou, Chao Huang, and Weiwei Xue.   
+  [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01541) |  [code](https://github.com/xueww/CNSGT)  
 
 * **Electron-density-informed effective and reliable de novo molecular design and optimization with ED2Mol** [2025]  
  Li, M., Song, K., He, J. et al.  
