@@ -941,7 +941,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **Generative AI for navigating synthesizable chemical space** [2025]   
+ W. Gao,S. Luo, & C.W. Coley.   
+  [Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2415665122) |  [code](https://github.com/wenhao-gao/synformer)  
 
 * **CNSGT: Generative Transformer for De Novo Drug Design Targeting the Central Nervous System** [2025]   
  Yingjun Chen, Ding Luo, Shengneng Chen, Tingting Hou, Chao Huang, and Weiwei Xue.   
@@ -4233,7 +4235,9 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
 
 
 
-
+* **Generative AI for navigating synthesizable chemical space** [2025]   
+ W. Gao,S. Luo, & C.W. Coley.   
+  [Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2415665122) |  [code](https://github.com/wenhao-gao/synformer)  
 
 * **Synthesizable by Design: A Retrosynthesis-Guided Framework for Molecular Analog Generation** [2025]   
  Shuan Chen, Gunwook Nam, Yousung Jung.  
