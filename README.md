@@ -941,6 +941,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+* **Exploring the macrocyclic chemical space for heuristic drug design with deep learning models** [2025]   
+Hu, F., Jia, X., Liao, W. et al.  
+  [Commun Chem 8, 299 (2025)](https://doi.org/10.1038/s42004-025-01686-w) |  [code](https://github.com/fengalbert/CycleGPT)  
+
 * **Generative AI for navigating synthesizable chemical space** [2025]   
  W. Gao,S. Luo, & C.W. Coley.   
   [Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2415665122) |  [code](https://github.com/wenhao-gao/synformer)  
