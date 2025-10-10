@@ -941,6 +941,11 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+* **MolOrgGPT: De novo Generation via Large Language Models and Reinforcement Learning** [2025]   
+Varas P, Toledano O, Campillo N, Ríos Insua D.  
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-12hfs)  
+
 * **Exploring the macrocyclic chemical space for heuristic drug design with deep learning models** [2025]   
 Hu, F., Jia, X., Liao, W. et al.  
   [Commun Chem 8, 299 (2025)](https://doi.org/10.1038/s42004-025-01686-w) |  [code](https://github.com/fengalbert/CycleGPT)  
@@ -1342,7 +1347,9 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
-
+* **PCF-VAE: posterior collapse free variational autoencoder for de novo drug design** [2025]   
+ Bhadwal, A.S., Kumari, M. & Kumar, A.   
+  [Sci Rep 15, 34152 (2025)](https://doi.org/10.1038/s41598-025-14285-5) |  [code](https://github.com/molecularsets/moses)  
 
 * **CNSGT: Generative Transformer for De Novo Drug Design Targeting the Central Nervous System** [2025]   
  Yingjun Chen, Ding Luo, Shengneng Chen, Tingting Hou, Chao Huang, and Weiwei Xue.   
@@ -2422,7 +2429,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
-
+* **MolOrgGPT: De novo Generation via Large Language Models and Reinforcement Learning** [2025]   
+Varas P, Toledano O, Campillo N, Ríos Insua D.  
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-12hfs)  
 
 * **A deep reinforcement learning platform for antibiotic discovery** [2025]   
  Hanqun Cao, Marcelo D. T. Torres, Jingjie Zhang, Zijun Gao, Fang Wu, Chunbin Gu, Jure Leskovec, Yejin Choi, Cesar de la Fuente-Nunez, Guangyong Chen, Pheng-Ann Heng.  
