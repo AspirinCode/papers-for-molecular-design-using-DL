@@ -1746,6 +1746,11 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
+
+* **Refine Drugs, Don't Complete Them: Uniform-Source Discrete Flows for Fragment-Based Drug Discovery** [2025]  
+Benno Kaech, Luis Wyss, Karsten Borgwardt, Gianvito Grasso.  
+[arXiv:2509.26405 (2025)](https://doi.org/10.48550/arXiv.2509.26405) |  [code](https://github.com/invirtuolabs/InVirtuoGen_results)  
+
 * **MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow** [2025]  
 Md Atik Ahamed, Qiang Ye, Qiang Cheng.  
 [arXiv:2508.05411 (2025)](https://doi.org/10.48550/arXiv.2508.05411)  
@@ -4010,7 +4015,9 @@ ZHANG Z, Liu Q.
 
 
 
-
+* **Refine Drugs, Don't Complete Them: Uniform-Source Discrete Flows for Fragment-Based Drug Discovery** [2025]  
+Benno Kaech, Luis Wyss, Karsten Borgwardt, Gianvito Grasso.  
+[arXiv:2509.26405 (2025)](https://doi.org/10.48550/arXiv.2509.26405) |  [code](https://github.com/invirtuolabs/InVirtuoGen_results)  
 
 * **A generative deep learning approach to de novoantibiotic design** [2025]  
  Aarti Krishnan, Melis N. Anahtar, Jacqueline A. Valeri, ..., Connor W. Coley, Felix Wong, James J. Collins.  
