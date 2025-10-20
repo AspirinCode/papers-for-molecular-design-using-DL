@@ -940,7 +940,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
-
+* **Unraveling learning characteristics of transformer models for molecular design** [2025]   
+Roth and Bajorath, .  
+  [Patterns (2025)](https://doi.org/10.1016/j.patter.2025.101392) |  [code](https://zenodo.org/records/16322841)  
 
 * **MolOrgGPT: De novo Generation via Large Language Models and Reinforcement Learning** [2025]   
 Varas P, Toledano O, Campillo N, Ríos Insua D.  
