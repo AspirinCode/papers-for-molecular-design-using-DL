@@ -1841,7 +1841,9 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 
 
 
-
+* **FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction** [2025]  
+Julian Cremer, Tuan Le, Mohammad M. Ghahremanpour, Emilia Sługocka, Filipe Menezes, Djork-Arné Clevert.  
+[arXiv:2510.02578 (2025)](https://doi.org/10.48550/arXiv.2510.02578)  
 
 * **FlowMol3: Flow Matching for 3D De Novo Small-Molecule Generation** [2025]  
 Ian Dunn, David R. Koes.  
