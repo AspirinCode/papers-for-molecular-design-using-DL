@@ -1989,6 +1989,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **Pharmacophore model guided 3D molecular generation through diffusion model** [2025]  
+ Li B, Ran T, Yang Y, Xu M, Chen H.  
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-314kz)  
+
 * **MSIDiff: Multi-Stage Interaction-Aware Diffusion Model for Protein-Specific 3D Molecule Generation** [2025]  
  Zhang, Y., Ma, J., Zhang, Z., Dong, Z., & Wang, S.  
   [Expert Systems with Applications (2025)](https://doi.org/10.1016/j.eswa.2025.129820) |  [code](https://github.com/zhangyaoxiang/MSIDiff)  
@@ -3399,6 +3404,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+* **ZeroGEN: Leveraging Language Models for Zero-Shot Ligand Design from Protein Sequences** [2025]  
+ Yangyang Chen, Zixu Wang, Pengyong Li, Li Zeng, Xiangxiang Zeng, Lei Xu.  
+  [Bioinformatics (2025)](https://doi.org/10.1093/bioinformatics/btaf572) |  [code](https://github.com/viko-3/ZeroGEN)  
 
 * **Target-aware 3D molecular generation based on guided equivariant diffusion** [2025]  
  Hu, Q., Sun, C., He, H. et al.  
