@@ -1988,7 +1988,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **Manifold-constrained nucleus-level denoising diffusion model for structure-based drug design** [2025]  
+ S. Liu,L. Yan,W. Du,W. Liu,Z. Li,H. Guo,C. Borgs,J. Chayes, & A. Anandkumar.  
+  [Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2415666122) |  [code](https://github.com/yanliang3612/NucleusDiff)  
 
 * **Pharmacophore model guided 3D molecular generation through diffusion model** [2025]  
  Li B, Ran T, Yang Y, Xu M, Chen H.  
