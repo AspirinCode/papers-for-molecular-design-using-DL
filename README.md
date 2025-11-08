@@ -145,6 +145,11 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
+
+* **Structure-Based Generation of 3D Small-Molecule Drugs: Are We There Yet?** [2025]  
+Bo Yang, Chijian Xiang, Tongtong Li, Yunong Xu, and Jianing Li.  
+[J. Med. Chem. (2025)](https://doi.org/10.1021/acs.jmedchem.5c01706) | [code](https://github.com/Kartinaa/Benchmarking_gene_model)   
+
 * **Improving the Reliability of Molecular String Representations for Generative Chemistry** [2025]  
 Etienne Reboul, Zoe Wefers, Harish Prabakaran, Jérôme Waldispühl, and Antoine Taly.  
 [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.4c02261) | [code](https://github.com/EtienneReboul/ClearSMILES)   
