@@ -3411,7 +3411,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **Benchmarking Real-World Applicability of Molecular Generative Models from De novo Design to Lead Optimization with MolGenBench** [2025]  
+ Duanhua Cao, Zhehuan Fan, Jie Yu, Mingan Chen, Xinyu Jiang, Xia Sheng, Xingyou Wang, Xiaomin Luo, Dan Teng, Mingyue Zheng.  
+  [bioRxiv. (2025)](https://doi.org/10.1101/2025.11.03.686215)  
 
 * **ZeroGEN: Leveraging Language Models for Zero-Shot Ligand Design from Protein Sequences** [2025]  
  Yangyang Chen, Zixu Wang, Pengyong Li, Li Zeng, Xiangxiang Zeng, Lei Xu.  
