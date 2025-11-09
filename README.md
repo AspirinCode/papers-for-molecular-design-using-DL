@@ -1993,6 +1993,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+
+
+* **Uncertainty-Aware Multi-Objective Reinforcement Learning-Guided Diffusion Models for 3D De Novo Molecular Design** [2025]  
+ Lianghong Chen, Dongkyu Eugene Kim, Mike Domaratzki, Pingzhao Hu.  
+  [arXiv:2510.21153(2025)](https://doi.org/10.48550/arXiv.2510.21153) |  [code](https://github.com/Kyle4490/RL-Diffusion)  
+
 * **Manifold-constrained nucleus-level denoising diffusion model for structure-based drug design** [2025]  
  S. Liu,L. Yan,W. Du,W. Liu,Z. Li,H. Guo,C. Borgs,J. Chayes, & A. Anandkumar.  
   [Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2415666122) |  [code](https://github.com/yanliang3612/NucleusDiff)  
@@ -2449,6 +2455,12 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 ### RL-based
 
+
+
+
+* **Uncertainty-Aware Multi-Objective Reinforcement Learning-Guided Diffusion Models for 3D De Novo Molecular Design** [2025]  
+ Lianghong Chen, Dongkyu Eugene Kim, Mike Domaratzki, Pingzhao Hu.  
+  [arXiv:2510.21153(2025)](https://doi.org/10.48550/arXiv.2510.21153) |  [code](https://github.com/Kyle4490/RL-Diffusion)  
 
 * **MolOrgGPT: De novo Generation via Large Language Models and Reinforcement Learning** [2025]   
 Varas P, Toledano O, Campillo N, Ríos Insua D.  
