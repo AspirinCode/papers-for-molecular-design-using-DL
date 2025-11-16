@@ -945,6 +945,13 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+
+
+
+* **RLMolLM: Reinforcement Learning-Enhanced Language Model Framework for Inverse Molecular Design** [2025]   
+Xiaobo Lin, Debsindhu Bhowmik, Logan T. Kearney, and Amit K. Naskar.  
+  [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c02071) |  [code](https://github.com/XiaoboLinlin/RLMolLM)  
+
 * **Unraveling learning characteristics of transformer models for molecular design** [2025]   
 Roth and Bajorath, .  
   [Patterns (2025)](https://doi.org/10.1016/j.patter.2025.101392) |  [code](https://zenodo.org/records/16322841)  
@@ -2458,7 +2465,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
-
+* **RLMolLM: Reinforcement Learning-Enhanced Language Model Framework for Inverse Molecular Design** [2025]   
+Xiaobo Lin, Debsindhu Bhowmik, Logan T. Kearney, and Amit K. Naskar.  
+  [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c02071) |  [code](https://github.com/XiaoboLinlin/RLMolLM)  
 
 * **Uncertainty-Aware Multi-Objective Reinforcement Learning-Guided Diffusion Models for 3D De Novo Molecular Design** [2025]  
  Lianghong Chen, Dongkyu Eugene Kim, Mike Domaratzki, Pingzhao Hu.  
