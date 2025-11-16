@@ -1750,7 +1750,9 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 ### Flow-based
 
 
-
+* **SynGFN: learning across chemical space with generative flow-based molecular discovery** [2025]  
+Zhu, Y., Li, S., Chen, J. et al.  
+[Nat Comput Sci (2025)](https://doi.org/10.48550/arXiv.2509.26405) |  [code](https://github.com/ChemloverYuchen/SynGFN)  
 
 * **Refine Drugs, Don't Complete Them: Uniform-Source Discrete Flows for Fragment-Based Drug Discovery** [2025]  
 Benno Kaech, Luis Wyss, Karsten Borgwardt, Gianvito Grasso.  
