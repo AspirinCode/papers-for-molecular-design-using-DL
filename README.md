@@ -2002,7 +2002,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **MolCraftDiffusion: 3D Molecular Generation Framework for Data-driven Molecular Applications** [2025]  
+ Worakul T, Azzouzi M, Wodrich MD, Corminboeuf C.  
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-jbq19) |  [code](https://github.com/pregHosh/MolCraftDiffusion)  
 
 * **Uncertainty-Aware Multi-Objective Reinforcement Learning-Guided Diffusion Models for 3D De Novo Molecular Design** [2025]  
  Lianghong Chen, Dongkyu Eugene Kim, Mike Domaratzki, Pingzhao Hu.  
