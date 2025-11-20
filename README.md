@@ -146,6 +146,12 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
+
+
+* **Incorporating targeted protein structure in deep learning methods for molecule generation in computational drug design** [2025]  
+Vost, Lucy, Yael Ziv, and Charlotte Mary Deane.  
+[Chem. Sci. (2025)](https://doi.org/10.1039/D5SC05748E)  
+
 * **Structure-Based Generation of 3D Small-Molecule Drugs: Are We There Yet?** [2025]  
 Bo Yang, Chijian Xiang, Tongtong Li, Yunong Xu, and Jianing Li.  
 [J. Med. Chem. (2025)](https://doi.org/10.1021/acs.jmedchem.5c01706) | [code](https://github.com/Kartinaa/Benchmarking_gene_model)   
