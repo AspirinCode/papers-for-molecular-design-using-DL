@@ -1361,6 +1361,14 @@ Li, C., Yamanishi, Y.
 ### VAE-based
 
 
+
+
+
+
+* **SpecLig: Energy-Guided Hierarchical Model for Target-Specific 3D Ligand Design** [2025]   
+ Peidong Zhang, Rong Han, Xiangzhe Kong, Ting Chen, Jianzhu Ma.   
+  [bioRxiv. (2025)](https://doi.org/10.1101/2025.11.06.687093) |  [code](https://github.com/CQ-zhang-2016/SpecLig)  
+
 * **PCF-VAE: posterior collapse free variational autoencoder for de novo drug design** [2025]   
  Bhadwal, A.S., Kumari, M. & Kumar, A.   
   [Sci Rep 15, 34152 (2025)](https://doi.org/10.1038/s41598-025-14285-5) |  [code](https://github.com/molecularsets/moses)  
@@ -2010,7 +2018,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **SpecLig: Energy-Guided Hierarchical Model for Target-Specific 3D Ligand Design** [2025]   
+ Peidong Zhang, Rong Han, Xiangzhe Kong, Ting Chen, Jianzhu Ma.   
+  [bioRxiv. (2025)](https://doi.org/10.1101/2025.11.06.687093) |  [code](https://github.com/CQ-zhang-2016/SpecLig)  
 
 * **MolCraftDiffusion: 3D Molecular Generation Framework for Data-driven Molecular Applications** [2025]  
  Worakul T, Azzouzi M, Wodrich MD, Corminboeuf C.  
