@@ -345,7 +345,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
-
+* **FragOPT: An ML-Driven Computational Workflow for Rational Fragments Optimization Toward Lead Compounds** [2025]  
+Xiaoyan Wu, Luming Meng, Jianqiang Zheng, Junwen Huang, Yongbin Huang, Bingfeng Wang, Boping Liu, and Yulong Jin.  
+[J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c01225) |  [code](https://github.com/WxyChem/FragOPT)  
 
 
 
