@@ -1940,6 +1940,12 @@ Dunn, Ian, and David Ryan Koes.
 
 
 
+
+
+* **Unified all-atom molecule generation with neural fields**  [2025]   
+ Lin X, Xia Y, Huang Y, Liu S, Zhang J, Gao YQ.  
+  [NeurIPS 2025 (2025)](https://openreview.net/forum?id=JMq90N6lLe) |  [code](https://github.com/prescient-design/funcmol)  
+
 * **Versatile Molecular Editing via Multimodal and Group-optimized Generative Learning**  [2024]   
  Lin X, Xia Y, Huang Y, Liu S, Zhang J, Gao YQ.  
   [ChemRxiv. (2024)](https://doi.org/10.26434/chemrxiv-2023-j2n6l-v2) |  [code](https://github.com/issacAzazel/MolEdit)  
