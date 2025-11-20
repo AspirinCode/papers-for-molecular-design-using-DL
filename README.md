@@ -2487,6 +2487,16 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 ### RL-based
 
 
+
+
+
+
+
+
+* **REINFORCE-ING Chemical Language Models for Drug Discovery** [2025]  
+Morgan Thomas, Albert Bou, Jose Carlos Gómez-Tamayo, Gary Tresadern, Mazen Ahmad, and Gianni De Fabritiis.  
+  [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c02053) |  [code](https://github.com/Acellera/acegen-open)  
+
 * **RLMolLM: Reinforcement Learning-Enhanced Language Model Framework for Inverse Molecular Design** [2025]   
 Xiaobo Lin, Debsindhu Bhowmik, Logan T. Kearney, and Amit K. Naskar.  
   [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c02071) |  [code](https://github.com/XiaoboLinlin/RLMolLM)  
