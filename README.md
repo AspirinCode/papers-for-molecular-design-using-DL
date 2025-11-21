@@ -4703,12 +4703,37 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+
+
+### GAN-based Materials Discovery
+
+
+
+
+
+* **Generative Deep Learning-Aided Design of Flexible Molecular Crystals**  [2025]   
+ Chenyang Zhao, Jiawei Lin, Yanbo Liu, Jianmin Zhou, Liang Li, Shi Tang, Jing Li, Songgu Wu, Panče Naumov, and Junbo Gong.   
+  [Chem. Mater. (2025)](https://doi.org/10.1021/acs.chemmater.5c02194)  
+
+
+
+
+
+
+
+
+
 ### Flow-based Materials Discovery
+
+
+
 
 
 * **Efficient Symmetry-Aware Materials Generation via Hierarchical Generative Flow Networks**  [2024]   
  Tri Minh Nguyen, Sherif Abdulkader Tawfik, Truyen Tran, Sunil Gupta, Santu Rana, Svetha Venkatesh.   
   [arXiv:2411.04323 (2024)](https://doi.org/10.48550/arXiv.2507.09466)  
+
+
 
 
 
