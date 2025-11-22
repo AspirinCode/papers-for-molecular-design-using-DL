@@ -2022,7 +2022,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
-
+* **Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models** [2025]   
+ Xinzhe Zheng, Shiyu Jiang, Gustavo Seabra, Chenglong Li, Yanjun Li.   
+  [arXiv:2511.14559 (2025)](https://doi.org/10.48550/arXiv.2511.14559) |  [code](https://github.com/AIDD-LiLab/Apo2Mol)  
 
 * **SpecLig: Energy-Guided Hierarchical Model for Target-Specific 3D Ligand Design** [2025]   
  Peidong Zhang, Rong Han, Xiangzhe Kong, Ting Chen, Jianzhu Ma.   
