@@ -2022,6 +2022,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 ### Diffusion-based
 
 
+
+
+* **Peptide2Mol: A Diffusion Model for Generating Small Molecules as Peptide Mimics for Targeted Protein Binding** [2025]   
+ Xinheng He, Yijia Zhang, Haowei Lin, Xingang Peng, Xiangzhe Kong, Mingyu Li, Jianzhu Ma.   
+  [arXiv:2511.04984 (2025)](https://doi.org/10.48550/arXiv.2511.04984) |  [code](https://github.com/BLUE-Flowing/Peptide2Mol)  
+
 * **Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models** [2025]   
  Xinzhe Zheng, Shiyu Jiang, Gustavo Seabra, Chenglong Li, Yanjun Li.   
   [arXiv:2511.14559 (2025)](https://doi.org/10.48550/arXiv.2511.14559) |  [code](https://github.com/AIDD-LiLab/Apo2Mol)  
