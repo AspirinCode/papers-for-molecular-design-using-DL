@@ -3071,6 +3071,11 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Evolutionary Algorithm-based
 
 
+
+* **SynTwins: a retrosynthesis-guided framework for synthesizable molecular analog generation** [2025]  
+ Chen, S., Nam, G., Aspuru-Guzik, A., & Jung, Y.  
+  [Chem. Sci. (2025)](https://doi.org/10.1039/D5SC05225D) |  [code](https://github.com/snu-micc/SynTwins)  
+
 * **A generative deep learning approach to de novoantibiotic design** [2025]  
  Aarti Krishnan, Melis N. Anahtar, Jacqueline A. Valeri, ..., Connor W. Coley, Felix Wong, James J. Collins.  
   [Cell (2025)](https://doi.org/10.1016/j.cell.2025.07.033) |  [code](https://github.com/aartikrish/de-novo-antibiotics)  
