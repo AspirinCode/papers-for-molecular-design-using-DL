@@ -146,7 +146,9 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
-
+* **A New Era of Artificial Intelligence (AI): Transforming Drug Discovery and Development** [2025]  
+Saghir Ali, Xiaochen Tian, Haiying Chen, and Jia Zhou.  
+[J. Med. Chem. (2025)](https://doi.org/10.1021/acs.jmedchem.5c03159)  
 
 * **Incorporating targeted protein structure in deep learning methods for molecule generation in computational drug design** [2025]  
 Vost, Lucy, Yael Ziv, and Charlotte Mary Deane.  
