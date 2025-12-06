@@ -2507,7 +2507,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
-
+* **Synthesizability via Reward Engineering: Expanding Generative Molecular Design into Synthetic Space** [2025]  
+Dekleva D, Voronov A, Janet JP, Ekborg A, Borišek J, H Rambaher M, et al.  
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-jdcsr) |  [code](https://github.com/raweru/synthsense)  
 
 * **REINFORCE-ING Chemical Language Models for Drug Discovery** [2025]  
 Morgan Thomas, Albert Bou, Jose Carlos Gómez-Tamayo, Gary Tresadern, Mazen Ahmad, and Gianni De Fabritiis.  
