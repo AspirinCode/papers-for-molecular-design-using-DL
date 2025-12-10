@@ -884,6 +884,12 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
+
+
+* **NEAT: Neighborhood-Guided, Efficient, Autoregressive Set Transformer for 3D Molecular Generation** [2025]  
+Daniel Rose, Roxane Axel Jacob, Johannes Kirchmair, Thierry Langer.  
+  [arXiv:2512.05844 (2025)](https://doi.org/10.48550/arXiv.2512.05844)  
+
 * **MolMiner: Towards Controllable, 3D-Aware, Fragment-Based Molecular Design** [2025]  
 Raul Ortega-Ochoa, Tejs Vegge, Jes Frellsen.  
 [arXiv:2411.06608 (2025)](https://doi.org/10.48550/arXiv.2411.06608) |  [code](https://github.com/raulorteg/molminer)  
@@ -954,7 +960,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **NEAT: Neighborhood-Guided, Efficient, Autoregressive Set Transformer for 3D Molecular Generation** [2025]  
+Daniel Rose, Roxane Axel Jacob, Johannes Kirchmair, Thierry Langer.  
+  [arXiv:2512.05844 (2025)](https://doi.org/10.48550/arXiv.2512.05844)  
 
 * **RLMolLM: Reinforcement Learning-Enhanced Language Model Framework for Inverse Molecular Design** [2025]   
 Xiaobo Lin, Debsindhu Bhowmik, Logan T. Kearney, and Amit K. Naskar.  
