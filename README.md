@@ -4815,6 +4815,11 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+
+* **PolyRL: reinforcement learning-guided polymer generation for multi-objective polymer discovery**  [2025]   
+ Li, Wentao, Yijun Li, Qi Lei, Zemeng Wang, and Xiaonan Wang.   
+  [Digital Discovery (2025)](https://doi.org/10.1039/D5DD00272A) |  [code](https://github.com/Knitua/PolyRL)   
+
 * **Generating High-Temperature Polymer Dielectrics with a Graph Convolution and Reinforcement Learning Framework**  [2025]  
  Di-Fan Liu, Wen-Zhuo Dong, Xin-Jie Wang, Shao-Long Zhong, and Zhi-Min Dang.  
   [J. Phys. Chem. C (2025)](https://doi.org/10.1021/acs.jpcc.5c02310)  
