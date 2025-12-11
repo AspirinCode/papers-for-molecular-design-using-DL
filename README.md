@@ -2034,6 +2034,13 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+
+* **SGEDiff: a subgraph-enriched diffusion model for structure-based 3D molecular generation** [2025]  
+ Gong, C., Fang, J., Tang, Y. et al.  
+  [J Cheminform 17, 175 (2025)](https://doi.org/10.1186/s13321-025-01123-z) |  [code](https://github.com/Luoacee/SGEDiff)  
+
 * **Peptide2Mol: A Diffusion Model for Generating Small Molecules as Peptide Mimics for Targeted Protein Binding** [2025]   
  Xinheng He, Yijia Zhang, Haowei Lin, Xingang Peng, Xiangzhe Kong, Mingyu Li, Jianzhu Ma.   
   [arXiv:2511.04984 (2025)](https://doi.org/10.48550/arXiv.2511.04984) |  [code](https://github.com/BLUE-Flowing/Peptide2Mol)  
@@ -3496,6 +3503,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 ## Structure-based deep molecular generative models
 
 
+
+
+* **SGEDiff: a subgraph-enriched diffusion model for structure-based 3D molecular generation** [2025]  
+ Gong, C., Fang, J., Tang, Y. et al.  
+  [J Cheminform 17, 175 (2025)](https://doi.org/10.1186/s13321-025-01123-z) |  [code](https://github.com/Luoacee/SGEDiff)  
 
 * **Benchmarking Real-World Applicability of Molecular Generative Models from De novo Design to Lead Optimization with MolGenBench** [2025]  
  Duanhua Cao, Zhehuan Fan, Jie Yu, Mingan Chen, Xinyu Jiang, Xia Sheng, Xingyou Wang, Xiaomin Luo, Dan Teng, Mingyue Zheng.  
