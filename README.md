@@ -1682,6 +1682,11 @@ Li, C., Yamanishi, Y.
 
 
 
+
+* **Novel molecule design with POWGAN, a policy-optimized Wasserstein generative adversarial network** [2025]  
+ Macedo, B., Vaz, I.R. & Gomes, T.T.  
+  [J Cheminform (2025)](https://doi.org/10.1186/s13321-025-01114-0) |  [code](https://github.com/bmacedo111/R-MedGAN)  
+
 * **Target-specific de novo design of drug candidate molecules with graph-transformer-based generative adversarial networks** [2025]   
  Ünlü, A., Çevrim, E., Yiğit, M.G. et al.   
   [Nat Mach Intell (2025)](https://doi.org/10.1038/s42256-025-01082-y) |  [code](https://github.com/HUBioDataLab/DrugGEN)  
