@@ -681,6 +681,11 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 ## Deep Learning-based drug design
 
 
+
+* **Comparative Evaluation of Molecular Generation Methods for Bioactive Compound Design: A Rigorous Statistical Benchmark Across Drug, Agrochemical, and Small Molecule Datasets** [2025]  
+Mustamin SB, Hamid FH.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-t30lx)  
+
 * **ADMETrix: ADMET-Driven De Novo Molecular Generation** [2025]   
   Mourdoukoutas N, Korfiati A, Pitsikalis V.   
   [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-3x5nq)  
