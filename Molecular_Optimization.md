@@ -420,6 +420,11 @@ Nippa DF, Atz K, Stenzhorn Y, Müller AT, Tosstorff A, Benz J, et al.
 ## Multi-Objective Molecular Optimization
 
 
+
+* **Generative Multi-Objective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design** [2025]   
+ Madhav R. Muthyala, Farshud Sorourifar, Tianhong Tan, You Peng, Joel A. Paulson.  
+  [arXiv:2512.17659 (2025)](https://doi.org/10.48550/arXiv.2512.17659)  
+
 * **Elion: A Deep Learning Based Platform for Multi-Objective Drug Hit Optimization**  [2023]   
  Seabra, Gustavo, and Chenglong Li.   
   [chemrxiv-2023-n526m (2023)](https://doi.org/10.26434/chemrxiv-2023-n526m)  |  [code](https://github.com/gmseabra/elion) 
