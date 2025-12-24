@@ -2536,7 +2536,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
-
+* **MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization** [2025]  
+Zhuo Yang, Yeyun chen, Jiaqing Xie, Ben Gao, Shuaike Shen, Wanhao Liu, Liujia Yang, Beilun Wang, Tianfan Fu, Yuqiang Li.  
+  [arXiv:2512.20135 (2025)](https://doi.org/10.48550/arXiv.2512.20135) |  [code](https://github.com/little1d/MolAct)  
 
 * **Synthesizability via Reward Engineering: Expanding Generative Molecular Design into Synthetic Space** [2025]  
 Dekleva D, Voronov A, Janet JP, Ekborg A, Borišek J, H Rambaher M, et al.  
@@ -3159,7 +3161,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
-
+* **SynCraft: Guiding Large Language Models to Predict Edit Sequences for Molecular Synthesizability Optimization** [2025]  
+ Junren Li, Luhua Lai.  
+  [arXiv:2512.20333 (2025)](https://doi.org/10.48550/arXiv.2512.20333) |  [code](https://github.com/catalystforyou/SynCraft-Core)  
 
 * **SMI-Editor: Edit-based SMILES Language Model with Fragment-level Supervision** [2025]  
  Zheng, K., Liang, S., Yang, J., Feng, B., Liu, Z., Ju, W., ... & Zhang, M.  
