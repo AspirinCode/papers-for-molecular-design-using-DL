@@ -1379,7 +1379,9 @@ Li, C., Yamanishi, Y.
 
 
 
-
+* **Generative Multi-Objective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design** [2025]   
+ Madhav R. Muthyala, Farshud Sorourifar, Tianhong Tan, You Peng, Joel A. Paulson.  
+  [arXiv:2512.17659 (2025)](https://doi.org/10.48550/arXiv.2512.17659)  
 
 * **SpecLig: Energy-Guided Hierarchical Model for Target-Specific 3D Ligand Design** [2025]   
  Peidong Zhang, Rong Han, Xiangzhe Kong, Ting Chen, Jianzhu Ma.   
@@ -1682,6 +1684,10 @@ Li, C., Yamanishi, Y.
 
 
 
+
+* **Generative Multi-Objective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design** [2025]   
+ Madhav R. Muthyala, Farshud Sorourifar, Tianhong Tan, You Peng, Joel A. Paulson.  
+  [arXiv:2512.17659 (2025)](https://doi.org/10.48550/arXiv.2512.17659)  
 
 * **Novel molecule design with POWGAN, a policy-optimized Wasserstein generative adversarial network** [2025]  
  Macedo, B., Vaz, I.R. & Gomes, T.T.  
@@ -3095,6 +3101,11 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 ### Evolutionary Algorithm-based
 
 
+
+
+* **Generative Multi-Objective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design** [2025]   
+ Madhav R. Muthyala, Farshud Sorourifar, Tianhong Tan, You Peng, Joel A. Paulson.  
+  [arXiv:2512.17659 (2025)](https://doi.org/10.48550/arXiv.2512.17659)  
 
 * **SynTwins: a retrosynthesis-guided framework for synthesizable molecular analog generation** [2025]  
  Chen, S., Nam, G., Aspuru-Guzik, A., & Jung, Y.  
