@@ -146,6 +146,13 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
+
+
+
+* **Structure-Based Drug Design with Geometric Deep Learning: A Comprehensive Survey** [2025]  
+Zhang, Zaixi and Yan, Jiaxian and Huang, Yining and Liu, Qi and Chen, Enhong and Wang, Mengdi and Zitnik, Marinka.  
+[ACM Comput. Surv.(2025)](https://doi.org/10.1145/3769677)  
+
 * **A New Era of Artificial Intelligence (AI): Transforming Drug Discovery and Development** [2025]  
 Saghir Ali, Xiaochen Tian, Haiying Chen, and Jia Zhou.  
 [J. Med. Chem. (2025)](https://doi.org/10.1021/acs.jmedchem.5c03159)  
