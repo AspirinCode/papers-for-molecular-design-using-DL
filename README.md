@@ -972,6 +972,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+* **Learning a chemistry-aware latent space for molecular encoding and generation with a large-scale Transformer Variational Autoencoder** [2025]   
+Hugo Talibart, Dimitri Gilis.  
+  [bioRxiv (2025)](https://doi.org/10.64898/2025.12.19.695394) |  [code](https://github.com/3BioCompBio/chembed)  
+
 * **NEAT: Neighborhood-Guided, Efficient, Autoregressive Set Transformer for 3D Molecular Generation** [2025]  
 Daniel Rose, Roxane Axel Jacob, Johannes Kirchmair, Thierry Langer.  
   [arXiv:2512.05844 (2025)](https://doi.org/10.48550/arXiv.2512.05844)  
@@ -1390,6 +1396,15 @@ Li, C., Yamanishi, Y.
 
 
 
+
+
+
+
+
+
+* **Learning a chemistry-aware latent space for molecular encoding and generation with a large-scale Transformer Variational Autoencoder** [2025]   
+Hugo Talibart, Dimitri Gilis.  
+  [bioRxiv (2025)](https://doi.org/10.64898/2025.12.19.695394) |  [code](https://github.com/3BioCompBio/chembed)  
 
 * **Generative Multi-Objective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design** [2025]   
  Madhav R. Muthyala, Farshud Sorourifar, Tianhong Tan, You Peng, Joel A. Paulson.  
