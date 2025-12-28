@@ -2543,6 +2543,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+* **Bidirectional reinforcement learning neural network for constrained molecular design** [2025]  
+Lin, J., Hostaš, J., Hu, A. et al.  
+  [Sci Rep (2025)](https://doi.org/10.1038/s41598-025-33443-3) |  [code](https://github.com/nrc-cnrc/BiRLNN)  
+
 * **MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization** [2025]  
 Zhuo Yang, Yeyun chen, Jiaqing Xie, Ben Gao, Shuaike Shen, Wanhao Liu, Liujia Yang, Beilun Wang, Tianfan Fu, Yuqiang Li.  
   [arXiv:2512.20135 (2025)](https://doi.org/10.48550/arXiv.2512.20135) |  [code](https://github.com/little1d/MolAct)  
