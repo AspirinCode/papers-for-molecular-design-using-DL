@@ -2558,6 +2558,16 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+
+
+
+
+
+* **ReACT-Drug: Reaction-Template Guided Reinforcement Learning for de novo Drug Design** [2025]  
+R Yadunandan, Nimisha Ghosh.  
+  [arXiv:2512.20958 (2025)](https://doi.org/10.48550/arXiv.2512.20958) |  [code](https://github.com/YadunandanRaman/ReACT-Drug)  
+
 * **Bidirectional reinforcement learning neural network for constrained molecular design** [2025]  
 Lin, J., Hostaš, J., Hu, A. et al.  
   [Sci Rep (2025)](https://doi.org/10.1038/s41598-025-33443-3) |  [code](https://github.com/nrc-cnrc/BiRLNN)  
@@ -4435,6 +4445,15 @@ Igashov, I., Stärk, H., Vignac, C., Satorras, V.G., Frossard, P., Welling, M., 
 
 
 
+
+
+
+
+
+* **ReACT-Drug: Reaction-Template Guided Reinforcement Learning for de novo Drug Design** [2025]  
+R Yadunandan, Nimisha Ghosh.  
+  [arXiv:2512.20958 (2025)](https://doi.org/10.48550/arXiv.2512.20958) |  [code](https://github.com/YadunandanRaman/ReACT-Drug)  
+
 * **Generative AI for navigating synthesizable chemical space** [2025]   
  W. Gao,S. Luo, & C.W. Coley.   
   [Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2415665122) |  [code](https://github.com/wenhao-gao/synformer)  
@@ -4512,6 +4531,14 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 ## Omics-based deep molecular generative models
 
 
+
+
+
+
+
+* **Transcriptome-Conditioned Personalized De Novo Drug Generation for AML Using Metaheuristic Assembly and Target-Driven Filtering**  [2025]  
+ Abdullah G. Elafifi, Basma Mamdouh, Mariam Hanafy, Muhammed Alaa Eldin, Yosef Khaled, Nesma Mohamed El-Gelany, Tarek H.M. Abou-El-Enien.  
+  [arXiv:2512.21301 (2025)](https://doi.org/10.48550/arXiv.2512.21301) | [code](https://shorturl.at/MnAFM)  
 
 * **MolGene-E: Inverse Molecular Design to Modulate Single Cell Transcriptomics**  [2025]  
  Rahul Ohlan, Raswanth Murugan, Li Xie, Mohammedsadeq Mottaqi, Shuo Zhang, Lei Xie.  
