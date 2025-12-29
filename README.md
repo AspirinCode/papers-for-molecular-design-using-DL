@@ -2562,7 +2562,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
-
+* **ChemTSv3: Generalizing Molecular Design via Flexible Search Space Control** [2025]  
+Fujii S, Murakami Y, Yoshizawa T, Ishida S, Cho N, Ohta M, et al.  
+  [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-kdvrt) |  [code](https://github.com/molecule-generator-collection/ChemTSv3)  
 
 * **ReACT-Drug: Reaction-Template Guided Reinforcement Learning for de novo Drug Design** [2025]  
 R Yadunandan, Nimisha Ghosh.  
