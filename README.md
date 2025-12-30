@@ -1400,7 +1400,9 @@ Li, C., Yamanishi, Y.
 
 
 
-
+* **QSAR-Guided Generative Framework for the Discovery of Synthetically Viable Odorants** [2025]   
+Tim C. Pearce, Ahmed Ibrahim.  
+  [arXiv:2512.23080 (2025)](https://doi.org/10.48550/arXiv.2512.23080)  
 
 * **Learning a chemistry-aware latent space for molecular encoding and generation with a large-scale Transformer Variational Autoencoder** [2025]   
 Hugo Talibart, Dimitri Gilis.  
