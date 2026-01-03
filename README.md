@@ -4911,8 +4911,25 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+### Genetic Algorithm-based Materials Discovery
+
+
+
+
+
+* **Thermodynamics-Guided Machine Learning Framework with a Multiobjective Optimizer for Catalyst Discovery**  [2026]   
+ Zhenfeng Tan, Yuanming Zhu, Bin Shao, Feng Qian, and Jun Hu.   
+  [ACS Catal. (2026)](https://doi.org/10.1021/acscatal.5c07191) |  [code](https://github.com/tanzhengfeng/A-Thermodynamics-Guided-Machine-Learning-Framework-with-Multi-Objective-Optimizer.git)   
+
+
+
+
 
 ### Large Language Model-based Materials Discovery
+
+
+
+
 
 
 * **Introducing PolySea: An LLM-Based Polymer Smart Evolution Agent**  [2025]   
