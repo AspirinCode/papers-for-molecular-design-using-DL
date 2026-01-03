@@ -61,7 +61,7 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Flow matching-based](#flow-matching-based) |
 | [Prompt-based](#prompt-based) | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) |
 | [Active Learning DMGs](#active-learning-dmgs) | [RL-based](#rl-based) | [Multi-task DMGs](#multi-task-dmgs) | [Tree Search](#monte-carlo-tree-search) |
-| [Genetic Algorithm-based](#genetic-algorithm-based) | [Evolutionary Algorithm-based](#evolutionary-algorithm-based)  | [Large Language Model-based](#large-language-model-based) |  |
+| [Genetic Algorithm-based](#genetic-algorithm-based) | [Evolutionary Algorithm-based](#evolutionary-algorithm-based)  | [Large Language Model-based](#large-language-model-based) | [Agent-based](#agent-based) |
 
 
 
@@ -3294,12 +3294,23 @@ Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen
  Ye, Geyan, Xibao Cai, Houtim Lai, Xing Wang, Junhong Huang, Longyue Wang, Wei Liu, and Xiangxiang Zeng.   
   [arXiv:2401.10334 (2023)](https://arxiv.org/abs/2401.10334) |  [code](https://github.com/blazerye/DrugAssist) 
 
-* **Multi-modal molecule structure–text model for text-based retrieval and editing** [2023]   
- Liu, S., Nie, W., Wang, C. et al.    
-  [Nat Mach Intell 5, 1447–1457 (2023)]( https://doi.org/10.1038/s42256-023-00759-6) |  [code](https://github.com/chao1224/MoleculeSTM) 
+* **Multi-modal molecule structure–text model for text-based retrieval and editing** [2023]  
+ Liu, S., Nie, W., Wang, C. et al.  
+  [Nat Mach Intell 5, 1447–1457 (2023)](https://doi.org/10.1038/s42256-023-00759-6) |  [code](https://github.com/chao1224/MoleculeSTM)  
 
 
 
+
+
+### Agent-based
+
+
+
+
+
+* **MT-Mol: Multi Agent System with Tool-based Reasoning for Molecular Optimization** [2025]  
+ Hyomin Kim, Yunhui Jang, Sungsoo Ahn.  
+  [Findings of the Association for Computational Linguistics: EMNLP 2025 (2025)](https://doi.org/10.18653/v1/2025.findings-emnlp.619)  
 
 
 
