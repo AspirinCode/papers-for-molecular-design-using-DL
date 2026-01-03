@@ -58,10 +58,11 @@ related to  **Generative AI** and **Deep Learning** for  **molecular/drug design
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
 | [RNN-based](#rnn-based) | [LSTM-based](#lstm-based) | [Autoregressive-models](#autoregressive-models) | [Transformer-based](#transformer-based) |
-| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [ Prompt-based](#prompt-based)|
-| [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) | [Active Learning DMGs](#active-learning-dmgs) |
-| [RL-based](#rl-based) | [Multi-task DMGs](#multi-task-dmgs) | [ Tree Search](#monte-carlo-tree-search) | [Genetic Algorithm-based](#genetic-algorithm-based) |
-| [Evolutionary Algorithm-based](#evolutionary-algorithm-based) | [Large Language Model-based](#large-language-model-based)  | [Flow matching-based](#flow-matching-based) |  |
+| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [Flow matching-based](#flow-matching-based) |
+| [Prompt-based](#prompt-based) | [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) |
+| [Active Learning DMGs](#active-learning-dmgs) | [RL-based](#rl-based) | [Multi-task DMGs](#multi-task-dmgs) | [Tree Search](#monte-carlo-tree-search) |
+| [Genetic Algorithm-based](#genetic-algorithm-based) | [Evolutionary Algorithm-based](#evolutionary-algorithm-based)  | [Large Language Model-based](#large-language-model-based) |  |
+
 
 
 
