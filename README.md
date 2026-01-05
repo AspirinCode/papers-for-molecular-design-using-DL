@@ -2956,9 +2956,13 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+* **OMTRA: A Multi-Task Generative Model for Structure-Based Drug Design** [2025]  
+ Ian Dunn, Liv Toft, Tyler Katz, Juhi Gupta, Riya Shah, Ramith Hettiarachchi, David R. Koes.    
+  [arXiv:2512.05080 (2025)](https://doi.org/10.48550/arXiv.2512.05080) |  [code](https://github.com/gnina/OMTRA)  
+
 * **Molecular Language Model as Multi-task Generator** [2023]  
  Fang, Y., Zhang, N., Chen, Z., Fan, X. and Chen, H.    
-  [arXiv:2301.11259 (2023)](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
+  [arXiv:2301.11259 (2023)](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen)  
 
 
 
