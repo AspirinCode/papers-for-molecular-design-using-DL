@@ -3582,6 +3582,12 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+* **Revisiting Target-Aware de novo Molecular Generation with TarPass: Between Rational Design and Texas Sharpshooter** [2026]  
+ Qin R, Chen Z, Li Y, Fang M, Shen L, Su Y, et al.  
+  [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv-2026-dhdqk) |  [code](https://github.com/sorui-qin/TarPass)  
+
 * **SGEDiff: a subgraph-enriched diffusion model for structure-based 3D molecular generation** [2025]  
  Gong, C., Fang, J., Tang, Y. et al.  
   [J Cheminform 17, 175 (2025)](https://doi.org/10.1186/s13321-025-01123-z) |  [code](https://github.com/Luoacee/SGEDiff)  
