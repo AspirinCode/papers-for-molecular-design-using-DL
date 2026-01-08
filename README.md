@@ -3206,6 +3206,12 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
+
+
+* **RL-Guider: Leveraging Historical Decisions and Feedback for Drug Editing with Large Language Models** [2025]  
+ Xufeng Liu, Yixuan Ding, Jingxiang Qu, Yichi Zhang, Wenhan Gao, Yi Liu.  
+  [Findings of the Association for Computational Linguistics: ACL 2025 (2025)](https://doi.org/10.18653/v1/2025.findings-acl.680) |  [code](https://github.com/xufliu/RL-Guider)  
+
 * **SynCraft: Guiding Large Language Models to Predict Edit Sequences for Molecular Synthesizability Optimization** [2025]  
  Junren Li, Luhua Lai.  
   [arXiv:2512.20333 (2025)](https://doi.org/10.48550/arXiv.2512.20333) |  [code](https://github.com/catalystforyou/SynCraft-Core)  
