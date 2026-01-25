@@ -2083,6 +2083,13 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+* **EvoDiffMol: Evolutionary Diffusion Framework for 3D Molecular Design with Optimized Properties** [2026]  
+ Lin, Xiaobo, Logan Kearney, Zhaoqian Su, Yunchao Liu, Amit Naskar, and Debsindhu Bhowmik.  
+  [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv-2026-83634) |  [code](https://github.com/XiaoboLinlin/EvoDiffMol)  
+
+* **An effective fragment-based dual conditional diffusion framework for molecular generation** [2026]  
+ Haotian Chen, Yiting Shen, Jichun Li, Weizhong Zhao.  
+  [Briefings in Bioinformatics (2026)](https://doi.org/10.1093/bib/bbaf727) |  [code](https://github.com/CHT713/FDC-Diff)  
 
 * **SGEDiff: a subgraph-enriched diffusion model for structure-based 3D molecular generation** [2025]  
  Gong, C., Fang, J., Tang, Y. et al.  
@@ -3161,6 +3168,11 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
+
+* **EvoDiffMol: Evolutionary Diffusion Framework for 3D Molecular Design with Optimized Properties** [2026]  
+ Lin, Xiaobo, Logan Kearney, Zhaoqian Su, Yunchao Liu, Amit Naskar, and Debsindhu Bhowmik.  
+  [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv-2026-83634) |  [code](https://github.com/XiaoboLinlin/EvoDiffMol)  
+
 * **Generative Multi-Objective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design** [2025]   
  Madhav R. Muthyala, Farshud Sorourifar, Tianhong Tan, You Peng, Joel A. Paulson.  
   [arXiv:2512.17659 (2025)](https://doi.org/10.48550/arXiv.2512.17659)  
@@ -3599,6 +3611,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+* **Beyond Affinity: A Benchmark of 1D, 2D, and 3D Methods Reveals Critical Trade-offs in Structure-Based Drug Design** [2026]  
+ Kangyu Zheng, Kai Zhang, Jiale Tan, Xuehan Chen, Yingzhou Lu, Zaixi Zhang, Lichao Sun, Marinka Zitnik, Tianfan Fu, Zhiding Liang.  
+  [arXiv:2601.14283 (2026)](https://doi.org/10.48550/arXiv.2601.14283) |  [code](https://github.com/zkysfls/2025-sbdd-benchmark)  
 
 * **Revisiting Target-Aware de novo Molecular Generation with TarPass: Between Rational Design and Texas Sharpshooter** [2026]  
  Qin R, Chen Z, Li Y, Fang M, Shen L, Su Y, et al.  
@@ -4233,7 +4250,9 @@ ZHANG Z, Liu Q.
 
 
 
-
+* **An effective fragment-based dual conditional diffusion framework for molecular generation** [2026]  
+ Haotian Chen, Yiting Shen, Jichun Li, Weizhong Zhao.  
+  [Briefings in Bioinformatics (2026)](https://doi.org/10.1093/bib/bbaf727) |  [code](https://github.com/CHT713/FDC-Diff)  
 
 * **FragOPT: An ML-Driven Computational Workflow for Rational Fragments Optimization Toward Lead Compounds** [2025]  
 Xiaoyan Wu, Luming Meng, Jianqiang Zheng, Junwen Huang, Yongbin Huang, Bingfeng Wang, Boping Liu, and Yulong Jin.  
