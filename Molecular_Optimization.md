@@ -213,6 +213,11 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ### Diffusion-based
 
 
+
+* **EvoDiffMol: Evolutionary Diffusion Framework for 3D Molecular Design with Optimized Properties** [2026]  
+ Lin, Xiaobo, Logan Kearney, Zhaoqian Su, Yunchao Liu, Amit Naskar, and Debsindhu Bhowmik.  
+  [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv-2026-83634) |  [code](https://github.com/XiaoboLinlin/EvoDiffMol)  
+
 * **Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model** [2024]   
  Yida Xiong, Kun Li, Weiwei Liu, Jia Wu, Bo Du, Shirui Pan, Wenbin Hu.    
   [arXiv:2410.13597 (2024)](https://arxiv.org/abs/2410.13597)   
