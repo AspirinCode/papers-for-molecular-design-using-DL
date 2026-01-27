@@ -2081,7 +2081,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Multi-objective fluorescent molecule design with a data-physics dual-driven generative framework** [2026]  
+ Yanheng Li, Zhichen Pu, Lijiang Yang, Zehao Zhou, Yi Qin Gao.  
+  [arXiv:2601.13564 (2026)](https://doi.org/10.48550/arXiv.2601.13564) |  [code](https://github.com/egg5154/LUMOS)  
 
 * **EvoDiffMol: Evolutionary Diffusion Framework for 3D Molecular Design with Optimized Properties** [2026]  
  Lin, Xiaobo, Logan Kearney, Zhaoqian Su, Yunchao Liu, Amit Naskar, and Debsindhu Bhowmik.  
@@ -3224,7 +3226,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
-
+* **Empowering LLMs for Structure-Based Drug Design via Exploration-Augmented Latent Inference** [2026]  
+ Xuanning Hu, Anchen Li, Qianli Xing, Jinglong Ji, Hao Tuo, Bo Yang.  
+  [arXiv:2601.15333 (2026)](https://doi.org/10.48550/arXiv.2601.15333) |  [code](https://github.com/hxnhxn/ELILLM)  
 
 * **RL-Guider: Leveraging Historical Decisions and Feedback for Drug Editing with Large Language Models** [2025]  
  Xufeng Liu, Yixuan Ding, Jingxiang Qu, Yichi Zhang, Wenhan Gao, Yi Liu.  
@@ -3611,7 +3615,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **Empowering LLMs for Structure-Based Drug Design via Exploration-Augmented Latent Inference** [2026]  
+ Xuanning Hu, Anchen Li, Qianli Xing, Jinglong Ji, Hao Tuo, Bo Yang.  
+  [arXiv:2601.15333 (2026)](https://doi.org/10.48550/arXiv.2601.15333) |  [code](https://github.com/hxnhxn/ELILLM)  
 
 * **Beyond Affinity: A Benchmark of 1D, 2D, and 3D Methods Reveals Critical Trade-offs in Structure-Based Drug Design** [2026]  
  Kangyu Zheng, Kai Zhang, Jiale Tan, Xuehan Chen, Yingzhou Lu, Zaixi Zhang, Lichao Sun, Marinka Zitnik, Tianfan Fu, Zhiding Liang.  
