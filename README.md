@@ -2081,6 +2081,15 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **De Novo Molecular Generation from Mass Spectra via Many-Body Enhanced Diffusion** [2026]  
+ Xichen Sun, Wentao Wei, Jiahua Rao, Jiancong Xie, Yuedong Yang.   
+  [arXiv:2602.01643 (2026)](https://doi.org/10.48550/arXiv.2602.01643) |  [code](https://github.com/biomed-AI/MBGen)  
+
+* **Global and local integrated gradient-based diffusion model for de novo drug design** [2026]  
+ Sejin Park, Minjae Chung, Hyunju Lee.  
+  [Briefings in Bioinformatics (2026)](https://doi.org/10.1093/bib/bbag033) |  [code](https://github.com/DMCB-GIST/scRobust)  
+
 * **Multi-objective fluorescent molecule design with a data-physics dual-driven generative framework** [2026]  
  Yanheng Li, Zhichen Pu, Lijiang Yang, Zehao Zhou, Yi Qin Gao.  
   [arXiv:2601.13564 (2026)](https://doi.org/10.48550/arXiv.2601.13564) |  [code](https://github.com/egg5154/LUMOS)  
@@ -4719,7 +4728,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
-
+* **De Novo Molecular Generation from Mass Spectra via Many-Body Enhanced Diffusion** [2026]  
+ Xichen Sun, Wentao Wei, Jiahua Rao, Jiancong Xie, Yuedong Yang.   
+  [arXiv:2602.01643 (2026)](https://doi.org/10.48550/arXiv.2602.01643) |  [code](https://github.com/biomed-AI/MBGen)  
 
 * **One Small Step with Fingerprints, One Giant Leap for De Novo Molecule Generation from Mass Spectra** [2025]  
  Neng Kai Nigel Neo, Lim Jing, Ngoui Yong Zhau Preston, Koh Xue Ting Serene, Bingquan Shen.   
