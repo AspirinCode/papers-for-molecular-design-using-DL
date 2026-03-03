@@ -2587,7 +2587,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
-
+* **TANGO: direct optimization of constrained synthesizability for generative molecular design** [2026]  
+Guo, J., Schwaller, P.  
+  [Nat Comput Sci (2026)](https://doi.org/10.1038/s43588-026-00959-1) |  [code](https://github.com/schwallergroup/saturn)  
 
 * **ChemTSv3: Generalizing Molecular Design via Flexible Search Space Control** [2025]  
 Fujii S, Murakami Y, Yoshizawa T, Ishida S, Cho N, Ohta M, et al.  
