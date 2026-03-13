@@ -973,7 +973,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **LLMsFold: Integrating Large Language Models and Biophysical Simulations for De Novo Drug Design** [2026]   
+Wageesha Widuranga, Fabio Bove, Dario Righelli, Salvatore Romano, Rosa Visone, Marilena V. Iorio, Pietro Lio, Cristian Taccioli.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.03.02.709055) |  [code](https://github.com/tacclab)  
 
 * **Learning a chemistry-aware latent space for molecular encoding and generation with a large-scale Transformer Variational Autoencoder** [2025]   
 Hugo Talibart, Dimitri Gilis.  
@@ -3236,6 +3238,12 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 ### Large Language Model-based
 
 
+
+
+
+* **LLMsFold: Integrating Large Language Models and Biophysical Simulations for De Novo Drug Design** [2026]   
+Wageesha Widuranga, Fabio Bove, Dario Righelli, Salvatore Romano, Rosa Visone, Marilena V. Iorio, Pietro Lio, Cristian Taccioli.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.03.02.709055) |  [code](https://github.com/tacclab)  
 
 * **Empowering LLMs for Structure-Based Drug Design via Exploration-Augmented Latent Inference** [2026]  
  Xuanning Hu, Anchen Li, Qianli Xing, Jinglong Ji, Hao Tuo, Bo Yang.  
