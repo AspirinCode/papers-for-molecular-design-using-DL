@@ -897,7 +897,9 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
-
+* **Sample-efficient generative molecular design using memory manipulation** [2026]   
+Guo, J., Chen, J., GX-Chen, A. et al.  
+  [Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01200-4) |  [code](https://github.com/schwallergroup/saturn/tree/master/experimental_reproduction)  
 
 * **NEAT: Neighborhood-Guided, Efficient, Autoregressive Set Transformer for 3D Molecular Generation** [2025]  
 Daniel Rose, Roxane Axel Jacob, Johannes Kirchmair, Thierry Langer.  
@@ -972,6 +974,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 ###  Transformer-based
 
 
+
+
+
+* **Sample-efficient generative molecular design using memory manipulation** [2026]   
+Guo, J., Chen, J., GX-Chen, A. et al.  
+  [Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01200-4) |  [code](https://github.com/schwallergroup/saturn/tree/master/experimental_reproduction)  
 
 * **LLMsFold: Integrating Large Language Models and Biophysical Simulations for De Novo Drug Design** [2026]   
 Wageesha Widuranga, Fabio Bove, Dario Righelli, Salvatore Romano, Rosa Visone, Marilena V. Iorio, Pietro Lio, Cristian Taccioli.  
