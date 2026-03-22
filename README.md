@@ -3127,6 +3127,11 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
+
+* **A Genetic Algorithm for Navigating Synthesizable Molecular Spaces**  [2026]   
+ Lo, Alston, Connor W. Coley, and Wojciech Matusik.   
+  [ICLR 2026 (2026](https://openreview.net/forum?id=OvMtGGaFUT) |  [code](https://github.com/alstonlo/synga)  
+
 * **Sample-efficient generative molecular design using memory manipulation** [2026]   
 Guo, J., Chen, J., GX-Chen, A. et al.  
   [Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01200-4) |  [code](https://github.com/schwallergroup/saturn/tree/master/experimental_reproduction)  
