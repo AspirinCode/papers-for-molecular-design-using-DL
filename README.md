@@ -2595,7 +2595,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
-
+* **Sample-efficient generative molecular design using memory manipulation** [2026]   
+Guo, J., Chen, J., GX-Chen, A. et al.  
+  [Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01200-4) |  [code](https://github.com/schwallergroup/saturn/tree/master/experimental_reproduction)  
 
 * **TANGO: direct optimization of constrained synthesizability for generative molecular design** [2026]  
 Guo, J., Schwaller, P.  
@@ -3124,6 +3126,10 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
+
+* **Sample-efficient generative molecular design using memory manipulation** [2026]   
+Guo, J., Chen, J., GX-Chen, A. et al.  
+  [Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01200-4) |  [code](https://github.com/schwallergroup/saturn/tree/master/experimental_reproduction)  
 
 * **TargetSA: Adaptive Simulated Annealing for Target-Specific Drug Design**  [2025]   
  Chen, LY., Li, YP.   
