@@ -690,6 +690,12 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 
 
+
+
+* **Unified modeling of 3D molecular generation via atomic interactions with PocketXMol** [2026]  
+ Peng, X., Guo, R., Guo, F., Wang, Z., Sun, J., Guan, J., Jia, Y., Xu, Y., Huang, Y., Zhang, M. and Peng, J.  
+  [Cell (2026)](https://doi.org/10.1016/j.cell.2026.01.003) |  [code](https://github.com/pengxingang/PocketXMol)  
+
 * **Comparative Evaluation of Molecular Generation Methods for Bioactive Compound Design: A Rigorous Statistical Benchmark Across Drug, Agrochemical, and Small Molecule Datasets** [2025]  
 Mustamin SB, Hamid FH.  
 [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-t30lx)  
@@ -2091,6 +2097,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+* **Unified modeling of 3D molecular generation via atomic interactions with PocketXMol** [2026]  
+ Peng, X., Guo, R., Guo, F., Wang, Z., Sun, J., Guan, J., Jia, Y., Xu, Y., Huang, Y., Zhang, M. and Peng, J.  
+  [Cell (2026)](https://doi.org/10.1016/j.cell.2026.01.003) |  [code](https://github.com/pengxingang/PocketXMol)  
 
 * **De Novo Molecular Generation from Mass Spectra via Many-Body Enhanced Diffusion** [2026]  
  Xichen Sun, Wentao Wei, Jiahua Rao, Jiancong Xie, Yuedong Yang.   
@@ -3653,6 +3664,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+* **Unified modeling of 3D molecular generation via atomic interactions with PocketXMol** [2026]  
+ Peng, X., Guo, R., Guo, F., Wang, Z., Sun, J., Guan, J., Jia, Y., Xu, Y., Huang, Y., Zhang, M. and Peng, J.  
+  [Cell (2026)](https://doi.org/10.1016/j.cell.2026.01.003) |  [code](https://github.com/pengxingang/PocketXMol)  
+
 * **Empowering LLMs for Structure-Based Drug Design via Exploration-Augmented Latent Inference** [2026]  
  Xuanning Hu, Anchen Li, Qianli Xing, Jinglong Ji, Hao Tuo, Bo Yang.  
   [arXiv:2601.15333 (2026)](https://doi.org/10.48550/arXiv.2601.15333) |  [code](https://github.com/hxnhxn/ELILLM)  
@@ -4292,7 +4308,9 @@ ZHANG Z, Liu Q.
 
 
 
-
+* **Unified modeling of 3D molecular generation via atomic interactions with PocketXMol** [2026]  
+ Peng, X., Guo, R., Guo, F., Wang, Z., Sun, J., Guan, J., Jia, Y., Xu, Y., Huang, Y., Zhang, M. and Peng, J.  
+  [Cell (2026)](https://doi.org/10.1016/j.cell.2026.01.003) |  [code](https://github.com/pengxingang/PocketXMol)  
 
 * **An effective fragment-based dual conditional diffusion framework for molecular generation** [2026]  
  Haotian Chen, Yiting Shen, Jichun Li, Weizhong Zhao.  
@@ -4482,6 +4500,12 @@ Yang, R., Zhou, H., Wang, F. et al.
 
 ### Linkers-based DMGs
 
+
+
+
+* **Unified modeling of 3D molecular generation via atomic interactions with PocketXMol** [2026]  
+ Peng, X., Guo, R., Guo, F., Wang, Z., Sun, J., Guan, J., Jia, Y., Xu, Y., Huang, Y., Zhang, M. and Peng, J.  
+  [Cell (2026)](https://doi.org/10.1016/j.cell.2026.01.003) |  [code](https://github.com/pengxingang/PocketXMol)  
 
 * **Growing and Linking Optimizers: Synthesis-driven Molecule Design** [2025]  
 Descamps C, Bouttier V, Sanz García J, Perron Q, Tajmouati H.  
