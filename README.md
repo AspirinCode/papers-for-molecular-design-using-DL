@@ -4313,6 +4313,11 @@ ZHANG Z, Liu Q.
 
 
 
+
+* **Precision fragment addition: domain-specific DeepFrag2 models for smarter lead optimization** [2026]  
+ García-Jacas, César R., Harrison Green, Shayne D. Wierbowski, and Jacob D. Durrant.  
+  [Digital Discovery (2026)](https://doi.org/10.1039/D5DD00425J) |  [code](https://github.com/durrantlab/deepfrag2)  
+
 * **Unified modeling of 3D molecular generation via atomic interactions with PocketXMol** [2026]  
  Peng, X., Guo, R., Guo, F., Wang, Z., Sun, J., Guan, J., Jia, Y., Xu, Y., Huang, Y., Zhang, M. and Peng, J.  
   [Cell (2026)](https://doi.org/10.1016/j.cell.2026.01.003) |  [code](https://github.com/pengxingang/PocketXMol)  
