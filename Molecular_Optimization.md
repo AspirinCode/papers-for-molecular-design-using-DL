@@ -75,6 +75,14 @@ https://pubchem.ncbi.nlm.nih.gov/
 
 
 
+* **Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes**  [2026]  
+ Xing, J., Tan, M., Leshchiner, D., Sun, M., Abdelgied, M., Huang, L., Paithankar, S., Uhl, K., Shankar, R., Lisabeth, E. and Aleiwi, B.  
+  [Cell (2026)](https://doi.org/10.1016/j.cell.2026.02.016) | [code](https://github.com/Bin-Chen-Lab/GPS)  
+
+* **Unified modeling of 3D molecular generation via atomic interactions with PocketXMol** [2026]  
+ Peng, X., Guo, R., Guo, F., Wang, Z., Sun, J., Guan, J., Jia, Y., Xu, Y., Huang, Y., Zhang, M. and Peng, J.  
+  [Cell (2026)](https://doi.org/10.1016/j.cell.2026.01.003) |  [code](https://github.com/pengxingang/PocketXMol)  
+
 * **Finding Balance: Multi-Objective Optimization in Molecular Generative Modeling** [2025]  
   Landolfi L, Catalanotti B, Janet JP.  
   [ChemRxiv. (2025)](https://doi.org/10.1016/j.eswa.2023.120592)  
@@ -349,6 +357,11 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
+
+
+* **Precision fragment addition: domain-specific DeepFrag2 models for smarter lead optimization** [2026]  
+ García-Jacas, César R., Harrison Green, Shayne D. Wierbowski, and Jacob D. Durrant.  
+  [Digital Discovery (2026)](https://doi.org/10.1039/D5DD00425J) |  [code](https://github.com/durrantlab/deepfrag2)  
 
 * **FragOPT: An ML-Driven Computational Workflow for Rational Fragments Optimization Toward Lead Compounds** [2025]  
 Xiaoyan Wu, Luming Meng, Jianqiang Zheng, Junwen Huang, Yongbin Huang, Bingfeng Wang, Boping Liu, and Yulong Jin.  
