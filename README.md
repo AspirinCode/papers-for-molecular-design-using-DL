@@ -692,6 +692,11 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 
 
+
+* **Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes**  [2026]  
+ Xing, J., Tan, M., Leshchiner, D., Sun, M., Abdelgied, M., Huang, L., Paithankar, S., Uhl, K., Shankar, R., Lisabeth, E. and Aleiwi, B.  
+  [Cell (2026)](https://doi.org/10.1016/j.cell.2026.02.016) | [code](https://github.com/Bin-Chen-Lab/GPS)  
+
 * **Unified modeling of 3D molecular generation via atomic interactions with PocketXMol** [2026]  
  Peng, X., Guo, R., Guo, F., Wang, Z., Sun, J., Guan, J., Jia, Y., Xu, Y., Huang, Y., Zhang, M. and Peng, J.  
   [Cell (2026)](https://doi.org/10.1016/j.cell.2026.01.003) |  [code](https://github.com/pengxingang/PocketXMol)  
@@ -4660,6 +4665,11 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+
+
+* **Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes**  [2026]  
+ Xing, J., Tan, M., Leshchiner, D., Sun, M., Abdelgied, M., Huang, L., Paithankar, S., Uhl, K., Shankar, R., Lisabeth, E. and Aleiwi, B.  
+  [Cell (2026)](https://doi.org/10.1016/j.cell.2026.02.016) | [code](https://github.com/Bin-Chen-Lab/GPS)  
 
 * **Transcriptome-Conditioned Personalized De Novo Drug Generation for AML Using Metaheuristic Assembly and Target-Driven Filtering**  [2025]  
  Abdullah G. Elafifi, Basma Mamdouh, Mariam Hanafy, Muhammed Alaa Eldin, Yosef Khaled, Nesma Mohamed El-Gelany, Tarek H.M. Abou-El-Enien.  
