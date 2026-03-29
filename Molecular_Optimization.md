@@ -250,6 +250,9 @@ Huang, Lei.
 
 ### RL-based
 
+
+
+
 * **Molecular generation strategy and optimization based on A2C reinforcement learning in de novo drug design** [2023]   
   Wang, Qian, Zhiqiang Wei, Xiaotong Hu, Zhuoya Wang, Yujie Dong, and Hao Liu.   
   [Bioinformatics: btad693.  (2023)](https://doi.org/10.1093/bioinformatics/btad693) |  [code](https://github.com/wq-sunshine/MomdTDSRL) 
@@ -326,6 +329,11 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 ### Large Language Model-based
 
 
+
+
+* **MolEvolve: LLM-Guided Evolutionary Search for Interpretable Molecular Optimization** [2026]  
+Xiangsen Chen, Ruilong Wu, Yanyan Lan, Ting Ma, Yang Liu.  
+[arXiv:2603.24382 (2026)](https://doi.org/10.48550/arXiv.2603.24382)  
 
 * **Large Language Models for Controllable Multi-property Multi-objective Molecule Optimization** [2025]   
  Dey, Vishal, Xiao Hu, and Xia Ning.  
