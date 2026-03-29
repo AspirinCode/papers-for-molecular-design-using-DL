@@ -3081,6 +3081,13 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+
+
+
+* **MolEvolve: LLM-Guided Evolutionary Search for Interpretable Molecular Optimization** [2026]  
+Xiangsen Chen, Ruilong Wu, Yanyan Lan, Ting Ma, Yang Liu.  
+[arXiv:2603.24382 (2026)](https://doi.org/10.48550/arXiv.2603.24382)  
+
 * **RosettaAMRLD: A Reaction-Driven Approach for Structure-Based Drug Design from Combinatorial Libraries with Monte Carlo Metropolis Algorithms** [2025]  
 Yidan Tang, Rocco Moretti, and Jens Meiler.  
 [J. Chem. Inf. Model. (2025)](https://doi.org/10.1021/acs.jcim.5c00497) | [code](https://github.com/RosettaCommons/rosetta/tree/main/source/src/protocols/drug_design)  
@@ -3275,6 +3282,10 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
+
+* **MolEvolve: LLM-Guided Evolutionary Search for Interpretable Molecular Optimization** [2026]  
+Xiangsen Chen, Ruilong Wu, Yanyan Lan, Ting Ma, Yang Liu.  
+[arXiv:2603.24382 (2026)](https://doi.org/10.48550/arXiv.2603.24382)  
 
 * **LLMsFold: Integrating Large Language Models and Biophysical Simulations for De Novo Drug Design** [2026]   
 Wageesha Widuranga, Fabio Bove, Dario Righelli, Salvatore Romano, Rosa Visone, Marilena V. Iorio, Pietro Lio, Cristian Taccioli.  
