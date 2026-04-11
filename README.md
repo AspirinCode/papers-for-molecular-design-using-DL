@@ -2102,7 +2102,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **A diffusion-based framework for designing molecules in flexible protein pockets** [2026]  
+ Jian Wang et al.  
+  [Sci. Adv. (2026)](https://doi.org/10.1126/sciadv.aeb7045) |  [code](https://github.com/dokhlab/yuel_design)  
 
 * **Unified modeling of 3D molecular generation via atomic interactions with PocketXMol** [2026]  
  Peng, X., Guo, R., Guo, F., Wang, Z., Sun, J., Guan, J., Jia, Y., Xu, Y., Huang, Y., Zhang, M. and Peng, J.  
