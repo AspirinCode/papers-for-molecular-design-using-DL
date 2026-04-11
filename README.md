@@ -3679,7 +3679,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **LigandForge: A Web Server for Structure-Guided De Novo Drug Design** [2026]  
+ Hossam Nada, Levente Sipos-Szabó, Dávid Bajusz, György M. Keserű, Moustafa Gabr.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.03.31.715741) |  [code](https://github.com/HTS-Oracle/LigandForge)  
 
 * **Unified modeling of 3D molecular generation via atomic interactions with PocketXMol** [2026]  
  Peng, X., Guo, R., Guo, F., Wang, Z., Sun, J., Guan, J., Jia, Y., Xu, Y., Huang, Y., Zhang, M. and Peng, J.  
