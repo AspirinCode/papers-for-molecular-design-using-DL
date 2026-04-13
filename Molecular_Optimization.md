@@ -331,6 +331,11 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 
 
+
+* **Structural optimization of drug molecules with incrementally trained language models** [2026]   
+ Hörmann, T., Mayer, D., Lewandowski, M. et al.  
+  [Nat Commun (2026)](https://doi.org/10.1038/s41467-026-71591-w) |  [code](https://github.com/AkMerk/incremental-clm/)  
+
 * **MolEvolve: LLM-Guided Evolutionary Search for Interpretable Molecular Optimization** [2026]  
 Xiangsen Chen, Ruilong Wu, Yanyan Lan, Ting Ma, Yang Liu.  
 [arXiv:2603.24382 (2026)](https://doi.org/10.48550/arXiv.2603.24382)  
