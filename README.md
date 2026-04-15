@@ -2102,6 +2102,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **CAGenMol: Condition-Aware Diffusion Language Model for Goal-Directed Molecular Generation** [2026]  
+ Yanting Li, Zhuoyang Jiang, Enyan Dai, Lei Wang, Wen-Cai Ye, Li Liu.  
+  [arXiv:2604.11483 (2026)](https://doi.org/10.48550/arXiv.2604.11483) |  [code](https://github.com/Lee612-1/CAGenMol)  
+
 * **A diffusion-based framework for designing molecules in flexible protein pockets** [2026]  
  Jian Wang et al.  
   [Sci. Adv. (2026)](https://doi.org/10.1126/sciadv.aeb7045) |  [code](https://github.com/dokhlab/yuel_design)  
