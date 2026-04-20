@@ -988,6 +988,11 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+* **Scalable and Generalizable Analog Design via Learning Medicinal Chemistry Intuition from Matched Molecular Pair Transformations** [2026]   
+Pang, H.W., Zhang, P.Z., Pan, B., Zhao, L., Yu, X. and Zhang, L.  
+  [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15001722/v1)  
+
 * **Sample-efficient generative molecular design using memory manipulation** [2026]   
 Guo, J., Chen, J., GX-Chen, A. et al.  
   [Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01200-4) |  [code](https://github.com/schwallergroup/saturn/tree/master/experimental_reproduction)  
@@ -2618,6 +2623,12 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+
+* **Steering semi-flexible molecular diffusion model for structure-based drug design with reinforcement learning** [2026]  
+ Zhang, Xudong, Sanqing Qu, Fan Lu, Jianmin Wang, Zhixin Tian, Shangding Gu, Yanping Zhang et al.  
+  [Sci. Adv. (2026)](https://doi.org/10.1126/sciadv.ady9955) |  [code](https://github.com/ispc-lab/SeFMol)  
+
 * **Sample-efficient generative molecular design using memory manipulation** [2026]   
 Guo, J., Chen, J., GX-Chen, A. et al.  
   [Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01200-4) |  [code](https://github.com/schwallergroup/saturn/tree/master/experimental_reproduction)  
@@ -3690,6 +3701,12 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+
+* **Steering semi-flexible molecular diffusion model for structure-based drug design with reinforcement learning** [2026]  
+ Zhang, Xudong, Sanqing Qu, Fan Lu, Jianmin Wang, Zhixin Tian, Shangding Gu, Yanping Zhang et al.  
+  [Sci. Adv. (2026)](https://doi.org/10.1126/sciadv.ady9955) |  [code](https://github.com/ispc-lab/SeFMol)  
 
 * **LigandForge: A Web Server for Structure-Guided De Novo Drug Design** [2026]  
  Hossam Nada, Levente Sipos-Szabó, Dávid Bajusz, György M. Keserű, Moustafa Gabr.  
