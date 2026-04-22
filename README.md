@@ -2625,6 +2625,12 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+
+* **Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design** [2026]   
+ Shriram Chennakesavalu, Kirill Shmilovich, Hayley Weir, Colin Grambow, John Bradshaw, Patricia Suriana, Chen Cheng, Kangway Chuang.  
+  [arXiv:2604.16279 (2026)](https://doi.org/10.48550/arXiv.2604.16279)  
+
 * **Steering semi-flexible molecular diffusion model for structure-based drug design with reinforcement learning** [2026]  
  Zhang, Xudong, Sanqing Qu, Fan Lu, Jianmin Wang, Zhixin Tian, Shangding Gu, Yanping Zhang et al.  
   [Sci. Adv. (2026)](https://doi.org/10.1126/sciadv.ady9955) |  [code](https://github.com/ispc-lab/SeFMol)  
@@ -3301,6 +3307,11 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
+
+
+* **Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design** [2026]   
+ Shriram Chennakesavalu, Kirill Shmilovich, Hayley Weir, Colin Grambow, John Bradshaw, Patricia Suriana, Chen Cheng, Kangway Chuang.  
+  [arXiv:2604.16279 (2026)](https://doi.org/10.48550/arXiv.2604.16279)  
 
 * **Structural optimization of drug molecules with incrementally trained language models** [2026]   
  Hörmann, T., Mayer, D., Lewandowski, M. et al.  
