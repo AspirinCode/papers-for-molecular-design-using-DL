@@ -3713,7 +3713,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **Revisiting Target-Aware de novo Molecular Generation with TarPass: Between Rational Design and Texas Sharpshooter** [2026]  
+ R.Qin, Z.Chen, Y.Li, et al.  
+  [Advanced Science (2026)](https://doi.org/10.1002/advs.75411) |  [code](https://github.com/sorui-qin/TarPass)  
 
 * **Steering semi-flexible molecular diffusion model for structure-based drug design with reinforcement learning** [2026]  
  Zhang, Xudong, Sanqing Qu, Fan Lu, Jianmin Wang, Zhixin Tian, Shangding Gu, Yanping Zhang et al.  
