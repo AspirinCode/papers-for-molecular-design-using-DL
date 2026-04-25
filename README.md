@@ -989,6 +989,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+* **Structure-guided molecular design with contrastive 3D protein-ligand learning** [2026]  
+Carles Navarro, Philipp Tholke, Gianni de Fabritiis.  
+  [arXiv:2604.19562 (2026)](https://doi.org/10.48550/arXiv.2604.19562)  
+
 * **Scalable and Generalizable Analog Design via Learning Medicinal Chemistry Intuition from Matched Molecular Pair Transformations** [2026]   
 Pang, H.W., Zhang, P.Z., Pan, B., Zhao, L., Yu, X. and Zhang, L.  
   [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15001722/v1)  
@@ -3712,6 +3716,15 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+
+
+
+
+* **Structure-guided molecular design with contrastive 3D protein-ligand learning** [2026]  
+Carles Navarro, Philipp Tholke, Gianni de Fabritiis.  
+  [arXiv:2604.19562 (2026)](https://doi.org/10.48550/arXiv.2604.19562)  
 
 * **Revisiting Target-Aware de novo Molecular Generation with TarPass: Between Rational Design and Texas Sharpshooter** [2026]  
  R.Qin, Z.Chen, Y.Li, et al.  
