@@ -2112,6 +2112,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+* **BiMol-Diff: A Unified Diffusion Framework for Molecular Generation and Captioning** [2026]  
+ Aditya Hemant Shahane, Anuj Kumar Sirohi, Devansh Arora, Nitin Kumar, Prathosh A P, Sandeep Kumar.  
+  [arXiv:2604.24089 (2026)](https://doi.org/10.48550/arXiv.2604.24089) |  [code](https://github.com/adityashahane10/BiMol-Diff-Unified-Diffusion-Framework-for-Molecular-Generation-and-Captioning)  
+
 * **CAGenMol: Condition-Aware Diffusion Language Model for Goal-Directed Molecular Generation** [2026]  
  Yanting Li, Zhuoyang Jiang, Enyan Dai, Lei Wang, Wen-Cai Ye, Li Liu.  
   [arXiv:2604.11483 (2026)](https://doi.org/10.48550/arXiv.2604.11483) |  [code](https://github.com/Lee612-1/CAGenMol)  
