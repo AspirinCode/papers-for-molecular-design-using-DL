@@ -2629,7 +2629,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
-
+* **SyntheMol-RL: a flexible reinforcement learning framework for designing easily synthesizable antibiotics** [2026]  
+ Swanson, K., Liu, G., Catacutan, D.B. et al.  
+  [Mol Syst Biol (2026)](https://doi.org/10.1038/s44320-026-00206-9) |  [code](https://github.com/swansonk14/SyntheMol)  
 
 * **Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design** [2026]   
  Shriram Chennakesavalu, Kirill Shmilovich, Hayley Weir, Colin Grambow, John Bradshaw, Patricia Suriana, Chen Cheng, Kangway Chuang.  
