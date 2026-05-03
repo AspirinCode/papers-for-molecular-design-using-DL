@@ -2635,6 +2635,11 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+* **AI-MedCraft: A Strategy-Driven AI Platform for Multi-Objective Molecular Design** [2026]  
+ Khaled Barakat, Michael Jordy Rojas Ruiz, Hazem Ahmed, Ehsan Shahini, and Yomna Barakat.  
+  [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00329)  
+
 * **SyntheMol-RL: a flexible reinforcement learning framework for designing easily synthesizable antibiotics** [2026]  
  Swanson, K., Liu, G., Catacutan, D.B. et al.  
   [Mol Syst Biol (2026)](https://doi.org/10.1038/s44320-026-00206-9) |  [code](https://github.com/swansonk14/SyntheMol)  
