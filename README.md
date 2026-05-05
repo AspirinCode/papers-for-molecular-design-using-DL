@@ -989,6 +989,11 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+* **ANNalog: generation of MedChem-similar molecules** [2026]  
+Dai, W., Tyzack, J.D., Fornili, A. et al.  
+  [J Cheminform 18, 53 (2026)](https://doi.org/10.1186/s13321-026-01186-6) |  [code](https://github.com/DVNecromancer/ANNalog)  
+
 * **Structure-guided molecular design with contrastive 3D protein-ligand learning** [2026]  
 Carles Navarro, Philipp Tholke, Gianni de Fabritiis.  
   [arXiv:2604.19562 (2026)](https://doi.org/10.48550/arXiv.2604.19562)  
