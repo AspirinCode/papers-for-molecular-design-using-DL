@@ -2112,7 +2112,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules** [2026]  
+ Ruiz-Botella, M., Sales-Pardo, M. & Guimerà, R.  
+  [Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01229-5) |  [code](https://github.com/manurubo/CoCoGraph/tree/main)  
 
 * **BiMol-Diff: A Unified Diffusion Framework for Molecular Generation and Captioning** [2026]  
  Aditya Hemant Shahane, Anuj Kumar Sirohi, Devansh Arora, Nitin Kumar, Prathosh A P, Sandeep Kumar.  
