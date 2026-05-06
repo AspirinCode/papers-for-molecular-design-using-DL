@@ -2111,11 +2111,24 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+
+
 ### Diffusion-based
 
 
 
 
+
+
+
+
+
+
+* **Structural Hotspot Conditioning for Diffusion-Based Molecular Design** [2026]  
+ Diego Masone, Marcelo Caparotta.  
+  [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15002634/v1) |  [code](https://github.com/doesm/PocketHotspot)  
 
 * **A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules** [2026]  
  Ruiz-Botella, M., Sales-Pardo, M. & Guimerà, R.  
@@ -3732,6 +3745,8 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
 ## Structure-based deep molecular generative models
 
 
@@ -3741,6 +3756,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+* **Structural Hotspot Conditioning for Diffusion-Based Molecular Design** [2026]  
+ Diego Masone, Marcelo Caparotta.  
+  [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15002634/v1) |  [code](https://github.com/doesm/PocketHotspot)  
 
 * **Structure-guided molecular design with contrastive 3D protein-ligand learning** [2026]  
 Carles Navarro, Philipp Tholke, Gianni de Fabritiis.  
