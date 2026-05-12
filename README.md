@@ -3344,7 +3344,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
-
+* **SmileyLlama: modifying large language models for directed chemical space exploration** [2026]   
+ Cavanagh, J.M., Sun, K., Gritsevskiy, A. et al.  
+  [Nat Comput Sci (2026)](https://doi.org/10.1038/s43588-026-00986-y) |  [code](http://github.com/THGLab/SmileyLlama)  
 
 * **Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design** [2026]   
  Shriram Chennakesavalu, Kirill Shmilovich, Hayley Weir, Colin Grambow, John Bradshaw, Patricia Suriana, Chen Cheng, Kangway Chuang.  
