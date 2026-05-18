@@ -3344,6 +3344,12 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
+
+
+* **ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery** [2026]  
+ Andrew Y. Zhou, Sharvaree Vadgama, Sumanth Varambally, Peter Eckmann, Michael K. Gilson, Rose Yu.  
+  [arXiv:2605.12784 (2026)](https://doi.org/10.48550/arXiv.2605.12784)  
+
 * **SmileyLlama: modifying large language models for directed chemical space exploration** [2026]   
  Cavanagh, J.M., Sun, K., Gritsevskiy, A. et al.  
   [Nat Comput Sci (2026)](https://doi.org/10.1038/s43588-026-00986-y) |  [code](http://github.com/THGLab/SmileyLlama)  
@@ -3478,9 +3484,20 @@ Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen
 
 
 
+
+
+* **ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery** [2026]  
+ Andrew Y. Zhou, Sharvaree Vadgama, Sumanth Varambally, Peter Eckmann, Michael K. Gilson, Rose Yu.  
+  [arXiv:2605.12784 (2026)](https://doi.org/10.48550/arXiv.2605.12784)  
+
 * **MT-Mol: Multi Agent System with Tool-based Reasoning for Molecular Optimization** [2025]  
  Hyomin Kim, Yunhui Jang, Sungsoo Ahn.  
   [Findings of the Association for Computational Linguistics: EMNLP 2025 (2025)](https://doi.org/10.18653/v1/2025.findings-emnlp.619)  
+
+
+
+
+
 
 
 
