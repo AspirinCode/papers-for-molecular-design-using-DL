@@ -990,6 +990,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+* **From Holo Pockets to Electron Density: GPT-style Drug Design with Density** [2026]  
+Jiahao Chen, Letian Gao, Yanhao Zhu, Wenbiao Zhou, Bing Su, Zhi John Lu, Bo Huang.  
+  [arXiv:2605.08767 (2026)](https://doi.org/10.48550/arXiv.2605.08767) |  [code](https://github.com/JiahaoChen1/EDMolGPT)  
+
 * **ANNalog: generation of MedChem-similar molecules** [2026]  
 Dai, W., Tyzack, J.D., Fornili, A. et al.  
   [J Cheminform 18, 53 (2026)](https://doi.org/10.1186/s13321-026-01186-6) |  [code](https://github.com/DVNecromancer/ANNalog)  
@@ -2125,6 +2131,13 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+* **Diffusion-Based Generative Model With Scaffold-Hopping Strategy Yields Highly Potent Bioactive Molecules** [2026]  
+ Yang, Yuwei, Xiaoqing Gong, Shukai Gu, Jing Li, Bo Liu, Yanan Tian, Qianqian Zhang, Xiaojun Yao, and Huanxiang Liu.  
+  [Advanced Science (2026)](https://doi.org/10.1002/advs.75674)  
+
+* **Fine-tuning Pocket-Aware Diffusion Models via Denoising Policy Optimization** [2026]  
+ Yuan Xue, Daniel Kudenko, Megha Khosla.  
+  [arXiv:2605.17693 (2026)](https://doi.org/10.48550/arXiv.2605.17693) |  [code](https://github.com/xy9485/DePPA)  
 
 * **Structural Hotspot Conditioning for Diffusion-Based Molecular Design** [2026]  
  Diego Masone, Marcelo Caparotta.  
@@ -3775,6 +3788,10 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+* **Fine-tuning Pocket-Aware Diffusion Models via Denoising Policy Optimization** [2026]  
+ Yuan Xue, Daniel Kudenko, Megha Khosla.  
+  [arXiv:2605.17693 (2026)](https://doi.org/10.48550/arXiv.2605.17693) |  [code](https://github.com/xy9485/DePPA)  
 
 * **Structural Hotspot Conditioning for Diffusion-Based Molecular Design** [2026]  
  Diego Masone, Marcelo Caparotta.  
