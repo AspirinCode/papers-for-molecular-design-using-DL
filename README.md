@@ -4827,6 +4827,7 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+
 ## Omics-based deep molecular generative models
 
 
@@ -4835,6 +4836,9 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+* **Phenotypic AI-based design of cell-specific small molecule cytotoxics**  [2026]  
+ Rojas-Granado, G., Sánchez-Soto, M., Calahorra, J. et al.  
+  [Commun Chem (2026)](https://doi.org/10.1038/s42004-026-02071-x)  
 
 * **Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes**  [2026]  
  Xing, J., Tan, M., Leshchiner, D., Sun, M., Abdelgied, M., Huang, L., Paithankar, S., Uhl, K., Shankar, R., Lisabeth, E. and Aleiwi, B.  
