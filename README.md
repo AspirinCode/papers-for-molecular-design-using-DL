@@ -2090,6 +2090,12 @@ Gnaneshwar, Dwaraknath, et al.
 
 
 
+
+
+* **Generating Physically Consistent Molecules with Energy-Based Models**   [2026]   
+Christoph Griesbacher, Lea Bogensperger, Andreas Habring, Thomas Pock.   
+[arXiv:2605.18381 (2026)](https://doi.org/10.48550/arXiv.2605.18381) |  [code](https://github.com/griesbchr/EBMol)  
+
 * **Unsupervised Discovery of Steerable Factors When Graph Deep Generative Models Are Entangled**   [2024]   
 Liu, Shengchao, Chengpeng Wang, Jiarui Lu, Weili Nie, Hanchen Wang, Zhuoxinran Li, Bolei Zhou, and Jian Tang.   
 [Transactions on Machine Learning Research (2024)](https://openreview.net/forum?id=wyU3Q4gahM) |  [code](https://github.com/chao1224/GraphCG)  
@@ -3359,6 +3365,14 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
+
+
+
+
+* **SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?** [2026]  
+ Kevin Han, Renfei Zhang, Kathy Wei, Hamed Mahdavi, Niloofar Mireshghallah, Amir Farimani.  
+  [arXiv:2605.21740 (2026)](https://doi.org/10.48550/arXiv.2605.21740)  
+
 * **ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery** [2026]  
  Andrew Y. Zhou, Sharvaree Vadgama, Sumanth Varambally, Peter Eckmann, Michael K. Gilson, Rose Yu.  
   [arXiv:2605.12784 (2026)](https://doi.org/10.48550/arXiv.2605.12784)  
@@ -3788,6 +3802,13 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+
+
+* **ConGen: Targeted Molecule Generation Through Contrastive Learning and Latent Optimization** [2026]  
+ Koban, Can, Gökçe Uludoğan, Elif Ozkirimli, and Arzucan Özgür.  
+  [Molecular Informatics (2026)](https://doi.org/10.1002/minf.70038) |  [code](https://github.com/microsoft/molecule-generation)  
 
 * **Fine-tuning Pocket-Aware Diffusion Models via Denoising Policy Optimization** [2026]  
  Yuan Xue, Daniel Kudenko, Megha Khosla.  
