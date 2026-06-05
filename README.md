@@ -3357,6 +3357,7 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
+
 ### Large Language Model-based
 
 
@@ -3368,6 +3369,10 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
+
+* **Probe Before You Edit: Probing-Guided Molecular Optimization for LLM Agents in Structure-Based Drug Design** [2026]  
+ Zaifei Yang, Weiyu Chen, Yaqing Wang, James Kwok.  
+  [arXiv:2606.00555 (2026)](https://doi.org/10.48550/arXiv.2606.00555)  
 
 * **SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?** [2026]  
  Kevin Han, Renfei Zhang, Kathy Wei, Hamed Mahdavi, Niloofar Mireshghallah, Amir Farimani.  
@@ -3804,7 +3809,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **Probe Before You Edit: Probing-Guided Molecular Optimization for LLM Agents in Structure-Based Drug Design** [2026]  
+ Zaifei Yang, Weiyu Chen, Yaqing Wang, James Kwok.  
+  [arXiv:2606.00555 (2026)](https://doi.org/10.48550/arXiv.2606.00555)  
 
 * **ConGen: Targeted Molecule Generation Through Contrastive Learning and Latent Optimization** [2026]  
  Koban, Can, Gökçe Uludoğan, Elif Ozkirimli, and Arzucan Özgür.  
