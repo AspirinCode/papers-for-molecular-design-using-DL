@@ -2156,7 +2156,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Geometric Structure-Aware Diffusion Model with Self-Optimization Strategy for Molecular Generation** [2026]  
+ Wenfeng Du, Chunyan Tang, Guanghong Liu, Hui Sun, Jinxiong Zhang, and Cheng Zhong.  
+  [J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.5c02183)  
 
 * **Diffusion-Based Generative Model With Scaffold-Hopping Strategy Yields Highly Potent Bioactive Molecules** [2026]  
  Yang, Yuwei, Xiaoqing Gong, Shukai Gu, Jing Li, Bo Liu, Yanan Tian, Qianqian Zhang, Xiaojun Yao, and Huanxiang Liu.  
