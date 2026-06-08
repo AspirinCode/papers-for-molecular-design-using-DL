@@ -686,12 +686,22 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 
 
+
+
+
+
 ## Deep Learning-based drug design
 
 
 
 
 
+
+
+
+* **Generative Artificial Intelligence Optimization of Albumin Binders: Coumarin and Fatty Acid Derivatives**  [2026]  
+ Yihao Zhang, Qirui Deng, Xin Yang, Xinchen Yue, Huarui Zhang, Shijian Ding, Jinping Lei, Baoting Zhang, Sifan Yu, and Ge Zhang.  
+  [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c00296) | [code](https://github.com/Mirakit/Albumin-Binders)  
 
 * **Deep-learning-based de novo discovery and design of therapeutics that reverse disease-associated transcriptional phenotypes**  [2026]  
  Xing, J., Tan, M., Leshchiner, D., Sun, M., Abdelgied, M., Huang, L., Paithankar, S., Uhl, K., Shankar, R., Lisabeth, E. and Aleiwi, B.  
@@ -727,9 +737,20 @@ Ivanenkov, Yan A., Daniil Polykovskiy, Dmitry Bezrukov, Bogdan Zagribelnyy, Vlad
 
 
 
+
+
+
 ### RNN-based
 
 
+
+
+
+
+
+* **Generative Artificial Intelligence Optimization of Albumin Binders: Coumarin and Fatty Acid Derivatives**  [2026]  
+ Yihao Zhang, Qirui Deng, Xin Yang, Xinchen Yue, Huarui Zhang, Shijian Ding, Jinping Lei, Baoting Zhang, Sifan Yu, and Ge Zhang.  
+  [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c00296) | [code](https://github.com/Mirakit/Albumin-Binders)  
 
 * **A data-driven generative strategy to avoid reward hacking in multi-objective molecular design**  [2025]   
 Yoshizawa, T., Ishida, S., Sato, T. et al.  
@@ -2667,6 +2688,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+
+
 ### RL-based
 
 
@@ -2674,6 +2698,10 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+* **Generative Artificial Intelligence Optimization of Albumin Binders: Coumarin and Fatty Acid Derivatives**  [2026]  
+ Yihao Zhang, Qirui Deng, Xin Yang, Xinchen Yue, Huarui Zhang, Shijian Ding, Jinping Lei, Baoting Zhang, Sifan Yu, and Ge Zhang.  
+  [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c00296) | [code](https://github.com/Mirakit/Albumin-Binders)  
 
 * **AI-MedCraft: A Strategy-Driven AI Platform for Multi-Objective Molecular Design** [2026]  
  Khaled Barakat, Michael Jordy Rojas Ruiz, Hazem Ahmed, Ehsan Shahini, and Yomna Barakat.  
