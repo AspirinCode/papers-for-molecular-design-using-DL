@@ -3398,7 +3398,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
-
+* **LinkLlama: Enabling Large Language Model for Chemically Reasonable Linker Design** [2026]  
+ Kunyang Sun, Yingze Wang, Justin Purnomo, Joseph M. Cavanagh, Giovanni Battista Alteri, Teresa Head-Gordon.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.04.15.718690) |  [code](https://github.com/THGLab/LinkLlama)  
 
 * **Probe Before You Edit: Probing-Guided Molecular Optimization for LLM Agents in Structure-Based Drug Design** [2026]  
  Zaifei Yang, Weiyu Chen, Yaqing Wang, James Kwok.  
@@ -4709,10 +4711,23 @@ Yang, R., Zhou, H., Wang, F. et al.
 
 
 
+
+
+
+
+
 ### Linkers-based DMGs
 
 
 
+
+
+
+
+
+* **LinkLlama: Enabling Large Language Model for Chemically Reasonable Linker Design** [2026]  
+ Kunyang Sun, Yingze Wang, Justin Purnomo, Joseph M. Cavanagh, Giovanni Battista Alteri, Teresa Head-Gordon.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.04.15.718690) |  [code](https://github.com/THGLab/LinkLlama)  
 
 * **Unified modeling of 3D molecular generation via atomic interactions with PocketXMol** [2026]  
  Peng, X., Guo, R., Guo, F., Wang, Z., Sun, J., Guan, J., Jia, Y., Xu, Y., Huang, Y., Zhang, M. and Peng, J.  
