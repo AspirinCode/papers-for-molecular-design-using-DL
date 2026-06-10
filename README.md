@@ -5076,11 +5076,23 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+
+
+
+
+
 ## Deep Learning-based material design
 
 
 
 
+
+
+
+
+* **Navigating polymorph generation and distilled-potential development via entropy-symmetry landscapes for metal plasticity mechanisms** [2026]  
+Li, Z., Liu, T., Wan, X. et al.  
+[Nat Commun 17, 5070 (2026)](https://doi.org/10.1038/s41467-026-73188-9) | [code](https://github.com/LZYUCL/PolymorphGen)  
 
 * **The Rise of Generative AI for Metal-Organic Framework Design and Synthesis**  [2025]   
  Chenru Duan, Aditya Nandy, Shyam Chand Pal, Xin Yang, Wenhao Gao, Yuanqi Du, Hendrik Kraß, Yeonghun Kang, Varinia Bernales, Zuyang Ye, Tristan Pyle, Ray Yang, Zeqi Gu, Philippe Schwaller, Shengqian Ma, Shijing Sun, Alán Aspuru-Guzik, Seyed Mohamad Moosavi, Robert Wexler, Zhiling Zheng.   
