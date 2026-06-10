@@ -1013,6 +1013,13 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+
+* **VeGA-RX and VeGA-SCX: Controllable SMARTS-Guided Generative Transformers for Precision-Driven De Novo Drug Design** [2026]  
+Pietro Delre, Giada Bellofatto, and Antonio Lavecchia.  
+  [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c00535) |  [code](https://github.com/piedelre93/VeGA-RX)  
+
 * **From Holo Pockets to Electron Density: GPT-style Drug Design with Density** [2026]  
 Jiahao Chen, Letian Gao, Yanhao Zhu, Wenbiao Zhou, Bing Su, Zhi John Lu, Bo Huang.  
   [arXiv:2605.08767 (2026)](https://doi.org/10.48550/arXiv.2605.08767) |  [code](https://github.com/JiahaoChen1/EDMolGPT)  
