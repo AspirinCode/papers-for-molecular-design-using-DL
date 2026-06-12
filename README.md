@@ -699,6 +699,11 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 
 
+
+* **Bridging Generative AI and Synthesis-on-Demand Chemical Spaces for Structure-based De Novo Drug Design**  [2026]  
+ Cosmin Ichim, Viet-Khoa Tran-Nguyen, Pedro J. Ballester.  
+  [ChemRxiv.(2026)](https://doi.org/10.26434/chemrxiv.15004553/v1) | [code](https://github.com/Cosmo571/rl-for-sbdd-similarity-search-code)  
+
 * **Generative Artificial Intelligence Optimization of Albumin Binders: Coumarin and Fatty Acid Derivatives**  [2026]  
  Yihao Zhang, Qirui Deng, Xin Yang, Xinchen Yue, Huarui Zhang, Shijian Ding, Jinping Lei, Baoting Zhang, Sifan Yu, and Ge Zhang.  
   [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c00296) | [code](https://github.com/Mirakit/Albumin-Binders)  
@@ -3846,7 +3851,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **Bridging Generative AI and Synthesis-on-Demand Chemical Spaces for Structure-based De Novo Drug Design**  [2026]  
+ Cosmin Ichim, Viet-Khoa Tran-Nguyen, Pedro J. Ballester.  
+  [ChemRxiv.(2026)](https://doi.org/10.26434/chemrxiv.15004553/v1) | [code](https://github.com/Cosmo571/rl-for-sbdd-similarity-search-code)  
 
 * **Probe Before You Edit: Probing-Guided Molecular Optimization for LLM Agents in Structure-Based Drug Design** [2026]  
  Zaifei Yang, Weiyu Chen, Yaqing Wang, James Kwok.  
