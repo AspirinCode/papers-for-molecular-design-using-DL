@@ -2168,6 +2168,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+* **Uncertainty Estimation for Molecular Diffusion Models** [2026]  
+ Paul Seij, Christian A. Naesseth, Stephan Mandt, Metod Jazbec.  
+  [arXiv:2606.13451 (2026)](https://doi.org/10.48550/arXiv.2606.13451)  
+
 * **Geometric Structure-Aware Diffusion Model with Self-Optimization Strategy for Molecular Generation** [2026]  
  Wenfeng Du, Chunyan Tang, Guanghong Liu, Hui Sun, Jinxiong Zhang, and Cheng Zhong.  
   [J. Chem. Theory Comput.(2026)](https://doi.org/10.1021/acs.jctc.5c02183)  
