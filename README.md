@@ -3150,11 +3150,19 @@ Olivecrona, M., Blaschke, T., Engkvist, O. et al.
 
 
 
+
+
+
 ### Active Learning DMGs
 
 
 
 
+
+
+* **APOSM: Pairwise preference learning improves generative small-molecule design** [2026]   
+ Marcus W. Dreisler, Richard Michael, Nikos Hatzakis, Wouter Boomsma.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.06.06.730554)  
 
 * **Optimizing drug design by merging generative AI with a physics-based active learning framework** [2025]   
  Filella-Merce, I., Molina, A., Díaz, L. et al.  
@@ -3273,11 +3281,21 @@ Ishida, Shoichi, Tanuj Aasawat, Masato Sumita, Michio Katouda, Tatsuya Yoshizawa
 
 
 
+
+
+
+
 ### Genetic Algorithm-based
 
 
 
 
+
+
+
+* **APOSM: Pairwise preference learning improves generative small-molecule design** [2026]   
+ Marcus W. Dreisler, Richard Michael, Nikos Hatzakis, Wouter Boomsma.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.06.06.730554)  
 
 * **A Genetic Algorithm for Navigating Synthesizable Molecular Spaces**  [2026]   
  Lo, Alston, Connor W. Coley, and Wojciech Matusik.   
@@ -4532,10 +4550,18 @@ ZHANG Z, Liu Q.
 
 
 
+
+
 ### Fragment-based DMGs
 
 
 
+
+
+
+* **APOSM: Pairwise preference learning improves generative small-molecule design** [2026]   
+ Marcus W. Dreisler, Richard Michael, Nikos Hatzakis, Wouter Boomsma.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.06.06.730554)  
 
 * **Precision fragment addition: domain-specific DeepFrag2 models for smarter lead optimization** [2026]  
  García-Jacas, César R., Harrison Green, Shayne D. Wierbowski, and Jacob D. Durrant.  
