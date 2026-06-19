@@ -698,7 +698,9 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 
 
-
+* **Generative AI-Based Drug Design: Target-Aware Molecular Generation for EGFR Type I Inhibitors with Multiplatform Docking Validation**  [2026]  
+ Taqdees Khan, Young Beom Kwak, and Hee Cheol Kim.  
+  [ACS Omega (2026)](https://doi.org/10.1021/acsomega.5c13131) | [code](https://github.com/taqdeeskhan107/GenrativeAi-based-Drug-Design-for-EGFR-Type-1)  
 
 * **Bridging Generative AI and Synthesis-on-Demand Chemical Spaces for Structure-based De Novo Drug Design**  [2026]  
  Cosmin Ichim, Viet-Khoa Tran-Nguyen, Pedro J. Ballester.  
@@ -842,9 +844,17 @@ Yang, X., Zhang, J., Yoshizoe, K., Terayama, K., & Tsuda, K.
 
 
 
+
+
+
 ### LSTM-based
 
 
+
+
+* **Generative AI-Based Drug Design: Target-Aware Molecular Generation for EGFR Type I Inhibitors with Multiplatform Docking Validation**  [2026]  
+ Taqdees Khan, Young Beom Kwak, and Hee Cheol Kim.  
+  [ACS Omega (2026)](https://doi.org/10.1021/acsomega.5c13131) | [code](https://github.com/taqdeeskhan107/GenrativeAi-based-Drug-Design-for-EGFR-Type-1)  
 
 * **RFL: Simplifying Chemical Structure Recognition with Ring-Free Language** [2025]   
 Chang, Q., Chen, M., Pi, C., Hu, P., Zhang, Z., Ma, J., ... & Hu, J.   
