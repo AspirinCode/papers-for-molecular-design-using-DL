@@ -1029,7 +1029,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **OmniInvent: Unified Generative Chemical Language Models through Blank Infilling** [2026]  
+Nicklas Österbacka, Jon Paul Janet, Jiazhen He.  
+  [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15004669/v1)  
 
 * **VeGA-RX and VeGA-SCX: Controllable SMARTS-Guided Generative Transformers for Precision-Driven De Novo Drug Design** [2026]  
 Pietro Delre, Giada Bellofatto, and Antonio Lavecchia.  
