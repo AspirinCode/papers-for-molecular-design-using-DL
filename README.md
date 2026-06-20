@@ -375,6 +375,10 @@ https://github.com/LumosBio/MolData
 ### Benchmarks
 
 
+* **SynthLadder: A Synthesis-Focused Benchmark for Agentic Chemistry LLMs** [2026]  
+Sergei Nikolenko.  
+[code](https://github.com/SergeiNikolenko/SynthLadder)  
+
 
 * **Benchmarking Study of Deep Generative Models for Inverse Polymer Design** [2024]  
 Yue T, Tao L, Varshney V, Li Y.  
@@ -5384,6 +5388,5 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 * **Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists**  [2025]   
   Zhou, Lianhao, Hongyi Ling, Keqiang Yan, Kaiji Zhao, Xiaoning Qian, Raymundo Arróyave, Xiaofeng Qian, and Shuiwang Ji.  
   [arXiv:2506.05616 (2025)](https://arxiv.org/abs/2506.05616)  
-
 
 
