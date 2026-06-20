@@ -3939,6 +3939,10 @@ Carles Navarro, Philipp Tholke, Gianni de Fabritiis.
  Qin R, Chen Z, Li Y, Fang M, Shen L, Su Y, et al.  
   [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv-2026-dhdqk) |  [code](https://github.com/sorui-qin/TarPass)  
 
+* **Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking** [2025]  
+ Daria Frolova, Talgat Daulbaev, Egor Sevriugov, Sergei A. Nikolenko, Dmitry N. Ivankov, Ivan Oseledets, Marina A. Pak.  
+  [arXiv:2510.14586 (2025)](https://arxiv.org/abs/2510.14586) |  [code](https://github.com/LigandPro/Matcha)  
+
 * **SGEDiff: a subgraph-enriched diffusion model for structure-based 3D molecular generation** [2025]  
  Gong, C., Fang, J., Tang, Y. et al.  
   [J Cheminform 17, 175 (2025)](https://doi.org/10.1186/s13321-025-01123-z) |  [code](https://github.com/Luoacee/SGEDiff)  
@@ -5384,6 +5388,5 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 * **Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists**  [2025]   
   Zhou, Lianhao, Hongyi Ling, Keqiang Yan, Kaiji Zhao, Xiaoning Qian, Raymundo Arróyave, Xiaofeng Qian, and Shuiwang Ji.  
   [arXiv:2506.05616 (2025)](https://arxiv.org/abs/2506.05616)  
-
 
 
