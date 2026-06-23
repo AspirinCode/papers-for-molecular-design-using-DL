@@ -1027,7 +1027,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **Cost-effective federated molecular design with FedMol** [2026]  
+Dong T., You L. and Chen C.  
+  [The Innovation Drug Discovery (2026)](https://doi.org/10.59717/j.xinn-drugdisc.2026.100022)  
 
 * **OmniInvent: Unified Generative Chemical Language Models through Blank Infilling** [2026]  
 Nicklas Österbacka, Jon Paul Janet, Jiazhen He.  
