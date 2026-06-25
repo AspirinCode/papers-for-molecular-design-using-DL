@@ -375,6 +375,10 @@ https://github.com/LumosBio/MolData
 ### Benchmarks
 
 
+* **Bento: A Comprehensive Benchmark for Protein-Ligand Docking Methods** [2024]  
+LigandPro Team.  
+[software](https://github.com/LigandPro/Bento)  
+
 
 * **Benchmarking Study of Deep Generative Models for Inverse Polymer Design** [2024]  
 Yue T, Tao L, Varshney V, Li Y.  
