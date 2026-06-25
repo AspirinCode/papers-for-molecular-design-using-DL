@@ -2182,7 +2182,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Modular Framework for 3D Molecular Generation in Computational Chemistry Applications** [2026]  
+ Thanapat Worakul, Mohammed Azzouzi, Matthew D. Wodrich, and Clémence Corminboeuf.  
+  [J. Am. Chem. Soc. (2026)](https://doi.org/10.1021/jacs.5c19960) |  [code](https://github.com/lcmd-epfl/MolCraftDiffusion)  
 
 * **Uncertainty Estimation for Molecular Diffusion Models** [2026]  
  Paul Seij, Christian A. Naesseth, Stephan Mandt, Metod Jazbec.  
