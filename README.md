@@ -694,6 +694,9 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 
 
+
+
+
 ## Deep Learning-based drug design
 
 
@@ -701,6 +704,10 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 
 
+
+* **Facilitating structure-based drug discovery with an artificial intelligence-driven virtual screening platform**  [2026]  
+ Gu, S., Zhang, X., Xiao, M. et al.  
+  [Nat Protoc (2026)](https://doi.org/10.1038/s41596-026-01389-z) | [code](https://huggingface.co/gushukai/HierVS)  
 
 * **Generative AI-Based Drug Design: Target-Aware Molecular Generation for EGFR Type I Inhibitors with Multiplatform Docking Validation**  [2026]  
  Taqdees Khan, Young Beom Kwak, and Hee Cheol Kim.  
@@ -2185,6 +2192,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+
+* **Sesame: Structure-Aware Molecular Generation via Spatial Density-Map Conditioning** [2026]  
+ Konstantin Yatsenko, Arvind Thiagarajan.  
+  [arXiv:2606.23856 (2026)](https://doi.org/10.48550/arXiv.2606.23856)  
 
 * **Modular Framework for 3D Molecular Generation in Computational Chemistry Applications** [2026]  
  Thanapat Worakul, Mohammed Azzouzi, Matthew D. Wodrich, and Clémence Corminboeuf.  
@@ -5276,6 +5289,12 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+
+
+
+* **CrystalCGAIN: efficient generation and inverse design of porous crystal structures with target properties**  [2026]   
+ Cai, Z., Qin, G., Hu, S. et al.   
+  [npj Comput Mater (2026)](https://doi.org/10.1038/s41524-026-02138-2) |  [code](https://github.com/caize0401/CrystalCGAIN)  
 
 * **Generative Deep Learning-Aided Design of Flexible Molecular Crystals**  [2025]   
  Chenyang Zhao, Jiawei Lin, Yanbo Liu, Jianmin Zhou, Liang Li, Shi Tang, Jing Li, Songgu Wu, Panče Naumov, and Junbo Gong.   
