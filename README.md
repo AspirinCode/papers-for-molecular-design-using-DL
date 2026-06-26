@@ -2744,6 +2744,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+
+
 ### RL-based
 
 
@@ -2751,6 +2754,13 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+
+
+
+* **Discovery of TYR inhibitors from de novo molecular generation to dual-track lead optimization: “Competition” between AI and chemists** [2026]  
+ Yinyan Sun et al.  
+  [Sci. Adv. (2026)](https://doi.org/10.1126/sciadv.aeg0376) |  [code](https://github.com/jubin75/RL-syn-Tyr) |  [Zenodo](https://zenodo.org/records/19161421)  
 
 * **Generative Artificial Intelligence Optimization of Albumin Binders: Coumarin and Fatty Acid Derivatives**  [2026]  
  Yihao Zhang, Qirui Deng, Xin Yang, Xinchen Yue, Huarui Zhang, Shijian Ding, Jinping Lei, Baoting Zhang, Sifan Yu, and Ge Zhang.  
