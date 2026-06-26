@@ -955,6 +955,12 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
+
+
+* **OmniInvent: Unified Generative Chemical Language Models through Blank Infilling** [2026]  
+Nicklas Österbacka, Jon Paul Janet, Jiazhen He.  
+  [ChemRxiv.(2026)](https://doi.org/10.26434/chemrxiv.15004669/v1)  
+
 * **Sample-efficient generative molecular design using memory manipulation** [2026]   
 Guo, J., Chen, J., GX-Chen, A. et al.  
   [Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01200-4) |  [code](https://github.com/schwallergroup/saturn/tree/master/experimental_reproduction)  
