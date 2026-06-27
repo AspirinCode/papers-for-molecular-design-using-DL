@@ -606,6 +606,10 @@ Bergues, Noémie, Arthur Carré, Paul Join-Lambert, Brice Hoffmann, Arnaud Blond
 
 
 
+* **Scalable Low-Energy Molecular Conformer Generation with Quantum Mechanical Accuracy** [2025]  
+Filipp Nikitin, Dylan M. Anstine, Roman Zubatyuk, et alFilipp Nikitin, Dylan M. Anstine, Roman Zubatyuk, et al.  
+[ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-k4h7v/v2) |  [code](https://github.com/isayevlab/LoQI)  
+
 * **Sampling 3D Molecular Conformers with Diffusion Transformers** [2025]   
 Frank, J. T., Ripken, W., Lied, G., MÃžller, K. R., Unke, O. T., & Chmiela, S.   
 [arXiv:2506.15378 (2025)](https://arxiv.org/abs/2506.15378) |  [code](https://github.com/ML4MolSim/dit_mc)  
