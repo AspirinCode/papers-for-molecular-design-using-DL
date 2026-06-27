@@ -957,6 +957,12 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
+
+
+* **Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design** [2026]  
+Haoyu Lin, Yiyan Liao, Jinmei Pan, Xinliao Ling, Luhua Lai, Jianfeng Pei.  
+  [arXiv:2606.25865 (2026)](https://doi.org/10.48550/arXiv.2606.25865) |  [code](https://github.com/fairydance/Molexar)  
+
 * **OmniInvent: Unified Generative Chemical Language Models through Blank Infilling** [2026]  
 Nicklas Österbacka, Jon Paul Janet, Jiazhen He.  
   [ChemRxiv.(2026)](https://doi.org/10.26434/chemrxiv.15004669/v1)  
