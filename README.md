@@ -1045,6 +1045,8 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
 ###  Transformer-based
 
 
@@ -1053,6 +1055,13 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+
+
+* **Learning a chemistry-aware latent space for molecular encoding and generation with a large-scale Transformer Variational Autoencoder** [2026]   
+Hugo Talibart, Dimitri Gilis.  
+  [ J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01243-0) |  [bioRxiv (2025)](https://doi.org/10.64898/2025.12.19.695394) |  [code](https://github.com/3BioCompBio/chembed)  
 
 * **Cost-effective federated molecular design with FedMol** [2026]  
 Dong T., You L. and Chen C.  
@@ -1089,10 +1098,6 @@ Guo, J., Chen, J., GX-Chen, A. et al.
 * **LLMsFold: Integrating Large Language Models and Biophysical Simulations for De Novo Drug Design** [2026]   
 Wageesha Widuranga, Fabio Bove, Dario Righelli, Salvatore Romano, Rosa Visone, Marilena V. Iorio, Pietro Lio, Cristian Taccioli.  
   [bioRxiv (2026)](https://doi.org/10.64898/2026.03.02.709055) |  [code](https://github.com/tacclab)  
-
-* **Learning a chemistry-aware latent space for molecular encoding and generation with a large-scale Transformer Variational Autoencoder** [2025]   
-Hugo Talibart, Dimitri Gilis.  
-  [bioRxiv (2025)](https://doi.org/10.64898/2025.12.19.695394) |  [code](https://github.com/3BioCompBio/chembed)  
 
 * **NEAT: Neighborhood-Guided, Efficient, Autoregressive Set Transformer for 3D Molecular Generation** [2025]  
 Daniel Rose, Roxane Axel Jacob, Johannes Kirchmair, Thierry Langer.  
@@ -1516,13 +1521,13 @@ Li, C., Yamanishi, Y.
 
 
 
+* **Learning a chemistry-aware latent space for molecular encoding and generation with a large-scale Transformer Variational Autoencoder** [2026]   
+Hugo Talibart, Dimitri Gilis.  
+  [ J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01243-0) |  [bioRxiv (2025)](https://doi.org/10.64898/2025.12.19.695394) |  [code](https://github.com/3BioCompBio/chembed)  
+
 * **QSAR-Guided Generative Framework for the Discovery of Synthetically Viable Odorants** [2025]   
 Tim C. Pearce, Ahmed Ibrahim.  
   [arXiv:2512.23080 (2025)](https://doi.org/10.48550/arXiv.2512.23080)  
-
-* **Learning a chemistry-aware latent space for molecular encoding and generation with a large-scale Transformer Variational Autoencoder** [2025]   
-Hugo Talibart, Dimitri Gilis.  
-  [bioRxiv (2025)](https://doi.org/10.64898/2025.12.19.695394) |  [code](https://github.com/3BioCompBio/chembed)  
 
 * **Generative Multi-Objective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design** [2025]   
  Madhav R. Muthyala, Farshud Sorourifar, Tianhong Tan, You Peng, Joel A. Paulson.  
