@@ -961,7 +961,9 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
-
+* **Sampling out-of-distribution chemical spaces via Bayesian flow** [2026]  
+Tao, N., Abe, M.  
+  [ J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01248-9) |  [code](https://github.com/Augus1999/bayesian-flow-network-for-chemistry)  
 
 * **Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design** [2026]  
 Haoyu Lin, Yiyan Liao, Jinmei Pan, Xinliao Ling, Luhua Lai, Jianfeng Pei.  
@@ -1942,6 +1944,14 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 ### Flow-based
 
 
+
+
+
+
+* **Sampling out-of-distribution chemical spaces via Bayesian flow** [2026]  
+Tao, N., Abe, M.  
+  [ J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01248-9) |  [code](https://github.com/Augus1999/bayesian-flow-network-for-chemistry)  
+
 * **SynGFN: learning across chemical space with generative flow-based molecular discovery** [2025]  
 Zhu, Y., Li, S., Chen, J. et al.  
 [Nat Comput Sci (2025)](https://doi.org/10.48550/arXiv.2509.26405) |  [code](https://github.com/ChemloverYuchen/SynGFN)  
@@ -2777,7 +2787,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
-
+* **Sampling out-of-distribution chemical spaces via Bayesian flow** [2026]  
+Tao, N., Abe, M.  
+  [ J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01248-9) |  [code](https://github.com/Augus1999/bayesian-flow-network-for-chemistry)  
 
 * **Discovery of TYR inhibitors from de novo molecular generation to dual-track lead optimization: “Competition” between AI and chemists** [2026]  
  Yinyan Sun et al.  
