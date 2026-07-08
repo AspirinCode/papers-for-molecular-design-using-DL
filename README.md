@@ -4525,8 +4525,12 @@ Yangyang Chen, Zixu Wang, Lei Wang, Jianmin Wang, Pengyong Li, Dongsheng Cao, Xi
 
 
 
-* **Multi-objective drug design with a scaffold-aware variational autoencoder** [2025]   
-  Dong, Tiejun, Linlin You, and Calvin Yu-Chian Chen.   
+* **Scaffold-based evaluation metrics for fair comparison of molecular generators** [2025]  
+  Fil, V., Van Den Broek, R.L., Šícho, M. et al.  
+  [J Cheminform 18, 84 (2026)](https://doi.org/10.1186/s13321-026-01213-6) |  [code](https://github.com/filvaleriia/scaffold-based-metrics)  
+
+* **Multi-objective drug design with a scaffold-aware variational autoencoder** [2025]  
+  Dong, Tiejun, Linlin You, and Calvin Yu-Chian Chen.  
   [Chem. Sci. (2025)](https://doi.org/10.1039/D4SC08736D) |  [code](https://github.com/tiejundong/ScafVAE)  
 
 * **REINVENT4: Modern AI–Driven Generative Molecule Design** [2023]   
