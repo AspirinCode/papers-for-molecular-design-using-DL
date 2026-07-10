@@ -2181,6 +2181,12 @@ Gnaneshwar, Dwaraknath, et al.
 
 
 
+
+
+* **Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation**   [2026]   
+Michal Balcerak, Suprosanna Shit, Chinmay Prabhakar, Sebastian Kaltenbach, Michael S. Albergo, Yilun Du, Bjoern Menze.  
+[arXiv:2603.23398(2026)](https://doi.org/10.48550/arXiv.2603.23398) |  [code](https://github.com/m1balcerak/GraphEnergyMatching)  
+
 * **Generating Physically Consistent Molecules with Energy-Based Models**   [2026]   
 Christoph Griesbacher, Lea Bogensperger, Andreas Habring, Thomas Pock.   
 [arXiv:2605.18381 (2026)](https://doi.org/10.48550/arXiv.2605.18381) |  [code](https://github.com/griesbchr/EBMol)  
