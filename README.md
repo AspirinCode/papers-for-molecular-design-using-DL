@@ -961,6 +961,14 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
+
+
+
+
+* **Autoregressive latent diffusion for 3D molecule generation** [2026]  
+Federico Ottomano, Gaopeng Ren, Yingzhen Li, Kim E. Jelfs, Alex M. Ganose.  
+  [arXiv:2607.09277 (2026)](https://doi.org/10.48550/arXiv.2607.09277)  
+
 * **Sampling out-of-distribution chemical spaces via Bayesian flow** [2026]  
 Tao, N., Abe, M.  
   [ J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01248-9) |  [code](https://github.com/Augus1999/bayesian-flow-network-for-chemistry)  
@@ -2222,6 +2230,8 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
 ### Diffusion-based
 
 
@@ -2230,7 +2240,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Autoregressive latent diffusion for 3D molecule generation** [2026]  
+Federico Ottomano, Gaopeng Ren, Yingzhen Li, Kim E. Jelfs, Alex M. Ganose.  
+  [arXiv:2607.09277 (2026)](https://doi.org/10.48550/arXiv.2607.09277)  
 
 * **Sesame: Structure-Aware Molecular Generation via Spatial Density-Map Conditioning** [2026]  
  Konstantin Yatsenko, Arvind Thiagarajan.  
