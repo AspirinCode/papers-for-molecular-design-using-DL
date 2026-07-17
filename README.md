@@ -5410,11 +5410,13 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
-
+* **Generative model for information metamaterial design**  [2026]   
+ Hou, J., Chen, L., Zheng, X. et al.   
+  [Nat Comput Sci (2026)](https://doi.org/10.1038/s43588-026-01025-6) |  [code](https://doi.org/10.24433/CO.0515873.v2)  
 
 * **Surrogate-Gated Generation and Foundation-Model Embeddings for Bayesian Materials Design**  [2026]   
  Sk Md Ahnaf Akif Alvi, Jan Janssen, Danny Perez, Douglas Allaire, Raymundo Arroyave.   
-  [arXiv:2606.28578(2025)](https://doi.org/10.48550/arXiv.2606.28578) |  [code](https://github.com/sheikhahnaf/matgen-BO)   
+  [arXiv:2606.28578(2026)](https://doi.org/10.48550/arXiv.2606.28578) |  [code](https://github.com/sheikhahnaf/matgen-BO)  
 
 * **Structural constraint integration in a generative model for the discovery of quantum materials**  [2025]   
  Okabe, R., Cheng, M., Chotrattanapituk, A. et al.   
