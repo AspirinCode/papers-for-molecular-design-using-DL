@@ -2238,7 +2238,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Generating Developable 3D Molecules via Pocket-Conditioned Diffusion and Property-Aware Optimization** [2026]  
+Ruoxi Gao, Jiangweizhi Peng, Ziqi Chen, Frazier N. Baker, David C. Kombo, John L. Kane Jr., Andrew A. Scholte, Yi Li, Matthew J. LaMarche, Luigi I. Iconaru, Hans-Peter Biemann, Mingyi Hong, Xia Ning.  
+  [arXiv:2607.12349 (2026)](https://doi.org/10.48550/arXiv.2607.12349) |  [code](https://github.com/ninglab/conDitar-dev)  
 
 * **Autoregressive latent diffusion for 3D molecule generation** [2026]  
 Federico Ottomano, Gaopeng Ren, Yingzhen Li, Kim E. Jelfs, Alex M. Ganose.  
@@ -3968,6 +3970,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+* **Generating Developable 3D Molecules via Pocket-Conditioned Diffusion and Property-Aware Optimization** [2026]  
+Ruoxi Gao, Jiangweizhi Peng, Ziqi Chen, Frazier N. Baker, David C. Kombo, John L. Kane Jr., Andrew A. Scholte, Yi Li, Matthew J. LaMarche, Luigi I. Iconaru, Hans-Peter Biemann, Mingyi Hong, Xia Ning.  
+  [arXiv:2607.12349 (2026)](https://doi.org/10.48550/arXiv.2607.12349) |  [code](https://github.com/ninglab/conDitar-dev)  
 
 * **Bridging Generative AI and Synthesis-on-Demand Chemical Spaces for Structure-based De Novo Drug Design**  [2026]  
  Cosmin Ichim, Viet-Khoa Tran-Nguyen, Pedro J. Ballester.  
