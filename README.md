@@ -5386,6 +5386,9 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+
+
+
 * **Efficient Symmetry-Aware Materials Generation via Hierarchical Generative Flow Networks**  [2024]   
  Tri Minh Nguyen, Sherif Abdulkader Tawfik, Truyen Tran, Sunil Gupta, Santu Rana, Svetha Venkatesh.   
   [arXiv:2411.04323 (2024)](https://doi.org/10.48550/arXiv.2507.09466)  
@@ -5396,8 +5399,22 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+
+
+
 ### Diffusion-based Materials Discovery
 
+
+
+
+
+
+
+
+
+* **Surrogate-Gated Generation and Foundation-Model Embeddings for Bayesian Materials Design**  [2026]   
+ Sk Md Ahnaf Akif Alvi, Jan Janssen, Danny Perez, Douglas Allaire, Raymundo Arroyave.   
+  [arXiv:2606.28578(2025)](https://doi.org/10.48550/arXiv.2606.28578) |  [code](https://github.com/sheikhahnaf/matgen-BO)   
 
 * **Structural constraint integration in a generative model for the discovery of quantum materials**  [2025]   
  Okabe, R., Cheng, M., Chotrattanapituk, A. et al.   
@@ -5416,7 +5433,16 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+
+
+
 ### Active Learning-based Materials Discovery
+
+
+
+
+
+
 
 
 
@@ -5430,11 +5456,21 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+
+
+
+
 ### RL-based Materials Discovery
 
 
 
 
+
+
+
+* **Surrogate-Gated Generation and Foundation-Model Embeddings for Bayesian Materials Design**  [2026]   
+ Sk Md Ahnaf Akif Alvi, Jan Janssen, Danny Perez, Douglas Allaire, Raymundo Arroyave.   
+  [arXiv:2606.28578(2025)](https://doi.org/10.48550/arXiv.2606.28578) |  [code](https://github.com/sheikhahnaf/matgen-BO)   
 
 * **PolyRL: reinforcement learning-guided polymer generation for multi-objective polymer discovery**  [2025]   
  Li, Wentao, Yijun Li, Qi Lei, Zemeng Wang, and Xiaonan Wang.   
@@ -5454,6 +5490,11 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+
+
+* **Surrogate-Gated Generation and Foundation-Model Embeddings for Bayesian Materials Design**  [2026]   
+ Sk Md Ahnaf Akif Alvi, Jan Janssen, Danny Perez, Douglas Allaire, Raymundo Arroyave.   
+  [arXiv:2606.28578(2025)](https://doi.org/10.48550/arXiv.2606.28578) |  [code](https://github.com/sheikhahnaf/matgen-BO)   
 
 * **Thermodynamics-Guided Machine Learning Framework with a Multiobjective Optimizer for Catalyst Discovery**  [2026]   
  Zhenfeng Tan, Yuanming Zhu, Bin Shao, Feng Qian, and Jun Hu.   
