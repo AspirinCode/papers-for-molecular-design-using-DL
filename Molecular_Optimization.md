@@ -222,6 +222,13 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+
+* **Iterative Interaction Fingerprints-Guided Multiobjective Molecular Generation** [2026]  
+ Yao-Geng Wang, Can Dong, Yu-Ting Chen, Fan-Bo Meng, Jian Peng, Jun-Lin Yu, Rong Li, and Guo-Bo Li.  
+  [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00955)  
+
 * **EvoDiffMol: Evolutionary Diffusion Framework for 3D Molecular Design with Optimized Properties** [2026]  
  Lin, Xiaobo, Logan Kearney, Zhaoqian Su, Yunchao Liu, Amit Naskar, and Debsindhu Bhowmik.  
   [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv-2026-83634) |  [code](https://github.com/XiaoboLinlin/EvoDiffMol)  
