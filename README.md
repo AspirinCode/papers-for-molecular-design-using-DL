@@ -2238,6 +2238,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+* **Iterative Interaction Fingerprints-Guided Multiobjective Molecular Generation** [2026]  
+ Yao-Geng Wang, Can Dong, Yu-Ting Chen, Fan-Bo Meng, Jian Peng, Jun-Lin Yu, Rong Li, and Guo-Bo Li.  
+  [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00955)  
+
 * **Generating Developable 3D Molecules via Pocket-Conditioned Diffusion and Property-Aware Optimization** [2026]  
 Ruoxi Gao, Jiangweizhi Peng, Ziqi Chen, Frazier N. Baker, David C. Kombo, John L. Kane Jr., Andrew A. Scholte, Yi Li, Matthew J. LaMarche, Luigi I. Iconaru, Hans-Peter Biemann, Mingyi Hong, Xia Ning.  
   [arXiv:2607.12349 (2026)](https://doi.org/10.48550/arXiv.2607.12349) |  [code](https://github.com/ninglab/conDitar-dev)  
