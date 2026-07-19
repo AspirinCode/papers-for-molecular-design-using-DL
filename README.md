@@ -2234,6 +2234,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+
 ### Diffusion-based
 
 
@@ -2243,6 +2246,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+* **Integrating chemical priors and physical laws to mitigate hallucinations in structure-based drug design** [2026]  
+Liu, Z., Liu, Y., Zhou, Y. et al.  
+  [Commun Chem (2026)](https://doi.org/10.1038/s42004-026-02115-2) |  [code](https://github.com/Hit-zhongyu/DrugRPG) |  [Zenodo](https://doi.org/10.5281/zenodo.20606539)  
 
 * **Pep2Mol: 3D Molecule Generation Targeting Protein-Protein Interfaces with Diffusion Models** [2026]  
  Rongting Yue, Zekun Yang, Gustavo Seabra, Chenglong Li, Yanjun Li.  
