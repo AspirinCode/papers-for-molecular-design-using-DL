@@ -2242,6 +2242,12 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+* **Pep2Mol: 3D Molecule Generation Targeting Protein-Protein Interfaces with Diffusion Models** [2026]  
+ Rongting Yue, Zekun Yang, Gustavo Seabra, Chenglong Li, Yanjun Li.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.06.28.734975)  
+
 * **Iterative Interaction Fingerprints-Guided Multiobjective Molecular Generation** [2026]  
  Yao-Geng Wang, Can Dong, Yu-Ting Chen, Fan-Bo Meng, Jian Peng, Jun-Lin Yu, Rong Li, and Guo-Bo Li.  
   [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00955)  
