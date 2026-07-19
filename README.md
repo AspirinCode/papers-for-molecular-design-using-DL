@@ -963,7 +963,9 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
-
+* **MolMiner: Toward Controllable, Three-Dimensional-Aware, Fragment-Based Molecular Design** [2026]  
+ Raul Ortega-Ochoa, Tejs Vegge, Jes Frellsen.  
+  [Advanced Intelligent Discovery (2026)](https://doi.org/10.1002%2Faidi.70138) |  [code](https://github.com/raulorteg/molminer)  
 
 * **Autoregressive latent diffusion for 3D molecule generation** [2026]  
 Federico Ottomano, Gaopeng Ren, Yingzhen Li, Kim E. Jelfs, Alex M. Ganose.  
@@ -4673,6 +4675,14 @@ ZHANG Z, Liu Q.
 
 
 
+
+
+
+
+
+* **MolMiner: Toward Controllable, Three-Dimensional-Aware, Fragment-Based Molecular Design** [2026]  
+ Raul Ortega-Ochoa, Tejs Vegge, Jes Frellsen.  
+  [Advanced Intelligent Discovery (2026)](https://doi.org/10.1002%2Faidi.70138) |  [code](https://github.com/raulorteg/molminer)  
 
 * **APOSM: Pairwise preference learning improves generative small-molecule design** [2026]   
  Marcus W. Dreisler, Richard Michael, Nikos Hatzakis, Wouter Boomsma.  
