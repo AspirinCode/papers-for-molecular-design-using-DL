@@ -2067,6 +2067,10 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 
 
 
+* **PFM: perturbed flow matching for structure-based drug design** [2026]  
+Yankai Yu, Guikun Xu, Zhuyang Xie, Yan Yang, Yongquan Jiang, Xiaobo Zhou, Kang Li.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.07.11.737913) |  [code](https://github.com/kurisu92725/PFM)  
+
 * **PropMolFlow: property-guided molecule generation with geometry-complete flow matching** [2026]  
 Zeng, C., Jin, J., Ambrose, C. et al.  
 [Nat Comput Sci (2026)](https://doi.org/10.1038/s43588-025-00946-y) |  [code](https://github.com/Liu-Group-UF/PropMolFlow)  
@@ -3992,7 +3996,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **PFM: perturbed flow matching for structure-based drug design** [2026]  
+Yankai Yu, Guikun Xu, Zhuyang Xie, Yan Yang, Yongquan Jiang, Xiaobo Zhou, Kang Li.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.07.11.737913) |  [code](https://github.com/kurisu92725/PFM)  
 
 * **Generating Developable 3D Molecules via Pocket-Conditioned Diffusion and Property-Aware Optimization** [2026]  
 Ruoxi Gao, Jiangweizhi Peng, Ziqi Chen, Frazier N. Baker, David C. Kombo, John L. Kane Jr., Andrew A. Scholte, Yi Li, Matthew J. LaMarche, Luigi I. Iconaru, Hans-Peter Biemann, Mingyi Hong, Xia Ning.  
