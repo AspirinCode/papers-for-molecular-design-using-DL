@@ -2831,7 +2831,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
-
+* **Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation** [2026]  
+Mingxuan Ouyang, Hao Lan, Wanyu Lin.  
+  [arXiv:2607.19044 (2026)](https://doi.org/10.48550/arXiv.2607.19044)  
 
 * **Sampling out-of-distribution chemical spaces via Bayesian flow** [2026]  
 Tao, N., Abe, M.  
