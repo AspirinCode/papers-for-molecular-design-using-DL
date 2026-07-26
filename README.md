@@ -1958,6 +1958,13 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
+
+
+
+* **Boltzmann-Expected Molecular Design with Decoupled Annealing Flows** [2026]  
+Selma Moqvist, Richard Beckmann, Ross Irwin, Rocío Mercado, Simon Olsson.  
+  [arXiv:2607.19519 (2026)](https://doi.org/10.48550/arXiv.2607.19519)  
+
 * **Sampling out-of-distribution chemical spaces via Bayesian flow** [2026]  
 Tao, N., Abe, M.  
   [ J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01248-9) |  [code](https://github.com/Augus1999/bayesian-flow-network-for-chemistry)  
