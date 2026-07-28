@@ -142,6 +142,11 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
+
+
+
+
+
 ## Reviews
 
 
@@ -149,6 +154,11 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
+
+
+* **A comprehensive review of artificial intelligence in drug design: methods, applications, and challenges** [2026]  
+Fang, Yi, Xiaoyong Pan, and Hong-Bin Shen.  
+[Digital Discovery (2026)](https://doi.org/10.1039/d5dd00549c)  
 
 * **Structure-Based Drug Design with Geometric Deep Learning: A Comprehensive Survey** [2025]  
 Zhang, Zaixi and Yan, Jiaxian and Huang, Yining and Liu, Qi and Chen, Enhong and Wang, Mengdi and Zitnik, Marinka.  
