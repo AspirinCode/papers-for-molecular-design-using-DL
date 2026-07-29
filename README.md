@@ -4717,7 +4717,10 @@ ZHANG Z, Liu Q.
 
 
 
-
+* **Autonomous bioisosteric replacement for multi-property optimization in drug design** [2026]  
+ Kim, H., Moon, S., Zhung, W. et al.  
+  [Nat Commun (2026)](https://doi.org/10.1038/s41467-026-75512-9) |  [code](https://github.com/Hwoo-Kim/DeepBioisostere) |  [Zenodo](https://doi.org/10.5281/
+zenodo.20603082)  
 
 * **MolMiner: Toward Controllable, Three-Dimensional-Aware, Fragment-Based Molecular Design** [2026]  
  Raul Ortega-Ochoa, Tejs Vegge, Jes Frellsen.  
