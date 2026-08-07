@@ -2267,7 +2267,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **EvoDiffMol: evolutionary diffusion framework for 3D molecular design with optimized properties** [2026]  
+Lin, X., Kearney, L.T., Su, Z. et al.  
+  [ J Cheminform 18, 98 (2026)](https://doi.org/10.1186/s13321-026-01237-y) |  [code](https://github.com/XiaoboLinlin/EvoDiffMol)  
 
 * **Integrating chemical priors and physical laws to mitigate hallucinations in structure-based drug design** [2026]  
 Liu, Z., Liu, Y., Zhou, Y. et al.  
