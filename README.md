@@ -154,7 +154,9 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
-
+* **How Molecular Generative Models Organize Molecular Identity** [2026]  
+Raul Ortega-Ochoa, Tejs Vegge, Jens S. Bakander, Luis Mantilla Calderon, Alan Aspuru-Guzik, Tonio Buonassisi.  
+[arXiv:2608.06956(2026)](https://doi.org/10.48550/arXiv.2608.06956)  
 
 * **A comprehensive review of artificial intelligence in drug design: methods, applications, and challenges** [2026]  
 Fang, Yi, Xiaoyong Pan, and Hong-Bin Shen.  
