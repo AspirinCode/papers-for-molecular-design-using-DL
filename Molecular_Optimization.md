@@ -372,6 +372,28 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
+
+
+
+### Agent-based Molecular Optimization
+
+
+
+
+
+
+* **A Modular Agentic Framework for Synthetically Constrained Multi-Objective Hit-to-Lead Optimization** [2026]  
+ Kelvin P. Idanwekhai, Enes Kelestemur, Benjamin Strickland, Matthew Hart, Steini Davidsson, Angelos Angelopoulos, Ron Alterovitz, Marcello DeLuca, Alexander Tropsha.  
+  [arXiv:2608.11483 (2026)](https://doi.org/10.48550/arXiv.2608.11483) |  [code](https://github.com/molecularmodelinglab/SABLE)  
+
+
+
+
+
+
+
+
+
 ## Fragment-based Molecular Optimization
 
 
