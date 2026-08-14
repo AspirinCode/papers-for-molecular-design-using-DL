@@ -3731,6 +3731,10 @@ Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen
 
 
 
+* **A Modular Agentic Framework for Synthetically Constrained Multi-Objective Hit-to-Lead Optimization** [2026]  
+ Kelvin P. Idanwekhai, Enes Kelestemur, Benjamin Strickland, Matthew Hart, Steini Davidsson, Angelos Angelopoulos, Ron Alterovitz, Marcello DeLuca, Alexander Tropsha.  
+  [arXiv:2608.11483 (2026)](https://doi.org/10.48550/arXiv.2608.11483) |  [code](https://github.com/molecularmodelinglab/SABLE)  
+
 * **ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery** [2026]  
  Andrew Y. Zhou, Sharvaree Vadgama, Sumanth Varambally, Peter Eckmann, Michael K. Gilson, Rose Yu.  
   [arXiv:2605.12784 (2026)](https://doi.org/10.48550/arXiv.2605.12784)  
