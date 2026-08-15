@@ -5590,8 +5590,18 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+
+
+
+
 ### Agent-based Materials Discovery
 
+
+
+
+* **Autonomous in-silico inorganic materials discovery via multi-agent physics-aware scientific reasoning**  [2026]  
+ Yun Hao, Che Fan, Beilin Ye, Wenhao Lu, Zhen Lu, Peilin Zhao, Zhifeng Gao, Qingyao Wu, Yanhui Liu, Tongqi Wen.   
+  [npj Comput Mater (2026)](https://doi.org/10.1038/s41524-026-02205-8) |  [code](https://github.com/lamm-mit/SparksMatter)  
 
 * **Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists**  [2025]   
   Zhou, Lianhao, Hongyi Ling, Keqiang Yan, Kaiji Zhao, Xiaoning Qian, Raymundo Arróyave, Xiaofeng Qian, and Shuiwang Ji.  
