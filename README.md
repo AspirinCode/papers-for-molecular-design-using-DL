@@ -472,9 +472,14 @@ https://github.com/AspirinCode/DrugAI_Drug-Likeness
 
 
 
+
+* **MolScope: A Transparent Representation-Aware Workflow Toolkit for Reproducible Medicinal-Chemistry Triage** [2026]   
+Elokely Khaled M.   
+[Molecular Informatics (2026)](https://doi.org/10.1002/minf.70048) |  [code](https://github.com/kelokely/MolScope)  
+
 * **Hamiltonian diversity: effectively measuring molecular diversity by shortest Hamiltonian circuits** [2024]   
 Hu, X., Liu, G., Yao, Q. et al.   
-[ J Cheminform 16, 94 (2024)](https://doi.org/10.1186/s13321-024-00883-4) |  [code](https://github.com/HXYfighter/HamDiv)  
+[J Cheminform 16, 94 (2024)](https://doi.org/10.1186/s13321-024-00883-4) |  [code](https://github.com/HXYfighter/HamDiv)  
 
 * **Spacial Score – A Comprehensive Topological Indicator for Small Molecule Complexity** [2023]   
 Krzyzanowski, Adrian, Axel Pahl, Michael Grigalunas, and Herbert Waldmann.   
