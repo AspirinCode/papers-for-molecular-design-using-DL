@@ -2272,7 +2272,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **An Explicit Interaction-Prompted Diffusion Framework for High-Fidelity 3D Molecular Generation** [2026]  
+Huabin Du, Mingyang Wang, Mengqi Luo, Mengke Yang, Yingchao Yan, Ke An, Xiaohong Zhu, Arieh Warshel, Tingjun Hou, Chen Bai.  
+  [Journal American Chemical Society (2026)](https://doi.org/10.1021/jacs.6c08189) |  [code](https://github.com/zephyrdhb/EIP-Diff)  
 
 * **EvoDiffMol: evolutionary diffusion framework for 3D molecular design with optimized properties** [2026]  
 Lin, X., Kearney, L.T., Su, Z. et al.  
