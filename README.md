@@ -1976,7 +1976,9 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
-
+* **Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors** [2026]  
+Hyeonah Kim, Minsu Kim, Celine Roget, Dionessa Biton, Louis Vaillancourt, Yves V. Brun, Yoshua Bengio, Alex Hernandez-Garcia.  
+  [ICML 2026 (2026)](https://doi.org/10.48550/arXiv.2602.04119) |  [code](https://github.com/hyeonahkimm/s3gfn)  
 
 * **Boltzmann-Expected Molecular Design with Decoupled Annealing Flows** [2026]  
 Selma Moqvist, Richard Beckmann, Ross Irwin, Rocío Mercado, Simon Olsson.  
@@ -1984,7 +1986,7 @@ Selma Moqvist, Richard Beckmann, Ross Irwin, Rocío Mercado, Simon Olsson.
 
 * **Sampling out-of-distribution chemical spaces via Bayesian flow** [2026]  
 Tao, N., Abe, M.  
-  [ J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01248-9) |  [code](https://github.com/Augus1999/bayesian-flow-network-for-chemistry)  
+  [J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01248-9) |  [code](https://github.com/Augus1999/bayesian-flow-network-for-chemistry)  
 
 * **SynGFN: learning across chemical space with generative flow-based molecular discovery** [2025]  
 Zhu, Y., Li, S., Chen, J. et al.  
