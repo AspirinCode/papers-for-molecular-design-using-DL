@@ -978,7 +978,9 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
-
+* **Generalizing molecular design via flexible search space control** [2026]  
+ Fujii, S., Murakami, Y., Yoshizawa, T. et al.  
+  [Commun Chem (2026)](https://doi.org/10.1038/s42004-026-02172-7) |  [code](https://github.com/molecule-generator-collection/ChemTSv3)  
 
 * **MolMiner: Toward Controllable, Three-Dimensional-Aware, Fragment-Based Molecular Design** [2026]  
  Raul Ortega-Ochoa, Tejs Vegge, Jes Frellsen.  
