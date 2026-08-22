@@ -2863,6 +2863,14 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+
+
+
+* **Generalizing molecular design via flexible search space control** [2026]  
+ Fujii, S., Murakami, Y., Yoshizawa, T. et al.  
+  [Commun Chem (2026)](https://doi.org/10.1038/s42004-026-02172-7) |  [code](https://github.com/molecule-generator-collection/ChemTSv3)  
+
 * **Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation** [2026]  
 Mingxuan Ouyang, Hao Lan, Wanyu Lin.  
   [arXiv:2607.19044 (2026)](https://doi.org/10.48550/arXiv.2607.19044)  
