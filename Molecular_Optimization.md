@@ -326,9 +326,15 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 
 
+
+
 * **Domain-Agnostic Molecular Generation with Self-feedback** [2023]  
  Yin Fang, Ningyu Zhang, Zhuo Chen, Xiaohui Fan, Huajun Chen   
   [Paper](https://arxiv.org/abs/2301.11259) |  [code](https://github.com/zjunlp/MolGen) 
+
+
+
+
 
 
 
@@ -338,6 +344,14 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 
 
+
+
+
+
+
+* **From knowledge to rules: Explainable molecular optimization with Large Language Models** [2026]   
+ Wang, S., Song, Z., Yu, R., Yin, Q., & Song, T.  
+  [Knowledge-Based Systems (2026)](https://doi.org/10.1016/j.knosys.2026.116850) |  [code](https://github.com/ZianSongsbused/ELLM-MOM)  
 
 * **Structural optimization of drug molecules with incrementally trained language models** [2026]   
  Hörmann, T., Mayer, D., Lewandowski, M. et al.  
