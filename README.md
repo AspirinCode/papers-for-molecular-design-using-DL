@@ -3744,6 +3744,11 @@ Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen
 
 
 
+
+
+
+
+
 ### Agent-based
 
 
@@ -3751,6 +3756,11 @@ Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen
 
 
 
+
+
+* **Molecular Lead Optimization via Agentic Tool Planning** [2026]  
+ Li, Lingxiao, Haobo Zhang, Ruohao Fan, Bin Chen, and Jiayu Zhou.  
+  [Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V(2026)](https://doi.org/10.1145/3770855.3819017)  
 
 * **A Modular Agentic Framework for Synthetically Constrained Multi-Objective Hit-to-Lead Optimization** [2026]  
  Kelvin P. Idanwekhai, Enes Kelestemur, Benjamin Strickland, Matthew Hart, Steini Davidsson, Angelos Angelopoulos, Ron Alterovitz, Marcello DeLuca, Alexander Tropsha.  
