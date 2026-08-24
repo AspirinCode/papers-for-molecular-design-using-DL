@@ -3596,7 +3596,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
-
+* **From knowledge to rules: Explainable molecular optimization with Large Language Models** [2026]   
+ Wang, S., Song, Z., Yu, R., Yin, Q., & Song, T.  
+  [Knowledge-Based Systems (2026)](https://doi.org/10.1016/j.knosys.2026.116850) |  [code](https://github.com/ZianSongsbused/ELLM-MOM)  
 
 * **LinkLlama: Enabling Large Language Model for Chemically Reasonable Linker Design** [2026]  
  Kunyang Sun, Yingze Wang, Justin Purnomo, Joseph M. Cavanagh, Giovanni Battista Alteri, Teresa Head-Gordon.  
