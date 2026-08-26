@@ -5340,6 +5340,13 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+
+
+
+* **G2RINS: A Generative String-and-Graph Polymer Representation to Assist Computational Materials Discovery** [2026]  
+Gervasio Zaldivar, Yuan Tian, Ge Sun, et al.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15007504/v1) | [code](https://github.com/depablolab/g2rins)  
+
 * **MEIDNet: multimodal generative AI framework for inverse materials design** [2026]  
 Babu, A., Gouvêa, R.A., Vandergheynst, P. et al.  
 [npj Comput Mater (2026)](https://doi.org/10.1038/s41524-026-02153-3) | [code](https://github.com/ABnano/MEIDNet)  
