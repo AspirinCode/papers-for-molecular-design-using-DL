@@ -5651,3 +5651,20 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
   [arXiv:2506.05616 (2025)](https://arxiv.org/abs/2506.05616)  
 
 
+
+
+
+
+
+### GNN-based Materials Discovery
+
+
+
+
+* **Grouper: symmetry-aware functional-group graph representations for generative exploration of chemical space**  [2026]  
+ Nehil-Puleo, K., Craven, N.C., McCabe, C. et al.   
+  [npj Comput Mater (2026)](https://doi.org/10.1038/s41524-026-02263-y) |  [code](https://github.com/ppqm/ppqm)  
+
+
+
+
