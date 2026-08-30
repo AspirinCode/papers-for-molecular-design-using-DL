@@ -2276,6 +2276,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **A Diffusion Framework for Geometrically Valid and Practically Viable 3D Molecular Generation** [2026]  
+Thanapat Worakul, Prof. Clémence Corminboeuf.  
+  [ChemRxiv.(2026)](https://doi.org/10.26434/chemrxiv.15005231/v1) |  [code](https://github.com/lcmd-epfl/AutomaticMolCraft)  
+
 * **An Explicit Interaction-Prompted Diffusion Framework for High-Fidelity 3D Molecular Generation** [2026]  
 Huabin Du, Mingyang Wang, Mengqi Luo, Mengke Yang, Yingchao Yan, Ke An, Xiaohong Zhu, Arieh Warshel, Tingjun Hou, Chen Bai.  
   [Journal American Chemical Society (2026)](https://doi.org/10.1021/jacs.6c08189) |  [code](https://github.com/zephyrdhb/EIP-Diff)  
