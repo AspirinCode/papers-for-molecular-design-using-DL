@@ -2279,6 +2279,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **DASH: A Pocket-Aware and Objective-Aware Framework for Million-Scale Structure-Based Molecular Generation** [2026]  
+Baohua Zhang, Huangchao Xu, Xiaoning Wang, Longfei Li, Zhong Jin.  
+  [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c01357)  
+
 * **A Diffusion Framework for Geometrically Valid and Practically Viable 3D Molecular Generation** [2026]  
 Thanapat Worakul, Prof. Clémence Corminboeuf.  
   [ChemRxiv.(2026)](https://doi.org/10.26434/chemrxiv.15005231/v1) |  [code](https://github.com/lcmd-epfl/AutomaticMolCraft)  
