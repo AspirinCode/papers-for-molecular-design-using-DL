@@ -2097,6 +2097,12 @@ Madhawa, K., Ishiguro, K., Nakago, K. and Abe, M.
 
 
 
+
+
+* **MolGuidance: Advanced Guidance Strategies for Conditional Molecular Generation with Flow Matching** [2026]  
+Jirui Jin, Cheng Zeng, Pawan Prakash, Ellad B. Tadmor, Adrian Roitberg, Richard G. Hennig, Stefano Martiniani, Mingjie Liu.  
+[J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c00964)  
+
 * **PFM: perturbed flow matching for structure-based drug design** [2026]  
 Yankai Yu, Guikun Xu, Zhuyang Xie, Yan Yang, Yongquan Jiang, Xiaobo Zhou, Kang Li.  
 [bioRxiv (2026)](https://doi.org/10.64898/2026.07.11.737913) |  [code](https://github.com/kurisu92725/PFM)  
