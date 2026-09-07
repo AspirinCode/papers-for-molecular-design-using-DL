@@ -1094,7 +1094,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **RiemannMol I: Molecular Generation with Learned Latent Metrics** [2026]  
+Xichen Zhang, Yizhou Ma, Xin Chen.  
+  [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15007553/v1) |  [code](https://github.com/QuantaBricks/riemannmol)  
 
 * **Learning a chemistry-aware latent space for molecular encoding and generation with a large-scale Transformer Variational Autoencoder** [2026]   
 Hugo Talibart, Dimitri Gilis.  
