@@ -154,6 +154,12 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
+
+
+* **From Computational Chemistry to Generative Models: A Survey of AI-Driven Small-Molecule Drug Discovery** [2026]  
+Houman Kazemzadeh, Kiarash Mokhtari, Nazanin Mirzaei, et al.  
+[ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15008163/v1)  
+
 * **How Molecular Generative Models Organize Molecular Identity** [2026]  
 Raul Ortega-Ochoa, Tejs Vegge, Jens S. Bakander, Luis Mantilla Calderon, Alan Aspuru-Guzik, Tonio Buonassisi.  
 [arXiv:2608.06956(2026)](https://doi.org/10.48550/arXiv.2608.06956)  
