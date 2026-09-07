@@ -1120,7 +1120,7 @@ Carles Navarro, Philipp Tholke, Gianni de Fabritiis.
 
 * **Scalable and Generalizable Analog Design via Learning Medicinal Chemistry Intuition from Matched Molecular Pair Transformations** [2026]   
 Pang, H.W., Zhang, P.Z., Pan, B., Zhao, L., Yu, X. and Zhang, L.  
-  [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15001722/v1)  
+  [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c01032) |  [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15001722/v1)  
 
 * **Sample-efficient generative molecular design using memory manipulation** [2026]   
 Guo, J., Chen, J., GX-Chen, A. et al.  
