@@ -3852,6 +3852,13 @@ Yuran Xiang and Haiteng Zhao and Chang Ma and Zhi-Hong Deng.
 
 
 
+
+
+
+* **PSGS-Drug: Generation-Time Dual-Pocket Guidance for Non-Symmetric Dual-Target Molecular Design** [2026]  
+ Yuchen Zhou, Tianhe Gu, Liang Tian, Xingyu Liu, Dazhou Li.  
+  [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c01583) |  [code](https://github.com/zhouyuchen-0/PSGS-Drug-Generation-Time-Dual-Pocket-Guidance-for-Non-Symmetric-Dual-Target-Molecular-Design)  
+
 * **A 3D generation framework using diffusion model and reinforcement learning to generate multi-target compounds with desired properties** [2025]  
  Yuan, Y., Pan, X., Li, X. et al.  
   [J Cheminform 17, 93 (2025)](https://doi.org/10.1186/s13321-025-01035-y) |  [code](https://github.com/Xinol1024/MDRL)  
