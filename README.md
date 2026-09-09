@@ -984,6 +984,10 @@ Santana, M.V.S., Silva-Jr, F.P.
 
 
 
+* **NEAT-POCKET: Pocket-Conditioned Autoregressive 3D Molecular Generation with a Neighborhood-Guided Set Transformer** [2026]  
+ Roxane Axel Jacob, Daniel Rose, Thierry Langer, Johannes Kirchmair.  
+  [arXiv:2609.05097 (2026)](https://doi.org/10.48550/arXiv.2609.05097) |  [code](https://github.com/molinfo-vienna/NEAT-POCKET)  
+
 * **Generalizing molecular design via flexible search space control** [2026]  
  Fujii, S., Murakami, Y., Yoshizawa, T. et al.  
   [Commun Chem (2026)](https://doi.org/10.1038/s42004-026-02172-7) |  [code](https://github.com/molecule-generator-collection/ChemTSv3)  
@@ -1092,7 +1096,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **NEAT-POCKET: Pocket-Conditioned Autoregressive 3D Molecular Generation with a Neighborhood-Guided Set Transformer** [2026]  
+ Roxane Axel Jacob, Daniel Rose, Thierry Langer, Johannes Kirchmair.  
+  [arXiv:2609.05097 (2026)](https://doi.org/10.48550/arXiv.2609.05097) |  [code](https://github.com/molinfo-vienna/NEAT-POCKET)  
 
 * **RiemannMol I: Molecular Generation with Learned Latent Metrics** [2026]  
 Xichen Zhang, Yizhou Ma, Xin Chen.  
@@ -4086,6 +4092,11 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+* **NEAT-POCKET: Pocket-Conditioned Autoregressive 3D Molecular Generation with a Neighborhood-Guided Set Transformer** [2026]  
+ Roxane Axel Jacob, Daniel Rose, Thierry Langer, Johannes Kirchmair.  
+  [arXiv:2609.05097 (2026)](https://doi.org/10.48550/arXiv.2609.05097) |  [code](https://github.com/molinfo-vienna/NEAT-POCKET)  
 
 * **PFM: perturbed flow matching for structure-based drug design** [2026]  
 Yankai Yu, Guikun Xu, Zhuyang Xie, Yan Yang, Yongquan Jiang, Xiaobo Zhou, Kang Li.  
