@@ -1990,6 +1990,12 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
+
+
+* **Boltzmann-Expected Molecular Design with Decoupled Annealing Flows** [2026]  
+Selma Moqvist, Richard Beckmann, Ross Irwin, Rocío Mercado, Simon Olsson.  
+  [arXiv:2607.19519 (2026)](https://doi.org/10.48550/arXiv.2607.19519)  
+
 * **Active Flow Expansion for Out-of-Distribution Discovery: from Theory to Molecules** [2026]  
 Riccardo De Santi, Bruce Lee, Cristian Perez Jensen, Kimon Protopapas, Sophia Tang, Cheng-Hao Liu, Pranam Chatterjee, Yisong Yue, Andreas Krause.  
   [arXiv:2606.08802(2026)](https://doi.org/10.48550/arXiv.2606.08802) |  [code](https://github.com/riccardodesanti/active_diffusion_models)  
