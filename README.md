@@ -2251,7 +2251,9 @@ Gnaneshwar, Dwaraknath, et al.
 
 
 
-
+* **Controllable molecular generation with fine-tuned flow-matching model**   [2026]   
+Wang, K., Janet, J.P. & Tibo, A.  
+[Commun Chem 9, 291 (2026)](https://doi.org/10.1038/s42004-026-02188-z) |  [code](https://github.com/MolecularAI/flow_matching_rl)  
 
 * **Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation**   [2026]   
 Michal Balcerak, Suprosanna Shit, Chinmay Prabhakar, Sebastian Kaltenbach, Michael S. Albergo, Yilun Du, Bjoern Menze.  
