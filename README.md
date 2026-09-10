@@ -3634,7 +3634,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
-
+* **OmniSyn unifies target-aware molecular generation and optimization within a synthesis-native LLM framework across the human proteome** [2026]   
+ Zheng Qin, Yuzhang Li, Yueqing Zhang, Yunshuo Zhao, Huan Yee Koh, Zheng Wan, Haocheng Ren, Changying Huang, Yiming Shi, Zhenguo Wu, Yaosen Min, Jing Yang, Xiao He, Duanhua Cao.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.09.02.748775) |  [code](https://github.com/Intelligent-Drug-Discovery-Lab/OmniSyn)  
 
 * **From knowledge to rules: Explainable molecular optimization with Large Language Models** [2026]   
  Wang, S., Song, Z., Yu, R., Yin, Q., & Song, T.  
