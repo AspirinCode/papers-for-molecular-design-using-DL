@@ -3800,7 +3800,9 @@ Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen
 
 
 
-
+* **Molarium: Agent-Generated Adaptive Software for Molecular Design** [2026]  
+ Rafal Wiewiora, Woody Sherman.  
+  [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15008528/v1)  
 
 * **Molecular Lead Optimization via Agentic Tool Planning** [2026]  
  Li, Lingxiao, Haobo Zhang, Ruohao Fan, Bin Chen, and Jiayu Zhou.  
@@ -4691,6 +4693,12 @@ Yangyang Chen, Zixu Wang, Lei Wang, Jianmin Wang, Pengyong Li, Dongsheng Cao, Xi
 
 
 
+
+
+
+* **Deep drug design for molecular scaffold hopping** [2026]  
+  Irene Pachon-Angona, Carl C. G. Schiebroek, Manuel G. Schriefer Treiber, et al.  
+  [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15008337/v1)  
 
 * **Scaffold-based evaluation metrics for fair comparison of molecular generators** [2025]  
   Fil, V., Van Den Broek, R.L., Šícho, M. et al.  
