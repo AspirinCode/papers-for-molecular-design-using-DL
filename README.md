@@ -2298,7 +2298,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **A dynamic fusion diffusion model for molecular generation** [2026]  
+Sun, L., Lei, X. & Ma, M.  
+  [Mol Divers (2026)](https://doi.org/10.1007/s11030-026-11718-9)  
 
 * **DASH: A Pocket-Aware and Objective-Aware Framework for Million-Scale Structure-Based Molecular Generation** [2026]  
 Baohua Zhang, Huangchao Xu, Xiaoning Wang, Longfei Li, Zhong Jin.  
@@ -4799,6 +4801,12 @@ ZHANG Z, Liu Q.
 
 
 
+
+
+
+* **PyMolGen: Database-Driven Molecular Generation of Drug-Like Compounds** [2026]  
+ Bruno N. Falcone, Michael J. Hutcheon, Jaffer M. Zaidi, Michael J. Stocks, Kirsty E. Hamill, Craig Jamieson, Huw J. Williams, David S. Palmer, Andrew Baxter, Stephen D. Pickett, Jonathan D. Hirst.  
+  [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c00689) |  [code](https://github.com/HirstGroup/PyMolGen)  
 
 * **Autonomous bioisosteric replacement for multi-property optimization in drug design** [2026]  
  Kim, H., Moon, S., Zhung, W. et al.  
