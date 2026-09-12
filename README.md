@@ -3636,6 +3636,14 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
+
+
+
+
+* **Training Large Language Models for Small-Molecule Design with Synthetic Task Scaling** [2026]   
+ Frank Hu, Shriram Chennakesavalu, Zichen Wang, Patricia Suriana, Bodhi Vani, Kirill Shmilovich, Kangway Chuang, Colin Grambow.  
+  [arXiv:2609.04735(2026)](https://doi.org/10.48550/arXiv.2609.04735)  
+
 * **OmniSyn unifies target-aware molecular generation and optimization within a synthesis-native LLM framework across the human proteome** [2026]   
  Zheng Qin, Yuzhang Li, Yueqing Zhang, Yunshuo Zhao, Huan Yee Koh, Zheng Wan, Haocheng Ren, Changying Huang, Yiming Shi, Zhenguo Wu, Yaosen Min, Jing Yang, Xiao He, Duanhua Cao.  
   [bioRxiv (2026)](https://doi.org/10.64898/2026.09.02.748775) |  [code](https://github.com/Intelligent-Drug-Discovery-Lab/OmniSyn)  
@@ -3646,7 +3654,7 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 * **LinkLlama: Enabling Large Language Model for Chemically Reasonable Linker Design** [2026]  
  Kunyang Sun, Yingze Wang, Justin Purnomo, Joseph M. Cavanagh, Giovanni Battista Alteri, Teresa Head-Gordon.  
-  [bioRxiv (2026)](https://doi.org/10.64898/2026.04.15.718690) |  [code](https://github.com/THGLab/LinkLlama)  
+  [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c01261) |  [bioRxiv (2026)](https://doi.org/10.64898/2026.04.15.718690) |  [code](https://github.com/THGLab/LinkLlama)  
 
 * **Probe Before You Edit: Probing-Guided Molecular Optimization for LLM Agents in Structure-Based Drug Design** [2026]  
  Zaifei Yang, Weiyu Chen, Yaqing Wang, James Kwok.  
