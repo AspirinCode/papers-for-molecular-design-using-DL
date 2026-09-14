@@ -260,9 +260,16 @@ Huang, Lei.
 
 
 
+
+
+
+* **DFRL-Mol: a dual-stage framework of reinforcement learning for multi-scenario molecule optimization** [2026]  
+  Zhenyi Wu, Pengcheng Zhao, Jianing Li, Qiong Wang, Qin Zhang, Hui Yu, Zhe Yu, Jian-Yu Shi.  
+  [Briefings in Bioinformatics (2026)](https://doi.org/10.1093/bib/bbag493) |  [code](https://github.com/reunio/DFRL-Mol)  
+
 * **Molecular generation strategy and optimization based on A2C reinforcement learning in de novo drug design** [2023]   
   Wang, Qian, Zhiqiang Wei, Xiaotong Hu, Zhuoya Wang, Yujie Dong, and Hao Liu.   
-  [Bioinformatics: btad693.  (2023)](https://doi.org/10.1093/bioinformatics/btad693) |  [code](https://github.com/wq-sunshine/MomdTDSRL) 
+  [Bioinformatics: btad693.  (2023)](https://doi.org/10.1093/bioinformatics/btad693) |  [code](https://github.com/wq-sunshine/MomdTDSRL)  
 
 * **ReBADD-SE: Multi-objective molecular optimisation using SELFIES fragment and off-policy self-critical sequence training** [2023]  
 Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
