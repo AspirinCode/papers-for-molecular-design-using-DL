@@ -2907,7 +2907,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
-
+* **DFRL-Mol: a dual-stage framework of reinforcement learning for multi-scenario molecule optimization** [2026]  
+  Zhenyi Wu, Pengcheng Zhao, Jianing Li, Qiong Wang, Qin Zhang, Hui Yu, Zhe Yu, Jian-Yu Shi.  
+  [Briefings in Bioinformatics (2026)](https://doi.org/10.1093/bib/bbag493) |  [code](https://github.com/reunio/DFRL-Mol)  
 
 * **Generalizing molecular design via flexible search space control** [2026]  
  Fujii, S., Murakami, Y., Yoshizawa, T. et al.  
