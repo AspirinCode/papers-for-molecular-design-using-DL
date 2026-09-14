@@ -1992,6 +1992,12 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
+
+
+* **Flow-Guided Chemical Language Modeling for Linker Design in Reticular Chemistry** [2026]  
+ Kunyang Sun, Yingze Wang, Justin Purnomo, Joseph M. Cavanagh, Giovanni Battista Alteri, Teresa Head-Gordon.  
+  [J. Am. Chem. Soc. (2026)](https://doi.org/10.1021/jacs.6c06920) |  [code](https://github.com/fairen-group/nexerra-r1)  
+
 * **Boltzmann-Expected Molecular Design with Decoupled Annealing Flows** [2026]  
 Selma Moqvist, Richard Beckmann, Ross Irwin, Rocío Mercado, Simon Olsson.  
   [arXiv:2607.19519 (2026)](https://doi.org/10.48550/arXiv.2607.19519)  
@@ -5057,6 +5063,13 @@ Yang, R., Zhou, H., Wang, F. et al.
 
 
 
+
+
+
+* **Flow-Guided Chemical Language Modeling for Linker Design in Reticular Chemistry** [2026]  
+ Kunyang Sun, Yingze Wang, Justin Purnomo, Joseph M. Cavanagh, Giovanni Battista Alteri, Teresa Head-Gordon.  
+  [J. Am. Chem. Soc. (2026)](https://doi.org/10.1021/jacs.6c06920) |  [code](https://github.com/fairen-group/nexerra-r1)  
+
 * **LinkLlama: Enabling Large Language Model for Chemically Reasonable Linker Design** [2026]  
  Kunyang Sun, Yingze Wang, Justin Purnomo, Joseph M. Cavanagh, Giovanni Battista Alteri, Teresa Head-Gordon.  
   [bioRxiv (2026)](https://doi.org/10.64898/2026.04.15.718690) |  [code](https://github.com/THGLab/LinkLlama)  
@@ -5572,6 +5585,14 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+
+
+
+
+
+* **Flow-Guided Chemical Language Modeling for Linker Design in Reticular Chemistry** [2026]  
+ Kunyang Sun, Yingze Wang, Justin Purnomo, Joseph M. Cavanagh, Giovanni Battista Alteri, Teresa Head-Gordon.  
+  [J. Am. Chem. Soc. (2026)](https://doi.org/10.1021/jacs.6c06920) |  [code](https://github.com/fairen-group/nexerra-r1)  
 
 * **Efficient Symmetry-Aware Materials Generation via Hierarchical Generative Flow Networks**  [2024]   
  Tri Minh Nguyen, Sherif Abdulkader Tawfik, Truyen Tran, Sunil Gupta, Santu Rana, Svetha Venkatesh.   
