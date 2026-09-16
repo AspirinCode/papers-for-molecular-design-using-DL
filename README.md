@@ -1096,6 +1096,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+* **AET5: A transcriptome-guided molecular generation framework with contrastive self-supervised learning**  [2026]  
+ Yuan, Zhikang, Xin Zhang, Gaoming Lin, Quan Zou, Subhashisa Swain, Yijie Ding, Prayag Tiwari, Shuofeng Yuan, and Xiaoyi Guo.  
+  [PLOS Computational Biology (2026)](https://doi.org/10.1371/journal.pcbi.1014703) | [code](https://github.com/YuanZhikang-git/AET5)  
+
 * **NEAT-POCKET: Pocket-Conditioned Autoregressive 3D Molecular Generation with a Neighborhood-Guided Set Transformer** [2026]  
  Roxane Axel Jacob, Daniel Rose, Thierry Langer, Johannes Kirchmair.  
   [arXiv:2609.05097 (2026)](https://doi.org/10.48550/arXiv.2609.05097) |  [code](https://github.com/molinfo-vienna/NEAT-POCKET)  
@@ -5232,6 +5238,11 @@ Seo, Seonghwan, Jaechang Lim, and Woo Youn Kim.
 
 
 
+
+
+* **AET5: A transcriptome-guided molecular generation framework with contrastive self-supervised learning**  [2026]  
+ Yuan, Zhikang, Xin Zhang, Gaoming Lin, Quan Zou, Subhashisa Swain, Yijie Ding, Prayag Tiwari, Shuofeng Yuan, and Xiaoyi Guo.  
+  [PLOS Computational Biology (2026)](https://doi.org/10.1371/journal.pcbi.1014703) | [code](https://github.com/YuanZhikang-git/AET5)  
 
 * **Phenotypic AI-based design of cell-specific small molecule cytotoxics**  [2026]  
  Rojas-Granado, G., Sánchez-Soto, M., Calahorra, J. et al.  
