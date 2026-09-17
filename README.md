@@ -2318,6 +2318,14 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+
+
+* **Interaction Profiles as a Universal Language for Generative Molecular Design with ShEPhERD–2** [2026]  
+Kento A. Abeywardane, Kenji Walker, Connor W. Coley.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.09.10.750648) |  [code](https://github.com/coleygroup/shepherd2)  
+
 * **A dynamic fusion diffusion model for molecular generation** [2026]  
 Sun, L., Lei, X. & Ma, M.  
   [Mol Divers (2026)](https://doi.org/10.1007/s11030-026-11718-9)  
@@ -4129,6 +4137,12 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+
+* **Interaction Profiles as a Universal Language for Generative Molecular Design with ShEPhERD–2** [2026]  
+Kento A. Abeywardane, Kenji Walker, Connor W. Coley.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.09.10.750648) |  [code](https://github.com/coleygroup/shepherd2)  
 
 * **NEAT-POCKET: Pocket-Conditioned Autoregressive 3D Molecular Generation with a Neighborhood-Guided Set Transformer** [2026]  
  Roxane Axel Jacob, Daniel Rose, Thierry Langer, Johannes Kirchmair.  
