@@ -3660,7 +3660,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
-
+* **A Unified 3D Generative Model for Synthesizable Structure-Based Drug Design** [2026]   
+ Ilia Igashov, Arne Schneuing, Adrian W. Dobbelstein, Irina Morozova, Rebecca M. Neeser, Kara Zielinski, Luciano Andres Abriata, Aaron S. Petruzzella, David R. Pavel Iosub, Olivia Gampp, Artem Y. Lyubimov, Evgenia Elizarova, Isabella Ferrara, Pedro M. F. Sousa, Ana R. Lemos, Fabio Testori, Pierre A. Miranda Herrera, Laurin Kanis, Joseph Schmidt, Mac Kevin E. Braza, Rommie E. Amaro, Nicolas Thoma, Davide M. Ferraris, Roland Riek, James S. Fraser, Philippe Schwaller, Michael Bronstein, Bruno Correia.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.09.15.751537) |  [code](https://github.com/lpdi-epfl/lddm)  
 
 * **Training Large Language Models for Small-Molecule Design with Synthetic Task Scaling** [2026]   
  Frank Hu, Shriram Chennakesavalu, Zichen Wang, Patricia Suriana, Bodhi Vani, Kirill Shmilovich, Kangway Chuang, Colin Grambow.  
@@ -4138,7 +4140,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **A Unified 3D Generative Model for Synthesizable Structure-Based Drug Design** [2026]   
+ Ilia Igashov, Arne Schneuing, Adrian W. Dobbelstein, Irina Morozova, Rebecca M. Neeser, Kara Zielinski, Luciano Andres Abriata, Aaron S. Petruzzella, David R. Pavel Iosub, Olivia Gampp, Artem Y. Lyubimov, Evgenia Elizarova, Isabella Ferrara, Pedro M. F. Sousa, Ana R. Lemos, Fabio Testori, Pierre A. Miranda Herrera, Laurin Kanis, Joseph Schmidt, Mac Kevin E. Braza, Rommie E. Amaro, Nicolas Thoma, Davide M. Ferraris, Roland Riek, James S. Fraser, Philippe Schwaller, Michael Bronstein, Bruno Correia.  
+  [bioRxiv (2026)](https://doi.org/10.64898/2026.09.15.751537) |  [code](https://github.com/lpdi-epfl/lddm)  
 
 * **Interaction Profiles as a Universal Language for Generative Molecular Design with ShEPhERD–2** [2026]  
 Kento A. Abeywardane, Kenji Walker, Connor W. Coley.  
