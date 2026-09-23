@@ -1103,7 +1103,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **Ensemble-Conditioned Molecular Design**  [2026]  
+ Ross Irwin, Alessandro Tibo, Jon Paul Janet, Simon Olsson.  
+  [arXiv:2609.15077(2026)](https://doi.org/10.48550/arXiv.2609.15077) | [code](https://github.com/rssrwn/ensemble-cond-design)  
 
 * **AET5: A transcriptome-guided molecular generation framework with contrastive self-supervised learning**  [2026]  
  Yuan, Zhikang, Xin Zhang, Gaoming Lin, Quan Zou, Subhashisa Swain, Yijie Ding, Prayag Tiwari, Shuofeng Yuan, and Xiaoyi Guo.  
