@@ -2925,7 +2925,9 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
-
+* **Reinforcement learning for de novo RET inhibitor design: potency-focused optimization and polypharmacological multi-parameter optimization against resistance mutations** [2026]  
+  Kumar, S., Pogaku, V. & Kim, Mh.  
+  [J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01274-7) |  [code](https://github.com/college-of-pharmacy-gachon-university/AI_RET2/)  
 
 * **DFRL-Mol: a dual-stage framework of reinforcement learning for multi-scenario molecule optimization** [2026]  
   Zhenyi Wu, Pengcheng Zhao, Jianing Li, Qiong Wang, Qin Zhang, Hui Yu, Zhe Yu, Jian-Yu Shi.  
