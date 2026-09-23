@@ -393,10 +393,17 @@ https://github.com/LumosBio/MolData
 ### Benchmarks
 
 
+
+
+
+
+* **ScrambleBench: a workflow for comparative assessment of structure-based de novo generative models** [2026]  
+Yap, V., Xu, P., Mak, F.S. et al.  
+[ J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01254-x) |  [code](https://github.com/Feriolet/ScrambleBench)  
+
 * **Bento: A Comprehensive Benchmark for Protein-Ligand Docking Methods** [2024]  
 LigandPro Team.  
 [software](https://github.com/LigandPro/Bento)  
-
 
 * **Benchmarking Study of Deep Generative Models for Inverse Polymer Design** [2024]  
 Yue T, Tao L, Varshney V, Li Y.  
@@ -404,7 +411,7 @@ Yue T, Tao L, Varshney V, Li Y.
 
 * **RediscMol: Benchmarking Molecular Generation Models in Biological Properties** [2024]  
 Weng, Gaoqi, Huifeng Zhao, Dou Nie, Haotian Zhang, Liwei Liu, Tingjun Hou, and Yu Kang.  
-[J. Med. Chem. 2024](https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.3c02051) |  [code](https://github.com/gaoqiweng/RediscMol) 
+[J. Med. Chem. 2024](https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.3c02051) |  [code](https://github.com/gaoqiweng/RediscMol)  
 
 * **Generative Models Should at Least Be Able to Design Molecules That Dock Well: A New Benchmark** [2023]  
 Ciepliński, Tobiasz, Tomasz Danel, Sabina Podlewska, and Stanisław Jastrzȩbski.  
