@@ -3669,7 +3669,9 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
-
+* **Guiding large language models to predict edit sequences for molecular synthesizability optimization** [2026]   
+ Li, J., Lai, L.  
+  [Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01304-x) |  [code](https://github.com/catalystforyou/SynCraft-Core)  
 
 * **A Unified 3D Generative Model for Synthesizable Structure-Based Drug Design** [2026]   
  Ilia Igashov, Arne Schneuing, Adrian W. Dobbelstein, Irina Morozova, Rebecca M. Neeser, Kara Zielinski, Luciano Andres Abriata, Aaron S. Petruzzella, David R. Pavel Iosub, Olivia Gampp, Artem Y. Lyubimov, Evgenia Elizarova, Isabella Ferrara, Pedro M. F. Sousa, Ana R. Lemos, Fabio Testori, Pierre A. Miranda Herrera, Laurin Kanis, Joseph Schmidt, Mac Kevin E. Braza, Rommie E. Amaro, Nicolas Thoma, Davide M. Ferraris, Roland Riek, James S. Fraser, Philippe Schwaller, Michael Bronstein, Bruno Correia.  
