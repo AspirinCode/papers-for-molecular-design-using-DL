@@ -2329,7 +2329,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Controllable Molecular Generative Foundation Models** [2026]  
+Yihan Zhu, Yuhan Liu, Weijiang Li, Tengfei Luo, Meng Jiang.  
+  [arXiv:2605.15354 (2026)](https://doi.org/10.48550/arXiv.2605.15354) |  [code](https://github.com/Yihan226/CoMole)  
 
 * **Interaction Profiles as a Universal Language for Generative Molecular Design with ShEPhERD–2** [2026]  
 Kento A. Abeywardane, Kenji Walker, Connor W. Coley.  
