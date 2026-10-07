@@ -5762,6 +5762,10 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+* **Generative Chemical Language Models for Energetic Materials Discovery**  [2026]  
+ Andrew Salij, R. Seaton Ullberg, Megan C. Davis, Marc J. Cawkwell, Christopher J. Snyder, Cristina Garcia Cardona, Ivana Matanovic, Wilton J. M. Kort-Kamp.  
+  [J. Chem. Inf. Model(2026)](https://doi.org/10.1021/acs.jcim.6c01013)  
+
 * **Introducing PolySea: An LLM-Based Polymer Smart Evolution Agent**  [2025]   
   Qiu H, Zhao J, Jing E, Hu W, Lv Y, Li X, et al.   
   [ChemRxiv. (2025)](https://doi.org/10.26434/chemrxiv-2025-zw65g)  
