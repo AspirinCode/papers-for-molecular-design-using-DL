@@ -5767,6 +5767,12 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+
+
+* **Portfolio-Based Constrained Multi-Objective Bayesian Optimization for Materials Design**  [2026]  
+ Sushant Sinha, Christofer Hardcastle, Robert Robinson, Shakti Prasad Padhy, Brent Vela, Douglas Allaire, Raymundo Arroyave.  
+  [arXiv:2609.19550 (2026)](https://doi.org/10.48550/arXiv.2609.19550) |  [code](https://github.com/sushant-k-sinha/PCMOBO)  
+
 * **Generative Chemical Language Models for Energetic Materials Discovery**  [2026]  
  Andrew Salij, R. Seaton Ullberg, Megan C. Davis, Marc J. Cawkwell, Christopher J. Snyder, Cristina Garcia Cardona, Ivana Matanovic, Wilton J. M. Kort-Kamp.  
   [J. Chem. Inf. Model(2026)](https://doi.org/10.1021/acs.jcim.6c01013)  
@@ -5786,10 +5792,20 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+
+
+
 ### Agent-based Materials Discovery
 
 
 
+
+
+
+
+* **Portfolio-Based Constrained Multi-Objective Bayesian Optimization for Materials Design**  [2026]  
+ Sushant Sinha, Christofer Hardcastle, Robert Robinson, Shakti Prasad Padhy, Brent Vela, Douglas Allaire, Raymundo Arroyave.  
+  [arXiv:2609.19550 (2026)](https://doi.org/10.48550/arXiv.2609.19550) |  [code](https://github.com/sushant-k-sinha/PCMOBO)  
 
 * **Autonomous in-silico inorganic materials discovery via multi-agent physics-aware scientific reasoning**  [2026]  
  Yun Hao, Che Fan, Beilin Ye, Wenhao Lu, Zhen Lu, Peilin Zhao, Zhifeng Gao, Qingyao Wu, Yanhui Liu, Tongqi Wen.   
