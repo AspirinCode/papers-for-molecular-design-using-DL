@@ -397,9 +397,14 @@ https://github.com/LumosBio/MolData
 
 
 
+
+* **Evaluating generative models for structure-based drug discovery from de novo design to lead optimization** [2026]  
+Cao, D., Fan, Z., Yu, J. et al.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-78105-8) |  [code](https://github.com/CAODH/MolGenBench) |  [Zenodo](https://doi.org/10.5281/zenodo.21757787)  
+
 * **ScrambleBench: a workflow for comparative assessment of structure-based de novo generative models** [2026]  
 Yap, V., Xu, P., Mak, F.S. et al.  
-[ J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01254-x) |  [code](https://github.com/Feriolet/ScrambleBench)  
+[J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01254-x) |  [code](https://github.com/Feriolet/ScrambleBench)  
 
 * **Bento: A Comprehensive Benchmark for Protein-Ligand Docking Methods** [2024]  
 LigandPro Team.  
