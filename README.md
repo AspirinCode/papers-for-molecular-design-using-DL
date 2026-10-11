@@ -1108,6 +1108,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+* **Graph-to-Graph Inverse Design of Surfactants under Multiobjective and Structural Constraints**  [2026]  
+ Alexander W. Rogers, Ruediger Zillmer, Amanda Lane, Adam Kowalski, Dongda Zhang.  
+  [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c02137)  
+
 * **Ensemble-Conditioned Molecular Design**  [2026]  
  Ross Irwin, Alessandro Tibo, Jon Paul Janet, Simon Olsson.  
   [arXiv:2609.15077(2026)](https://doi.org/10.48550/arXiv.2609.15077) | [code](https://github.com/rssrwn/ensemble-cond-design)  
