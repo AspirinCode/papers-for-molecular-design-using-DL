@@ -744,6 +744,11 @@ Jiang, Runxuan, Tarun Gogineni, Joshua Kammeraad, Yifei He, Ambuj Tewari, and Pa
 
 
 
+
+* **Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains**  [2026]  
+ Miruna Cretu, Alex Abrudan, Antonia Panescu, Tynan Perez, Rishabh Anand, N. Benjamin Erichson, Michael W. Mahoney, Samuel Blau, Joseph Jacobson, Rafael Gómez-Bombarelli, Rex Ying, Tuomas Knowles, Pietro Liò, Alex Morehead.  
+  [arXiv:2610.11454 (2026)](https://doi.org/10.48550/arXiv.2610.11454) | [code](https://github.com/Zatom-AI/nucleus)  
+
 * **Facilitating structure-based drug discovery with an artificial intelligence-driven virtual screening platform**  [2026]  
  Gu, S., Zhang, X., Xiao, M. et al.  
   [Nat Protoc (2026)](https://doi.org/10.1038/s41596-026-01389-z) | [code](https://huggingface.co/gushukai/HierVS)  
