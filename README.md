@@ -3869,6 +3869,10 @@ Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen
 
 
 
+* **De novo molecular design with agentic AI: Integrating tree search and iterative refinement** [2026]  
+ Lavinia, Yukhe, Dony Ang, and Hagop S. Atamian.  
+  [Intelligent Systems with Applications (2026)(2026)](https://doi.org/10.1016/j.iswa.2026.200737)  
+
 * **Molarium: Agent-Generated Adaptive Software for Molecular Design** [2026]  
  Rafal Wiewiora, Woody Sherman.  
   [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15008528/v1)  
