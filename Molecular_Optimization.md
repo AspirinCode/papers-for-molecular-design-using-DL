@@ -354,9 +354,11 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 
 
+* **MFG: Multi-turn Feedback Guided Molecular Optimization** [2026]  
+ Trieu Nguyen, Frazier N. Baker, Ruoxi Gao, Daniel Adu-Ampratwum, Xia Ning.  
+  [arXiv:2610.18851(2026)](https://doi.org/10.48550/arXiv.2610.18851)  
 
-
-* **From knowledge to rules: Explainable molecular optimization with Large Language Models** [2026]   
+* **From knowledge to rules: Explainable molecular optimization with Large Language Models** [2026]  
  Wang, S., Song, Z., Yu, R., Yin, Q., & Song, T.  
   [Knowledge-Based Systems (2026)](https://doi.org/10.1016/j.knosys.2026.116850) |  [code](https://github.com/ZianSongsbused/ELLM-MOM)  
 
