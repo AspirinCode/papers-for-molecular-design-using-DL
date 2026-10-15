@@ -3687,6 +3687,12 @@ Haorui Wang · Marta Skreta · Yuanqi Du · Wenhao Gao, et al.
 
 
 
+
+
+* **MFG: Multi-turn Feedback Guided Molecular Optimization** [2026]  
+ Trieu Nguyen, Frazier N. Baker, Ruoxi Gao, Daniel Adu-Ampratwum, Xia Ning.  
+  [arXiv:2610.18851(2026)](https://doi.org/10.48550/arXiv.2610.18851)  
+
 * **Guiding large language models to predict edit sequences for molecular synthesizability optimization** [2026]   
  Li, J., Lai, L.  
   [Nat Mach Intell (2026)](https://doi.org/10.1038/s42256-026-01304-x) |  [code](https://github.com/catalystforyou/SynCraft-Core)  
