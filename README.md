@@ -2952,6 +2952,12 @@ Hoogeboom, Emiel, Vıctor Garcia Satorras, Clément Vignac, and Max Welling.
 
 
 
+
+
+* **MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning** [2026]  
+  Yanyi Su, Chenyan Wang, Yulei Gong, Yeyun Chen, Xiaohui Yang, Jun Cheng.  
+  [arXiv:2610.19920(2026)](https://doi.org/10.48550/arXiv.2610.19920)  
+
 * **Reinforcement learning for de novo RET inhibitor design: potency-focused optimization and polypharmacological multi-parameter optimization against resistance mutations** [2026]  
   Kumar, S., Pogaku, V. & Kim, Mh.  
   [J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01274-7) |  [code](https://github.com/college-of-pharmacy-gachon-university/AI_RET2/)  
@@ -3869,6 +3875,13 @@ Wang, J., Luo, H., Qin, R., Wang, M., Fang, M., Zhang, O., Gou, Q., Su, Q., Shen
 
 
 
+
+
+
+* **MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning** [2026]  
+  Yanyi Su, Chenyan Wang, Yulei Gong, Yeyun Chen, Xiaohui Yang, Jun Cheng.  
+  [arXiv:2610.19920(2026)](https://doi.org/10.48550/arXiv.2610.19920)  
+
 * **De novo molecular design with agentic AI: Integrating tree search and iterative refinement** [2026]  
  Lavinia, Yukhe, Dony Ang, and Hagop S. Atamian.  
   [Intelligent Systems with Applications (2026)(2026)](https://doi.org/10.1016/j.iswa.2026.200737)  
@@ -4777,6 +4790,10 @@ Yangyang Chen, Zixu Wang, Lei Wang, Jianmin Wang, Pengyong Li, Dongsheng Cao, Xi
 
 
 
+* **MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning** [2026]  
+  Yanyi Su, Chenyan Wang, Yulei Gong, Yeyun Chen, Xiaohui Yang, Jun Cheng.  
+  [arXiv:2610.19920(2026)](https://doi.org/10.48550/arXiv.2610.19920)  
+
 * **Deep drug design for molecular scaffold hopping** [2026]  
   Irene Pachon-Angona, Carl C. G. Schiebroek, Manuel G. Schriefer Treiber, et al.  
   [ChemRxiv. (2026)](https://doi.org/10.26434/chemrxiv.15008337/v1)  
@@ -4901,7 +4918,9 @@ ZHANG Z, Liu Q.
 
 
 
-
+* **STAMP as a topology-aware molecular language for fragment-level learning and editing** [2026]  
+ Yuxuan Ren, Jiatong Li, Ziqiao Meng, Yatao Bian.  
+  [arXiv:2610.18438(2026)](https://doi.org/10.48550/arXiv.2610.18438) |  [code](https://github.com/YuX-Ren/STAMP_V1)  
 
 * **PyMolGen: Database-Driven Molecular Generation of Drug-Like Compounds** [2026]  
  Bruno N. Falcone, Michael J. Hutcheon, Jaffer M. Zaidi, Michael J. Stocks, Kirsty E. Hamill, Craig Jamieson, Huw J. Williams, David S. Palmer, Andrew Baxter, Stephen D. Pickett, Jonathan D. Hirst.  
