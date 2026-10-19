@@ -1113,7 +1113,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **Multi-objective-conditioned-return-blocks decision transformer: a novel approach for multi-objective de novo drug design**  [2026]  
+Eyal Mazuz, Or Gindes, Lior Rokach, Bracha Shapira.  
+  [Bioinformatics(2026)](https://doi.org/10.1093/bioinformatics/btag731) | [code](https://github.com/eyalmazuz/MolGen/tree/GCRB-DT)  
 
 * **Graph-to-Graph Inverse Design of Surfactants under Multiobjective and Structural Constraints**  [2026]  
  Alexander W. Rogers, Ruediger Zillmer, Amanda Lane, Adam Kowalski, Dongda Zhang.  
