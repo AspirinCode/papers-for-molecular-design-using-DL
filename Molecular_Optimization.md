@@ -140,6 +140,13 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+
+* **Multi-objective-conditioned-return-blocks decision transformer: a novel approach for multi-objective de novo drug design**  [2026]  
+Eyal Mazuz, Or Gindes, Lior Rokach, Bracha Shapira.  
+  [Bioinformatics(2026)](https://doi.org/10.1093/bioinformatics/btag731) | [code](https://github.com/eyalmazuz/MolGen/tree/GCRB-DT)  
+
 * **A Zero-Shot Single-point Molecule Optimization Model: Mimicking Medicinal Chemists’ Expertise** [2025]   
   Dai Z, Zhang J, Zhong S, Fu J, Deng Y, Zhang D, et al.   
   [chemrxiv-2025-m82r5 (2025)](https://doi.org/10.26434/chemrxiv-2025-m82r5) |  [code](https://github.com/DonaldDai/new_paper_code)  
@@ -172,7 +179,16 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+
 ### VAE-based
+
+
+
+
+
+
 
 
 * **Multi-objective Molecular Optimization for Opioid Use Disorder Treatment Using Generative Network Complex**  [2023]   
@@ -186,6 +202,8 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 * **Constrained Bayesian optimization for automatic chemical design using variational autoencoders** [2019]  
   Griffiths, Ryan-Rhys, and José Miguel Hernández-Lobato.  
   [Chemical science 11.2 (2020)](https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc04026a) |  [code](https://github.com/Ryan-Rhys/Constrained-Bayesian-Optimisation-for-Automatic-Chemical-Design) 
+
+
 
 
 
@@ -208,6 +226,10 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+
+
 * **FFLOM: A Flow-Based Autoregressive Model for Fragment-to-Lead Optimization** [2023]   
 Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen Pan, Dan Li, Xiaojun Yao, Huanxiang Liu, Tingjun Hou, and Yu Kang  
 [J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c01009) |  [code](https://github.com/JenniferKim09/FFLOM) 
@@ -218,7 +240,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
 ### Diffusion-based
+
+
+
 
 
 
@@ -255,7 +282,12 @@ Huang, Lei.
 
 
 
+
+
 ### RL-based
+
+
+
 
 
 
@@ -279,7 +311,6 @@ Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung J
 Erikawa, D., Yasuo, N., & Sekijima, M.   
   [Paper](https://doi.org/10.26434/chemrxiv-2023-qrf85) |  [code](https://github.com/sekijima-lab/GARGOYLES) 
 
-
 * **Deep Reinforcement Learning for Multiparameter Optimization in de novo Drug Design** [2019]  
  Ståhl, Niclas, Goran Falkman, Alexander Karlsson, Gunnar Mathiason, and Jonas Bostrom.    
   [Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.9b00325) |  [code](https://github.com/stan-his/DeepFMPO) 
@@ -288,7 +319,16 @@ Erikawa, D., Yasuo, N., & Sekijima, M.
 
 
 
+
+
+
 ### Active Learning-based
+
+
+
+
+
+
 
 
 * **Optimizing Drug Design by Merging Generative AI With Active Learning Frameworks** [2023]   
@@ -302,7 +342,14 @@ Gusev, Filipp, Evgeny Gutkin, Maria G. Kurnikova, and Olexandr Isayev.
 
 
 
+
+
+
 ### Contrastive Learning-based
+
+
+
+
 
 
 * **GPMO: Gradient Perturbation-Based Contrastive Learning for Molecule Optimization** [2023]   
