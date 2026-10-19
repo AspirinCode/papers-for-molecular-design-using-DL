@@ -5704,6 +5704,10 @@ Milad Masrouri, Kamalendu Paul, Zhao Qin.
 
 
 
+* **Inverse materials design via joint generation of crystal structures and local electronic descriptors**  [2026]  
+ Okuda, I., Takahara, I. & Mizoguchi, T.  
+  [npj Comput Mater 12, 332 (2026)](https://doi.org/10.1038/s41524-026-02322-4) |  [code](https://github.com/nmdl-mizo/mattergen-e-)  
+
 * **Generative model for information metamaterial design**  [2026]   
  Hou, J., Chen, L., Zheng, X. et al.   
   [Nat Comput Sci (2026)](https://doi.org/10.1038/s43588-026-01025-6) |  [code](https://doi.org/10.24433/CO.0515873.v2)  
