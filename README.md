@@ -154,7 +154,9 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
-
+* **TechBio 3.0 closes the drug discovery loop with multimodal AI and generative chemistry** [2026]  
+Ramadurai, K., Banerjee, A.  
+[npj Drug Discov. 3, 42 (2026)](https://doi.org/10.1038/s44386-026-00078-x)  
 
 * **From Computational Chemistry to Generative Models: A Survey of AI-Driven Small-Molecule Drug Discovery** [2026]  
 Houman Kazemzadeh, Kiarash Mokhtari, Nazanin Mirzaei, et al.  
