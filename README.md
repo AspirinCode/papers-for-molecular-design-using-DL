@@ -154,6 +154,12 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
+
+
+* **From chemical space to synthetic reality: A framework for makeable-by-design generative AI in drug discovery** [2026]  
+Simonetti, Sebastián O., Aldana B. Moroni, Maria Marta Zanardi, Frank Kozielski, Geoffrey Wells, and Exequiel OJ Porta.  
+[Drug Discovery Today (2026)](https://doi.org/10.1016/j.drudis.2026.104794)  
+
 * **TechBio 3.0 closes the drug discovery loop with multimodal AI and generative chemistry** [2026]  
 Ramadurai, K., Banerjee, A.  
 [npj Drug Discov. 3, 42 (2026)](https://doi.org/10.1038/s44386-026-00078-x)  
