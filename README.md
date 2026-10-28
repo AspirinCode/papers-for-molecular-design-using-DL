@@ -389,11 +389,15 @@ Grisoni, Francesca.
 **MolData**  
 A Molecular Benchmark for Disease and Target Based Machine Learning  
 https://github.com/LumosBio/MolData  
-  
-  
-* **Machine Learning Methods for Small Data Challenges in Molecular Science** [2023]   
- Bozheng Dou, Zailiang Zhu, Ekaterina Merkurjev, Lu Ke, Long Chen, Jian Jiang, Yueying Zhu, Jie Liu, Bengong Zhang, and Guo-Wei Wei   
-  [Chem. Rev  (2023)](https://doi.org/10.1021/acs.chemrev.3c00189) 
+
+
+* **Sampling a trillion-sized GDB-20 database of drug-like molecules by generative artificial intelligence** [2026]  
+Ye Buehler, Sacha Javor, Jean-Louis Reymond.  
+[Digital Discovery(2026)](https://doi.org/10.1039/d6dd00213g) |  [code](https://github.com/reymond-group/GDB-ML) |  [Zenodo](https://doi.org/10.5281/zenodo.17368725) |  [data](https://gdb.unibe.ch/downloads/)  
+
+* **Machine Learning Methods for Small Data Challenges in Molecular Science** [2023]  
+ Bozheng Dou, Zailiang Zhu, Ekaterina Merkurjev, Lu Ke, Long Chen, Jian Jiang, Yueying Zhu, Jie Liu, Bengong Zhang, and Guo-Wei Wei.  
+  [Chem. Rev  (2023)](https://doi.org/10.1021/acs.chemrev.3c00189)  
 
 
 
@@ -816,7 +820,9 @@ Ivanenkov, Yan A., Daniil Polykovskiy, Dmitry Bezrukov, Bogdan Zagribelnyy, Vlad
 
 
 
-
+* **Sampling a trillion-sized GDB-20 database of drug-like molecules by generative artificial intelligence** [2026]  
+Ye Buehler, Sacha Javor, Jean-Louis Reymond.  
+[Digital Discovery(2026)](https://doi.org/10.1039/d6dd00213g) |  [code](https://github.com/reymond-group/GDB-ML) |  [Zenodo](https://doi.org/10.5281/zenodo.17368725) |  [data](https://gdb.unibe.ch/downloads/)  
 
 * **Generative Artificial Intelligence Optimization of Albumin Binders: Coumarin and Fatty Acid Derivatives**  [2026]  
  Yihao Zhang, Qirui Deng, Xin Yang, Xinchen Yue, Huarui Zhang, Shijian Ding, Jinping Lei, Baoting Zhang, Sifan Yu, and Ge Zhang.  
@@ -1120,6 +1126,12 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
+
+
+
+* **Sampling a trillion-sized GDB-20 database of drug-like molecules by generative artificial intelligence** [2026]  
+Ye Buehler, Sacha Javor, Jean-Louis Reymond.  
+[Digital Discovery(2026)](https://doi.org/10.1039/d6dd00213g) |  [code](https://github.com/reymond-group/GDB-ML) |  [Zenodo](https://doi.org/10.5281/zenodo.17368725) |  [data](https://gdb.unibe.ch/downloads/)  
 
 * **Multi-objective-conditioned-return-blocks decision transformer: a novel approach for multi-objective de novo drug design**  [2026]  
 Eyal Mazuz, Or Gindes, Lior Rokach, Bracha Shapira.  
