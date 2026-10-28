@@ -83,9 +83,9 @@ https://pubchem.ncbi.nlm.nih.gov/
  Peng, X., Guo, R., Guo, F., Wang, Z., Sun, J., Guan, J., Jia, Y., Xu, Y., Huang, Y., Zhang, M. and Peng, J.  
   [Cell (2026)](https://doi.org/10.1016/j.cell.2026.01.003) |  [code](https://github.com/pengxingang/PocketXMol)  
 
-* **Finding Balance: Multi-Objective Optimization in Molecular Generative Modeling** [2025]  
+* **Finding Balance: Multiobjective Optimization in Molecular Generative Modeling** [2026]  
   Landolfi L, Catalanotti B, Janet JP.  
-  [ChemRxiv. (2025)](https://doi.org/10.1016/j.eswa.2023.120592)  
+  [J. Chem. Inf. Model. 66(13), 7551–7561 (2026)](https://doi.org/10.1021/acs.jcim.6c00421)  
 
 
 
