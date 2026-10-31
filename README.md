@@ -2367,7 +2367,9 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
-
+* **Structural Hotspot Conditioning for Diffusion-Based Molecular Design** [2026]  
+Diego Masone, Marcelo Caparotta.  
+  [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c00424)  
 
 * **Controllable Molecular Generative Foundation Models** [2026]  
 Yihan Zhu, Yuhan Liu, Weijiang Li, Tengfei Luo, Meng Jiang.  
@@ -4216,7 +4218,9 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
-
+* **Structural Hotspot Conditioning for Diffusion-Based Molecular Design** [2026]  
+Diego Masone, Marcelo Caparotta.  
+  [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c00424)  
 
 * **A Unified 3D Generative Model for Synthesizable Structure-Based Drug Design** [2026]   
  Ilia Igashov, Arne Schneuing, Adrian W. Dobbelstein, Irina Morozova, Rebecca M. Neeser, Kara Zielinski, Luciano Andres Abriata, Aaron S. Petruzzella, David R. Pavel Iosub, Olivia Gampp, Artem Y. Lyubimov, Evgenia Elizarova, Isabella Ferrara, Pedro M. F. Sousa, Ana R. Lemos, Fabio Testori, Pierre A. Miranda Herrera, Laurin Kanis, Joseph Schmidt, Mac Kevin E. Braza, Rommie E. Amaro, Nicolas Thoma, Davide M. Ferraris, Roland Riek, James S. Fraser, Philippe Schwaller, Michael Bronstein, Bruno Correia.  
