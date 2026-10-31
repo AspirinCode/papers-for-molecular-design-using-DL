@@ -154,7 +154,9 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
-
+* **Biologically-driven generative chemistry: using biological data to guide de novo drug design** [2026]  
+Philip John Harrison, Rocío Mercado.  
+[Digital Discovery(2026)](https://doi.org/10.1039/d6dd00413j)  
 
 * **From chemical space to synthetic reality: A framework for makeable-by-design generative AI in drug discovery** [2026]  
 Simonetti, Sebastián O., Aldana B. Moroni, Maria Marta Zanardi, Frank Kozielski, Geoffrey Wells, and Exequiel OJ Porta.  
