@@ -2367,6 +2367,11 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+* **MLIPDiff: Guiding Denoising Diffusion Models for Structure-Based Drug Design via Machine-Learned Interatomic Potentials** [2026]  
+Yiyan Liao, Amin Tavakoli, Yu Zhang, Anima Anandkumar.  
+  [arXiv:2610.33315(2026)](https://doi.org/10.48550/arXiv.2610.33315)  
+
 * **Structural Hotspot Conditioning for Diffusion-Based Molecular Design** [2026]  
 Diego Masone, Marcelo Caparotta.  
   [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c00424)  
@@ -4217,6 +4222,13 @@ Shi, C., Xu, M., Zhu, Z., Zhang, W., Zhang, M., & Tang, J.
 
 
 
+
+
+
+
+* **MLIPDiff: Guiding Denoising Diffusion Models for Structure-Based Drug Design via Machine-Learned Interatomic Potentials** [2026]  
+Yiyan Liao, Amin Tavakoli, Yu Zhang, Anima Anandkumar.  
+  [arXiv:2610.33315(2026)](https://doi.org/10.48550/arXiv.2610.33315)  
 
 * **Structural Hotspot Conditioning for Diffusion-Based Molecular Design** [2026]  
 Diego Masone, Marcelo Caparotta.  
