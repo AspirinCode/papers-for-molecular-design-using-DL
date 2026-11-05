@@ -1129,7 +1129,9 @@ Jieyu Jin, Dong Wang, Guqin Shi, Jingxiao Bao, Jike Wang, Haotian Zhang, Peichen
 
 
 
-
+* **TACFormer: Transformer-Based Generative Model for Target-Conditioned De Novo PROTAC Design**  [2026]  
+ Yossra Gharbi, Rocío Mercado.  
+  [arXiv:2610.39891(2026)](https://doi.org/10.48550/arXiv.2610.39891)  
 
 * **Sampling a trillion-sized GDB-20 database of drug-like molecules by generative artificial intelligence** [2026]  
 Ye Buehler, Sacha Javor, Jean-Louis Reymond.  
