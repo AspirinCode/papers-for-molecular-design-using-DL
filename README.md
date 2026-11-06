@@ -154,6 +154,10 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
+* **From Generative Molecular Design to Agentic Artificial Intelligence in Drug Discovery** [2026]  
+Andrea Mastropietro, Jürgen Bajorath.  
+[ChemMedChem(2026)](https://doi.org/10.1002/cmdc.70564)  
+
 * **Biologically-driven generative chemistry: using biological data to guide de novo drug design** [2026]  
 Philip John Harrison, Rocío Mercado.  
 [Digital Discovery(2026)](https://doi.org/10.1039/d6dd00413j)  
