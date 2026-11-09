@@ -2053,7 +2053,9 @@ Guimaraes, G.L., Sanchez-Lengeling, B., Outeiral, C., Farias, P.L.C. and Aspuru-
 
 
 
-
+* **Hierarchical Phase Transitions in Bayesian Flow Networks Enable Training-Free Molecular Design** [2026]  
+ Liangji Zhou, Yuanqiu Chen, Tongtong Chen, Yijuan Huang, Qihao Pan, Si Li, Chenyu Gou, Meiqiong Fan, Yu Gao.  
+  [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c01538)  
 
 * **Flow-Guided Chemical Language Modeling for Linker Design in Reticular Chemistry** [2026]  
  Kunyang Sun, Yingze Wang, Justin Purnomo, Joseph M. Cavanagh, Giovanni Battista Alteri, Teresa Head-Gordon.  
