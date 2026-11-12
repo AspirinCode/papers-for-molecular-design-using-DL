@@ -154,6 +154,11 @@ Manica, Matteo and Cadow, Joris and Christofidellis, Dimitrios and Dave, Ashish 
 
 
 
+
+* **Diffusion Models for Small-Molecule Design** [2026]  
+Jiacai Yi, Yue Li, Dejun Jiang, Youchao Deng, Xinyu Gu, Chengkun Wu, Aiping Lu, Xiang Chen, Min Li, Tingjun Hou, Dongsheng Cao.  
+[Chem. Rev.(2026)](https://doi.org/10.1021/acs.chemrev.6c00161)  
+
 * **From Generative Molecular Design to Agentic Artificial Intelligence in Drug Discovery** [2026]  
 Andrea Mastropietro, Jürgen Bajorath.  
 [ChemMedChem(2026)](https://doi.org/10.1002/cmdc.70564)  
@@ -2375,6 +2380,14 @@ Lee, Seul, Dong Bok Lee, and Sung Ju Hwang.
 
 
 
+
+
+
+
+
+* **Diffusion Models for Small-Molecule Design** [2026]  
+Jiacai Yi, Yue Li, Dejun Jiang, Youchao Deng, Xinyu Gu, Chengkun Wu, Aiping Lu, Xiang Chen, Min Li, Tingjun Hou, Dongsheng Cao.  
+[Chem. Rev.(2026)](https://doi.org/10.1021/acs.chemrev.6c00161)  
 
 * **MLIPDiff: Guiding Denoising Diffusion Models for Structure-Based Drug Design via Machine-Learned Interatomic Potentials** [2026]  
 Yiyan Liao, Amin Tavakoli, Yu Zhang, Anima Anandkumar.  
