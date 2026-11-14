@@ -1631,6 +1631,9 @@ Li, C., Yamanishi, Y.
 
 
 
+* **Generative AI-Driven Interpolation of Cross-Family Kinase Space: Discovery of Dual-Targeting Degraders of IRAK4 and TYK2** [2026]   
+Meng Fang, Zhouli Yang, Jiamu Cai, Yi Cai, Chaoguo Cao, Tianlei Li, Chao Zhang, Xiuyun Sun, Yu Rao.  
+  [J. Med. Chem.(2026)](https://doi.org/10.1021/acs.jmedchem.6c00913)  
 
 * **Learning a chemistry-aware latent space for molecular encoding and generation with a large-scale Transformer Variational Autoencoder** [2026]   
 Hugo Talibart, Dimitri Gilis.  
